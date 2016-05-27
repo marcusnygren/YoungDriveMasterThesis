@@ -1,0 +1,76 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: plainnat.bst
+A level-1 auxiliary file: thanks/thanks.aux
+A level-1 auxiliary file: notations/notation.aux
+A level-1 auxiliary file: introduction/introduction.aux
+A level-1 auxiliary file: theory/theory.aux
+A level-1 auxiliary file: method/method.aux
+A level-1 auxiliary file: implementation/implementation.aux
+A level-1 auxiliary file: result/result.aux
+A level-1 auxiliary file: analysis/analysis.aux
+A level-1 auxiliary file: discussion/discussion.aux
+A level-1 auxiliary file: conclusion/conclusion.aux
+A level-1 auxiliary file: appendix/detaljer.aux
+Database file #1: IEEEfull.bib
+Database file #2: references/myrefs.bib
+Warning--I didn't find a database entry for "dickson"
+Warning--I didn't find a database entry for "ruskovaara"
+Warning--I didn't find a database entry for "solomon"
+Warning--I didn't find a database entry for "ucla"
+Warning--I didn't find a database entry for "bloom"
+Warning--I didn't find a database entry for "yengin"
+Warning--I didn't find a database entry for "sierra"
+Warning--I didn't find a database entry for "luckin"
+Warning--I didn't find a database entry for "bruhlmann"
+Warning--I didn't find a database entry for "stefano"
+Warning--I didn't find a database entry for "bjork"
+Warning--I didn't find a database entry for "kathy"
+Warning--I didn't find a database entry for "pink"
+Warning--I didn't find a database entry for "lowgren"
+Warning--I didn't find a database entry for "stickdorn"
+Warning--I didn't find a database entry for "expedition-mondial"
+Warning--I didn't find a database entry for "thoughtful"
+You've used 0 entries,
+            2773 wiz_defined-function locations,
+            1027 strings with 16388 characters,
+and the built_in function-call counts, 33 in all, are:
+= -- 0
+> -- 0
+< -- 0
++ -- 0
+- -- 0
+* -- 2
+:= -- 10
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 1
+format.name$ -- 0
+if$ -- 1
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 0
+newline$ -- 8
+num.names$ -- 0
+pop$ -- 0
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1
+stack$ -- 0
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 0
+width$ -- 0
+write$ -- 7
+(There were 17 warnings)
