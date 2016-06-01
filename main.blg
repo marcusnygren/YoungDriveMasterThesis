@@ -5,20 +5,18 @@ The style file: plainnat.bst
 A level-1 auxiliary file: thanks/thanks.aux
 A level-1 auxiliary file: notations/notation.aux
 A level-1 auxiliary file: introduction/introduction.aux
-Case mismatch error between cite keys Gates and gates
----line 57 of file introduction/introduction.aux
- : \citation{Gates
- :                }
-I'm skipping whatever remains of this command
-Case mismatch error between cite keys Gates and gates
----line 58 of file introduction/introduction.aux
- : \citation{Gates
- :                }
-I'm skipping whatever remains of this command
 A level-1 auxiliary file: method/method.aux
-A level-1 auxiliary file: implementation/implementation.aux
+Case mismatch error between cite keys Gates and gates
+---line 14 of file method/method.aux
+ : \citation{Gates
+ :                }
+I'm skipping whatever remains of this command
+Case mismatch error between cite keys Gates and gates
+---line 19 of file method/method.aux
+ : \citation{Gates
+ :                }
+I'm skipping whatever remains of this command
 A level-1 auxiliary file: result/result.aux
-A level-1 auxiliary file: analysis/analysis.aux
 A level-1 auxiliary file: discussion/discussion.aux
 A level-1 auxiliary file: conclusion/conclusion.aux
 A level-1 auxiliary file: appendix/detaljer.aux
@@ -27,15 +25,15 @@ Database file #2: references/myrefs.bib
 Warning--I didn't find a database entry for "nissar-linkedin"
 Warning--I didn't find a database entry for "nissar"
 Warning--I didn't find a database entry for "mitchel"
+Warning--I didn't find a database entry for "dickson"
+Warning--I didn't find a database entry for "ruskovaara"
+Warning--I didn't find a database entry for "solomon"
 Warning--I didn't find a database entry for "gates"
 Warning--I didn't find a database entry for "luckin"
 Warning--I didn't find a database entry for "stickdorn"
 Warning--I didn't find a database entry for "yengin"
 Warning--I didn't find a database entry for "de-marcos"
 Warning--I didn't find a database entry for "ucla"
-Warning--I didn't find a database entry for "dickson"
-Warning--I didn't find a database entry for "ruskovaara"
-Warning--I didn't find a database entry for "solomon"
 Warning--I didn't find a database entry for "bloom"
 Warning--I didn't find a database entry for "heer"
 Warning--I didn't find a database entry for "cheong"
@@ -47,12 +45,12 @@ Warning--I didn't find a database entry for "pink"
 Warning--I didn't find a database entry for "lowgren"
 Warning--I didn't find a database entry for "expedition-mondial"
 Warning--I didn't find a database entry for "thoughtful"
-Warning--I didn't find a database entry for "youngdrive"
 Warning--I didn't find a database entry for "timo-ropinski-liu"
 Warning--I didn't find a database entry for "agaze"
+Warning--I didn't find a database entry for "youngdrive"
 You've used 0 entries,
             2773 wiz_defined-function locations,
-            1035 strings with 16450 characters,
+            1033 strings with 16396 characters,
 and the built_in function-call counts, 33 in all, are:
 = -- 0
 > -- 0
