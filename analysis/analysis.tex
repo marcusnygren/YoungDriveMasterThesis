@@ -3,86 +3,99 @@
 % Important to be objective
 % En diskussion om hur resultaten kan användas i praktiken är också i de flesta fall belysande och relevant i rapporter
 
-\section{Theory}
+% https://liu.se/ias/kontakta-oss?l=en
 
-The Visualization Pipeline (Timo Ropinski, Scientific Visualization Group, Linköping University, TNM067 - Scientific Visualization, 9/12/2014)
+In this chapter, each step of the visualization pipeline is presented, allowing analyzing the data. Then, conclusions are presented.
+
+The Visualization Pipeline describes the process of generating an image from the data: \cite{timo-ropinski-liu}
+
+\begin{enumerate}
+\item Data acquisition ($\,\to\,$data are given)
+\item Data enhancement ($\,\to\,$ data are processed)
+\item Visualization mapping ($\,\to\,$ data are mapped to for example a geometry)
+\item Rendering (3D->2D) ($\,\to\,$ images generated)
+\end{enumerate}
+
+% Timo Ropinski, Scientific Visualization Group, Linköping University, TNM067 - Scientific Visualization, 9/12/2014)
 % https://drive.google.com/drive/u/0/folders/0BzlK1PD8EE75bHIxcXRQNWpRMm8
-
-Describes the process of generating an image from the data.
-1. Data acquisition (-> data are given)
-2. Data enhancement (-> data are processed)
-3 Visualization mapping (-> Data are mapped to, e.g., geometry)
-4. Rendering (3D->2D) (-> images generated)
 
 \section{Data acquisition}
 
+This section presents how data was acquired.
+
 \subsection{App usage}
-App pushes data to server when online (saves quiz start, and quiz finish)
+The app pushes data to server when online (it saves quiz start, and quiz finish).
 
-Server receives JSON data, stored in a MongoDB database.
+The server receives JSON data, stored in a MongoDB database.
 
-Each data point is saved in a database called Results, with the signed in user. (There is a Users database as well).
+Each data point is saved in a database called Results, with the signed in user (from the Users database).
 
-I wanted to store the data in Google Sheets, thus it was necessary to convert the JSON format into a Google Sheets-readable format, like CSV. Multiple approaches were tried, and the Google Chrome extension called Magic Json by agaze\_dev\_team (last updated October 29, 2015) %https://chrome.google.com/webstore/detail/magic-json/cajifcebjiflndefndbnoeenjpiiiagm?hl=en
-was the one that worked without problems.
+It was desired to store the data in Google Sheets, thus it was necessary to convert the JSON format into a Google Sheets-readable format, like CSV.
+
+Multiple approaches were tried, and the Google Chrome extension called Magic Json by agaze\_dev\_team (last updated October 29, 2015) %https://chrome.google.com/webstore/detail/magic-json/cajifcebjiflndefndbnoeenjpiiiagm?hl=en
+was the one that worked without problems. \cite{agaze}.
 
 \subsection{Pre-study}
 
-The Pre-study was done by coaches in paper during the app evaluation, meaning that their answers were manually recorded into Google Sheets.
+The Pre-study data was done by manually recording the paper-submitted pre-study evaluation form from the coaches, into Google Sheets.
 
 \section{Data enhancement}
 
-\subsection{App usage}
-To make the data easier to work with, I reordered the columns, and made them sortable and filterable.
+This section presents how the data was processed, to enable visualization mapping.
 
-Some columns were given conditional formatting, so it would be easier to spot irregularities (did not have confidence when answering question, was on their certification quiz).
+\subsection{App usage}
+To make the data easier to work with, the columns were reordered, and made sortable and filterable.
+
+Some columns were given conditional formatting, so it would be easier to spot irregularities.
 
 \todo{Lägg till bild "results-colored.png" (finns på skrivbordet)}
 
-After this, I could make some observations. For example, there was a surprisingly low number of answers where the user answered the question without confidence. Also, more users had started a quiz without finishing it than I anticipated. Finally, a lot of users had done quizes that were not Topic quiz 3 and Coach quiz 9, which might indicate high interest (if they did more than 2 quizes) or confusion (if they did not do 3 or 9, but they did do other quizes) during the app evaluation.
+After this, some observations could be made. For example, there was a surprisingly low number of answers where the user answered the question without confidence. Also, more users had started a quiz without finishing it than anticipated. Finally, a lot of users had done quizes that were not Topic quiz 3 and Coach quiz 9, which might indicate high interest (if they did more than 2 quizes) or confusion (if they did not do 3 or 9, but they did do other quizes) during the app evaluation. This meant that on some aspects, there were less data than anticipated, (which was troublesome, as there were already few data points), and some aspects where there was more data than anticipated (that were overlooked)
 
 \subsection{Pre-study}
-To see differences in answers more clearly, I first made the data sortable and filterable. Then, I resampeled the data for each column that hade numerable (sorteringsbar) data in text instead of numbers, so e.g. "The day before" was changed to -1 and "The same day" to 0. In a similar way, school level was divided into four different groups, from 0 to 4.
+To see differences in answers more clearly, the data from the pre-study was made sortable and filterable. Then, the data was resampeled for each column that hade numerable (sortable) data in text instead of numbers, so e.g. "The day before" was changed to -1 and "The same day" to 0. In a similar way, school level was divided into four different groups, from 0 to 3, where 0 meant secondary, year unknown, 1 meant lower secondary, 2 meant upper secondary, and 3 meant tertiary.
 
 After this, each column was given conditional formats using a color scale, using Google Sheets built-in functionality. This gave a visual way to quickly get a overview of the pre-test data.
 
-Observations from the data was that a surprising number of cells were left blank. One user had not done the pre-test, where some had left questions unanswered (most commonly "Do you own a company?" (should have used the word "business", plus Hours of preperation and Occations for a youth session (there is a tendency this might be because they were not proud of their answers, because of correlations with low quiz results). 
+Observations from the data was that a surprising number of cells were left blank. One user had not done the pre-test, where some had left questions unanswered (most commonly "Do you own a company?" (should have used the word "business"), plus "Hours of preperation" and "Occations for a youth session" (there is a tendency this might be because they were not proud of their answers, because of correlations with low quiz results).
 
-Missing cells was not as obvious with the app results, were users could not progress in a quiz without answering both the question and the confidence. However, I could see that none of the passed quiz 9 certification answers had been submitted. Thus, I needed to add these from the manual recordings, which had been used as a backup in case anything like this would happen.
+Missing cells was not as obvious with the app results, were users could not progress in a quiz without answering both the question and the confidence. However, none of the passed quiz 9 certification answers had been submitted. Thus, it was needed to add these from the manual recordings, which had been used as a backup in case anything like this would happen.
 
 \subsection{Summary of app results}
 
 To compare the test results with the pre-test results, it was clear that it would not be viable to test every dimension against every dimension.
 
-Instead, since goals of the app evaluation had been predefined in the following way, I summarized the quiz results so that these could be derived:
+Instead, since goals of the app evaluation had been predefined in the following way, the quiz results were summarized so that the following could be derived:
 
-* \% correct 1st try
-* number of tries until 100\%
-* number of tries until 100\% in 1 try
+\begin{itemize}
+\item \% correct 1st try
+\item number of tries until 100\%
+\item number of tries until 100\% in 1 try
+\end{itemize}
 
 These could be calculated by having columns for:
 
-\subsubsection{Quiz 3}
-* Start time training
-* \% correct 1st try
-* Tries until 100\%
-* End time certification
-* Time difference start to end
+\begin{itemize}
+  \item Quiz 3
+  \begin{itemize}
+    \item Start time training
+    \item \% correct 1st try
+    \item number of tries until 100\% in 1 try
+    \item Time difference start to end time certification
+  \end{itemize}
+  \item Quiz 9
+  \begin{itemize}
+    \item Start time training
+    \item \% correct 1st try
+    \item Time difference start to end 1st try
+    \item Time difference start to passed training
+    \item Time difference 1st try to certified
+  \end{itemize}
+\end{itemize}
 
-\subsubsection{Quiz 9}
-* Start time training
-* \% correct 1st try
-* End time 1st try
-* Time difference start to end 1st try
-* End time passed training
-* Time difference start to passed training
-* Tries until 100\%
-* End time passed certification
-* Time difference 1st try to certified
+Then, to see trends, I again added color scales. With ordinal values, a sequential color scheme is used (e.g. fastest time, from green to red), and with nominal values (like if they are female or male) where there is no right value, a qualitative color scheme is used. Now, it was easier to spot outliers and trends.
 
-Then, to see trends, I again added color scales. With numeric values, a gradual color scale is used (e.g. fastest time, from green to red), and with categorizational values (like if they used the manual or not) where there is no right value, different colors are used. Now, it was easier to spot outliers and trends.
-
-First-hand observations were that there was a strong corrolation between pre-quiz results and quiz 9 try 1 (slightly visible also in quiz 3 try 1, but with more outliers). Also, with manuals there was a higher probability to finishing quiz 9 training + certification. More 
+First-hand observations were that there was a strong corrolation between pre-quiz results and quiz 9 try 1 (slightly visible also in quiz 3 try 1, but with more outliers). Also, with manuals there was a higher probability to finishing quiz 9 training + certification. More
 
 \subsubsection{Comparing the pre-test and results summary sheets}
 
@@ -155,7 +168,7 @@ In this section, the conclusions from the different group characteristics are pr
 Quiz 9 (rött=CBT:
 * 6 CBT's gör ej Q9 try 1, 2 YM gör ej
 * YM är top performers på Q9 try 1 jämfört med CBT's
-* endast 1 YM klarade däremot träningen, medan 
+* endast 1 YM klarade däremot träningen, medan
 
 * YM's är bättre på quiz 9 try 1 än CBT's
 * Det är endast 1/7 som klarade quiz 9 training som är Youth Mentor
@@ -195,7 +208,7 @@ Användande av appen:
 * Vi hittade ingen korrelation quiz-resultat 9 första försöket om man fick hjälp eller inte, antagligen pga att man ej använder manualen före
 
 \subsection{Certified quiz 9}
-Only two people were fast enough to get certified on the final quiz before the app evaluation ended. 
+Only two people were fast enough to get certified on the final quiz before the app evaluation ended.
 
 Characteristics were:
 * Both of them used the manual

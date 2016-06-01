@@ -5,14 +5,13 @@ The style file: plainnat.bst
 A level-1 auxiliary file: thanks/thanks.aux
 A level-1 auxiliary file: notations/notation.aux
 A level-1 auxiliary file: introduction/introduction.aux
-A level-1 auxiliary file: theory/theory.aux
 Case mismatch error between cite keys Gates and gates
----line 17 of file theory/theory.aux
+---line 57 of file introduction/introduction.aux
  : \citation{Gates
  :                }
 I'm skipping whatever remains of this command
 Case mismatch error between cite keys Gates and gates
----line 18 of file theory/theory.aux
+---line 58 of file introduction/introduction.aux
  : \citation{Gates
  :                }
 I'm skipping whatever remains of this command
@@ -25,12 +24,12 @@ A level-1 auxiliary file: conclusion/conclusion.aux
 A level-1 auxiliary file: appendix/detaljer.aux
 Database file #1: IEEEfull.bib
 Database file #2: references/myrefs.bib
+Warning--I didn't find a database entry for "nissar-linkedin"
 Warning--I didn't find a database entry for "nissar"
 Warning--I didn't find a database entry for "mitchel"
 Warning--I didn't find a database entry for "gates"
 Warning--I didn't find a database entry for "luckin"
 Warning--I didn't find a database entry for "stickdorn"
-Warning--I didn't find a database entry for "nissar-linkedin"
 Warning--I didn't find a database entry for "yengin"
 Warning--I didn't find a database entry for "de-marcos"
 Warning--I didn't find a database entry for "ucla"
@@ -49,9 +48,11 @@ Warning--I didn't find a database entry for "lowgren"
 Warning--I didn't find a database entry for "expedition-mondial"
 Warning--I didn't find a database entry for "thoughtful"
 Warning--I didn't find a database entry for "youngdrive"
+Warning--I didn't find a database entry for "timo-ropinski-liu"
+Warning--I didn't find a database entry for "agaze"
 You've used 0 entries,
             2773 wiz_defined-function locations,
-            1034 strings with 16445 characters,
+            1035 strings with 16450 characters,
 and the built_in function-call counts, 33 in all, are:
 = -- 0
 > -- 0
