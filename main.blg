@@ -5,14 +5,14 @@ The style file: plainnat.bst
 A level-1 auxiliary file: thanks/thanks.aux
 A level-1 auxiliary file: notations/notation.aux
 A level-1 auxiliary file: introduction/introduction.aux
-A level-1 auxiliary file: method/method.aux
+A level-1 auxiliary file: methods/methods.aux
 Case mismatch error between cite keys Gates and gates
----line 14 of file method/method.aux
+---line 14 of file methods/methods.aux
  : \citation{Gates
  :                }
 I'm skipping whatever remains of this command
 Case mismatch error between cite keys Gates and gates
----line 19 of file method/method.aux
+---line 19 of file methods/methods.aux
  : \citation{Gates
  :                }
 I'm skipping whatever remains of this command
@@ -46,11 +46,12 @@ Warning--I didn't find a database entry for "lowgren"
 Warning--I didn't find a database entry for "expedition-mondial"
 Warning--I didn't find a database entry for "thoughtful"
 Warning--I didn't find a database entry for "timo-ropinski-liu"
-Warning--I didn't find a database entry for "agaze"
 Warning--I didn't find a database entry for "youngdrive"
+Warning--I didn't find a database entry for "general-entrepreneurship-quiz"
+Warning--I didn't find a database entry for "agaze"
 You've used 0 entries,
             2773 wiz_defined-function locations,
-            1033 strings with 16396 characters,
+            1034 strings with 16427 characters,
 and the built_in function-call counts, 33 in all, are:
 = -- 0
 > -- 0

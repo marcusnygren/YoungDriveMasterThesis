@@ -1,0 +1,104 @@
+\subsection{Methods for Data Analysis}
+
+\subsubsection{Visualizing Data}
+
+Here, each step of the visualization pipeline is presented, allowing analysis of data.
+
+The Visualization Pipeline describes the process of generating an image from the data: \cite{timo-ropinski-liu}
+
+\begin{enumerate}
+\item Data acquisition ($\,\to\,$data are given)
+\item Data enhancement ($\,\to\,$ data are processed)
+\item Visualization mapping ($\,\to\,$ data are mapped to for example a geometry)
+\item Rendering ($\,\to\,$ images generated)
+\end{enumerate}
+
+% Timo Ropinski, Scientific Visualization Group, Linköping University, TNM067 - Scientific Visualization, 9/12/2014)
+% https://drive.google.com/drive/u/0/folders/0BzlK1PD8EE75bHIxcXRQNWpRMm8
+
+Data acquisition presents how data was acquired.
+
+Data enhancement explains how the data was processed.
+
+Visualization mapping is the process of mapping data to e.g. a geometry.
+
+Finally, rendering allows images to be generated, presented in 2D.
+
+\subsubsection{Calculating Correlation}
+
+Calculate means, follow formula. Cumbersome to do with all of the axises against all the agises.
+
+This can be done in Google Sheets as well as the R programming language. Psuedo-code in R would be:
+
+\begin{verbatim}
+x1 = c(1,2,3,1,5,6)
+x2 = c(2,3,4,NA,6,7)
+cor(x = x1, y = x2)
+cor.test(x1,x2)
+\end{verbatim}
+
+\subsubsection{Visualizing Correlation}
+
+In Google Sheets, color scale can be used to give different column values different colors.
+
+It is still hard to compare all of the axises towards all the axises, and it is not a scientific approach.
+
+\todo{Include figure}
+
+In R programming language there are more powerful tools for visualizing correlation, e.g. using a "Correlation Heatmap".
+
+Psuedo-code in R would be:
+
+\begin{verbatim}
+random_matrix <- matrix(rnorm(100), nrow = 10, ncol = 10)
+random_matrix[1,1] <- NA
+colnames(random_matrix) <- paste("V",1:10)
+cor_mat <- cor(random_matrix)
+heatmap(cor_mat, keep.dendro = FALSE)
+\end{verbatim}
+
+The result would be:
+
+\todo{Include figure}
+
+\subsubsection{Calculating Logistic Regression}
+
+A limitation with correlation is that only two dimensions can be compared with each other.
+
+With multiple-variable data, Logistic Regression is helpful if our response variable can be a logistical dimension (e.g. women or male, used manual or not), while linear regression needs to be used if it is a linear or nominal scale (e.g. age and city respectively).
+
+In either case, the first step is to determine a response variable: the variable I want to compare against, e.g. is there a difference between men and women? In my case, it needs to be a quantative measure of: "Have you learned anything?".
+
+If I add more variable, e.g. also adding if a manual was used, this is called my "control". It is possible to add as many controls as possible.
+
+If linear regression, then I need to determine a quantative measure of ("How much have you learned?").
+
+In Google Sheets, this is not effective to do. R, however, is a very suitable tool.
+
+First, the data is loaded, e.g. as a CSV file. Then, we tell R which the N/A values are, e.g. "N/A" or "Vet ej". We use this to filter the data.
+
+Then, each column we want to use is converted into a factor.
+
+When factors, a model can be created, e.g. using the General Linear Model. A different family can be selected, e.g. binomial.
+
+Then it is possible for R to show this data, showing the coefficient, the Pr value, and others. See code below.
+
+\begin{verbatim}
+mydata <- read.csv("Development/R/quizResults.csv", na.strings = c("N/A", "Vet ej"))
+
+mydata$y = ifelse(test = is.na(mydata$Quiz.9..y.n.1st),  yes = 0, no = 1)
+
+mydata$y <- as.factor(mydata$y)
+mydata$Help <- as.factor(mydata$Help)
+mydata$Sex <- as.factor(mydata$Sex)
+
+mymodel <- glm(formula = y ~ Pre.test.score + Sex, data = mydata, family = 'binomial')
+
+summary(mymodel)
+
+plot()
+\end{verbatim}
+
+For analysis, looking at the summary, coefficient (e.g. -1.0704) shows either a negative or positive correlation (in this case -7\%) for what I compare with as a response variable.
+
+To be significantly significant, a common measure is that the Pr value ("the p-value") needs to be higher than 0.05. If the p-value is higher than 0.05, meaning it is significant with a 95\% probability.
