@@ -7,14 +7,19 @@ A level-1 auxiliary file: notations/notation.aux
 A level-1 auxiliary file: introduction/introduction.aux
 A level-1 auxiliary file: methods/methods.aux
 Case mismatch error between cite keys Gates and gates
----line 14 of file methods/methods.aux
+---line 19 of file methods/methods.aux
  : \citation{Gates
  :                }
 I'm skipping whatever remains of this command
 Case mismatch error between cite keys Gates and gates
----line 19 of file methods/methods.aux
+---line 21 of file methods/methods.aux
  : \citation{Gates
  :                }
+I'm skipping whatever remains of this command
+Case mismatch error between cite keys Sierra and sierra
+---line 162 of file methods/methods.aux
+ : \citation{Sierra
+ :                 }
 I'm skipping whatever remains of this command
 A level-1 auxiliary file: result/result.aux
 A level-1 auxiliary file: discussion/discussion.aux
@@ -23,35 +28,52 @@ A level-1 auxiliary file: appendix/detaljer.aux
 Database file #1: IEEEfull.bib
 Database file #2: references/myrefs.bib
 Warning--I didn't find a database entry for "nissar-linkedin"
+Warning--I didn't find a database entry for "youngdrive-masterthesis-idea"
 Warning--I didn't find a database entry for "nissar"
-Warning--I didn't find a database entry for "mitchel"
 Warning--I didn't find a database entry for "dickson"
+Warning--I didn't find a database entry for "oviawe"
+Warning--I didn't find a database entry for "iakovleva"
 Warning--I didn't find a database entry for "ruskovaara"
 Warning--I didn't find a database entry for "solomon"
-Warning--I didn't find a database entry for "gates"
 Warning--I didn't find a database entry for "luckin"
+Warning--I didn't find a database entry for "gates"
+Warning--I didn't find a database entry for "godwin-jones"
+Warning--I didn't find a database entry for "page"
 Warning--I didn't find a database entry for "stickdorn"
+Warning--I didn't find a database entry for "nicol"
 Warning--I didn't find a database entry for "yengin"
 Warning--I didn't find a database entry for "de-marcos"
+Warning--I didn't find a database entry for "dirksen"
 Warning--I didn't find a database entry for "ucla"
-Warning--I didn't find a database entry for "bloom"
-Warning--I didn't find a database entry for "heer"
 Warning--I didn't find a database entry for "cheong"
+Warning--I didn't find a database entry for "heer"
+Warning--I didn't find a database entry for "bloom"
 Warning--I didn't find a database entry for "sierra"
 Warning--I didn't find a database entry for "bruhlmann"
 Warning--I didn't find a database entry for "stefano"
 Warning--I didn't find a database entry for "bjork"
+Warning--I didn't find a database entry for "koballa"
+Warning--I didn't find a database entry for "goballa"
+Warning--I didn't find a database entry for "fulmer"
+Warning--I didn't find a database entry for "deci"
+Warning--I didn't find a database entry for "ryan"
+Warning--I didn't find a database entry for "elliot"
+Warning--I didn't find a database entry for "eccles"
+Warning--I didn't find a database entry for "wigfield"
+Warning--I didn't find a database entry for "brinkerhoff"
 Warning--I didn't find a database entry for "pink"
 Warning--I didn't find a database entry for "lowgren"
 Warning--I didn't find a database entry for "expedition-mondial"
 Warning--I didn't find a database entry for "thoughtful"
 Warning--I didn't find a database entry for "timo-ropinski-liu"
-Warning--I didn't find a database entry for "youngdrive"
+Warning--I didn't find a database entry for "une-terre"
+Warning--I didn't find a database entry for "mitchel"
 Warning--I didn't find a database entry for "general-entrepreneurship-quiz"
 Warning--I didn't find a database entry for "agaze"
+Warning--I didn't find a database entry for "youngdrive"
 You've used 0 entries,
             2773 wiz_defined-function locations,
-            1034 strings with 16427 characters,
+            1050 strings with 16562 characters,
 and the built_in function-call counts, 33 in all, are:
 = -- 0
 > -- 0
@@ -90,4 +112,4 @@ warning$ -- 0
 while$ -- 0
 width$ -- 0
 write$ -- 7
-(There were 2 error messages)
+(There were 3 error messages)

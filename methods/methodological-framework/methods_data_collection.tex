@@ -28,7 +28,15 @@ Finally, rendering allows images to be generated, presented in 2D.
 
 Calculate means, follow formula. Cumbersome to do with all of the axises against all the agises.
 
-This can be done in Google Sheets as well as the R programming language. Psuedo-code in R would be:
+This can be done in Google Sheets as well as the R programming language.
+
+\textbf{In Google Sheets: }
+
+It is clear that analysis in Google Sheets can only go so far. It can be greatly helpful to sort by multiple columns (e.g. first by Manual?, then by School level, then by Quiz 3). However, it takes a long time to filter the data on multiple parameters, and the work easily becomes tedious. For some applications, it may not be viable to discover the data using this approach.
+
+One approach is to calculate and compare means on a "control"  with a response variable.
+
+\textbf{Psuedo-code in R would be: }
 
 \begin{verbatim}
 x1 = c(1,2,3,1,5,6)
@@ -102,3 +110,8 @@ plot()
 For analysis, looking at the summary, coefficient (e.g. -1.0704) shows either a negative or positive correlation (in this case -7\%) for what I compare with as a response variable.
 
 To be significantly significant, a common measure is that the Pr value ("the p-value") needs to be higher than 0.05. If the p-value is higher than 0.05, meaning it is significant with a 95\% probability.
+
+\subsubsection{Analysing data with a Parallel Coordinates Visualization}
+
+To learn how to analyse the data, Une-terre \cite{une-terre} was consulted. % http://une-terre.blogspot.se/2012/09/parallel-coordinates-read-out-patterns.html
+He writes "||-coords are a data visualisation which allow you to "read out" the relationships and trends between your dimensions. Positive relationship (correlation), negative relationship (invert), or no relationship (random)."

@@ -1,9 +1,27 @@
 \subsection{Iteration \#2}
 Here, the work and result from iteration \#2 is presented.
 
+\subsubsection{Before Interactions}
+
+Since Meteor was chosen, a multiple-choice quiz tutorial in Meteor was used to guide the first version of the app. Modifications were made, e.g. making it responsive and changing it to YoungDrive's graphic profile.
+
+The app was pushed to GitHub, and hosted on Meteor free storage, available via youngdrive.meteorapp.com.
+
+For Android and iOS, it was made possible to install the app from the computer.
+
+\subsubsection{During Interactions}
+For each day of the training, new quizzes were added to the app, which created a path (see Sierra on motivation \cite{Sierra}).
+
+\subsubsection{After Interactions}
+
 \subsubsection{Staging environment using Heroku}
-Needed when the Meteor free tier was removed. Connected to deploy from GitHub branches automatically. Could have benefitted from CI, passing tests before ready for production. Solved this by having a stage environment (since April 19th) where stage is YoungDrive-beta (branch Iteration 4), and YoungDrive is master.
+A different hosting platform was needed when the Meteor free tier was removed.
 
-\subsection{Implementation of Motivation Methods}
+Staging environment using Heroku allowed changes on specific GitHub branches to deploy updates automatically on Heroku servers.
 
-Created a path. For me, the user's first feeling of a superpower is a hint of becoming a Certified coach. \todo{This can be commented in the Future work}
+The MongoDB database was created using the Heroku plugin MongoLab.
+
+A Meteor build-pack was used to allow Meteor to be used with Heroku.
+
+\subsubsection{Android Play Store}
+It was tested to upload the app to Android Play Store. The neccessary steps from Cordova needed to be followed, screenshots needed to be uploaded, and some administrative tasks. After this, it only took a day for the app to appear on the Play Store, and everything worked satisfactory.

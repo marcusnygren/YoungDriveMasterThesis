@@ -1,54 +1,55 @@
 \subsection{Iteration 3}
 
-\subsubsection{Appens datainsamling}
-Denna gång behövde appen samla in data av sig själv, istället för att Josefina manuellt skrev ner resultat-tavlan efter varje quiz.
+For me, the user's first feeling of a superpower is a hint of becoming a Certified coach. \todo{This can be commented in the Future work}
 
-Kravet kom dels från Josefina (det kommer inte gå om det är mer än 10 coacher, vi har oftast 20-30), dels från att jag i mina interaktioner i Tororo skulle testa på 2 olika kontrollgrupper med 10 personer vardera, och jag visste baserad på Interactions 1 att jag inte skulle ha tid att både skriva ner resultat och observera hur de beter sig med appen.
+On the client, as components grew, there was a need for a client-side router. The Meteor plugin Flow Router was used, as it was very popular with good integrations.
 
-\textbf{Inloggning}
-Att samla in data för användare, skulle kräva inloggning. Men det är ett användbarhets-problem för de flesta. Om de skapar en användare med lösenord, hur ska de 1) tycka det är intutivt och 2) komma ihåg sina användarnamn och lösenord till Interactions 4 om 2 veckor?
+\subsubsection{App for Learning}
+This was not much harder than to add new components and functionality for learning. The hard part, was the ideation, deciding on what ideas and what design was the best. For this, see Result \todo{Add reference to Result}.
 
-Jag pratade med flera om detta, Expedition Mondial och Grameen. Från EM lärde jag mig att de trodde min idé med en färdiggjort lista med coachernas namn (vi vet ju vilka som är i Tororo) skulle fungera, och från Grameen fick jag höra om dera erfarenhet att de validerat använda samma approach, med en PIN (längre än 4 siffror dock), men att de inte nailat konceptet ännu, och att de också itererar på sin approach för nästa uppdatering av LedgerLink.
+\subsubsection{Login, Database, and Meteor upgrade}
+In order to store data per individual, a database and login would be needed. Meteor upgrade from 1.2 to 1.3 was made to do this easier, but ended up being the reason this was not implemented in Iteration 3. Below, the work is presented.
 
-Tyvärr har också Meteor begränsningar med deras auto-login-modul. Den tvingar både användarnamn och lösenord, och har automatiskt registrering. Går det att stänga av? Jag kan skapa användare och lösenord åt alla, och funderade på hur jag skulle generera lösenord. Ett förslag blev att bara registrera deras förnamn, och sedan skapa lösenordet baserat på T9 med de 6 första bokstäverna utan att berätta det för dem. Sedan tänkte jag på det kulturella, att det kan vara oartigt med förnamn, och bestämde mig för efternamn istället. Hela namnet skulle bli för långt och krångligt.
+\textbf{Login}
+To record data per user, would require login. This would be a usability issue for most problems, being 1st-time smartphone users. They need to find it intuitive, user-friendly, and be able to remember the password in the future. A lot of different suggestions were through the ideation phase.
 
-Helst skulle jag behöva gå runt Meteors standard-inloggning, och istället ha en enkel login-rullista som den ovan beskrivet, istället för att använda deras standard-lösning.
+The simplest login possible was chosen: a 3-digit code, which was to be given to each coach during the test.
 
-\textbf{Meteor Collections}
-En annan problematik var att om data ska skickas till en server, måste det finnas en server med Collections. I version 1 av appen sparades inga resultat i huvud taget.
+%Jag pratade med flera om detta, Expedition Mondial och Grameen. Från EM lärde jag mig att de trodde min idé med en färdiggjort lista med coachernas namn (vi vet ju vilka som är i Tororo) skulle fungera, och från Grameen fick jag höra om dera erfarenhet att de validerat använda samma approach, med en PIN (längre än 4 siffror dock), men att de inte nailat konceptet ännu, och att de också itererar på sin approach för nästa uppdatering av LedgerLink.
 
-Jag gjorde en exempel-app med Meteor Collections under veckan, och det är ganska coolt med DDP, och appen kändes snabb oavsett ej internet-connection. Det var däremot svårt simulera samma internet-problem som ute i fält. Det är en risk jag tar, att appen kanske inte kommer skicka in rätt resultat.
+Meteor had limitations with their auto-login module, which is very fast to implement. It forces username and password, and instead I wrote the login myself.
 
-Därför ville jag även ha offline-databas, och då fanns det en plugin som hette GroundDB.
+The front-end was not problematic, however, implementing server-client communication so that it worked online and offline, was.
 
-Detta var tidsödande, och vi får se om det fungerar bra på måndag.
+%Tyvärr har också Meteor begränsningar med deras auto-login-modul. Den tvingar både användarnamn och lösenord, och har automatiskt registrering. Går det att stänga av? Jag kan skapa användare och lösenord åt alla, och funderade på hur jag skulle generera lösenord. Ett förslag blev att bara registrera deras förnamn, och sedan skapa lösenordet baserat på T9 med de 6 första bokstäverna utan att berätta det för dem. Sedan tänkte jag på det kulturella, att det kan vara oartigt med förnamn, och bestämde mig för efternamn istället. Hela namnet skulle bli för långt och krångligt.
 
-Ett annat problem är, hur ska detta visualiseras pedagogiskt för Josefina och de andra utbildarna?
+%Helst skulle jag behöva gå runt Meteors standard-inloggning, och istället ha en enkel login-rullista som den ovan beskrivet, istället för att använda deras standard-lösning.
 
-\subsubsection{Educator Dashboard}
-Detta hanns inte med i Iteration 3 även om det var ett mål. Istället gjordes trigger-material och workshop-upplägg till Tororo, då Expedition Mondial ifrågasatte "Visst är väl även Christine och Patrick?" målgrupp för detta? Och vad har de för utrustning? Christine har mobil, Patrick ingen. Så detta talade för att Educator Dashboard skulle behöva fungera på mobil, och inte bara dator som jag tänkt, iom att Josefina har dator.
+\textbf{Online database}
+If data was to be sent from the client to the server, there needs to be a database with Meteor Collections.
 
-Då bestämdes med Expedition Mondial att jag skulle ha workshop med dem på onsdag. Med samtal med Josefina, sade hon att de garanterat borde utrustas med tablets då de samlar in data digitalt, så jag kan tänka mig att de får en tablet framöver. Skönt! Detta stämmer även med vad Stefan FalkBoman hade tänkt sig, och de iPads han köpt in till mig. Så då kunde jag ha dessa som tanke att utforma educator-app-dashboarden ifrån.
+As in version 1 of the app, no results were saved whatsoever, this was new functionality.
 
-\textbf{Tekniskt}
+An example app was made first, only using Meteor Collections. Meteor's use of Distributed Data Protocol (DDP), made app pushes feel immediate, even though data was not sent until there was Internet access.
 
-HighCharts var påtänkt som verktyg för att visualisera datan. Tanken var att den vanliga appen skulle kunna ha super-användare som är admins, och kommer till ett särskilt gränssnitt där de ser data om användarna. Detta kunde göras direkt i Meteor.
+However, it was found out that if it took more than 15 minutes to get online, the push would be aborted. For users that are seldom online, this would not be viable.
 
-Stefan frågade vad jag tänkt om detta, och frågade om jag funderat över integration med deras verktyg Podio, och om det var möjligt. Det sade jag att det var framöver. Podio har ett API som bl.a. stödjer JSON, vilket jag använder. Då frågade jag om Podio har bra visual dash-board -verktyg, vilket han skulle kolla upp. Inom exjobbet behöver jag än så länge inte bry mig om detta. Problemet är att Stefan ser ett värde i att lagra datan i Podio, men de har inte i sig själv bra visualiseringsverktyg.
+\textbf{Offline database}
+An offline database was needed, and the plugin GroundDB was implemented. As it was cumbersome to get right, pushing the data whenever online, and hard to test (needed to wait 15 minutes each time), this was not ready for the interactions.
 
-9 april hade jag då ett möte med SolarSisters COO Dave, som är en social enterprise med 1 huvudansvarig (Dave), 70 field staff och 2000 entreprenörer, så ganska likt YoungDrive i Uganda när Josefina var där.
+\textbf{Upgrading from Meteor 1.2 to 1.3}
+Meteor 1.2 had several disadvantages: while it worked for all devices, it did not support React.js
 
-Dave byggde 2013 upp deras backend i SalesForce för databas, och sedan TaroWorks för datainsamling. TaroWorks är en plugin till SalesForce, med offline-app anpassad för fält. De har sedan utrustat alla field staff med tablets, då det var för dyrt att ge till alla 2 000 entreprenörer. Field staff träffar entreprenörer varje dag, och hjälper entreprenörerna att knappa in t.ex. kvitton, utvärderingar och undersökningar (t.ex. från finansiärer) via appen.
+Meteor 1.3 was released, which promised a better developer experience, with JavaScript ES6 support, and access to Node Package Manager (npm), plus official support for React.js.
 
-Det tog 3 veckor att bara sätta upp systemet, och det var snabbt. För Dave har det varit en 100\%-tjänst i början, och fortfarande 20\%. Men fördelarna är att de nu är 100\% datadrivna, och de kan följa exakt hur det går för field staff och entreprenörerna - detta guidar även vilka som får promotions och vilka som blir avskedade.
+In 1.2, only some npm packages had been adapted for Meteor, and tools such as Webpack could not be used.
 
-Det mest intressanta är kanske att SolarSister inte bara avnänder datan för internt bruk, utan även för dess partners. De gör undersökningar via TaroWorks som inte är direkt kopplade till SolarSister, för att få in pengar. Men framför allt, sticker de ut gentemot andra social enterprises, då de enkelt kan ge partners all data de önskar, och det gör dem väldigt framgångsrika med grants. De är sannerligen en datadriven organisation. Datan, ger SolarSisters story ett trovärdigt narrativ, vilket Dave beskriver som en extrem framgångsfaktor.
+The downsides was discovered after implementation:
+\begin{itemize}
+\item there were missing backward compatibility to the older of the Android devices
+\item Heroku had no Meteor build-pack for 1.3 - a push led the website to crash
+\end{itemize}
 
-Idag står 2/3 av finaniseringen från grants (fördel med socail entrepriser, du kan få pengar både från finansiärer och kunder), 1/3 från entreprenörerna. De vill bli mer self-sustainable för varje år som går, och detta är storyn som datan måste berätta - vilket är varför de t.ex. avskedar människor som inte presenterar. Datan måste stämma med storyn de vill berätta, för den storyn är vad som avgör att de får in pengar.
+This meant, that the app would not be able to be installed on many Android devices, and for those devices, a web version would not be available either. As this was unacceptable, the project downgraded to Meteor 1.2 again.
 
-Detta gav mig insikter på hur mycket min datainsamling från coacherna kan spela roll för organisationen. Det var något jag inte tänkt på innan, och som jag vill vara medveten kring. För om det är något jag lärt mig denna iteration, är det hur "kunskap är makt", och hur mycket vettig kunskap jag, coacherna och Josefina och YoungDrive kan få ut av att helt enkelt lägga till frågan "Är du säker?" till varje quiz-fråga.
-
-\subsubsection{Teknisk utveckling: från Meteor 1.2 till 1.3}
-Branchade ut projektet och uppdaterade till Meteor 1.3 från 1.2, vilket gav bättre utvecklarupplevelse och många sådana fördelar (till exempel kan använda NPM), men fanns inte längre bakåtkompatibilitet till mobilerna som coacherna använder, samt att buildpack för Meteor till Heroku inte hade uppdaterats, så vid en push (även om det fungerade på localhost) så krashade hemsidan youngdrive.herokuapp.com, vilket fick feedback från handledare Lena som behövt accessa sidan.
-
-Detta är ett bra exempel på hur tekniska begränsningar påverkar projektet. I slutändan, tog det ganska mycket tid under veckan "i onödan", och jag fick ta igen tiden genom att jobba fredag kväll och lördag inför mina interaktioner.
+Unfortunately, since the online and offline database had now dependencies on version 1.2, the login and database integration could not be part of iteration 3, but this work needed to be saved for Iteration 4.

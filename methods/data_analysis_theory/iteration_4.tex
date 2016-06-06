@@ -1,25 +1,17 @@
-\subsection{Iteration 4: Implementation of Data Collection}
+\subsection{Iteration \#4}
 
-Here, conclusions are presented.
+Data analysis is done first by a general overview in Google Sheets, by statistical analysis in R, and by a parallel coordinates visualization. The process to do this, is described below.
 
 \subsubsection{Data Acquisition from Server}
 
-The app pushes data to server when online (it saves quiz start, and quiz finish).
-
-The server receives JSON data, stored in a MongoDB database.
-
-Each data point is saved in a database called Results, with the signed in user (from the Users database).
-
-It was desired to store the data in Google Sheets, thus it was necessary to convert the JSON format into a Google Sheets-readable format, like CSV.
+It was desired to store the data in Google Sheets, thus it was necessary to collect the MongoDB database content, and convert JSON format into a Google Sheets-readable format, like CSV.
 
 Multiple approaches were tried, and the Google Chrome extension called Magic Json by agaze\_dev\_team (last updated October 29, 2015) %https://chrome.google.com/webstore/detail/magic-json/cajifcebjiflndefndbnoeenjpiiiagm?hl=en
 was the one that worked without problems. \cite{agaze}.
 
 \subsubsection{Data Acquisition from Pre-Study}
 
-The Pre-study data was done by manually recording the paper-submitted pre-study evaluation form from the coaches, into Google Sheets.
-
-\subsection{Data Enhancement}
+The Pre-study data acquisition was done by instead of looking at the paper-submitted pre-study evaluation forms, using the data processed into Google Sheets.
 
 \subsubsection{Data Enhancement of Server Results}
 
@@ -33,11 +25,9 @@ Some columns were given conditional formatting, so it would be easier to spot ir
 
 After this, some observations could be made. For example, there was a surprisingly low number of answers where the user answered the question without confidence. Also, more users had started a quiz without finishing it than anticipated. Finally, a lot of users had done quizes that were not Topic quiz 3 and Coach quiz 9, which might indicate high interest (if they did more than 2 quizes) or confusion (if they did not do 3 or 9, but they did do other quizes) during the app evaluation. This meant that on some aspects, there were less data than anticipated, (which was troublesome, as there were already few data points), and some aspects where there was more data than anticipated (that were overlooked)
 
-\subsubsection{Summarizing the Server Results}
-
 To be able to compare the test results with the pre-test results, it was clear that it would not be viable to test every dimension against every dimension.
 
-Instead, since goals of the app evaluation had been predefined in the following way, the quiz results were summarized so that the following could be derived:
+Instead, since goals of the app evaluation had been predefined in the following way, the quiz results were summarized into a new sheet so that the following could be derived:
 
 \begin{itemize}
 \item \% correct 1st try
@@ -76,31 +66,22 @@ Observations from the data was that a surprising number of cells were left blank
 
 Missing cells was not as obvious with the app results, were users could not progress in a quiz without answering both the question and the confidence. However, none of the passed quiz 9 certification answers had been submitted. Thus, it was needed to add these from the manual recordings, which had been used as a backup in case anything like this would happen.
 
-\subsubsection{Comparing the pre-test and results summary sheets}
+\subsubsection{Data Enhancement by joining Pre-test and Results Summary}
 
 I joined the summary sheet and the pre-quiz sheet, meaning I had created a multiple-variate data set (serveral dimensions that I needed to compare with several dimensions).
 
-I met with my university supervisors, so they could further support me in how to properly analyze the data.
+I met with my university supervisors, so they could further support me in how to properly analyze the data. Since the two control groups showd similar means on the pre-quiz results, the two control groups were determined comparable.
 
-It was clear that analysis in Google Sheets could only go so far. It was greatly helpful to sort by multiple columns (e.g. first by Manual?, then by School level, then by Quiz 3). However, it took a long time to filter the data on multiple parameters, and the work became tedious. It was not viable to discover the data using this approach.
+To meet the challenges of using Google Sheets, a multivariate analyzation software or a visualization was suggested to discover the data in less time.
 
-Meeting with the supervisors, they started by comparing the means on the pre-quiz results with the two control groups. Since they showed similar results, the two control groups were comparable.
+It was hard to determine a suitable multivariate analysis software suitable when having so few data points. Principle Component Analysis or Cohen's kappa would not be suitable, neither was it believed applicable to do Linear correlation on all dimensions.
 
-Then, we calculated the means from the other columns based on e.g. "Manual?", gender, school category, high app quiz result, etc.
+After discussion with other Master thesis students working with analysing data (one from KTS and one from MT), parallel coordinates was suggested. It would allow me to very quickly filter the data, find correlations, and distinguish outliers and common characteristics.
 
-A multivariate analyzation software or a visualization was suggested to discover the data in less time.
-
-It was hard for us to determine a suitable multivariate analysis software suitable when having so few data points. Principle Component Analysis or Cohen's kappa would not be suitable, or to do Linear correlation on all dimensions.
-
-After discussion with other Master thesis students working with large amounts of data (one from KTS and one from MT), parallel coordinates was suggested. It would allow me to very quickly filter the data, find correlations, and distinguish outliers and common characteristics.
-
-To learn how to analyse the data, Une-terre (2012) was consulted. % http://une-terre.blogspot.se/2012/09/parallel-coordinates-read-out-patterns.html
-He writes "||-coords are a data visualisation which allow you to "read out" the relationships and trends between your dimensions. Positive relationship (correlation), negative relationship (invert), or no relationship (random)."
-
-\todo{Add that I also did regression test in R}
+To guide the usage of the parallel coordinates (as there is so much to discover in the data set), using R to do Logistic correlation was also done. A disadvantage with this method, is that to be statistically significant, many data points may be needed, and it was now known before-hand if the method would be useful. Probably, parallel coordinates would be the best method with analysing a small multi-variate data set.
 
 \subsection{Visualization Mapping}
-The goal with visualization mapping is to generate renderable data.
+The goal with visualization mapping is to generate renderable data, in my case for the parallel coordinates visualization.
 
 Thus, I added a new spreadsheet, specific for visualizing the data.
 
@@ -124,4 +105,4 @@ I replaced the example CSV file with the exported Google Sheets data in CSV.
 
 Eventually, I also changed the colors, and added to the example the toolkit's functionality to drag the axes titles around to reorder the dimensions, since the goal was to quickly compare and find correlations.
 
-\todo{Lägg till bild på parallella koordinater-visualiseringen}
+\todo{Add parallell coordinates visualization example}

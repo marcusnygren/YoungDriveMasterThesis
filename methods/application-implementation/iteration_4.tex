@@ -1,2 +1,13 @@
 \subsection{Iteration \#4}
 
+For iteration \#4, data collection was done by the app itself, which pushes data to server whenever online (it saves quiz start, and quiz finish).
+
+The server receives JSON data, stored in a MongoDB database.
+
+Each data point is saved in a database called Results, with the signed in user (from the Users database).
+
+In the API, I added Users, Quiz Lists, and Quiz Results.
+
+Now there was a build-pack for Meteor 1.3 available, so GroundDB could be implemented again. It made me refactor app into 1.3, and I had to redesign routing.
+
+There were a lot of technical issues. GroundDB was successfully used for offline Meteor collections, and pushing offline data whenever online.
