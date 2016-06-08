@@ -12,7 +12,7 @@
 \contentsline {section}{\numberline {1.1}Purpose}{1}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}Task}{1}{subsection.1.1.1}
 \contentsline {subsection}{\numberline {1.1.2}Goal}{1}{subsection.1.1.2}
-\contentsline {section}{\numberline {1.2}Theoretical background}{2}{section.1.2}
+\contentsline {section}{\numberline {1.2}Theoretical Background}{2}{section.1.2}
 \contentsline {subsubsection}{Part 1-2: Design situation}{2}{section*.10}
 \contentsline {subsubsection}{Part 3-4: Relevant topics}{2}{section*.11}
 \contentsline {subsubsection}{Part 5: Related work}{2}{section*.12}
@@ -34,7 +34,7 @@
 \contentsline {subsection}{\numberline {1.2.6}Related work}{7}{subsection.1.2.6}
 \contentsline {subsubsection}{Caring for the context}{7}{section*.23}
 \contentsline {subsubsection}{Digital assessment and mobile learning}{7}{section*.24}
-\contentsline {section}{\numberline {1.3}Research questions}{7}{section.1.3}
+\contentsline {section}{\numberline {1.3}Research Questions}{7}{section.1.3}
 \contentsline {chapter}{\numberline {2}Methods and Implementation}{9}{chapter.2}
 \contentsline {section}{\numberline {2.1}Methodological Framework}{9}{section.2.1}
 \contentsline {subsection}{\numberline {2.1.1}Methods to Design for Learning}{9}{subsection.2.1.1}
@@ -45,183 +45,186 @@
 \contentsline {subsection}{\numberline {2.1.2}Methods to Design for Motivation}{14}{subsection.2.1.2}
 \contentsline {subsubsection}{Cognitive load theory}{14}{section*.33}
 \contentsline {subsubsection}{Progress and payoffs}{15}{section*.34}
-\contentsline {subsection}{\numberline {2.1.3}Design Thinking}{15}{subsection.2.1.3}
-\contentsline {subsubsection}{A good designer}{16}{section*.35}
+\contentsline {subsection}{\numberline {2.1.3}Design Thinking}{16}{subsection.2.1.3}
+\contentsline {subsubsection}{A good designer}{17}{section*.35}
 \contentsline {subsubsection}{How to deal with relationships and roles}{17}{section*.36}
-\contentsline {subsubsection}{Thinking of a product as a service}{17}{section*.37}
-\contentsline {subsubsection}{Starting the project}{17}{section*.38}
+\contentsline {subsubsection}{Thinking of a product as a service}{18}{section*.37}
+\contentsline {subsubsection}{Starting the project}{18}{section*.38}
 \contentsline {subsection}{\numberline {2.1.4}Service Design Methodology}{18}{subsection.2.1.4}
 \contentsline {subsubsection}{Principles}{18}{section*.39}
 \contentsline {subsubsection}{Sequencing}{18}{section*.40}
-\contentsline {subsubsection}{Service design tools}{18}{section*.43}
-\contentsline {subsection}{\numberline {2.1.5}Digital Service Design}{19}{subsection.2.1.5}
-\contentsline {subsubsection}{A "Service Sprint"}{20}{section*.44}
-\contentsline {subsubsection}{Insights: Analysis, Retrospective \& Stakeholder feedback}{20}{section*.45}
+\contentsline {subsubsection}{Service design tools}{20}{section*.43}
+\contentsline {subsection}{\numberline {2.1.5}Digital Service Design}{21}{subsection.2.1.5}
+\contentsline {subsubsection}{A "Service Sprint"}{21}{section*.44}
+\contentsline {subsubsection}{Insights: Analysis, Retrospective \& Stakeholder feedback}{21}{section*.45}
 \contentsline {subsubsection}{Ideation: planning interactions and delivery}{21}{section*.46}
-\contentsline {subsubsection}{Trigger material}{21}{section*.47}
-\contentsline {subsubsection}{Interactions: with "Service Mini-Sprints"}{21}{section*.48}
+\contentsline {subsubsection}{Trigger material}{22}{section*.47}
+\contentsline {subsubsection}{Interactions: with "Service Mini-Sprints"}{22}{section*.48}
 \contentsline {subsubsection}{Service Mini-Sprints}{22}{section*.49}
-\contentsline {subsection}{\numberline {2.1.6}Methods for Data Analysis}{22}{subsection.2.1.6}
-\contentsline {subsubsection}{Visualizing Data}{22}{section*.50}
-\contentsline {subsubsection}{Calculating Correlation}{22}{section*.51}
+\contentsline {subsection}{\numberline {2.1.6}Methods for Data Analysis}{23}{subsection.2.1.6}
+\contentsline {subsubsection}{Visualizing Data}{23}{section*.50}
+\contentsline {subsubsection}{Calculating Correlation}{23}{section*.51}
 \contentsline {subsubsection}{Visualizing Correlation}{23}{section*.52}
-\contentsline {subsubsection}{Calculating Logistic Regression}{23}{section*.55}
-\contentsline {subsubsection}{Analysing data with a Parallel Coordinates Visualization}{24}{section*.56}
-\contentsline {section}{\numberline {2.2}Setting and research context}{24}{section.2.2}
+\contentsline {subsubsection}{Calculating Logistic Regression}{24}{section*.55}
+\contentsline {subsubsection}{Analysing data with a Parallel Coordinates Visualization}{25}{section*.56}
+\contentsline {section}{\numberline {2.2}Setting and Research Context}{25}{section.2.2}
 \contentsline {subsection}{\numberline {2.2.1}Setting}{25}{subsection.2.2.1}
 \contentsline {subsubsection}{Supervisors}{25}{section*.57}
-\contentsline {subsubsection}{Stakeholders}{25}{section*.58}
+\contentsline {subsubsection}{Stakeholders}{26}{section*.58}
 \contentsline {subsubsection}{The designer and developer}{26}{section*.59}
 \contentsline {subsubsection}{Experts}{26}{section*.61}
-\contentsline {subsection}{\numberline {2.2.2}Research context}{26}{subsection.2.2.2}
-\contentsline {section}{\numberline {2.3}Subjects (Participants)}{26}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Roles}{26}{subsection.2.3.1}
-\contentsline {subsubsection}{Country Manager}{26}{section*.62}
-\contentsline {subsubsection}{Project Leaders}{26}{section*.63}
-\contentsline {subsubsection}{The Community Based Trainers}{26}{section*.64}
+\contentsline {subsection}{\numberline {2.2.2}Research context}{27}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Subjects (Participants)}{27}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Roles}{27}{subsection.2.3.1}
+\contentsline {subsubsection}{Country Manager}{27}{section*.62}
+\contentsline {subsubsection}{Project Leaders}{27}{section*.63}
+\contentsline {subsubsection}{The Community Based Trainers}{27}{section*.64}
 \contentsline {subsubsection}{The Youth Mentors}{27}{section*.65}
 \contentsline {subsubsection}{The Youth}{27}{section*.67}
 \contentsline {subsection}{\numberline {2.3.2}Training Material}{27}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}Data on Coaches}{27}{subsection.2.3.3}
-\contentsline {subsubsection}{Tororo, Uganda}{27}{section*.69}
-\contentsline {subsubsection}{Phone/power/data among CBTs and YMs}{27}{section*.70}
+\contentsline {subsection}{\numberline {2.3.3}Data on Coaches}{28}{subsection.2.3.3}
+\contentsline {subsubsection}{Tororo, Uganda}{28}{section*.69}
+\contentsline {subsubsection}{Phone/power/data among CBTs and YMs}{28}{section*.70}
 \contentsline {subsubsection}{Companies among CBTs and YMs}{28}{section*.71}
 \contentsline {subsubsection}{Kabwe, Zambia}{28}{section*.72}
 \contentsline {subsection}{\numberline {2.3.4}Project Leaders in Uganda}{28}{subsection.2.3.4}
-\contentsline {subsection}{\numberline {2.3.5}Youth in Tororo}{28}{subsection.2.3.5}
-\contentsline {subsubsection}{Phone/power/data}{28}{section*.73}
-\contentsline {subsubsection}{English skills}{28}{section*.74}
+\contentsline {subsection}{\numberline {2.3.5}Youth in Tororo}{29}{subsection.2.3.5}
+\contentsline {subsubsection}{Phone/power/data}{29}{section*.73}
+\contentsline {subsubsection}{English skills}{29}{section*.74}
 \contentsline {subsubsection}{Businesses}{29}{section*.75}
 \contentsline {subsection}{\numberline {2.3.6}Coaches in Zambia}{29}{subsection.2.3.6}
-\contentsline {section}{\numberline {2.4}Study Design \& Data Collection}{29}{section.2.4}
-\contentsline {subsubsection}{Creation of Design Process}{29}{section*.77}
-\contentsline {subsubsection}{Implementation of Design Process}{29}{section*.78}
-\contentsline {subsection}{\numberline {2.4.1}Iteration 1}{30}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}Iteration 2}{30}{subsection.2.4.2}
-\contentsline {subsubsection}{Design workshop \#1}{32}{section*.83}
-\contentsline {subsubsection}{Assessment via quiz}{32}{section*.84}
-\contentsline {subsubsection}{Experimenting with quiz before or after the session}{33}{section*.85}
-\contentsline {subsubsection}{Experimenting with design of questions}{33}{section*.86}
-\contentsline {subsubsection}{Interviews with Josefina}{33}{section*.87}
-\contentsline {subsection}{\numberline {2.4.3}Iteration 3}{33}{subsection.2.4.3}
-\contentsline {subsubsection}{Aim}{34}{section*.88}
-\contentsline {subsection}{\numberline {2.4.4}Iteration 4}{35}{subsection.2.4.4}
-\contentsline {section}{\numberline {2.5}Application Implementation}{36}{section.2.5}
-\contentsline {subsection}{\numberline {2.5.1}User needs}{36}{subsection.2.5.1}
-\contentsline {subsection}{\numberline {2.5.2}Stakeholder needs}{36}{subsection.2.5.2}
-\contentsline {subsection}{\numberline {2.5.3}Iteration \#1}{36}{subsection.2.5.3}
-\contentsline {subsubsection}{Devices are prepared}{36}{section*.91}
-\contentsline {subsubsection}{App/Web Development}{36}{section*.92}
-\contentsline {subsubsection}{Choosing cross-platform framework}{37}{section*.93}
-\contentsline {subsubsection}{React.js}{37}{section*.95}
-\contentsline {subsection}{\numberline {2.5.4}Iteration \#2}{37}{subsection.2.5.4}
-\contentsline {subsubsection}{Before Interactions}{37}{section*.97}
-\contentsline {subsubsection}{During Interactions}{37}{section*.98}
-\contentsline {subsubsection}{After Interactions}{37}{section*.99}
-\contentsline {subsubsection}{Staging environment using Heroku}{37}{section*.100}
-\contentsline {subsubsection}{Android Play Store}{37}{section*.101}
-\contentsline {subsection}{\numberline {2.5.5}Iteration 3}{38}{subsection.2.5.5}
-\contentsline {subsubsection}{App for Learning}{38}{section*.103}
-\contentsline {subsubsection}{Login, Database, and Meteor upgrade}{38}{section*.105}
-\contentsline {subsection}{\numberline {2.5.6}Iteration \#4}{39}{subsection.2.5.6}
-\contentsline {section}{\numberline {2.6}Data Analysis Theory}{39}{section.2.6}
-\contentsline {subsection}{\numberline {2.6.1}General}{39}{subsection.2.6.1}
-\contentsline {subsection}{\numberline {2.6.2}Iteration \#1}{39}{subsection.2.6.2}
-\contentsline {subsection}{\numberline {2.6.3}Iteration \#2}{39}{subsection.2.6.3}
-\contentsline {subsection}{\numberline {2.6.4}Iteration \#3}{39}{subsection.2.6.4}
-\contentsline {subsection}{\numberline {2.6.5}Iteration \#4}{39}{subsection.2.6.5}
-\contentsline {subsubsection}{Data Acquisition from Server}{40}{section*.106}
-\contentsline {subsubsection}{Data Acquisition from Pre-Study}{40}{section*.107}
-\contentsline {subsubsection}{Data Enhancement of Server Results}{40}{section*.108}
-\contentsline {subsubsection}{Date Enhancement of Pre-study Results}{41}{section*.110}
-\contentsline {subsubsection}{Data Enhancement by joining Pre-test and Results Summary}{41}{section*.111}
-\contentsline {subsection}{\numberline {2.6.6}Visualization Mapping}{42}{subsection.2.6.6}
-\contentsline {subsection}{\numberline {2.6.7}Rendering}{42}{subsection.2.6.7}
-\contentsline {chapter}{\numberline {3}Results}{43}{chapter.3}
-\contentsline {section}{\numberline {3.1}Developed Application}{43}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Iteration \#1}{43}{subsection.3.1.1}
-\contentsline {subsubsection}{Workshop \#1: Customer Journey Map: A day as a coach}{43}{section*.113}
-\contentsline {subsubsection}{Workshop \#2: Quizical and Duolingo}{43}{section*.114}
-\contentsline {subsection}{\numberline {3.1.2}Iteration \#2}{43}{subsection.3.1.2}
-\contentsline {subsubsection}{Result}{43}{section*.115}
-\contentsline {subsection}{\numberline {3.1.3}Iteration 3}{44}{subsection.3.1.3}
-\contentsline {subsubsection}{Result}{44}{section*.116}
-\contentsline {subsection}{\numberline {3.1.4}Iteration \#4}{44}{subsection.3.1.4}
-\contentsline {section}{\numberline {3.2}Qualitative Data}{45}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Iteration \#1}{45}{subsection.3.2.1}
-\contentsline {subsubsection}{Understanding the coach situation}{45}{section*.118}
-\contentsline {subsubsection}{Different kind of coaches}{45}{section*.119}
-\contentsline {subsubsection}{A good youth session}{45}{section*.120}
-\contentsline {subsubsection}{The room for a digital solution}{46}{section*.121}
-\contentsline {subsection}{\numberline {3.2.2}Iteration \#2}{46}{subsection.3.2.2}
-\contentsline {subsubsection}{The desire perspective}{46}{section*.122}
-\contentsline {subsubsection}{The utility perspective}{46}{section*.123}
-\contentsline {subsubsection}{The usability perspective}{46}{section*.124}
-\contentsline {subsubsection}{The learning perspective}{46}{section*.125}
-\contentsline {subsubsection}{Doing a pre-quiz: good for learning}{46}{section*.126}
-\contentsline {subsubsection}{Doing a post-quiz: Spaced versus massed learning}{47}{section*.127}
-\contentsline {subsubsection}{The teacher perspective}{47}{section*.128}
-\contentsline {subsubsection}{The developer perspective}{48}{section*.129}
-\contentsline {subsection}{\numberline {3.2.3}Iteration \#3}{48}{subsection.3.2.3}
-\contentsline {subsubsection}{Observations from Kampala test}{48}{section*.130}
-\contentsline {subsubsection}{Field visits}{48}{section*.131}
-\contentsline {subsubsection}{Big app test}{48}{section*.132}
-\contentsline {subsection}{\numberline {3.2.4}Iteration \#4}{49}{subsection.3.2.4}
-\contentsline {section}{\numberline {3.3}Quantitative Data}{49}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Iteration \#1}{49}{subsection.3.3.1}
-\contentsline {subsubsection}{Understanding the coach situation}{49}{section*.133}
-\contentsline {subsubsection}{Different kind of coaches}{49}{section*.134}
-\contentsline {subsubsection}{A good youth session}{50}{section*.135}
-\contentsline {subsubsection}{The room for a digital solution}{50}{section*.136}
-\contentsline {subsection}{\numberline {3.3.2}Iteration \#2}{50}{subsection.3.3.2}
-\contentsline {subsubsection}{The desire perspective}{50}{section*.137}
-\contentsline {subsubsection}{The utility perspective}{50}{section*.138}
-\contentsline {subsubsection}{The usability perspective}{50}{section*.139}
-\contentsline {subsubsection}{The learning perspective}{51}{section*.140}
-\contentsline {subsubsection}{Doing a pre-quiz: good for learning}{51}{section*.141}
-\contentsline {subsubsection}{Doing a post-quiz: Spaced versus massed learning}{51}{section*.142}
-\contentsline {subsubsection}{The teacher perspective}{52}{section*.143}
-\contentsline {subsubsection}{The developer perspective}{52}{section*.144}
-\contentsline {subsection}{\numberline {3.3.3}Iteration \#3}{52}{subsection.3.3.3}
-\contentsline {subsubsection}{Observations from Kampala test}{52}{section*.145}
-\contentsline {subsubsection}{Field visits}{52}{section*.146}
-\contentsline {subsubsection}{Big app test}{52}{section*.147}
-\contentsline {subsection}{\numberline {3.3.4}Iteration \#4}{53}{subsection.3.3.4}
-\contentsline {section}{\numberline {3.4}Insights}{53}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Iteration \#1}{53}{subsection.3.4.1}
-\contentsline {subsubsection}{Motivation of app}{53}{section*.148}
-\contentsline {subsubsection}{Entrepreneurship education considerations}{54}{section*.149}
-\contentsline {subsection}{\numberline {3.4.2}Iteration \#2}{54}{subsection.3.4.2}
-\contentsline {subsubsection}{Insights}{54}{section*.150}
-\contentsline {subsubsection}{Bonus results: Testing the app outside the YoungDrive context}{55}{section*.151}
-\contentsline {subsubsection}{Findings}{55}{section*.152}
-\contentsline {subsection}{\numberline {3.4.3}Iteration \#3}{56}{subsection.3.4.3}
-\contentsline {subsubsection}{Bonus results}{56}{section*.153}
-\contentsline {subsection}{\numberline {3.4.4}Iteration \#4}{56}{subsection.3.4.4}
-\contentsline {chapter}{\numberline {4}Discussion}{57}{chapter.4}
-\contentsline {section}{\numberline {4.1}Discussion of method}{57}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Working with technical constaints}{57}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}Involving consultants to support the design process}{57}{subsection.4.1.2}
-\contentsline {subsection}{\numberline {4.1.3}Consequences of involving end users and stakeholders throughout the whole process}{57}{subsection.4.1.3}
-\contentsline {subsubsection}{Product Benefit from involving users and stakeholders}{57}{section*.156}
-\contentsline {subsubsection}{Support Benefit from inolving users and stakeholders}{57}{section*.157}
-\contentsline {subsubsection}{Complications}{58}{section*.158}
-\contentsline {section}{\numberline {4.2}Discussion of result}{59}{section.4.2}
-\contentsline {section}{\numberline {4.3}Future work}{59}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Iteration 3}{59}{subsection.4.3.1}
-\contentsline {chapter}{\numberline {5}Conclusion}{61}{chapter.5}
-\contentsline {subsubsection}{Contributed to the domain of entrepreneurship education in a developing country context}{61}{section*.159}
-\contentsline {subsubsection}{Demonstrated how certain technical constraints and design constraints can be overcome in a developing world context}{61}{section*.160}
-\contentsline {subsubsection}{Provided methods of investigating usability and learnings with a digital training tool in the real-world training context}{61}{section*.161}
-\contentsline {subsubsection}{Created new methods in service design, when co-designing digital artefacts in a developing country context}{61}{section*.162}
-\contentsline {chapter}{\numberline {A}Appendix 1}{65}{appendix.A}
-\contentsline {section}{\numberline {A.1}Original Time Plan}{65}{section.A.1}
-\contentsline {subsection}{\numberline {A.1.1}Before Uganda}{65}{subsection.A.1.1}
-\contentsline {subsection}{\numberline {A.1.2}In Uganda}{65}{subsection.A.1.2}
-\contentsline {subsection}{\numberline {A.1.3}After Uganda}{68}{subsection.A.1.3}
-\contentsline {subsection}{\numberline {A.1.4}After Semester}{68}{subsection.A.1.4}
-\contentsline {section}{\numberline {A.2}Half-Time Evaluation Time Plan}{68}{section.A.2}
-\contentsline {chapter}{Bibliography}{69}{appendix*.163}
+\contentsline {section}{\numberline {2.4}Study Design and Data Collection}{29}{section.2.4}
+\contentsline {subsubsection}{Creation of Design Process}{30}{section*.77}
+\contentsline {subsubsection}{Implementation of Design Process}{31}{section*.79}
+\contentsline {subsection}{\numberline {2.4.1}Iteration 1}{31}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Iteration 2}{32}{subsection.2.4.2}
+\contentsline {subsubsection}{Design workshop \#1}{33}{section*.84}
+\contentsline {subsubsection}{Assessment via quiz}{34}{section*.85}
+\contentsline {subsubsection}{Experimenting with quiz before or after the session}{34}{section*.86}
+\contentsline {subsubsection}{Experimenting with design of questions}{34}{section*.87}
+\contentsline {subsubsection}{Interviews with Josefina}{34}{section*.88}
+\contentsline {subsection}{\numberline {2.4.3}Iteration 3}{34}{subsection.2.4.3}
+\contentsline {subsubsection}{Aim}{35}{section*.89}
+\contentsline {subsection}{\numberline {2.4.4}Iteration 4}{36}{subsection.2.4.4}
+\contentsline {section}{\numberline {2.5}Application Implementation}{37}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}User needs}{37}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Stakeholder needs}{37}{subsection.2.5.2}
+\contentsline {subsection}{\numberline {2.5.3}Iteration \#1}{37}{subsection.2.5.3}
+\contentsline {subsubsection}{Devices are prepared}{37}{section*.92}
+\contentsline {subsubsection}{App/Web Development}{38}{section*.93}
+\contentsline {subsubsection}{Choosing cross-platform framework}{38}{section*.94}
+\contentsline {subsubsection}{React.js}{38}{section*.96}
+\contentsline {subsection}{\numberline {2.5.4}Iteration \#2}{38}{subsection.2.5.4}
+\contentsline {subsubsection}{Before Interactions}{38}{section*.98}
+\contentsline {subsubsection}{During Interactions}{38}{section*.99}
+\contentsline {subsubsection}{After Interactions}{38}{section*.100}
+\contentsline {subsubsection}{Staging environment using Heroku}{38}{section*.101}
+\contentsline {subsubsection}{Android Play Store}{39}{section*.102}
+\contentsline {subsection}{\numberline {2.5.5}Iteration 3}{39}{subsection.2.5.5}
+\contentsline {subsubsection}{App for Learning}{39}{section*.104}
+\contentsline {subsubsection}{Login, Database, and Meteor upgrade}{39}{section*.106}
+\contentsline {subsection}{\numberline {2.5.6}Iteration \#4}{40}{subsection.2.5.6}
+\contentsline {section}{\numberline {2.6}Data Analysis Theory}{41}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}General}{41}{subsection.2.6.1}
+\contentsline {subsection}{\numberline {2.6.2}Iteration \#1}{41}{subsection.2.6.2}
+\contentsline {subsection}{\numberline {2.6.3}Iteration \#2}{41}{subsection.2.6.3}
+\contentsline {subsection}{\numberline {2.6.4}Iteration \#3}{41}{subsection.2.6.4}
+\contentsline {subsection}{\numberline {2.6.5}Iteration \#4}{41}{subsection.2.6.5}
+\contentsline {subsubsection}{Data Acquisition from Server}{41}{section*.107}
+\contentsline {subsubsection}{Data Acquisition from Pre-Study}{41}{section*.108}
+\contentsline {subsubsection}{Data Enhancement of Server Results}{41}{section*.109}
+\contentsline {subsubsection}{Date Enhancement of Pre-study Results}{42}{section*.111}
+\contentsline {subsubsection}{Data Enhancement by joining Pre-test and Results Summary}{43}{section*.112}
+\contentsline {subsection}{\numberline {2.6.6}Visualization Mapping}{43}{subsection.2.6.6}
+\contentsline {subsection}{\numberline {2.6.7}Rendering}{44}{subsection.2.6.7}
+\contentsline {chapter}{\numberline {3}Results}{45}{chapter.3}
+\contentsline {section}{\numberline {3.1}Developed Application}{45}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Iteration \#1}{45}{subsection.3.1.1}
+\contentsline {subsubsection}{Workshop \#1: Customer Journey Map: A day as a coach}{45}{section*.114}
+\contentsline {subsubsection}{Workshop \#2: Quizical and Duolingo}{45}{section*.115}
+\contentsline {subsection}{\numberline {3.1.2}Iteration \#2}{45}{subsection.3.1.2}
+\contentsline {subsubsection}{Result}{45}{section*.116}
+\contentsline {subsection}{\numberline {3.1.3}Iteration 3}{46}{subsection.3.1.3}
+\contentsline {subsubsection}{Result}{46}{section*.117}
+\contentsline {subsection}{\numberline {3.1.4}Iteration \#4}{46}{subsection.3.1.4}
+\contentsline {section}{\numberline {3.2}Qualitative Data}{47}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Iteration \#1}{47}{subsection.3.2.1}
+\contentsline {subsubsection}{Understanding the coach situation}{47}{section*.119}
+\contentsline {subsubsection}{Different kind of coaches}{47}{section*.120}
+\contentsline {subsubsection}{A good youth session}{47}{section*.121}
+\contentsline {subsubsection}{The room for a digital solution}{48}{section*.122}
+\contentsline {subsection}{\numberline {3.2.2}Iteration \#2}{48}{subsection.3.2.2}
+\contentsline {subsubsection}{The desire perspective}{48}{section*.123}
+\contentsline {subsubsection}{The utility perspective}{48}{section*.124}
+\contentsline {subsubsection}{The usability perspective}{48}{section*.125}
+\contentsline {subsubsection}{The learning perspective}{48}{section*.126}
+\contentsline {subsubsection}{Doing a pre-quiz: good for learning}{48}{section*.127}
+\contentsline {subsubsection}{Doing a post-quiz: Spaced versus massed learning}{49}{section*.128}
+\contentsline {subsubsection}{The teacher perspective}{49}{section*.129}
+\contentsline {subsubsection}{The developer perspective}{50}{section*.130}
+\contentsline {subsection}{\numberline {3.2.3}Iteration \#3}{50}{subsection.3.2.3}
+\contentsline {subsubsection}{Observations from Kampala test}{50}{section*.131}
+\contentsline {subsubsection}{Field visits}{50}{section*.132}
+\contentsline {subsubsection}{Big app test}{50}{section*.133}
+\contentsline {subsection}{\numberline {3.2.4}Iteration \#4}{51}{subsection.3.2.4}
+\contentsline {section}{\numberline {3.3}Quantitative Data}{51}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Iteration \#1}{51}{subsection.3.3.1}
+\contentsline {subsubsection}{Understanding the coach situation}{51}{section*.134}
+\contentsline {subsubsection}{Different kind of coaches}{51}{section*.135}
+\contentsline {subsubsection}{A good youth session}{52}{section*.136}
+\contentsline {subsubsection}{The room for a digital solution}{52}{section*.137}
+\contentsline {subsection}{\numberline {3.3.2}Iteration \#2}{52}{subsection.3.3.2}
+\contentsline {subsubsection}{The desire perspective}{52}{section*.138}
+\contentsline {subsubsection}{The utility perspective}{52}{section*.139}
+\contentsline {subsubsection}{The usability perspective}{52}{section*.140}
+\contentsline {subsubsection}{The learning perspective}{53}{section*.141}
+\contentsline {subsubsection}{Doing a pre-quiz: good for learning}{53}{section*.142}
+\contentsline {subsubsection}{Doing a post-quiz: Spaced versus massed learning}{53}{section*.143}
+\contentsline {subsubsection}{The teacher perspective}{54}{section*.144}
+\contentsline {subsubsection}{The developer perspective}{54}{section*.145}
+\contentsline {subsection}{\numberline {3.3.3}Iteration \#3}{54}{subsection.3.3.3}
+\contentsline {subsubsection}{Observations from Kampala test}{54}{section*.146}
+\contentsline {subsubsection}{Field visits}{54}{section*.147}
+\contentsline {subsubsection}{Big app test}{54}{section*.148}
+\contentsline {subsection}{\numberline {3.3.4}Iteration \#4}{55}{subsection.3.3.4}
+\contentsline {section}{\numberline {3.4}Insights}{55}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Iteration \#1}{55}{subsection.3.4.1}
+\contentsline {subsubsection}{Motivation of app}{55}{section*.149}
+\contentsline {subsubsection}{Entrepreneurship education considerations}{56}{section*.150}
+\contentsline {subsection}{\numberline {3.4.2}Iteration \#2}{56}{subsection.3.4.2}
+\contentsline {subsubsection}{Insights}{56}{section*.151}
+\contentsline {subsubsection}{Bonus results: Testing the app outside the YoungDrive context}{57}{section*.152}
+\contentsline {subsubsection}{Findings}{57}{section*.153}
+\contentsline {subsection}{\numberline {3.4.3}Iteration \#3}{58}{subsection.3.4.3}
+\contentsline {subsubsection}{Bonus results}{58}{section*.154}
+\contentsline {subsection}{\numberline {3.4.4}Iteration \#4}{58}{subsection.3.4.4}
+\contentsline {chapter}{\numberline {4}Discussion}{59}{chapter.4}
+\contentsline {section}{\numberline {4.1}Technical development}{59}{section.4.1}
+\contentsline {section}{\numberline {4.2}Learning development}{59}{section.4.2}
+\contentsline {section}{\numberline {4.3}Discussion of Result}{59}{section.4.3}
+\contentsline {section}{\numberline {4.4}Discussion of Method}{60}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Working with technical constaints}{60}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Involving consultants to support the design process}{60}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Consequences of involving end users and stakeholders throughout the whole process}{60}{subsection.4.4.3}
+\contentsline {subsubsection}{Product Benefit from involving users and stakeholders}{60}{section*.157}
+\contentsline {subsubsection}{Support Benefit from inolving users and stakeholders}{60}{section*.158}
+\contentsline {subsubsection}{Complications}{60}{section*.159}
+\contentsline {section}{\numberline {4.5}Future Work}{61}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Bloom's Revised Taxonomy}{61}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}Iteration 3}{62}{subsection.4.5.2}
+\contentsline {chapter}{\numberline {5}Conclusion}{63}{chapter.5}
+\contentsline {subsubsection}{Contributed to the domain of entrepreneurship education in a developing country context}{63}{section*.160}
+\contentsline {subsubsection}{Demonstrated how certain technical constraints and design constraints can be overcome in a developing world context}{63}{section*.161}
+\contentsline {subsubsection}{Provided methods of investigating usability and learnings with a digital training tool in the real-world training context}{63}{section*.162}
+\contentsline {subsubsection}{Created new methods in service design, when co-designing digital artefacts in a developing country context}{63}{section*.163}
+\contentsline {chapter}{\numberline {A}Appendix 1}{67}{appendix.A}
+\contentsline {section}{\numberline {A.1}Original Time Plan}{67}{section.A.1}
+\contentsline {subsection}{\numberline {A.1.1}Before Uganda}{67}{subsection.A.1.1}
+\contentsline {subsection}{\numberline {A.1.2}In Uganda}{67}{subsection.A.1.2}
+\contentsline {subsection}{\numberline {A.1.3}After Uganda}{70}{subsection.A.1.3}
+\contentsline {subsection}{\numberline {A.1.4}After Semester}{70}{subsection.A.1.4}
+\contentsline {section}{\numberline {A.2}Half-Time Evaluation Time Plan}{70}{section.A.2}
+\contentsline {chapter}{Bibliography}{71}{appendix*.164}
 \select@language {swedish}
 \select@language {english}
 \select@language {english}
