@@ -19,11 +19,9 @@ This section presents how data from the server was processed, to enable visualiz
 
 To make the data easier to work with, the columns were reordered, and made sortable and filterable.
 
-Some columns were given conditional formatting, so it would be easier to spot irregularities.
+Some columns were given conditional formatting, so it would be easier to spot irregularities. After this, some observations could be made.
 
 \todo{Lägg till bild "results-colored.png" (finns på skrivbordet)}
-
-After this, some observations could be made. For example, there was a surprisingly low number of answers where the user answered the question without confidence. Also, more users had started a quiz without finishing it than anticipated. Finally, a lot of users had done quizes that were not Topic quiz 3 and Coach quiz 9, which might indicate high interest (if they did more than 2 quizes) or confusion (if they did not do 3 or 9, but they did do other quizes) during the app evaluation. This meant that on some aspects, there were less data than anticipated, (which was troublesome, as there were already few data points), and some aspects where there was more data than anticipated (that were overlooked)
 
 To be able to compare the test results with the pre-test results, it was clear that it would not be viable to test every dimension against every dimension.
 
@@ -62,10 +60,6 @@ To see differences in answers more clearly, the data from the pre-study was made
 
 After this, each column was given conditional formats using a color scale, using Google Sheets built-in functionality. This gave a visual way to quickly get a overview of the pre-test data.
 
-Observations from the data was that a surprising number of cells were left blank. One user had not done the pre-test, where some had left questions unanswered (most commonly "Do you own a company?" (should have used the word "business"), plus "Hours of preperation" and "Occations for a youth session" (there is a tendency this might be because they were not proud of their answers, because of correlations with low quiz results).
-
-Missing cells was not as obvious with the app results, were users could not progress in a quiz without answering both the question and the confidence. However, none of the passed quiz 9 certification answers had been submitted. Thus, it was needed to add these from the manual recordings, which had been used as a backup in case anything like this would happen.
-
 \subsubsection{Data Enhancement by joining Pre-test and Results Summary}
 
 I joined the summary sheet and the pre-quiz sheet, meaning I had created a multiple-variate data set (serveral dimensions that I needed to compare with several dimensions).
@@ -76,7 +70,7 @@ To meet the challenges of using Google Sheets, a multivariate analyzation softwa
 
 It was hard to determine a suitable multivariate analysis software suitable when having so few data points. Principle Component Analysis or Cohen's kappa would not be suitable, neither was it believed applicable to do Linear correlation on all dimensions.
 
-After discussion with other Master thesis students working with analysing data (one from KTS and one from MT), parallel coordinates was suggested. It would allow me to very quickly filter the data, find correlations, and distinguish outliers and common characteristics.
+After discussion with other Master thesis students working with analysing data from various disciplines, parallel coordinates was suggested. It would allow me to very quickly filter the data, find correlations, and distinguish outliers and common characteristics.
 
 To guide the usage of the parallel coordinates (as there is so much to discover in the data set), using R to do Logistic correlation was also done. A disadvantage with this method, is that to be statistically significant, many data points may be needed, and it was now known before-hand if the method would be useful. Probably, parallel coordinates would be the best method with analysing a small multi-variate data set.
 

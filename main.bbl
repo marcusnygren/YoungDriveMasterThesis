@@ -1,4 +1,4 @@
-\begin{thebibliography}{42}
+\begin{thebibliography}{43}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -30,7 +30,6 @@ I.~Björling and J.~Lönn.
 R.~O. Brinkerhoff.
 \newblock Making l\&d matter.
 \newblock \url{https://www.youtube.com/watch?v=__wUZzJV8lM}, 2013.
-\newblock Tips från Henrik Marklund.
 
 \bibitem[Brühlmann(2013)]{bruhlmann}
 F~Brühlmann.
@@ -206,6 +205,12 @@ K.~Sierra.
 \newblock \emph{Badass: Making Users Awesome}.
 \newblock O'Reilly Media, 2015.
 \newblock ISBN 9781491919071.
+
+\bibitem[Sitzmann and Kanar(2008)]{sitzmann}
+Bell B. S. Kraiger~K. Sitzmann, T. and A.~M. Kanar.
+\newblock A multilevel analysis of the effect of prompting self-regulation in
+  technology-delivered instruction.
+\newblock \emph{CAHRS Working Paper Series}, 8, 2008.
 
 \bibitem[Stefano and Staats(2015)]{stefano}
 Gino F. Pisano G.~P. Stefano, G.~D. and B.~R. Staats.
