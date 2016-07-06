@@ -1,0 +1,6 @@
+PWD /Users/marcus/Development/YoungDrive/Exjobbsrapport/discussion
+INPUT /usr/local/texlive/2015/texmf.cnf
+INPUT /usr/local/texlive/2015/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT discussion.tex
+OUTPUT discussion.log

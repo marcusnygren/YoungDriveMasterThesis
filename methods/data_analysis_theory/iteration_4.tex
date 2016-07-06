@@ -62,7 +62,14 @@ After this, each column was given conditional formats using a color scale, using
 
 \subsubsection{Data Enhancement by joining Pre-test and Results Summary}
 
-I joined the summary sheet and the pre-quiz sheet, meaning I had created a multiple-variate data set (serveral dimensions that I needed to compare with several dimensions).
+I joined the summary sheet and the pre-quiz sheet, meaning I had created a multiple-variate data set (serveral dimensions that I needed to compare with several dimensions), see figure \ref{fig:analysFarg3}.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.7\textwidth]{analysis/analysFarg3.png}
+    \caption{The mutli-variate data set, made filterable and sortable in Google Sheets. Color scales and calculating means makes it easier to compare characteristics of the coach together with pre-test and quiz results. However, it is cumbersome and hard to quickly filter data on multiple parameters.}
+    \label{fig:analysFarg3}
+\end{figure}
 
 I met with my university supervisors, so they could further support me in how to properly analyze the data. Since the two control groups showd similar means on the pre-quiz results, the two control groups were determined comparable.
 
@@ -74,7 +81,7 @@ After discussion with other Master thesis students working with analysing data f
 
 To guide the usage of the parallel coordinates (as there is so much to discover in the data set), using R to do Logistic correlation was also done. A disadvantage with this method, is that to be statistically significant, many data points may be needed, and it was now known before-hand if the method would be useful. Probably, parallel coordinates would be the best method with analysing a small multi-variate data set.
 
-\subsection{Visualization Mapping}
+\subsubsection{Visualization Mapping}
 The goal with visualization mapping is to generate renderable data, in my case for the parallel coordinates visualization.
 
 Thus, I added a new spreadsheet, specific for visualizing the data.
@@ -83,7 +90,7 @@ I deleted columns that would serve no visual purpose (e.g. timestamps), gave all
 
 The data was then exported from the Google Sheet into CSV.
 
-\subsection{Rendering}
+\subsubsection{Rendering}
 
 For rendering, the JavaScript library D3.js was chosen. It supports data-driven documents for visualizing data with HTML, SVG and CSS. It supports both JSON and CSV data.
 
@@ -95,8 +102,11 @@ A visual framework for multidimensional detectives for D3.js was found, called "
 
 The example code from "Linking with a Data Table" provided the basis for the rendering. It would be a great benefit to bee able to see both a parallel coordinates visualization, and to see the same values present in the Google Sheet. %https://syntagmatic.github.io/parallel-coordinates/examples/table.html
 
-I replaced the example CSV file with the exported Google Sheets data in CSV.
+The example CSV file was replaced with the data from exporting the Google Sheets data. Eventually, also the colors were changed, and addeed the toolkit's functionality to drag the axes titles around to reorder the dimensions, since the goal was to quickly compare and find correlations. The result is visible in \ref{fig:parallell-coordinates-1}.
 
-Eventually, I also changed the colors, and added to the example the toolkit's functionality to drag the axes titles around to reorder the dimensions, since the goal was to quickly compare and find correlations.
-
-\todo{Add parallell coordinates visualization example}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.7\textwidth]{analysis/parallellCoordinates1.png}
+    \caption{The parallel coordinates visualization, done in d3.js. The visualization support draggable axes, filtering of data via dragging the sliders (which syncronizes with the data table), color assignment (like blue and red for men and women in the example), and hovering over a specific data point.}
+    \label{fig:parallell-coordinates-1}
+\end{figure}

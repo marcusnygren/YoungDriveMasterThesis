@@ -1,55 +1,26 @@
-\subsection{Iteration 3}
+For iteration 3, as components grew, there was a need for a client-side router. The Meteor plugin Flow Router was used, as it was very popular with good integrations.
 
-For me, the user's first feeling of a superpower is a hint of becoming a Certified coach. \todo{This can be commented in the Future work}
+For iteration 3, there was also a need to store data per individual, partly because the feature was prioritized from YoungDrive, but also because of the purpose of data collection. In order to store data per individual, a database and login would be needed. Because of technical difficulties, login and automatic data collection was not implemented until iteration 4, which can be read more about in the Discussion in \ref{backwards-capability}.
 
-On the client, as components grew, there was a need for a client-side router. The Meteor plugin Flow Router was used, as it was very popular with good integrations.
-
-\subsubsection{App for Learning}
-This was not much harder than to add new components and functionality for learning. The hard part, was the ideation, deciding on what ideas and what design was the best. For this, see Result \todo{Add reference to Result}.
-
-\subsubsection{Login, Database, and Meteor upgrade}
-In order to store data per individual, a database and login would be needed. Meteor upgrade from 1.2 to 1.3 was made to do this easier, but ended up being the reason this was not implemented in Iteration 3. Below, the work is presented.
-
-\textbf{Login}
+\subsection{Login}
 To record data per user, would require login. This would be a usability issue for most problems, being 1st-time smartphone users. They need to find it intuitive, user-friendly, and be able to remember the password in the future. A lot of different suggestions were through the ideation phase.
 
-The simplest login possible was chosen: a 3-digit code, which was to be given to each coach during the test.
+The simplest login possible was chosen, after evaluation and discussion with experts: a 3-digit code, which was to be given to each coach during the test.
 
 %Jag pratade med flera om detta, Expedition Mondial och Grameen. Från EM lärde jag mig att de trodde min idé med en färdiggjort lista med coachernas namn (vi vet ju vilka som är i Tororo) skulle fungera, och från Grameen fick jag höra om dera erfarenhet att de validerat använda samma approach, med en PIN (längre än 4 siffror dock), men att de inte nailat konceptet ännu, och att de också itererar på sin approach för nästa uppdatering av LedgerLink.
 
-Meteor had limitations with their auto-login module, which is very fast to implement. It forces username and password, and instead I wrote the login myself.
+Meteor had limitations with their auto-login module, which is very fast to implement. It forces username and password, and instead I wrote the login myself. This was
 
-The front-end was not problematic, however, implementing server-client communication so that it worked online and offline, was.
+To summarize, the front-end was not problematic, however, implementing server-client communication so that it worked online and offline, was.
 
 %Tyvärr har också Meteor begränsningar med deras auto-login-modul. Den tvingar både användarnamn och lösenord, och har automatiskt registrering. Går det att stänga av? Jag kan skapa användare och lösenord åt alla, och funderade på hur jag skulle generera lösenord. Ett förslag blev att bara registrera deras förnamn, och sedan skapa lösenordet baserat på T9 med de 6 första bokstäverna utan att berätta det för dem. Sedan tänkte jag på det kulturella, att det kan vara oartigt med förnamn, och bestämde mig för efternamn istället. Hela namnet skulle bli för långt och krångligt.
 
 %Helst skulle jag behöva gå runt Meteors standard-inloggning, och istället ha en enkel login-rullista som den ovan beskrivet, istället för att använda deras standard-lösning.
 
-\textbf{Online database}
-If data was to be sent from the client to the server, there needs to be a database with Meteor Collections.
-
-As in version 1 of the app, no results were saved whatsoever, this was new functionality.
-
-An example app was made first, only using Meteor Collections. Meteor's use of Distributed Data Protocol (DDP), made app pushes feel immediate, even though data was not sent until there was Internet access.
+\subsubsection{Online and offline database}
+If data was to be sent from the client to the server, there needs to be a database with Meteor Collections. An example app was made first, only using Meteor Collections. Meteor's use of Distributed Data Protocol (DDP), made app pushes feel immediate, even though data was not sent until there was Internet access.
 
 However, it was found out that if it took more than 15 minutes to get online, the push would be aborted. For users that are seldom online, this would not be viable.
 
-\textbf{Offline database}
-An offline database was needed, and the plugin GroundDB was implemented. As it was cumbersome to get right, pushing the data whenever online, and hard to test (needed to wait 15 minutes each time), this was not ready for the interactions.
+An offline database was needed, and the plugin GroundDB was implemented. As it was cumbersome to get right, pushing the data whenever online, and hard to test (needed to wait 15 minutes each time), this was not ready for the interactions until Iteration 4. As a consequence, until iteration 4 of the app, no results were saved online via the app whatsoever.
 
-\textbf{Upgrading from Meteor 1.2 to 1.3}
-Meteor 1.2 had several disadvantages: while it worked for all devices, it did not support React.js
-
-Meteor 1.3 was released, which promised a better developer experience, with JavaScript ES6 support, and access to Node Package Manager (npm), plus official support for React.js.
-
-In 1.2, only some npm packages had been adapted for Meteor, and tools such as Webpack could not be used.
-
-The downsides was discovered after implementation:
-\begin{itemize}
-\item there were missing backward compatibility to the older of the Android devices
-\item Heroku had no Meteor build-pack for 1.3 - a push led the website to crash
-\end{itemize}
-
-This meant, that the app would not be able to be installed on many Android devices, and for those devices, a web version would not be available either. As this was unacceptable, the project downgraded to Meteor 1.2 again.
-
-Unfortunately, since the online and offline database had now dependencies on version 1.2, the login and database integration could not be part of iteration 3, but this work needed to be saved for Iteration 4.

@@ -1,22 +1,33 @@
 %\section{Technical development}
-%\section{How is the development affected by the technical possibilities?}
-\section{What in the development has been affected by the technical possibilities?}
+\section{How is the development affected by the technical possibilities?}
+%\section{What in the development has been affected by the technical possibilities?}
 
-\todo{Besvara fråga}
+As devices were limited, a goal was to make the app available on as many devices as possible. Creating a hybrid app using web technologies using Meteor made the app available both as a native app on Android and iOS devices, as well as on the web. On the other hand, this is not enough: the pre-evaluation showed that only 3 out of 16 had a smartphone today \cite{youngdrive-statistics}.
 
-\subsubsection{Online data collection}
-To test on all of the coaches in Uganda, it would have been preferable if data collection would have happened via the app instead of manually already in iteration 3, since there would be more than 10 test subjects, which had been the limit in Zambia. This was planned for, but technical implications with Meteor made it delayed.
+As internet is accessible but expensive and often used seldom, the app does not provide rich media or simulations, but focuses instead on creative design possibilities using multiple-choice, also having cognitive load and scaffolding in mind. The interviews and observations from iteration 4 details that the coaches are happy with the user friendliness of the app, and that the training in its current form has high value for the coaches. On the other hand, images could probably be used to lower misconceptions in language, and a future wish of the coaches is to have the manuals accessible via mobile as well, which includes both text and images.
 
-\todo{Does it really work pushing data via GroundDB after 15 minutes? I don't know.}
+Most of the coaches have been first-time smartphone users. Letting them continuously test and co-create the app has created a tailor-made app from their needs and conditions. It may be surprising how simple design solutions using text and clear visuals can provide rich learning feedback, mentioned by Nocol \cite{nicol}. On the other hand, since it is so tailor-made, it needs to be examined if to make the app work in other countries than Uganda and Zambia, where design and technology preferences might be different.
 
-\subsubsection{Working with technical constaints}
-Upgrading from version 1.2 to 1.3 during Iteratoin 3 was a good example of technical limitations. Since 1.2 did not work for old Android devices, a "better" version of software was not viable.
+That the app should work offline, and still be able to push quiz results when it gets online, has been a challenge. It can be hard to find good existing approaches for some technical platforms, but for Meteor plugins such as GroundDB proved very usable, since it is also automatic. In other apps in developing countries sometimes the user decides themselves when to push data, but in this case, quiz results are so small in size that it was unnecessary. This might be reconsidered in the future, for example if answers are no longer solely multiple-choice.
 
-A lot of time where spent "wasted", and time during that iteration needed to be taken back by working the Friday night and Saturday, before the travel to Tororo.
+\subsection{Online data collection was needed earlier}
+To test on all of the coaches in Uganda, it would have been preferable if data collection would have happened via the app instead of manually already in iteration 3, since there would be more than 10 test subjects, which had been the limit in Zambia. This was planned for, but technical implications with Meteor made it delayed. Done manually, not all data was recoded in iteration 3, which made it harder to draw conclusions from the quiz results. Both Lopez \cite{une-terre} and \cite{ropinski} explains how visualization techniques (like parallell coordinates) are more suitable for large data sets. This can be read more about below.
 
-\subsection{Implementation}
-Could have benefitted from Continuous Integration, passing tests before ready for production. Solved this by having a stage environment (since April 19th) where stage is YoungDrive-beta (branch Iteration 4), and YoungDrive is master. Doing automated tests would could have helped finding regression errors, things that had worked previously but not in a new version. This in turn, would have made interactions with coaches better, since the app would have been more complete. \todo{Förbättra denna}
+\subsection{Backwards capability issues} \label{backwards-capability}
+Upgrading from version 1.2 to 1.3 during Iteration 3 was a good example of technical limitations. It took a lot of time, but when it was discovered that version 1.2 did not work for old Android devices, the changes needed to be reverted. In another project, new Andorid versions might have been acceptable, but here a "better" version of software was not viable.
 
-\subsubsection{Difficulties comparing quiz results between iterations}
+Meteor 1.2 had several disadvantages: while it worked for all devices, it did not support React.js
 
-The idea was that app tests for iteration \#3 would be carried out in a way that allowed comparison of usability and learning done between iteration \#2 in Zambia and iteration \#3 in Uganda. This was however never implemented during the app test. This would been useful, but the coaches and the usage of the app in Zambia and Uganda was determined to be too different. For future work, more work should be put into how quiz results can be compared between different versions of the app and across different contexts and cultures.
+Meteor 1.3 was released, which promised a better developer experience, with JavaScript ES6 support, and access to Node Package Manager (npm), plus official support for React.js.
+
+In 1.2, only some npm packages had been adapted for Meteor, and tools such as Webpack could not be used.
+
+The downsides was discovered after implementation: there were missing backward compatibility to the older of the Android devices. The backup would be the web version, but at the time of iteration 3, there were no Heroku build-pack for Meteor 1.3, making the website to crash. This was however fixed before iteration 4, which is why Meteor 1.3 was kept.
+
+\subsection{Automatic tests}
+The project would have benefitted from passing automatic tests before doing user tests. While automatic tests were never written because of time constratints, since iteration 3, beta releases and production releases were seperated into different domains, using Heroku's staging environement, with a different GitHub branch for each new iteration.
+
+Even so, doing automated tests would could have helped finding things that had worked previously but not in a new version, or finding bugs with new functionality like client-server communication. This would have made interactions with coaches more efficient, since the users would have been exposed to an app with less accidental errors.
+
+\subsection{Difficulties comparing quiz results between iterations}
+The idea was that app tests for iteration \#3 would be carried out in a way that allowed comparison of usability and learning done between iteration \#2 in Zambia and iteration \#3 in Uganda. This was however never implemented during the app test. This would been useful, but the coaches and the usage of the app in Zambia and Uganda was determined to be too different. See more about this in Future work.

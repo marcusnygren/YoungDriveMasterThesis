@@ -3,24 +3,29 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 The style file: plainnat.bst
 A level-1 auxiliary file: thanks/thanks.aux
-A level-1 auxiliary file: notations/notation.aux
 A level-1 auxiliary file: introduction/introduction.aux
 A level-1 auxiliary file: methods/methods.aux
 A level-1 auxiliary file: result/result.aux
 A level-1 auxiliary file: discussion/discussion.aux
 A level-1 auxiliary file: conclusion/conclusion.aux
-A level-1 auxiliary file: appendix/detaljer.aux
-Illegal, another \bibstyle command---line 185 of file main.aux
+A level-1 auxiliary file: appendix/time_plan.aux
+A level-1 auxiliary file: appendix/pre_test.aux
+Illegal, another \bibstyle command---line 153 of file main.aux
  : \bibstyle
  :          {plain}
 I'm skipping whatever remains of this command
 Database file #1: IEEEfull.bib
 Database file #2: references/myrefs.bib
 Warning--I'm ignoring yengin's extra "journal" field
---line 139 of file references/myrefs.bib
+--line 152 of file references/myrefs.bib
+Warning--entry type for "duolingo" isn't style-file defined
+--line 442 of file references/myrefs.bib
+Warning--entry type for "quizoid" isn't style-file defined
+--line 449 of file references/myrefs.bib
 Warning--I didn't find a database entry for "dweck-youtube"
 Warning--I didn't find a database entry for "yd-zambia-interviews"
-Warning--I didn't find a database entry for "youngdrive"
+Warning--I didn't find a database entry for "ropinski"
+Warning--I didn't find a database entry for "voto-mobile"
 Warning--I didn't find a database entry for "Memorize"
 Name 1 in "Björling, I., and Lönn, J." has a comma at the end for entry youngdrive-masterthesis-idea
 while executing---line 1347 of file plainnat.bst
@@ -150,10 +155,6 @@ Too many commas in name 1 of "Clark, D., Tanner-Smith, E., Killingsworth, S." fo
 while executing---line 1347 of file plainnat.bst
 Too many commas in name 1 of "Clark, D., Tanner-Smith, E., Killingsworth, S." for entry gates
 while executing---line 1347 of file plainnat.bst
-Name 1 in "Stickdorn, M., and Schneider, J." has a comma at the end for entry stickdorn
-while executing---line 1347 of file plainnat.bst
-Name 1 in "Stickdorn, M., and Schneider, J." has a comma at the end for entry stickdorn
-while executing---line 1347 of file plainnat.bst
 Name 1 in "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." has a comma at the end for entry yengin
 while executing---line 1347 of file plainnat.bst
 Too many commas in name 1 of "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." for entry yengin
@@ -301,6 +302,10 @@ while executing---line 1347 of file plainnat.bst
 Name 1 in "Löwgren, J., and Stolterman, E." has a comma at the end for entry lowgren
 while executing---line 1347 of file plainnat.bst
 Name 1 in "Löwgren, J., and Stolterman, E." has a comma at the end for entry lowgren
+while executing---line 1347 of file plainnat.bst
+Name 1 in "Stickdorn, M., and Schneider, J." has a comma at the end for entry stickdorn
+while executing---line 1347 of file plainnat.bst
+Name 1 in "Stickdorn, M., and Schneider, J." has a comma at the end for entry stickdorn
 while executing---line 1347 of file plainnat.bst
 Name 1 in "Widmark, E., and Nissar, S." has a comma at the end for entry expedition-mondial
 while executing---line 1347 of file plainnat.bst
@@ -599,45 +604,45 @@ while executing---line 1429 of file plainnat.bst
 Too many commas in name 1 of "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." for entry yengin
 while executing---line 1429 of file plainnat.bst
 Warning--there's a number but no volume in yengin
-You've used 43 entries,
+You've used 49 entries,
             2773 wiz_defined-function locations,
-            1223 strings with 22257 characters,
-and the built_in function-call counts, 14619 in all, are:
-= -- 1251
-> -- 705
-< -- 43
-+ -- 247
-- -- 204
-* -- 917
-:= -- 2335
-add.period$ -- 132
-call.type$ -- 43
-change.case$ -- 183
-chr.to.int$ -- 43
-cite$ -- 87
-duplicate$ -- 796
-empty$ -- 1353
-format.name$ -- 297
-if$ -- 3076
+            1244 strings with 22769 characters,
+and the built_in function-call counts, 16368 in all, are:
+= -- 1396
+> -- 765
+< -- 49
++ -- 271
+- -- 222
+* -- 999
+:= -- 2608
+add.period$ -- 149
+call.type$ -- 49
+change.case$ -- 205
+chr.to.int$ -- 49
+cite$ -- 99
+duplicate$ -- 896
+empty$ -- 1545
+format.name$ -- 321
+if$ -- 3451
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 48
-newline$ -- 226
-num.names$ -- 172
-pop$ -- 432
+missing$ -- 52
+newline$ -- 255
+num.names$ -- 196
+pop$ -- 505
 preamble$ -- 1
-purify$ -- 154
+purify$ -- 172
 quote$ -- 0
-skip$ -- 638
+skip$ -- 715
 stack$ -- 0
-substring$ -- 107
-swap$ -- 42
+substring$ -- 119
+swap$ -- 48
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 403
+type$ -- 459
 warning$ -- 1
-while$ -- 130
+while$ -- 148
 width$ -- 0
-write$ -- 551
+write$ -- 621
 (There were 289 error messages)
