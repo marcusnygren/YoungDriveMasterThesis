@@ -24,6 +24,8 @@ Warning--entry type for "quizoid" isn't style-file defined
 --line 449 of file references/myrefs.bib
 Warning--I didn't find a database entry for "dweck-youtube"
 Warning--I didn't find a database entry for "yd-zambia-interviews"
+Warning--I didn't find a database entry for "bloom"
+Warning--I didn't find a database entry for "dweck"
 Warning--I didn't find a database entry for "ropinski"
 Warning--I didn't find a database entry for "voto-mobile"
 Warning--I didn't find a database entry for "Memorize"
@@ -606,7 +608,7 @@ while executing---line 1429 of file plainnat.bst
 Warning--there's a number but no volume in yengin
 You've used 49 entries,
             2773 wiz_defined-function locations,
-            1244 strings with 22769 characters,
+            1246 strings with 22779 characters,
 and the built_in function-call counts, 16368 in all, are:
 = -- 1396
 > -- 765
