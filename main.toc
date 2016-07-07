@@ -130,51 +130,48 @@
 \contentsline {subsection}{\numberline {3.2.4}Next iteration}{53}{subsection.3.2.4}
 \contentsline {section}{\numberline {3.3}Zambia Coach Training}{53}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}Qualitative data}{54}{subsection.3.3.1}
-\contentsline {subsubsection}{Lessons learned from unbiased app design by coaches}{54}{section*.117}
-\contentsline {subsubsection}{Lessons learned from app test observations: motivation}{54}{section*.119}
-\contentsline {subsubsection}{Lessons learned from app test observations: learning}{55}{section*.120}
+\contentsline {subsubsection}{Lessons learned from app test observations: motivation}{54}{section*.117}
+\contentsline {subsubsection}{Lessons learned from app test observations: learning}{55}{section*.118}
 \contentsline {subsection}{\numberline {3.3.2}Quantitative data}{56}{subsection.3.3.2}
-\contentsline {subsubsection}{Results from the coaches}{56}{section*.121}
-\contentsline {subsubsection}{Day 4}{56}{section*.122}
-\contentsline {subsubsection}{Day 5}{56}{section*.123}
-\contentsline {subsubsection}{Results from workshop \#2}{57}{section*.124}
-\contentsline {subsubsection}{Bonus results: Testing the app on refugee innovations}{57}{section*.126}
+\contentsline {subsubsection}{Quiz results from the coaches}{56}{section*.119}
+\contentsline {subsubsection}{Lessons learned from unbiased app design by coaches: use case 1}{57}{section*.120}
+\contentsline {subsubsection}{Lessons learned from unbiased app design by coaches: use case 2}{57}{section*.122}
 \contentsline {subsection}{\numberline {3.3.3}Discussion}{57}{subsection.3.3.3}
-\contentsline {subsubsection}{Validating the coaches' level of knowledge}{57}{section*.127}
-\contentsline {subsubsection}{Distance learning}{58}{section*.128}
+\contentsline {subsubsection}{Validating the coaches' level of knowledge}{58}{section*.124}
+\contentsline {subsubsection}{Distance learning}{58}{section*.125}
 \contentsline {subsection}{\numberline {3.3.4}Next iteration}{59}{subsection.3.3.4}
 \contentsline {section}{\numberline {3.4}Uganda Formative Test}{60}{section.3.4}
 \contentsline {subsection}{\numberline {3.4.1}Qualitative data}{60}{subsection.3.4.1}
-\contentsline {subsubsection}{Observations from Kampala test}{60}{section*.129}
-\contentsline {subsubsection}{Verified relevancy of seperating Training and Certification}{60}{section*.130}
-\contentsline {subsubsection}{Field visits}{60}{section*.131}
-\contentsline {subsubsection}{Big app test}{60}{section*.132}
+\contentsline {subsubsection}{Observations from Kampala test}{60}{section*.126}
+\contentsline {subsubsection}{Verified relevancy of seperating Training and Certification}{61}{section*.127}
+\contentsline {subsubsection}{Field visits}{61}{section*.128}
+\contentsline {subsubsection}{Big app test}{61}{section*.129}
 \contentsline {subsection}{\numberline {3.4.2}Quantitative data}{61}{subsection.3.4.2}
-\contentsline {subsubsection}{Observable trends from the coaches}{61}{section*.133}
-\contentsline {subsection}{\numberline {3.4.3}Conclusions}{62}{subsection.3.4.3}
-\contentsline {subsubsection}{Pedagogical model}{62}{section*.136}
-\contentsline {subsubsection}{Bonus results}{63}{section*.137}
-\contentsline {subsubsection}{Data collection needs to be online}{63}{section*.138}
-\contentsline {subsubsection}{Collecting the data on Are you sure?}{63}{section*.139}
-\contentsline {subsubsection}{For the next iteration}{63}{section*.141}
-\contentsline {section}{\numberline {3.5}Uganda Summative Test}{63}{section.3.5}
+\contentsline {subsubsection}{Observable trends from the coaches}{61}{section*.130}
+\contentsline {subsection}{\numberline {3.4.3}Conclusions}{63}{subsection.3.4.3}
+\contentsline {subsubsection}{Pedagogical model}{63}{section*.133}
+\contentsline {subsubsection}{Bonus results}{63}{section*.134}
+\contentsline {subsubsection}{Data collection needs to be online}{64}{section*.135}
+\contentsline {subsubsection}{Collecting the data on Are you sure?}{64}{section*.136}
+\contentsline {subsubsection}{For the next iteration}{64}{section*.138}
+\contentsline {section}{\numberline {3.5}Uganda Summative Test}{64}{section.3.5}
 \contentsline {subsection}{\numberline {3.5.1}Qualitative data}{64}{subsection.3.5.1}
 \contentsline {subsection}{\numberline {3.5.2}Quantitative data}{64}{subsection.3.5.2}
-\contentsline {subsubsection}{Google Sheets}{64}{section*.145}
-\contentsline {subsubsection}{Statistical analysis}{64}{section*.147}
-\contentsline {subsubsection}{Parallel coordinates visualization}{65}{section*.148}
-\contentsline {subsection}{\numberline {3.5.3}Conclusions}{66}{subsection.3.5.3}
+\contentsline {subsubsection}{Google Sheets}{64}{section*.142}
+\contentsline {subsubsection}{Statistical analysis}{65}{section*.144}
+\contentsline {subsubsection}{Parallel coordinates visualization}{65}{section*.145}
+\contentsline {subsection}{\numberline {3.5.3}Conclusions}{67}{subsection.3.5.3}
 \contentsline {chapter}{\numberline {4}Discussion}{73}{chapter.4}
 \contentsline {section}{\numberline {4.1}How is the development affected by the technical possibilities?}{73}{section.4.1}
 \contentsline {subsection}{\numberline {4.1.1}Online data collection was needed earlier}{74}{subsection.4.1.1}
-\contentsline {subsubsection}{Problems with internet access}{74}{section*.151}
+\contentsline {subsubsection}{Problems with internet access}{74}{section*.148}
 \contentsline {subsection}{\numberline {4.1.2}Backwards capability issues}{74}{subsection.4.1.2}
 \contentsline {subsection}{\numberline {4.1.3}No time assigned for writing Automatic tests}{75}{subsection.4.1.3}
 \contentsline {subsection}{\numberline {4.1.4}Difficulties comparing quiz results between iterations}{75}{subsection.4.1.4}
 \contentsline {section}{\numberline {4.2}How is the design affected by the contextual constraints, e.g. young entrepreneurs, entrepreneurship education, and culture?}{75}{section.4.2}
-\contentsline {subsubsection}{From computer expert into a digital service designer}{76}{section*.152}
-\contentsline {subsubsection}{Having many people involved in the design process to adapt to the contextual constraints}{77}{section*.153}
-\contentsline {subsubsection}{Spending time in the real-world training}{78}{section*.154}
+\contentsline {subsubsection}{From computer expert into a digital service designer}{76}{section*.149}
+\contentsline {subsubsection}{Having many people involved in the design process to adapt to the contextual constraints}{77}{section*.150}
+\contentsline {subsubsection}{Spending time in the real-world training}{78}{section*.151}
 \contentsline {section}{\numberline {4.3}How can test questions be developed to support entrepreneurship learning?}{79}{section.4.3}
 \contentsline {subsection}{\numberline {4.3.1}Learning effect}{79}{subsection.4.3.1}
 \contentsline {section}{\numberline {4.4}How does design affect usability and learning done via the app?}{80}{section.4.4}
@@ -182,10 +179,10 @@
 \contentsline {subsection}{\numberline {4.4.2}Deciding on learning methods}{81}{subsection.4.4.2}
 \contentsline {section}{\numberline {4.5}How can users' feedback be used to inform modifications of the app?}{82}{section.4.5}
 \contentsline {chapter}{\numberline {5}Conclusions}{85}{chapter.5}
-\contentsline {subsubsection}{Contributed to the domain of entrepreneurship education in a developing country context}{85}{section*.156}
-\contentsline {subsubsection}{Demonstrated how certain technical constraints and design constraints can be overcome in a developing world context}{85}{section*.157}
-\contentsline {subsubsection}{Provided methods of investigating usability and learnings with a digital training tool in the real-world training context}{86}{section*.159}
-\contentsline {subsubsection}{Created new methods in service design, when co-designing digital artefacts in a developing country context}{86}{section*.160}
+\contentsline {subsubsection}{Contributed to the domain of entrepreneurship education in a developing country context}{85}{section*.153}
+\contentsline {subsubsection}{Demonstrated how certain technical constraints and design constraints can be overcome in a developing world context}{85}{section*.154}
+\contentsline {subsubsection}{Provided methods of investigating usability and learnings with a digital training tool in the real-world training context}{86}{section*.156}
+\contentsline {subsubsection}{Created new methods in service design, when co-designing digital artefacts in a developing country context}{86}{section*.157}
 \contentsline {chapter}{\numberline {6}Future Work}{87}{chapter.6}
 \contentsline {section}{\numberline {6.1}How is the development affected by the technical possibilities?}{87}{section.6.1}
 \contentsline {subsection}{\numberline {6.1.1}Data analysis improvements}{87}{subsection.6.1.1}
@@ -223,7 +220,7 @@
 \contentsline {subsection}{\numberline {A.1.4}After Semester}{102}{subsection.A.1.4}
 \contentsline {section}{\numberline {A.2}Half-Time Evaluation Time Plan}{102}{section.A.2}
 \contentsline {chapter}{\numberline {B}Appendix 2}{103}{appendix.B}
-\contentsline {chapter}{Bibliography}{105}{appendix*.164}
+\contentsline {chapter}{Bibliography}{105}{appendix*.161}
 \select@language {swedish}
 \select@language {english}
 \select@language {english}
