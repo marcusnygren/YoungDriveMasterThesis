@@ -1,4 +1,4 @@
-\begin{thebibliography}{49}
+\begin{thebibliography}{53}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -61,6 +61,11 @@ Tanner-Smith E. Killingsworth~S. Clark, D.
   Meta-Analysis (Executive Summary)}.
 \newblock SRI International, 2014.
 
+\bibitem[Co.(2016)]{ionic}
+Drifty Co.
+\newblock Ionic framework.
+\newblock \url{http://ionicframework.com/}, 2016.
+
 \bibitem[de~Marcos and Otón(2010)]{de-marcos}
 Hilera J. R. Burchino R. Jiménez L. Martínez J. J. Gutiérrez J. A.
   Gutiérrez J.~M. de~Marcos, L. and S.~Otón.
@@ -73,6 +78,13 @@ Hilera J. R. Burchino R. Jiménez L. Martínez J. J. Gutiérrez J. A.
 E.~L. Deci and R.~M. Ryan.
 \newblock \emph{Intrinsic motivation and selfdetermination in human behavior}.
 \newblock Plenum, 1985.
+
+\bibitem[Deci and Ryan(2000)]{ryan}
+E.~L. Deci and R.~M. Ryan.
+\newblock Intrinsic and extrinsic motivations: Classical definitions and new
+  directions.
+\newblock \emph{Contemporary Educational Psychology}, 25\penalty0 (54-67),
+  2000.
 
 \bibitem[Dickson and Weaver(2008)]{dickson}
 Solomon G.~T. Dickson, P.~H. and K.~M. Weaver.
@@ -101,6 +113,11 @@ A.~J. Elliot and M.~V. Covington.
 \newblock Approach and avoidance motivation.
 \newblock \emph{Educational Psychology Review}, 13\penalty0 (2), 2001.
 
+\bibitem[Facebook(2016)]{react}
+Instagram Facebook.
+\newblock React.
+\newblock \url{https://facebook.github.io/react/}, 2016.
+
 \bibitem[Fulmer and Frijters(2009)]{fulmer}
 S.~M. Fulmer and J.~C. Frijters.
 \newblock A review of self-report and alternative approaches in the measurement
@@ -123,6 +140,11 @@ R.~Heer.
 Kolvereid~L. Iakovleva, T. and U.~Stehphan.
 \newblock Entrepreneurial intentions in developing and developed countries.
 \newblock \emph{Education + Training}, 53\penalty0 (5), 2011.
+
+\bibitem[Inc.(2016)]{meteor}
+Meteor Development~Group Inc.
+\newblock Meteor.
+\newblock \url{https://www.meteor.com/}, 2016.
 
 \bibitem[Kniberg(2005)]{kniberg}
 Henrik Kniberg.
@@ -179,6 +201,11 @@ Busenitz L. W. Bird B. Marie Gaglio C. McMullen J. S. Morse E.~A. Mitchell,
 \newblock The central question in entrepreneurial cognition research.
 \newblock \emph{Entrepreneurship Theory and Practice}, 31\penalty0 (1), 2007.
 
+\bibitem[Muth(2016)]{memorize}
+Craig Muth.
+\newblock Memorize.
+\newblock \url{http://memorize.com/}, 2016.
+
 \bibitem[Nicol(2007)]{nicol}
 D.~Nicol.
 \newblock E-assessment by design: using multiple-choice tests to good effect.
@@ -224,13 +251,6 @@ E.~Ruskovaara and T.~Pihkala.
 \newblock \emph{The Journal of Educational Research}, 108:3:\penalty0 236--249,
   2015.
 \newblock \doi{10.1080/00220671.2013.878301}.
-
-\bibitem[Ryan and Deci(2000a)]{ryan}
-R.~M. Ryan and E.~L. Deci.
-\newblock Intrinsic and extrinsic motivations: Classical definitions and new
-  directions.
-\newblock \emph{Contemporary Educational Psychology}, 25\penalty0 (54-67),
-  2000a.
 
 \bibitem[Sierra(2015)]{sierra}
 K.~Sierra.

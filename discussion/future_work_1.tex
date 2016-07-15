@@ -3,7 +3,14 @@
 Some of the wished development were too complex to be implemented during the master thesis. Below, it is described what future work is wished in the area.
 
 \subsection{Data analysis improvements}
-Today, data analysis of quiz results takes a tremendous amount of time, and is not easily accessible or understood by the stakeholders. The data needs to be acquired into Google Sheets, and then needs to be enhanced in several ways to be filterable and visualized.
+Today, data analysis of quiz results takes a tremendous amount of time, and is not easily accessible or understood by the stakeholders. The data needs to be acquired into Google Sheets, and then needs to be enhanced in several ways to be filterable and visualized. The raw data when inserted into Google Sheets can be seen in figure \ref{unprocessedData}.
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.8\textwidth]{analysis/unprocessedData.png}
+  \caption{The raw data of the quiz results when inserted into Google Sheets.}
+  \label{fig:unprocessedData}
+\end{figure}
 
 A lot of future development time should be spent so that most of this work is made automatically. Some of this work, is related to the way that the data is saved. Today, whether the coach was correct or incorrect on a question, and how many coaches answered that question incorrect after the first try, needs to be done by process of elimination, because the data is not properly structured in the database.
 
@@ -34,3 +41,6 @@ Since the introduction of Meteor 1.3, older Android devices are no longer suppor
 As far from all coaches does not currently possess smartphones, few coaches will currently be able to use the developed app for preparing their youth sessions. Therefore, what was discovered in iteration 1, that all coaches possess feature phones, could guide the development of a SMS-based service. While this was not viable for the scope of the master thesis, research has been made into related work.
 
 A recommendation is to try VOTO Mobile \cite{voto-mobile}, which supports multiple-choice questions and internationalization. Today, this solution has been used mostly for doing evaluations in rural areas, via automatic phone calls where the caller can be given responses in text. However, research on using such a solution for educational purposes seems promising.
+
+\subsection{A bigger data sample would benefit answering the other research questions}
+There are multiple examples how data analysis on a larger data sample could benefit answering the research questions. One such example is "Is the coach learning?". With enough data, it would be interesting to analyse the impact of feedback on getting the correct answer the next time. For example, you could compare if getting feedback on being wrong and unsure leads to better results than getting feedback on being wrong and unsure.

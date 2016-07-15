@@ -5,13 +5,9 @@ For iteration 3, there was also a need to store data per individual, partly beca
 \subsection{Login}
 To record data per user, would require login. This would be a usability issue for most problems, being 1st-time smartphone users. They need to find it intuitive, user-friendly, and be able to remember the password in the future. A lot of different suggestions were through the ideation phase.
 
-The simplest login possible was chosen, after evaluation and discussion with experts: a 3-digit code, which was to be given to each coach during the test.
+The simplest login possible was chosen, after evaluation and discussion with experts: a 3-digit code, which was to be given to each coach during the test. Meteor had limitations with their auto-login module, which is very fast to implement. Thus, a 3-digit login was written manually. To summarize, the front-end was not problematic, however, implementing server-client communication so that it worked online and offline, was.
 
 %Jag pratade med flera om detta, Expedition Mondial och Grameen. Från EM lärde jag mig att de trodde min idé med en färdiggjort lista med coachernas namn (vi vet ju vilka som är i Tororo) skulle fungera, och från Grameen fick jag höra om dera erfarenhet att de validerat använda samma approach, med en PIN (längre än 4 siffror dock), men att de inte nailat konceptet ännu, och att de också itererar på sin approach för nästa uppdatering av LedgerLink.
-
-Meteor had limitations with their auto-login module, which is very fast to implement. It forces username and password, and instead I wrote the login myself. This was
-
-To summarize, the front-end was not problematic, however, implementing server-client communication so that it worked online and offline, was.
 
 %Tyvärr har också Meteor begränsningar med deras auto-login-modul. Den tvingar både användarnamn och lösenord, och har automatiskt registrering. Går det att stänga av? Jag kan skapa användare och lösenord åt alla, och funderade på hur jag skulle generera lösenord. Ett förslag blev att bara registrera deras förnamn, och sedan skapa lösenordet baserat på T9 med de 6 första bokstäverna utan att berätta det för dem. Sedan tänkte jag på det kulturella, att det kan vara oartigt med förnamn, och bestämde mig för efternamn istället. Hela namnet skulle bli för långt och krångligt.
 

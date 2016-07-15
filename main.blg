@@ -10,7 +10,7 @@ A level-1 auxiliary file: discussion/discussion.aux
 A level-1 auxiliary file: conclusion/conclusion.aux
 A level-1 auxiliary file: appendix/time_plan.aux
 A level-1 auxiliary file: appendix/pre_test.aux
-Illegal, another \bibstyle command---line 153 of file main.aux
+Illegal, another \bibstyle command---line 120 of file main.aux
  : \bibstyle
  :          {plain}
 I'm skipping whatever remains of this command
@@ -18,17 +18,24 @@ Database file #1: IEEEfull.bib
 Database file #2: references/myrefs.bib
 Warning--I'm ignoring yengin's extra "journal" field
 --line 152 of file references/myrefs.bib
+Warning--entry type for "ionic" isn't style-file defined
+--line 451 of file references/myrefs.bib
+Warning--entry type for "meteor" isn't style-file defined
+--line 458 of file references/myrefs.bib
+Warning--entry type for "react" isn't style-file defined
+--line 465 of file references/myrefs.bib
 Warning--entry type for "duolingo" isn't style-file defined
---line 442 of file references/myrefs.bib
+--line 474 of file references/myrefs.bib
 Warning--entry type for "quizoid" isn't style-file defined
---line 449 of file references/myrefs.bib
+--line 481 of file references/myrefs.bib
+Warning--entry type for "memorize" isn't style-file defined
+--line 489 of file references/myrefs.bib
 Warning--I didn't find a database entry for "dweck-youtube"
 Warning--I didn't find a database entry for "yd-zambia-interviews"
 Warning--I didn't find a database entry for "bloom"
 Warning--I didn't find a database entry for "dweck"
 Warning--I didn't find a database entry for "ropinski"
 Warning--I didn't find a database entry for "voto-mobile"
-Warning--I didn't find a database entry for "Memorize"
 Name 1 in "Björling, I., and Lönn, J." has a comma at the end for entry youngdrive-masterthesis-idea
 while executing---line 1347 of file plainnat.bst
 Name 1 in "Björling, I., and Lönn, J." has a comma at the end for entry youngdrive-masterthesis-idea
@@ -285,9 +292,9 @@ Name 1 in "Deci, E. L., and Ryan, R. M." has a comma at the end for entry deci
 while executing---line 1347 of file plainnat.bst
 Name 1 in "Deci, E. L., and Ryan, R. M." has a comma at the end for entry deci
 while executing---line 1347 of file plainnat.bst
-Name 1 in "Ryan, R. M., and Deci, E. L." has a comma at the end for entry ryan
+Name 1 in "Deci, E. L., and Ryan, R. M." has a comma at the end for entry ryan
 while executing---line 1347 of file plainnat.bst
-Name 1 in "Ryan, R. M., and Deci, E. L." has a comma at the end for entry ryan
+Name 1 in "Deci, E. L., and Ryan, R. M." has a comma at the end for entry ryan
 while executing---line 1347 of file plainnat.bst
 Name 1 in "Elliot, A. J., and Covington, M. V." has a comma at the end for entry elliot
 while executing---line 1347 of file plainnat.bst
@@ -413,6 +420,10 @@ Name 1 in "Deci, E. L., and Ryan, R. M." has a comma at the end for entry deci
 while executing---line 1429 of file plainnat.bst
 Name 1 in "Deci, E. L., and Ryan, R. M." has a comma at the end for entry deci
 while executing---line 1429 of file plainnat.bst
+Name 1 in "Deci, E. L., and Ryan, R. M." has a comma at the end for entry ryan
+while executing---line 1429 of file plainnat.bst
+Name 1 in "Deci, E. L., and Ryan, R. M." has a comma at the end for entry ryan
+while executing---line 1429 of file plainnat.bst
 Name 1 in "Dickson, P. H., Solomon, G. T., and Weaver, K. M." has a comma at the end for entry dickson
 while executing---line 1429 of file plainnat.bst
 Too many commas in name 1 of "Dickson, P. H., Solomon, G. T., and Weaver, K. M." for entry dickson
@@ -528,10 +539,6 @@ while executing---line 1429 of file plainnat.bst
 Name 1 in "Ruskovaara, E., and Pihkala, T." has a comma at the end for entry ruskovaara
 while executing---line 1429 of file plainnat.bst
 Name 1 in "Ruskovaara, E., and Pihkala, T." has a comma at the end for entry ruskovaara
-while executing---line 1429 of file plainnat.bst
-Name 1 in "Ryan, R. M., and Deci, E. L." has a comma at the end for entry ryan
-while executing---line 1429 of file plainnat.bst
-Name 1 in "Ryan, R. M., and Deci, E. L." has a comma at the end for entry ryan
 while executing---line 1429 of file plainnat.bst
 Name 1 in "Sitzmann, T., Bell, B. S., Kraiger, K., and Kanar, A. M." has a comma at the end for entry sitzmann
 while executing---line 1429 of file plainnat.bst
@@ -606,45 +613,45 @@ while executing---line 1429 of file plainnat.bst
 Too many commas in name 1 of "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." for entry yengin
 while executing---line 1429 of file plainnat.bst
 Warning--there's a number but no volume in yengin
-You've used 49 entries,
+You've used 53 entries,
             2773 wiz_defined-function locations,
-            1246 strings with 22779 characters,
-and the built_in function-call counts, 16368 in all, are:
-= -- 1396
-> -- 765
-< -- 49
-+ -- 271
-- -- 222
-* -- 999
-:= -- 2608
-add.period$ -- 149
-call.type$ -- 49
-change.case$ -- 205
-chr.to.int$ -- 49
-cite$ -- 99
-duplicate$ -- 896
-empty$ -- 1545
-format.name$ -- 321
-if$ -- 3451
+            1258 strings with 22982 characters,
+and the built_in function-call counts, 17544 in all, are:
+= -- 1500
+> -- 805
+< -- 53
++ -- 287
+- -- 234
+* -- 1051
+:= -- 2788
+add.period$ -- 161
+call.type$ -- 53
+change.case$ -- 221
+chr.to.int$ -- 53
+cite$ -- 107
+duplicate$ -- 956
+empty$ -- 1673
+format.name$ -- 337
+if$ -- 3707
 int.to.chr$ -- 1
 int.to.str$ -- 1
 missing$ -- 52
-newline$ -- 255
-num.names$ -- 196
-pop$ -- 505
+newline$ -- 275
+num.names$ -- 212
+pop$ -- 553
 preamble$ -- 1
-purify$ -- 172
+purify$ -- 184
 quote$ -- 0
-skip$ -- 715
+skip$ -- 767
 stack$ -- 0
-substring$ -- 119
-swap$ -- 48
+substring$ -- 127
+swap$ -- 52
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 459
+type$ -- 503
 warning$ -- 1
-while$ -- 148
+while$ -- 160
 width$ -- 0
-write$ -- 621
+write$ -- 669
 (There were 289 error messages)
