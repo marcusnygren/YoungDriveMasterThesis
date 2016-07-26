@@ -749,15 +749,15 @@
 \providecommand{\backref}{\relax}
 \providecommand{\backrefalt}{\relax}
 \renewcommand*{\backref}[1]{}
-\renewcommand*{\backrefalt}[4]{%
-  \ifcase #1 %
-    Not cited.%
-  \or
-    Cited on page #2.%
-  \else
-    Cited on pages #2.%
-  \fi
-}
+\renewcommand*{\backrefalt}[4]{}%
+  %\ifcase #1 %
+  %  Not cited.%
+  %\or
+  %  Cited on page #2.%
+  %\else
+  %  Cited on pages #2.%
+  %\fi
+%}
 
 % In case we didn't load the backref package (perhaps via hyperref), it may be good to have the following void definitions around.
 \providecommand{\backrefparscanfalse}{}

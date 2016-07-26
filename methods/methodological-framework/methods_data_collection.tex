@@ -2,7 +2,7 @@
 
 This section presents relevant methods for analysing qualitative data and quantitative data.
 
-\subsubsection{Qualitative Data}
+\subsubsection{Analysing Qualitative Data}
 
 Below, methods for analysing qualitative data are presented. In the research phase, Personas or Need groups are methods to analyse the though users of a product or a service. A Customer Journey Map supports understanding of how such users interact with a product or a service. Getting feedback from users involves getting ideas or suggestions for improvement of a product or a service. To analyse these, a sprint backlog is used to keep track of the priority of such feedback. If the features are then successfully implemented in the eyes of the users and stakeholders, can be tested using a sprint demo, where feedback is gathered for future work.
 
@@ -35,99 +35,104 @@ At the end of an iteration, as much as possible of the sprint backlog has been t
 \subsubsection{Sprint Demo}
 A sprint demo is an effective way to analyse the product created after an iteration, from the perspective of the users and the stakeholders. \cite{kniberg} says that a well executed sprint demo attracts vital feedback from stakeholders, and ensures that todos are 100\% done. A sprint demo does not need to be complicated: the product is shown and tested with users and stakeholders, getting feedback for the next iteration. But without it, it would not be possible to know if the work done has satisfied the needs of the end users, or what the stakeholders thinks is important for future work.
 
-\subsubsection{Quantitative Data}
-Below, methods for analysing collected quantitative data are presented. The first method is correlation, but if multiple variables needs to taken into account, logistical regression can be used. As both of these are statistical tools, they rely on statistical significance in order to be trustworthy. In small-scale app tests, such amounts of data might not be sufficient.
+\subsubsection{Analysing Quantitative Data}
+Below, methods for analysing collected quantitative data are presented. The first method used is correlation, but if multiple variables needs to taken into account, logistical regression can be used. As both of these are statistical tools, they rely on statistical significance in order to be trustworthy. In R programming language there are powerful tools for visualizing the correlation, for example using a "Correlation Heatmap", see figure \ref{fig:corrHeatmap}. In small-scale app tests, such amounts of data might not be sufficient.
 
-To find trends or oddities in a small data set, visualization techniques to discover the data by hand might be more beneficial. To enable a visualization, the data needs to be collected, enhanced, mapped and rendered. When rendered, a suitable rendering of a multiple-variable data set might be parallel coordinates, which shows correlations graphically, and can be made filterable by user interaction.
+To find trends or oddities in a small data set, visualization techniques to discover the quantitative data by hand might be more beneficial. To enable a visualization, data needs to be acquired, enhanced, mapped to a geometry and lastly rendered \citep{timo-ropinski-liu}. When rendered, a suitable rendering of a multiple-variable data set might be parallel coordinates, see figure \ref{fig:uneTerre}. Made interactive, each axis can be made filterable by user interaction.
 
-\subsubsection{Calculating Correlation in Google Sheets and R}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.7\textwidth]{analysis/terre.png}
+    \caption{A parallel coordinates visualization enables you to visually observe relationships and trends between dimensions: positive or negative relationship (correlation or invert), or no relationship at all (random) \cite{une-terre}}
+    \label{fig:uneTerre}
+\end{figure}
 
-The process is to calculate and compare means on a "control"  with a response variable.
+%\subsubsection{Calculating Correlation in Google Sheets and R}
 
-It is clear that analysis in Google Sheets can only go so far. It can be greatly helpful to sort by multiple columns (e.g. first by Manual?, then by School level, then by Quiz 3). However, it takes a long time to filter the data on multiple parameters, and the work easily becomes tedious. For some applications, it may not be viable to discover the data using this approach.
+%The process is to calculate and compare means on a "control"  with a response variable.
 
-In Google Sheets, color scale can be used to give different column values different colors, see figure \ref{analysFarg4}. It is still hard to compare all of the axises towards all the axises, and it is not a scientific approach.
+%It is clear that analysis in Google Sheets can only go so far. It can be greatly helpful to sort by multiple columns (e.g. first by Manual?, then by School level, then by Quiz 3). However, it takes a long time to filter the data on multiple parameters, and the work easily becomes tedious. For some applications, it may not be viable to discover the data using this approach.
 
-Even in R, it is cumbersome to do statistically with all of the axises against all the axises. It is however possible to in both Google Sheets as well as the R programming language. Psuedo-code in R would be:
+%In Google Sheets, color scale can be used to give different column values different colors, see figure \ref{analysFarg4}. It is still hard to compare all of the axises towards all the axises, and it is not a scientific approach.
 
-\begin{verbatim}
-x1 = c(1,2,3,1,5,6)
-x2 = c(2,3,4,NA,6,7)
-cor(x = x1, y = x2)
-cor.test(x1,x2)
-\end{verbatim}
+%Even in R, it is cumbersome to do statistically with all of the axises against all the axises. It is however possible to in both Google Sheets as well as the R programming language. Psuedo-code in R would be:
 
-In R programming language there are more powerful tools for visualizing the correlation, e.g. using a "Correlation Heatmap", see figure \ref{fig:corrHeatmap}. Psuedo-code in R would be:
+%\begin{verbatim}
+%x1 = c(1,2,3,1,5,6)
+%x2 = c(2,3,4,NA,6,7)
+%cor(x = x1, y = x2)
+%cor.test(x1,x2)
+%\end{verbatim}
 
-\begin{verbatim}
-random_matrix <- matrix(rnorm(100), nrow = 10, ncol = 10)
-random_matrix[1,1] <- NA
-colnames(random_matrix) <- paste("V",1:10)
-cor_mat <- cor(random_matrix)
-heatmap(cor_mat, keep.dendro = FALSE)
-\end{verbatim}
+%In R programming language there are powerful tools for visualizing the correlation, for example using a "Correlation Heatmap", see figure \ref{fig:corrHeatmap}. %Psuedo-code in R would be:
+
+%\begin{verbatim}
+%random_matrix <- matrix(rnorm(100), nrow = 10, ncol = 10)
+%random_matrix[1,1] <- NA
+%colnames(random_matrix) <- paste("V",1:10)
+%cor_mat <- cor(random_matrix)
+%heatmap(cor_mat, keep.dendro = FALSE)
+%\end{verbatim}
 
 \begin{figure}[h]
     \centering
     \includegraphics[width=0.7\textwidth]{analysis/rStatisticalAnalysis.png}
-    \caption{Heatmap showing correlation, axis against axis, using example data. The more red a segment is, the bigger is the correlation between those two axises. You can see that in this example, there is a big correlation between for example V4 and V9.}
+    \caption{Heatmap showing correlation, axis against axis, using example data. The more red a segment is, the bigger is the correlation between those two axises. You can see that in this example, there is a big correlation between for example V4 and V9. To be significantly significant in correlation or linear correlation, a common measure is that the Pr value ("the p-value") needs to be higher than 0.05. If the p-value is higher than 0.05, it means that it is significant with a 95\% probability.}
     \label{fig:corrHeatmap}
 \end{figure}
 
-\subsubsection{Calculating Logistic Regression in R}
+%\subsubsection{Calculating Logistic Regression in R}
 
-A limitation with correlation is that only two dimensions can be compared with each other at the same time. What if we want to find a correlation between quiz score and gender \textit{and} age?
+%A limitation with correlation is that only two dimensions can be compared with each other at the same time. What if we want to find a correlation between quiz score and gender \textit{and} age?
 
-To do this, Logistic Regression is helpful if our response variable can be a logistical dimension (e.g. women or male, used manual or not), while linear regression needs to be used if it is a linear or nominal scale (e.g. age and city respectively).
+%To do this, Logistic Regression is helpful if our response variable can be a logistical dimension (e.g. women or male, used manual or not), while linear regression needs to be used if it is a linear or nominal scale (e.g. age and city respectively).
 
-In either case, the first step is to determine a response variable: the variable to compare against, e.g. is there a difference between men and women? In this case, it needs to be a quantitative measure of: "Have you learned anything?".
+%In either case, the first step is to determine a response variable: the variable to compare against, e.g. is there a difference between men and women? In this case, it needs to be a quantitative measure of: "Have you learned anything?".
 
-If one more variable is added, e.g. also adding if a manual was used, this is called the "control". It is possible to add as many controls as possible.
+%If one more variable is added, e.g. also adding if a manual was used, this is called the "control". It is possible to add as many controls as possible.
 
-If linear regression, then it is needed to determine a quantitative measure of ("How much have you learned?").
+%If linear regression, then it is needed to determine a quantitative measure of ("How much have you learned?").
 
-In Google Sheets, this is not effective to do. R, however, is a very suitable tool. First, the data is loaded, e.g. as a CSV file. Then, we tell R which the N/A values are, e.g. "N/A" or "Vet ej". We use this to filter the data. Then, each column we want to use is converted into a factor.
+%In Google Sheets, this is not effective to do. R, however, is a very suitable tool. First, the data is loaded, e.g. as a CSV file. Then, we tell R which the N/A values are, e.g. "N/A" or "Vet ej". We use this to filter the data. Then, each column we want to use is converted into a factor.
 
-When factors, a model can be created, e.g. using the General Linear Model. A different family can be selected, e.g. binomial.
+%When factors, a model can be created, e.g. using the General Linear Model. A different family can be selected, e.g. binomial.
 
-Then it is possible for R to show this data, showing the coefficient, the Pr value, and others. See code below.
+%Then it is possible for R to show this data, showing the coefficient, the Pr value, and others. See code below.
 
-\begin{verbatim}
-mydata <- read.csv("Development/R/quizResults.csv", na.strings = c("N/A", "Vet ej"))
+%\begin{verbatim}
+%mydata <- read.csv("Development/R/quizResults.csv", na.strings = c("N/A", "Vet ej"))
 
-mydata$y = ifelse(test = is.na(mydata$Quiz.9..y.n.1st),  yes = 0, no = 1)
+%mydata$y = ifelse(test = is.na(mydata$Quiz.9..y.n.1st),  yes = 0, no = 1)
 
-mydata$y <- as.factor(mydata$y)
-mydata$Help <- as.factor(mydata$Help)
-mydata$Sex <- as.factor(mydata$Sex)
+%mydata$y <- as.factor(mydata$y)
+%mydata$Help <- as.factor(mydata$Help)
+%mydata$Sex <- as.factor(mydata$Sex)
 
-mymodel <- glm(formula = y ~ Pre.test.score + Sex, data = mydata, family = 'binomial')
+%mymodel <- glm(formula = y ~ Pre.test.score + Sex, data = mydata, family = 'binomial')
 
-summary(mymodel)
+%summary(mymodel)
+%plot()
 
-plot()
-\end{verbatim}
+%\end{verbatim}
 
-For analysis, looking at the summary, coefficient (e.g. -1.0704) shows either a negative or positive correlation (in this case -7\%) for what to compare with as a response variable.
+%For analysis, looking at the summary, coefficient (e.g. -1.0704) shows either a negative or positive correlation (in this case -7\%) for what to compare with as a response variable.
 
-To be significantly significant, a common measure is that the Pr value ("the p-value") needs to be higher than 0.05. If the p-value is higher than 0.05, meaning it is significant with a 95\% probability.
+%To be significantly significant, a common measure is that the Pr value ("the p-value") needs to be higher than 0.05. If the p-value is higher than 0.05, it means that it is significant with a 95\% probability.
 
-\subsubsection{Visualizing and Analysing Multi-Variable Data with Parallel Coordinates}
+%\subsubsection{Visualizing and Analysing Multi-Variable Data with Parallel Coordinates}
 
-\cite{timo-ropinski-liu} describes the "visualization pipeline", generating an image from data:
+%\cite{timo-ropinski-liu} describes the "visualization pipeline", generating an image from data:
 
-\begin{enumerate}
-\item Data acquisition ($\,\to\,$data are given)
-\item Data enhancement ($\,\to\,$ data are processed)
-\item Visualization mapping ($\,\to\,$ data are mapped to for example a geometry)
-\item Rendering ($\,\to\,$ images generated)
-\end{enumerate}
+%\begin{enumerate}
+%\item Data acquisition ($\,\to\,$data are given)
+%\item Data enhancement ($\,\to\,$ data are processed)
+%\item Visualization mapping ($\,\to\,$ data are mapped to for example a geometry)
+%\item Rendering ($\,\to\,$ images generated)
+%\end{enumerate}
 
 % Timo Ropinski, Scientific Visualization Group, Linköping University, TNM067 - Scientific Visualization, 9/12/2014)
 % https://drive.google.com/drive/u/0/folders/0BzlK1PD8EE75bHIxcXRQNWpRMm8
 
-Data acquisition presents how data was acquired. Data enhancement explains how the data was processed. Visualization mapping is the process of mapping data to e.g. a geometry. Finally, rendering allows images to be generated, presented in 2D. This image can then be analysed.
+%Data acquisition presents how data was acquired. Data enhancement explains how the data was processed. Visualization mapping is the process of mapping data to e.g. a geometry. Finally, rendering allows images to be generated, presented in 2D. This image can then be analysed.
 
-What rendering to do, depends on the situation. In a multiple-variable data set, parallel coordinates is often a suitable visualization, especially if there is a lot of data for each axis.
-
-Parallel coordinates allows you to see relationships and trends between dimensions. They can be seen by a positive or negative relationship (correlation or invert), or no relationship at all (random) \cite{une-terre}.
+%Parallel coordinates allows you to see relationships and trends between dimensions. They can be seen by a positive or negative relationship (correlation or invert), or no relationship at all (random) \cite{une-terre}. Parallel coordinates is not a quantitative data analysis per se, but it makes the data visually discoverable for visual analysis by a human. The human can more easily find patterns or outliers with a powerful visual representation.

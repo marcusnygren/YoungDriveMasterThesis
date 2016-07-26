@@ -1,14 +1,9 @@
-\begin{thebibliography}{53}
+\begin{thebibliography}{33}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
-
-\bibitem[Abell and Lederman(2007)]{abell}
-S.~K. Abell and N.~G. Lederman.
-\newblock \emph{Handbook of Research on Science Education}.
-\newblock Psychology Press, 2007.
 
 \bibitem[Alliance(2001)]{agile-manifesto}
 Agile Alliance.
@@ -21,12 +16,6 @@ Habanero~Quiz Apps.
 \newblock
   \url{https://play.google.com/store/apps/details?id=de.habanero.quizoid&hl=en},
   2016.
-
-\bibitem[Bae and Fiet(2014)]{bae}
-Quian S. Miao~C. Bae, T.~J. and J.~O. Fiet.
-\newblock The relationship between entrepreneurship education and
-  entrepreneurial intentions: A meta-analytical review.
-\newblock \emph{Entrepreneurship Theory and Practice}, 38\penalty0 (2), 2014.
 
 \bibitem[Bjork(2016)]{bjork}
 R.~Bjork.
@@ -44,19 +33,19 @@ R.~O. Brinkerhoff.
 \newblock \url{https://www.youtube.com/watch?v=__wUZzJV8lM}, 2013.
 
 \bibitem[Brühlmann(2013)]{bruhlmann}
-F~Brühlmann.
+F.~Brühlmann.
 \newblock Gamification from the perspective of self-determination theory and
   flow.
 \newblock Master's thesis, University of Basel, Switzerland, 2013.
 
 \bibitem[Cheong and Cheong(2012)]{cheong}
-Bruno~V. Cheong, C. and F.~Cheong.
+Bruno-V. Cheong, C. and F.~Cheong.
 \newblock Designing a mobile-app-based collaborative learning system.
 \newblock \emph{Journal of Information Technology Education: Innovations in
   Practice}, 11, 2012.
 
-\bibitem[Clark(2014)]{gates}
-Tanner-Smith E. Killingsworth~S. Clark, D.
+\bibitem[Clark and Killingsworth(2014)]{gates}
+Tanner-Smith~E. Clark, D. and S.~Killingsworth.
 \newblock \emph{Digital Games, Design and Learning: A Systematic Review and
   Meta-Analysis (Executive Summary)}.
 \newblock SRI International, 2014.
@@ -86,12 +75,6 @@ E.~L. Deci and R.~M. Ryan.
 \newblock \emph{Contemporary Educational Psychology}, 25\penalty0 (54-67),
   2000.
 
-\bibitem[Dickson and Weaver(2008)]{dickson}
-Solomon G.~T. Dickson, P.~H. and K.~M. Weaver.
-\newblock Entrepreneurial selection and success: Does education matter?
-\newblock \emph{Journal on Small Business and Enterprise Development},
-  15\penalty0 (239-258), 2008.
-
 \bibitem[Dirksen(2012)]{dirksen}
 J.~Dirksen.
 \newblock \emph{Design for How People Learn}.
@@ -103,43 +86,10 @@ Duolingo.
 \newblock
   \url{https://play.google.com/store/apps/details?id=com.duolingo&hl=en}, 2016.
 
-\bibitem[Eccles and Wigfield(2002)]{eccles}
-J.~S. Eccles and A.~Wigfield.
-\newblock Motivational beliefs, values, and goals.
-\newblock \emph{Annual Review of Psychology}, 53\penalty0 (109-132), 2002.
-
-\bibitem[Elliot and Covington(2001)]{elliot}
-A.~J. Elliot and M.~V. Covington.
-\newblock Approach and avoidance motivation.
-\newblock \emph{Educational Psychology Review}, 13\penalty0 (2), 2001.
-
 \bibitem[Facebook(2016)]{react}
 Instagram Facebook.
 \newblock React.
 \newblock \url{https://facebook.github.io/react/}, 2016.
-
-\bibitem[Fulmer and Frijters(2009)]{fulmer}
-S.~M. Fulmer and J.~C. Frijters.
-\newblock A review of self-report and alternative approaches in the measurement
-  of student motivation.
-\newblock \emph{Educational Psychology Review}, 21\penalty0 (219-246), 2009.
-
-\bibitem[Godwin-Jones(2011)]{godwin-jones}
-R.~Godwin-Jones.
-\newblock \emph{Emerging technologies: Mobile apps for language learning}.
-\newblock Language Learning and Technology, 15(2), 2-11, 2011.
-
-\bibitem[Heer(2012)]{heer}
-R.~Heer.
-\newblock A model of learning objectives.
-\newblock
-  \url{http://www.celt.iastate.edu/wp-content/uploads/2015/09/RevisedBloomsHandout-1.pdf},
-  2012.
-
-\bibitem[Iakovleva and Stehphan(2011)]{iakovleva}
-Kolvereid~L. Iakovleva, T. and U.~Stehphan.
-\newblock Entrepreneurial intentions in developing and developed countries.
-\newblock \emph{Education + Training}, 53\penalty0 (5), 2011.
 
 \bibitem[Inc.(2016)]{meteor}
 Meteor Development~Group Inc.
@@ -147,32 +97,14 @@ Meteor Development~Group Inc.
 \newblock \url{https://www.meteor.com/}, 2016.
 
 \bibitem[Kniberg(2005)]{kniberg}
-Henrik Kniberg.
+H.~Kniberg.
 \newblock \emph{Scrum and XP from the Trenches - 2nd Edition}.
 \newblock InfoHQ, 2005.
-
-\bibitem[Koballa and Glynn(2007)]{koballa}
-T.~R. Koballa and S.~M. Glynn.
-\newblock \emph{Attitudinal and motivational constructs in science learning}.
-\newblock Focal Press, 2007.
 
 \bibitem[Krathwohl(2002)]{krathwohl}
 D.~R. Krathwohl.
 \newblock A revision of bloom’s taxonomy: An overview.
 \newblock \emph{Theory Into Practice}, 41\penalty0 (4), 2002.
-
-\bibitem[Kuratko(2005)]{kuratko}
-D.~F. Kuratko.
-\newblock The emergance of entrepreneurship education: Development, trends, and
-  challenges.
-\newblock \emph{Entrepreneurship theory and practice}, 25\penalty0 (5), 2005.
-
-\bibitem[Lopez(2016)]{une-terre}
-Hugo Lopez.
-\newblock Parallel coordinates: Read out patterns.
-\newblock
-  \url{http://une-terre.blogspot.se/2012/09/parallel-coordinates-read-out-patterns.html},
-  2016.
 
 \bibitem[Luckin and Noss(2012)]{luckin}
 Bligh B. Manches A. Ainsworth S. Crook~C. Luckin, R. and R.~Noss.
@@ -181,12 +113,12 @@ Bligh B. Manches A. Ainsworth S. Crook~C. Luckin, R. and R.~Noss.
 \newblock Nesta Operating Company, 2012.
 
 \bibitem[Lönn(2015)]{youngdrive-statistics}
-Josefina Lönn.
+J.~Lönn.
 \newblock Youngdrive uganda: Statistik youth, cbts, projektledare - 2015, 2015.
 
 \bibitem[Lönn(2016)]{youngdrive-manual}
-Josefina Lönn.
-\newblock \emph{YoungDrive Participant Business booklet}.
+J.~Lönn.
+\newblock \emph{YoungDrive Participant Business Booklet}.
 \newblock YoungDrive, 2016.
 
 \bibitem[Löwgren and Stolterman(2007)]{lowgren}
@@ -201,11 +133,6 @@ Busenitz L. W. Bird B. Marie Gaglio C. McMullen J. S. Morse E.~A. Mitchell,
 \newblock The central question in entrepreneurial cognition research.
 \newblock \emph{Entrepreneurship Theory and Practice}, 31\penalty0 (1), 2007.
 
-\bibitem[Muth(2016)]{memorize}
-Craig Muth.
-\newblock Memorize.
-\newblock \url{http://memorize.com/}, 2016.
-
 \bibitem[Nicol(2007)]{nicol}
 D.~Nicol.
 \newblock E-assessment by design: using multiple-choice tests to good effect.
@@ -218,39 +145,9 @@ S.~Nissar.
   are growing fast in the area.
 \newblock \url{http://bit.ly/medium-article-expedition-mondial}, 2016.
 
-\bibitem[Oviawe(2010)]{oviawe}
-M.~J.~I. Oviawe.
-\newblock Repositioning nigerian youths for economic empowerment through
-  entrepreneurship education.
-\newblock \emph{European Jounral of Educational Studies}, 2\penalty0 (2), 2010.
-
-\bibitem[Page(2013)]{page}
-T.~Page.
-\newblock \emph{Use of Mobile Device Apps in Product Design}.
-\newblock International Journal of Green Computing (IJGC), 4(1), 18-34, 2013.
-
-\bibitem[Pink(2011)]{pink}
-D.H. Pink.
-\newblock \emph{Drive: The Surprising Truth about what Motivates Us}.
-\newblock Canongate, 2011.
-\newblock ISBN 9781847677693.
-
-\bibitem[Pittaway and Cope(2007)]{pittaway}
-L.~Pittaway and J.~Cope.
-\newblock Entrepreneurship education a systematic review of the evidence.
-\newblock \emph{International Small Business Journal}, 25\penalty0 (5), 2007.
-
 \bibitem[Ropinski(2014)]{timo-ropinski-liu}
 T.~Ropinski.
 \newblock Tnm067 - scientific visualization: Chapter 1: Basics, 2014.
-
-\bibitem[Ruskovaara and Pihkala(2015)]{ruskovaara}
-E.~Ruskovaara and T.~Pihkala.
-\newblock Entrepreneurship education in schools: Empirical evidence on the
-  teacher's role.
-\newblock \emph{The Journal of Educational Research}, 108:3:\penalty0 236--249,
-  2015.
-\newblock \doi{10.1080/00220671.2013.878301}.
 
 \bibitem[Sierra(2015)]{sierra}
 K.~Sierra.
@@ -263,13 +160,6 @@ Bell B. S. Kraiger~K. Sitzmann, T. and A.~M. Kanar.
 \newblock A multilevel analysis of the effect of prompting self-regulation in
   technology-delivered instruction.
 \newblock \emph{CAHRS Working Paper Series}, 8, 2008.
-
-\bibitem[Stefano and Staats(2015)]{stefano}
-Gino F. Pisano G.~P. Stefano, G.~D. and B.~R. Staats.
-\newblock Learning by thinking: Overcoming the bias for action through
-  reflection.
-\newblock \emph{Harvard Business School Technology and Operations Management
-  Unit Research Paper Series}, 14\penalty0 (093), 2015.
 
 \bibitem[Stickdorn and Schneider(2010)]{stickdorn}
 M.~Stickdorn and J.~Schneider.
@@ -293,11 +183,6 @@ W.~B. Walstad and M.~L. Kourilsky.
 E.~Widmark and S.~Nissar.
 \newblock Service design - en crash course.
 \newblock Expedition Mondial, 2016.
-
-\bibitem[Wigfield and Eccles(2000)]{wigfield}
-A.~Wigfield and J.~S. Eccles.
-\newblock Expectancy-value theory of achievement motivation.
-\newblock \emph{Contemporary Educational Psychology}, 25\penalty0 (1), 2000.
 
 \bibitem[Yengin and Uzanboylu(2012)]{yengin}
 Ince I. F. Karahoca A. Karahoca~D. Yengin, I. and H.~Uzanboylu.
