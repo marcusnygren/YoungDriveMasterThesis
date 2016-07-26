@@ -1,17 +1,13 @@
 This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
-The style file: plainnat.bst
+The style file: apalike.bst
 A level-1 auxiliary file: thanks/thanks.aux
 A level-1 auxiliary file: introduction/introduction.aux
 A level-1 auxiliary file: methods/methods.aux
 A level-1 auxiliary file: result/result.aux
 A level-1 auxiliary file: discussion/discussion.aux
 A level-1 auxiliary file: conclusion/conclusion.aux
-Illegal, another \bibstyle command---line 120 of file main.aux
- : \bibstyle
- :          {apacite}
-I'm skipping whatever remains of this command
 A level-1 auxiliary file: appendix/time_plan.aux
 A level-1 auxiliary file: appendix/pre_test.aux
 Database file #1: IEEEfull.bib
@@ -28,456 +24,480 @@ Warning--entry type for "duolingo" isn't style-file defined
 --line 475 of file references/myrefs.bib
 Warning--entry type for "quizoid" isn't style-file defined
 --line 482 of file references/myrefs.bib
+Warning--entry type for "memorize" isn't style-file defined
+--line 490 of file references/myrefs.bib
 Warning--I didn't find a database entry for "dweck-youtube"
 Warning--I didn't find a database entry for "yd-zambia-interviews"
+Warning--I didn't find a database entry for "bloom"
+Warning--I didn't find a database entry for "dweck"
+Warning--I didn't find a database entry for "ropinski"
+Warning--I didn't find a database entry for "voto-mobile"
 Name 1 in "Björling, I., and Lönn, J." has a comma at the end for entry youngdrive-masterthesis-idea
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Name 1 in "Björling, I., and Lönn, J." has a comma at the end for entry youngdrive-masterthesis-idea
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Name 1 in "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." has a comma at the end for entry mitchel
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Name 1 in "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." has a comma at the end for entry mitchel
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
+Name 1 in "Dickson, P. H., Solomon, G. T., and Weaver, K. M." has a comma at the end for entry dickson
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Dickson, P. H., Solomon, G. T., and Weaver, K. M." for entry dickson
+while executing---line 1023 of file apalike.bst
+Name 1 in "Dickson, P. H., Solomon, G. T., and Weaver, K. M." has a comma at the end for entry dickson
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Dickson, P. H., Solomon, G. T., and Weaver, K. M." for entry dickson
+while executing---line 1023 of file apalike.bst
+Name 1 in "Pittaway, L., and Cope, J." has a comma at the end for entry pittaway
+while executing---line 1023 of file apalike.bst
+Name 1 in "Pittaway, L., and Cope, J." has a comma at the end for entry pittaway
+while executing---line 1023 of file apalike.bst
+Name 1 in "Bae, T. J., Quian, S., Miao, C., and Fiet, J. O." has a comma at the end for entry bae
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Bae, T. J., Quian, S., Miao, C., and Fiet, J. O." for entry bae
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Bae, T. J., Quian, S., Miao, C., and Fiet, J. O." for entry bae
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Bae, T. J., Quian, S., Miao, C., and Fiet, J. O." for entry bae
+while executing---line 1023 of file apalike.bst
+Name 1 in "Bae, T. J., Quian, S., Miao, C., and Fiet, J. O." has a comma at the end for entry bae
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Bae, T. J., Quian, S., Miao, C., and Fiet, J. O." for entry bae
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Bae, T. J., Quian, S., Miao, C., and Fiet, J. O." for entry bae
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Bae, T. J., Quian, S., Miao, C., and Fiet, J. O." for entry bae
+while executing---line 1023 of file apalike.bst
+Name 1 in "Iakovleva, T., Kolvereid, L., and Stehphan, U." has a comma at the end for entry iakovleva
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Iakovleva, T., Kolvereid, L., and Stehphan, U." for entry iakovleva
+while executing---line 1023 of file apalike.bst
+Name 1 in "Iakovleva, T., Kolvereid, L., and Stehphan, U." has a comma at the end for entry iakovleva
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Iakovleva, T., Kolvereid, L., and Stehphan, U." for entry iakovleva
+while executing---line 1023 of file apalike.bst
+Name 1 in "Ruskovaara, E., and Pihkala, T." has a comma at the end for entry ruskovaara
+while executing---line 1023 of file apalike.bst
+Name 1 in "Ruskovaara, E., and Pihkala, T." has a comma at the end for entry ruskovaara
+while executing---line 1023 of file apalike.bst
 Name 1 in "Luckin, R., Bligh, B., Manches, A., Ainsworth, S., Crook, C., and Noss, R." has a comma at the end for entry luckin
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Luckin, R., Bligh, B., Manches, A., Ainsworth, S., Crook, C., and Noss, R." for entry luckin
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Luckin, R., Bligh, B., Manches, A., Ainsworth, S., Crook, C., and Noss, R." for entry luckin
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Luckin, R., Bligh, B., Manches, A., Ainsworth, S., Crook, C., and Noss, R." for entry luckin
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Luckin, R., Bligh, B., Manches, A., Ainsworth, S., Crook, C., and Noss, R." for entry luckin
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Luckin, R., Bligh, B., Manches, A., Ainsworth, S., Crook, C., and Noss, R." for entry luckin
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Luckin, R., Bligh, B., Manches, A., Ainsworth, S., Crook, C., and Noss, R." for entry luckin
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Luckin, R., Bligh, B., Manches, A., Ainsworth, S., Crook, C., and Noss, R." for entry luckin
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Name 1 in "Luckin, R., Bligh, B., Manches, A., Ainsworth, S., Crook, C., and Noss, R." has a comma at the end for entry luckin
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Luckin, R., Bligh, B., Manches, A., Ainsworth, S., Crook, C., and Noss, R." for entry luckin
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Luckin, R., Bligh, B., Manches, A., Ainsworth, S., Crook, C., and Noss, R." for entry luckin
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Luckin, R., Bligh, B., Manches, A., Ainsworth, S., Crook, C., and Noss, R." for entry luckin
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Luckin, R., Bligh, B., Manches, A., Ainsworth, S., Crook, C., and Noss, R." for entry luckin
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Luckin, R., Bligh, B., Manches, A., Ainsworth, S., Crook, C., and Noss, R." for entry luckin
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Luckin, R., Bligh, B., Manches, A., Ainsworth, S., Crook, C., and Noss, R." for entry luckin
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Luckin, R., Bligh, B., Manches, A., Ainsworth, S., Crook, C., and Noss, R." for entry luckin
-while executing---line 1347 of file plainnat.bst
-Name 1 in "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." has a comma at the end for entry yengin
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." for entry yengin
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." for entry yengin
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." for entry yengin
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." for entry yengin
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." for entry yengin
-while executing---line 1347 of file plainnat.bst
-Name 1 in "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." has a comma at the end for entry yengin
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." for entry yengin
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." for entry yengin
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." for entry yengin
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." for entry yengin
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." for entry yengin
-while executing---line 1347 of file plainnat.bst
-Name 1 in "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." has a comma at the end for entry de-marcos
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1347 of file plainnat.bst
-Name 1 in "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." has a comma at the end for entry de-marcos
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1347 of file plainnat.bst
-Name 1 in "Cheong, C., Bruno, V., and Cheong, F." has a comma at the end for entry cheong
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "Cheong, C., Bruno, V., and Cheong, F." for entry cheong
-while executing---line 1347 of file plainnat.bst
-Name 1 in "Cheong, C., Bruno, V., and Cheong, F." has a comma at the end for entry cheong
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "Cheong, C., Bruno, V., and Cheong, F." for entry cheong
-while executing---line 1347 of file plainnat.bst
-Name 1 in "Deci, E. L., and Ryan, R. M." has a comma at the end for entry deci
-while executing---line 1347 of file plainnat.bst
-Name 1 in "Deci, E. L., and Ryan, R. M." has a comma at the end for entry deci
-while executing---line 1347 of file plainnat.bst
-Name 1 in "Deci, E. L., and Ryan, R. M." has a comma at the end for entry ryan
-while executing---line 1347 of file plainnat.bst
-Name 1 in "Deci, E. L., and Ryan, R. M." has a comma at the end for entry ryan
-while executing---line 1347 of file plainnat.bst
-Name 1 in "Stickdorn, M., and Schneider, J." has a comma at the end for entry stickdorn
-while executing---line 1347 of file plainnat.bst
-Name 1 in "Stickdorn, M., and Schneider, J." has a comma at the end for entry stickdorn
-while executing---line 1347 of file plainnat.bst
-Name 1 in "Löwgren, J., and Stolterman, E." has a comma at the end for entry lowgren
-while executing---line 1347 of file plainnat.bst
-Name 1 in "Löwgren, J., and Stolterman, E." has a comma at the end for entry lowgren
-while executing---line 1347 of file plainnat.bst
-Name 1 in "Widmark, E., and Nissar, S." has a comma at the end for entry expedition-mondial
-while executing---line 1347 of file plainnat.bst
-Name 1 in "Widmark, E., and Nissar, S." has a comma at the end for entry expedition-mondial
-while executing---line 1347 of file plainnat.bst
-Name 1 in "Walstad, W. B., and Kourilsky, M. L." has a comma at the end for entry general-entrepreneurship-quiz
-while executing---line 1347 of file plainnat.bst
-Name 1 in "Walstad, W. B., and Kourilsky, M. L." has a comma at the end for entry general-entrepreneurship-quiz
-while executing---line 1347 of file plainnat.bst
-Name 1 in "Sitzmann, T., Bell, B. S., Kraiger, K., and Kanar, A. M." has a comma at the end for entry sitzmann
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "Sitzmann, T., Bell, B. S., Kraiger, K., and Kanar, A. M." for entry sitzmann
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "Sitzmann, T., Bell, B. S., Kraiger, K., and Kanar, A. M." for entry sitzmann
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "Sitzmann, T., Bell, B. S., Kraiger, K., and Kanar, A. M." for entry sitzmann
-while executing---line 1347 of file plainnat.bst
-Name 1 in "Sitzmann, T., Bell, B. S., Kraiger, K., and Kanar, A. M." has a comma at the end for entry sitzmann
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "Sitzmann, T., Bell, B. S., Kraiger, K., and Kanar, A. M." for entry sitzmann
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "Sitzmann, T., Bell, B. S., Kraiger, K., and Kanar, A. M." for entry sitzmann
-while executing---line 1347 of file plainnat.bst
-Too many commas in name 1 of "Sitzmann, T., Bell, B. S., Kraiger, K., and Kanar, A. M." for entry sitzmann
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Name 1 in "Clark, D., Tanner-Smith, E., and Killingsworth, S." has a comma at the end for entry gates
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Clark, D., Tanner-Smith, E., and Killingsworth, S." for entry gates
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Name 1 in "Clark, D., Tanner-Smith, E., and Killingsworth, S." has a comma at the end for entry gates
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
 Too many commas in name 1 of "Clark, D., Tanner-Smith, E., and Killingsworth, S." for entry gates
-while executing---line 1347 of file plainnat.bst
+while executing---line 1023 of file apalike.bst
+Name 1 in "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." has a comma at the end for entry yengin
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." for entry yengin
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." for entry yengin
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." for entry yengin
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." for entry yengin
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." for entry yengin
+while executing---line 1023 of file apalike.bst
+Name 1 in "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." has a comma at the end for entry yengin
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." for entry yengin
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." for entry yengin
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." for entry yengin
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." for entry yengin
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." for entry yengin
+while executing---line 1023 of file apalike.bst
+Name 1 in "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." has a comma at the end for entry de-marcos
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
+while executing---line 1023 of file apalike.bst
+Name 1 in "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." has a comma at the end for entry de-marcos
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
+while executing---line 1023 of file apalike.bst
+Name 1 in "Cheong, C., Bruno, V., and Cheong, F." has a comma at the end for entry cheong
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Cheong, C., Bruno, V., and Cheong, F." for entry cheong
+while executing---line 1023 of file apalike.bst
+Name 1 in "Cheong, C., Bruno, V., and Cheong, F." has a comma at the end for entry cheong
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Cheong, C., Bruno, V., and Cheong, F." for entry cheong
+while executing---line 1023 of file apalike.bst
+Name 1 in "Sitzmann, T., Bell, B. S., Kraiger, K., and Kanar, A. M." has a comma at the end for entry sitzmann
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Sitzmann, T., Bell, B. S., Kraiger, K., and Kanar, A. M." for entry sitzmann
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Sitzmann, T., Bell, B. S., Kraiger, K., and Kanar, A. M." for entry sitzmann
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Sitzmann, T., Bell, B. S., Kraiger, K., and Kanar, A. M." for entry sitzmann
+while executing---line 1023 of file apalike.bst
+Name 1 in "Sitzmann, T., Bell, B. S., Kraiger, K., and Kanar, A. M." has a comma at the end for entry sitzmann
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Sitzmann, T., Bell, B. S., Kraiger, K., and Kanar, A. M." for entry sitzmann
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Sitzmann, T., Bell, B. S., Kraiger, K., and Kanar, A. M." for entry sitzmann
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Sitzmann, T., Bell, B. S., Kraiger, K., and Kanar, A. M." for entry sitzmann
+while executing---line 1023 of file apalike.bst
+Name 1 in "Stefano, G. D., Gino, F., Pisano, G. P., and Staats, B. R." has a comma at the end for entry stefano
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Stefano, G. D., Gino, F., Pisano, G. P., and Staats, B. R." for entry stefano
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Stefano, G. D., Gino, F., Pisano, G. P., and Staats, B. R." for entry stefano
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Stefano, G. D., Gino, F., Pisano, G. P., and Staats, B. R." for entry stefano
+while executing---line 1023 of file apalike.bst
+Name 1 in "Stefano, G. D., Gino, F., Pisano, G. P., and Staats, B. R." has a comma at the end for entry stefano
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Stefano, G. D., Gino, F., Pisano, G. P., and Staats, B. R." for entry stefano
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Stefano, G. D., Gino, F., Pisano, G. P., and Staats, B. R." for entry stefano
+while executing---line 1023 of file apalike.bst
+Too many commas in name 1 of "Stefano, G. D., Gino, F., Pisano, G. P., and Staats, B. R." for entry stefano
+while executing---line 1023 of file apalike.bst
+Name 1 in "Koballa, T. R., and Glynn, S. M." has a comma at the end for entry koballa
+while executing---line 1023 of file apalike.bst
+Name 1 in "Koballa, T. R., and Glynn, S. M." has a comma at the end for entry koballa
+while executing---line 1023 of file apalike.bst
+Name 1 in "S. K. Abell, and N. G. Lederman" has a comma at the end for entry abell
+while executing---line 1023 of file apalike.bst
+Name 1 in "S. K. Abell, and N. G. Lederman" has a comma at the end for entry abell
+while executing---line 1023 of file apalike.bst
+Name 1 in "Fulmer, S. M., and Frijters, J. C." has a comma at the end for entry fulmer
+while executing---line 1023 of file apalike.bst
+Name 1 in "Fulmer, S. M., and Frijters, J. C." has a comma at the end for entry fulmer
+while executing---line 1023 of file apalike.bst
+Name 1 in "Deci, E. L., and Ryan, R. M." has a comma at the end for entry deci
+while executing---line 1023 of file apalike.bst
+Name 1 in "Deci, E. L., and Ryan, R. M." has a comma at the end for entry deci
+while executing---line 1023 of file apalike.bst
+Name 1 in "Deci, E. L., and Ryan, R. M." has a comma at the end for entry ryan
+while executing---line 1023 of file apalike.bst
+Name 1 in "Deci, E. L., and Ryan, R. M." has a comma at the end for entry ryan
+while executing---line 1023 of file apalike.bst
+Name 1 in "Elliot, A. J., and Covington, M. V." has a comma at the end for entry elliot
+while executing---line 1023 of file apalike.bst
+Name 1 in "Elliot, A. J., and Covington, M. V." has a comma at the end for entry elliot
+while executing---line 1023 of file apalike.bst
+Name 1 in "Eccles, J. S., and Wigfield, A." has a comma at the end for entry eccles
+while executing---line 1023 of file apalike.bst
+Name 1 in "Eccles, J. S., and Wigfield, A." has a comma at the end for entry eccles
+while executing---line 1023 of file apalike.bst
+Name 1 in "Wigfield, A., and Eccles, J. S." has a comma at the end for entry wigfield
+while executing---line 1023 of file apalike.bst
+Name 1 in "Wigfield, A., and Eccles, J. S." has a comma at the end for entry wigfield
+while executing---line 1023 of file apalike.bst
+Name 1 in "Löwgren, J., and Stolterman, E." has a comma at the end for entry lowgren
+while executing---line 1023 of file apalike.bst
+Name 1 in "Löwgren, J., and Stolterman, E." has a comma at the end for entry lowgren
+while executing---line 1023 of file apalike.bst
+Name 1 in "Stickdorn, M., and Schneider, J." has a comma at the end for entry stickdorn
+while executing---line 1023 of file apalike.bst
+Name 1 in "Stickdorn, M., and Schneider, J." has a comma at the end for entry stickdorn
+while executing---line 1023 of file apalike.bst
+Name 1 in "Widmark, E., and Nissar, S." has a comma at the end for entry expedition-mondial
+while executing---line 1023 of file apalike.bst
+Name 1 in "Widmark, E., and Nissar, S." has a comma at the end for entry expedition-mondial
+while executing---line 1023 of file apalike.bst
+Name 1 in "Walstad, W. B., and Kourilsky, M. L." has a comma at the end for entry general-entrepreneurship-quiz
+while executing---line 1023 of file apalike.bst
+Name 1 in "Walstad, W. B., and Kourilsky, M. L." has a comma at the end for entry general-entrepreneurship-quiz
+while executing---line 1023 of file apalike.bst
+Name 1 in "S. K. Abell, and N. G. Lederman" has a comma at the end for entry abell
+while executing---line 1098 of file apalike.bst
+Name 1 in "Bae, T. J., Quian, S., Miao, C., and Fiet, J. O." has a comma at the end for entry bae
+while executing---line 1098 of file apalike.bst
+Too many commas in name 1 of "Bae, T. J., Quian, S., Miao, C., and Fiet, J. O." for entry bae
+while executing---line 1098 of file apalike.bst
+Too many commas in name 1 of "Bae, T. J., Quian, S., Miao, C., and Fiet, J. O." for entry bae
+while executing---line 1098 of file apalike.bst
+Too many commas in name 1 of "Bae, T. J., Quian, S., Miao, C., and Fiet, J. O." for entry bae
+while executing---line 1098 of file apalike.bst
 Name 1 in "Björling, I., and Lönn, J." has a comma at the end for entry youngdrive-masterthesis-idea
-while executing---line 1429 of file plainnat.bst
-Name 1 in "Björling, I., and Lönn, J." has a comma at the end for entry youngdrive-masterthesis-idea
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Name 1 in "Cheong, C., Bruno, V., and Cheong, F." has a comma at the end for entry cheong
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "Cheong, C., Bruno, V., and Cheong, F." for entry cheong
-while executing---line 1429 of file plainnat.bst
-Name 1 in "Cheong, C., Bruno, V., and Cheong, F." has a comma at the end for entry cheong
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "Cheong, C., Bruno, V., and Cheong, F." for entry cheong
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Name 1 in "Clark, D., Tanner-Smith, E., and Killingsworth, S." has a comma at the end for entry gates
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "Clark, D., Tanner-Smith, E., and Killingsworth, S." for entry gates
-while executing---line 1429 of file plainnat.bst
-Name 1 in "Clark, D., Tanner-Smith, E., and Killingsworth, S." has a comma at the end for entry gates
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "Clark, D., Tanner-Smith, E., and Killingsworth, S." for entry gates
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Name 1 in "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." has a comma at the end for entry de-marcos
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1429 of file plainnat.bst
-Name 1 in "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." has a comma at the end for entry de-marcos
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "de-Marcos, L., Hilera, J. R., Burchino, R., Jiménez, L., Martínez, J. J., Gutiérrez, J. A., Gutiérrez, J. M., and Otón, S." for entry de-marcos
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Name 1 in "Deci, E. L., and Ryan, R. M." has a comma at the end for entry deci
-while executing---line 1429 of file plainnat.bst
-Name 1 in "Deci, E. L., and Ryan, R. M." has a comma at the end for entry deci
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Name 1 in "Deci, E. L., and Ryan, R. M." has a comma at the end for entry ryan
-while executing---line 1429 of file plainnat.bst
-Name 1 in "Deci, E. L., and Ryan, R. M." has a comma at the end for entry ryan
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
+Name 1 in "Dickson, P. H., Solomon, G. T., and Weaver, K. M." has a comma at the end for entry dickson
+while executing---line 1098 of file apalike.bst
+Too many commas in name 1 of "Dickson, P. H., Solomon, G. T., and Weaver, K. M." for entry dickson
+while executing---line 1098 of file apalike.bst
+Name 1 in "Eccles, J. S., and Wigfield, A." has a comma at the end for entry eccles
+while executing---line 1098 of file apalike.bst
+Name 1 in "Elliot, A. J., and Covington, M. V." has a comma at the end for entry elliot
+while executing---line 1098 of file apalike.bst
+Name 1 in "Fulmer, S. M., and Frijters, J. C." has a comma at the end for entry fulmer
+while executing---line 1098 of file apalike.bst
+Name 1 in "Iakovleva, T., Kolvereid, L., and Stehphan, U." has a comma at the end for entry iakovleva
+while executing---line 1098 of file apalike.bst
+Too many commas in name 1 of "Iakovleva, T., Kolvereid, L., and Stehphan, U." for entry iakovleva
+while executing---line 1098 of file apalike.bst
+Name 1 in "Koballa, T. R., and Glynn, S. M." has a comma at the end for entry koballa
+while executing---line 1098 of file apalike.bst
 Name 1 in "Luckin, R., Bligh, B., Manches, A., Ainsworth, S., Crook, C., and Noss, R." has a comma at the end for entry luckin
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "Luckin, R., Bligh, B., Manches, A., Ainsworth, S., Crook, C., and Noss, R." for entry luckin
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "Luckin, R., Bligh, B., Manches, A., Ainsworth, S., Crook, C., and Noss, R." for entry luckin
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "Luckin, R., Bligh, B., Manches, A., Ainsworth, S., Crook, C., and Noss, R." for entry luckin
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "Luckin, R., Bligh, B., Manches, A., Ainsworth, S., Crook, C., and Noss, R." for entry luckin
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "Luckin, R., Bligh, B., Manches, A., Ainsworth, S., Crook, C., and Noss, R." for entry luckin
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "Luckin, R., Bligh, B., Manches, A., Ainsworth, S., Crook, C., and Noss, R." for entry luckin
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "Luckin, R., Bligh, B., Manches, A., Ainsworth, S., Crook, C., and Noss, R." for entry luckin
-while executing---line 1429 of file plainnat.bst
-Name 1 in "Luckin, R., Bligh, B., Manches, A., Ainsworth, S., Crook, C., and Noss, R." has a comma at the end for entry luckin
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "Luckin, R., Bligh, B., Manches, A., Ainsworth, S., Crook, C., and Noss, R." for entry luckin
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "Luckin, R., Bligh, B., Manches, A., Ainsworth, S., Crook, C., and Noss, R." for entry luckin
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "Luckin, R., Bligh, B., Manches, A., Ainsworth, S., Crook, C., and Noss, R." for entry luckin
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "Luckin, R., Bligh, B., Manches, A., Ainsworth, S., Crook, C., and Noss, R." for entry luckin
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "Luckin, R., Bligh, B., Manches, A., Ainsworth, S., Crook, C., and Noss, R." for entry luckin
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "Luckin, R., Bligh, B., Manches, A., Ainsworth, S., Crook, C., and Noss, R." for entry luckin
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "Luckin, R., Bligh, B., Manches, A., Ainsworth, S., Crook, C., and Noss, R." for entry luckin
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Name 1 in "Löwgren, J., and Stolterman, E." has a comma at the end for entry lowgren
-while executing---line 1429 of file plainnat.bst
-Name 1 in "Löwgren, J., and Stolterman, E." has a comma at the end for entry lowgren
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Name 1 in "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." has a comma at the end for entry mitchel
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1429 of file plainnat.bst
-Name 1 in "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." has a comma at the end for entry mitchel
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "Mitchell, R. K., Busenitz, L. W., Bird, B., Marie Gaglio, C., McMullen, J. S., Morse, E. A., and Smith, J. B." for entry mitchel
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
+Name 1 in "Pittaway, L., and Cope, J." has a comma at the end for entry pittaway
+while executing---line 1098 of file apalike.bst
+Name 1 in "Ruskovaara, E., and Pihkala, T." has a comma at the end for entry ruskovaara
+while executing---line 1098 of file apalike.bst
 Name 1 in "Sitzmann, T., Bell, B. S., Kraiger, K., and Kanar, A. M." has a comma at the end for entry sitzmann
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "Sitzmann, T., Bell, B. S., Kraiger, K., and Kanar, A. M." for entry sitzmann
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "Sitzmann, T., Bell, B. S., Kraiger, K., and Kanar, A. M." for entry sitzmann
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "Sitzmann, T., Bell, B. S., Kraiger, K., and Kanar, A. M." for entry sitzmann
-while executing---line 1429 of file plainnat.bst
-Name 1 in "Sitzmann, T., Bell, B. S., Kraiger, K., and Kanar, A. M." has a comma at the end for entry sitzmann
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "Sitzmann, T., Bell, B. S., Kraiger, K., and Kanar, A. M." for entry sitzmann
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "Sitzmann, T., Bell, B. S., Kraiger, K., and Kanar, A. M." for entry sitzmann
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "Sitzmann, T., Bell, B. S., Kraiger, K., and Kanar, A. M." for entry sitzmann
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
+Name 1 in "Stefano, G. D., Gino, F., Pisano, G. P., and Staats, B. R." has a comma at the end for entry stefano
+while executing---line 1098 of file apalike.bst
+Too many commas in name 1 of "Stefano, G. D., Gino, F., Pisano, G. P., and Staats, B. R." for entry stefano
+while executing---line 1098 of file apalike.bst
+Too many commas in name 1 of "Stefano, G. D., Gino, F., Pisano, G. P., and Staats, B. R." for entry stefano
+while executing---line 1098 of file apalike.bst
+Too many commas in name 1 of "Stefano, G. D., Gino, F., Pisano, G. P., and Staats, B. R." for entry stefano
+while executing---line 1098 of file apalike.bst
 Name 1 in "Stickdorn, M., and Schneider, J." has a comma at the end for entry stickdorn
-while executing---line 1429 of file plainnat.bst
-Name 1 in "Stickdorn, M., and Schneider, J." has a comma at the end for entry stickdorn
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Name 1 in "Walstad, W. B., and Kourilsky, M. L." has a comma at the end for entry general-entrepreneurship-quiz
-while executing---line 1429 of file plainnat.bst
-Name 1 in "Walstad, W. B., and Kourilsky, M. L." has a comma at the end for entry general-entrepreneurship-quiz
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Name 1 in "Widmark, E., and Nissar, S." has a comma at the end for entry expedition-mondial
-while executing---line 1429 of file plainnat.bst
-Name 1 in "Widmark, E., and Nissar, S." has a comma at the end for entry expedition-mondial
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
+Name 1 in "Wigfield, A., and Eccles, J. S." has a comma at the end for entry wigfield
+while executing---line 1098 of file apalike.bst
 Name 1 in "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." has a comma at the end for entry yengin
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." for entry yengin
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." for entry yengin
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." for entry yengin
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." for entry yengin
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Too many commas in name 1 of "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." for entry yengin
-while executing---line 1429 of file plainnat.bst
-Name 1 in "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." has a comma at the end for entry yengin
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." for entry yengin
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." for entry yengin
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." for entry yengin
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." for entry yengin
-while executing---line 1429 of file plainnat.bst
-Too many commas in name 1 of "Yengin, I., Ince, I. F., Karahoca, A., Karahoca, D., and Uzanboylu, H." for entry yengin
-while executing---line 1429 of file plainnat.bst
+while executing---line 1098 of file apalike.bst
 Warning--there's a number but no volume in yengin
-You've used 33 entries,
-            2773 wiz_defined-function locations,
-            1161 strings with 20322 characters,
-and the built_in function-call counts, 10707 in all, are:
-= -- 908
-> -- 484
-< -- 33
-+ -- 174
-- -- 141
-* -- 612
-:= -- 1700
-add.period$ -- 99
-call.type$ -- 33
-change.case$ -- 135
-chr.to.int$ -- 33
-cite$ -- 67
-duplicate$ -- 582
-empty$ -- 1037
-format.name$ -- 202
-if$ -- 2265
+You've used 53 entries,
+            1935 wiz_defined-function locations,
+            1133 strings with 21749 characters,
+and the built_in function-call counts, 15330 in all, are:
+= -- 1492
+> -- 527
+< -- 53
++ -- 178
+- -- 158
+* -- 1106
+:= -- 2881
+add.period$ -- 157
+call.type$ -- 53
+change.case$ -- 328
+chr.to.int$ -- 53
+cite$ -- 54
+duplicate$ -- 656
+empty$ -- 1052
+format.name$ -- 263
+if$ -- 2913
 int.to.chr$ -- 1
-int.to.str$ -- 1
-missing$ -- 30
-newline$ -- 173
-num.names$ -- 132
-pop$ -- 364
+int.to.str$ -- 0
+missing$ -- 52
+newline$ -- 266
+num.names$ -- 159
+pop$ -- 268
 preamble$ -- 1
-purify$ -- 113
+purify$ -- 344
 quote$ -- 0
-skip$ -- 468
+skip$ -- 552
 stack$ -- 0
-substring$ -- 66
-swap$ -- 32
+substring$ -- 677
+swap$ -- 36
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 308
+type$ -- 286
 warning$ -- 1
-while$ -- 99
+while$ -- 107
 width$ -- 0
-write$ -- 413
-(There were 205 error messages)
+write$ -- 656
+(There were 213 error messages)

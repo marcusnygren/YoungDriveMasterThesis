@@ -78,6 +78,8 @@ INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/index/index.sty
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/index/index.sty
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/natbib/natbib.sty
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/natbib/natbib.sty
+INPUT /usr/local/texlive/2015/texmf-dist/tex/generic/bibtex/apalike.sty
+INPUT /usr/local/texlive/2015/texmf-dist/tex/generic/bibtex/apalike.sty
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/natbib/bibentry.sty
 INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/natbib/bibentry.sty
 OUTPUT main.idx
@@ -286,8 +288,6 @@ INPUT /usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libr
 INPUT /usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 INPUT /usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
 INPUT /usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
-INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/apacite/apacite.sty
-INPUT /usr/local/texlive/2015/texmf-dist/tex/latex/apacite/apacite.sty
 INPUT main.aux
 INPUT main.aux
 INPUT thanks/thanks.aux

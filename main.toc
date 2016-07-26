@@ -25,7 +25,7 @@
 \contentsline {subsection}{\numberline {1.3.3}Entrepreneurship education}{6}{subsection.1.3.3}
 \contentsline {subsection}{\numberline {1.3.4}Digital Education}{6}{subsection.1.3.4}
 \contentsline {subsubsection}{Brining research into reality}{6}{section*.17}
-\contentsline {subsubsection}{E-assessment}{6}{section*.18}
+\contentsline {subsubsection}{E-assessment}{7}{section*.18}
 \contentsline {subsection}{\numberline {1.3.5}Hybrid App Development}{7}{subsection.1.3.5}
 \contentsline {subsection}{\numberline {1.3.6}Related work}{7}{subsection.1.3.6}
 \contentsline {subsubsection}{Digital tools in a developing world context}{7}{section*.19}
@@ -39,80 +39,80 @@
 \contentsline {subsubsection}{Learning by Thinking: Reflection \& Retrieval Practice}{14}{section*.29}
 \contentsline {subsection}{\numberline {2.1.2}Design for Motivation}{14}{subsection.2.1.2}
 \contentsline {subsubsection}{Cognitive load theory}{15}{section*.31}
-\contentsline {subsubsection}{Progress and payoffs}{15}{section*.32}
-\contentsline {subsection}{\numberline {2.1.3}Design Thinking}{16}{subsection.2.1.3}
-\contentsline {subsubsection}{A good designer}{17}{section*.33}
+\contentsline {subsubsection}{Progress and payoffs}{16}{section*.32}
+\contentsline {subsection}{\numberline {2.1.3}Design Thinking}{17}{subsection.2.1.3}
+\contentsline {subsubsection}{A good designer}{18}{section*.33}
 \contentsline {subsubsection}{How to deal with relationships and roles}{18}{section*.34}
-\contentsline {subsubsection}{Thinking of a product as a service}{18}{section*.35}
-\contentsline {subsubsection}{Starting the project}{18}{section*.36}
-\contentsline {subsection}{\numberline {2.1.4}Service Design Methodology}{18}{subsection.2.1.4}
+\contentsline {subsubsection}{Thinking of a product as a service}{19}{section*.35}
+\contentsline {subsubsection}{Starting the project}{19}{section*.36}
+\contentsline {subsection}{\numberline {2.1.4}Service Design Methodology}{19}{subsection.2.1.4}
 \contentsline {subsubsection}{Principles}{19}{section*.37}
-\contentsline {subsubsection}{Sequencing}{19}{section*.38}
-\contentsline {subsubsection}{Service design tools}{19}{section*.41}
-\contentsline {subsection}{\numberline {2.1.5}Digital Service Design}{21}{subsection.2.1.5}
-\contentsline {subsubsection}{A "Service Sprint"}{21}{section*.42}
+\contentsline {subsubsection}{Sequencing}{20}{section*.38}
+\contentsline {subsubsection}{Service design tools}{21}{section*.41}
+\contentsline {subsection}{\numberline {2.1.5}Digital Service Design}{22}{subsection.2.1.5}
+\contentsline {subsubsection}{A "Service Sprint"}{22}{section*.42}
 \contentsline {subsubsection}{Step 1 - Insights: Analysis, Retrospective \& Stakeholder feedback}{22}{section*.43}
-\contentsline {subsubsection}{Step 2 - Ideation: planning interactions and delivery}{22}{section*.44}
+\contentsline {subsubsection}{Step 2 - Ideation: planning interactions and delivery}{23}{section*.44}
 \contentsline {subsubsection}{Step 3 - Trigger material}{23}{section*.45}
-\contentsline {subsubsection}{Step 4 - Interactions: with "Service Mini-Sprints"}{23}{section*.46}
-\contentsline {subsection}{\numberline {2.1.6}Data Analysis}{23}{subsection.2.1.6}
-\contentsline {subsubsection}{Analysing Qualitative Data}{23}{section*.47}
+\contentsline {subsubsection}{Step 4 - Interactions: with "Service Mini-Sprints"}{24}{section*.46}
+\contentsline {subsection}{\numberline {2.1.6}Data Analysis}{24}{subsection.2.1.6}
+\contentsline {subsubsection}{Analysing Qualitative Data}{24}{section*.47}
 \contentsline {subsubsection}{Persona or Need groups}{24}{section*.48}
-\contentsline {subsubsection}{Customer Journey Map}{24}{section*.49}
-\contentsline {subsubsection}{Sprint Backlog}{24}{section*.51}
-\contentsline {subsubsection}{Sprint Demo}{25}{section*.52}
-\contentsline {subsubsection}{Analysing Quantitative Data}{25}{section*.53}
-\contentsline {section}{\numberline {2.2}Setting and Research Context}{26}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Setting}{26}{subsection.2.2.1}
+\contentsline {subsubsection}{Customer Journey Map}{25}{section*.49}
+\contentsline {subsubsection}{Sprint Backlog}{26}{section*.51}
+\contentsline {subsubsection}{Sprint Demo}{26}{section*.52}
+\contentsline {subsubsection}{Analysing Quantitative Data}{26}{section*.53}
+\contentsline {section}{\numberline {2.2}Setting and Research Context}{27}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Setting}{27}{subsection.2.2.1}
 \contentsline {subsubsection}{Supervisors}{27}{section*.56}
-\contentsline {subsubsection}{Stakeholders}{27}{section*.57}
-\contentsline {subsubsection}{The designer and developer}{27}{section*.58}
-\contentsline {subsubsection}{Experts}{28}{section*.60}
-\contentsline {subsection}{\numberline {2.2.2}Research context}{28}{subsection.2.2.2}
-\contentsline {section}{\numberline {2.3}Understanding the YoungDrive participants}{28}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Roles}{29}{subsection.2.3.1}
-\contentsline {subsubsection}{Country Managers}{29}{section*.62}
-\contentsline {subsection}{\numberline {2.3.2}Social characteristics}{29}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}Tororo businesses}{30}{subsection.2.3.3}
+\contentsline {subsubsection}{Stakeholders}{28}{section*.57}
+\contentsline {subsubsection}{The designer and developer}{29}{section*.58}
+\contentsline {subsubsection}{Experts}{29}{section*.60}
+\contentsline {subsection}{\numberline {2.2.2}Research context}{29}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Understanding the YoungDrive participants}{30}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Roles}{30}{subsection.2.3.1}
+\contentsline {subsubsection}{Country Managers}{30}{section*.62}
+\contentsline {subsection}{\numberline {2.3.2}Social characteristics}{30}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Tororo businesses}{31}{subsection.2.3.3}
 \contentsline {subsection}{\numberline {2.3.4}Zambia coaches}{31}{subsection.2.3.4}
-\contentsline {section}{\numberline {2.4}Study Design and Data Collection}{31}{section.2.4}
-\contentsline {subsubsection}{Creation of Design Process}{31}{section*.65}
-\contentsline {subsubsection}{Implementation of Design Process}{32}{section*.67}
-\contentsline {subsection}{\numberline {2.4.1}Implementation of methods for data collection and data analysis}{33}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}Iteration 1}{33}{subsection.2.4.2}
-\contentsline {subsection}{\numberline {2.4.3}Iteration 2}{35}{subsection.2.4.3}
-\contentsline {subsubsection}{Trigger material used}{35}{section*.73}
-\contentsline {subsubsection}{Design workshop \#1 in Zambia}{35}{section*.74}
+\contentsline {section}{\numberline {2.4}Study Design and Data Collection}{32}{section.2.4}
+\contentsline {subsubsection}{Creation of Design Process}{33}{section*.65}
+\contentsline {subsubsection}{Implementation of Design Process}{34}{section*.67}
+\contentsline {subsection}{\numberline {2.4.1}Implementation of methods for data collection and data analysis}{34}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Iteration 1}{35}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Iteration 2}{36}{subsection.2.4.3}
+\contentsline {subsubsection}{Trigger material used}{36}{section*.73}
+\contentsline {subsubsection}{Design workshop \#1 in Zambia}{37}{section*.74}
 \contentsline {subsubsection}{Assessment via quiz}{37}{section*.76}
 \contentsline {subsubsection}{Experimenting with quiz before or after the session}{37}{section*.77}
-\contentsline {subsubsection}{Experimenting with design of questions}{37}{section*.78}
-\contentsline {subsubsection}{Interviews with Josefina}{37}{section*.79}
-\contentsline {subsubsection}{Design workshop \#2 in Zambia}{37}{section*.80}
-\contentsline {subsection}{\numberline {2.4.4}Iteration 3}{38}{subsection.2.4.4}
-\contentsline {subsubsection}{Iteration 3: Purpose}{38}{section*.81}
-\contentsline {subsubsection}{Pedagogical model}{38}{section*.82}
-\contentsline {subsubsection}{Test on a Kampala entrepreneurship student}{38}{section*.83}
-\contentsline {subsubsection}{Test in Tororo}{38}{section*.84}
-\contentsline {subsection}{\numberline {2.4.5}Iteration 4}{39}{subsection.2.4.5}
-\contentsline {section}{\numberline {2.5}Application Implementation}{40}{section.2.5}
-\contentsline {subsection}{\numberline {2.5.1}User needs}{40}{subsection.2.5.1}
-\contentsline {subsection}{\numberline {2.5.2}Stakeholder needs}{40}{subsection.2.5.2}
-\contentsline {subsection}{\numberline {2.5.3}Devices to be used}{41}{subsection.2.5.3}
-\contentsline {subsection}{\numberline {2.5.4}Choosing frameworks for creating the app}{41}{subsection.2.5.4}
-\contentsline {subsection}{\numberline {2.5.5}Login}{42}{subsection.2.5.5}
-\contentsline {subsubsection}{Online and offline database}{42}{section*.86}
-\contentsline {section}{\numberline {2.6}Data Analysis Theory}{42}{section.2.6}
-\contentsline {subsection}{\numberline {2.6.1}Iteration \#1}{43}{subsection.2.6.1}
-\contentsline {subsection}{\numberline {2.6.2}Iteration \#2}{43}{subsection.2.6.2}
-\contentsline {subsection}{\numberline {2.6.3}Iteration \#3}{43}{subsection.2.6.3}
-\contentsline {subsection}{\numberline {2.6.4}Iteration \#4: Quiz Results Analysis}{43}{subsection.2.6.4}
-\contentsline {subsubsection}{Data Acquisition from Server}{44}{section*.89}
-\contentsline {subsubsection}{Data Acquisition from Pre-Study}{44}{section*.90}
-\contentsline {subsubsection}{Data Enhancement of Server Results}{44}{section*.91}
-\contentsline {subsubsection}{Date Enhancement of Pre-study Results}{45}{section*.93}
-\contentsline {subsubsection}{Data Enhancement by joining Pre-test and Results Summary}{45}{section*.94}
-\contentsline {subsubsection}{Visualization Mapping}{46}{section*.96}
-\contentsline {subsubsection}{Rendering}{46}{section*.97}
+\contentsline {subsubsection}{Experimenting with design of questions}{38}{section*.78}
+\contentsline {subsubsection}{Interviews with Josefina}{38}{section*.79}
+\contentsline {subsubsection}{Design workshop \#2 in Zambia}{38}{section*.80}
+\contentsline {subsection}{\numberline {2.4.4}Iteration 3}{39}{subsection.2.4.4}
+\contentsline {subsubsection}{Iteration 3: Purpose}{39}{section*.81}
+\contentsline {subsubsection}{Pedagogical model}{39}{section*.82}
+\contentsline {subsubsection}{Test on a Kampala entrepreneurship student}{39}{section*.83}
+\contentsline {subsubsection}{Test in Tororo}{39}{section*.84}
+\contentsline {subsection}{\numberline {2.4.5}Iteration 4}{40}{subsection.2.4.5}
+\contentsline {section}{\numberline {2.5}Application Implementation}{41}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}User needs}{41}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Stakeholder needs}{41}{subsection.2.5.2}
+\contentsline {subsection}{\numberline {2.5.3}Devices to be used}{42}{subsection.2.5.3}
+\contentsline {subsection}{\numberline {2.5.4}Choosing frameworks for creating the app}{42}{subsection.2.5.4}
+\contentsline {subsection}{\numberline {2.5.5}Login}{43}{subsection.2.5.5}
+\contentsline {subsubsection}{Online and offline database}{43}{section*.86}
+\contentsline {section}{\numberline {2.6}Data Analysis Theory}{43}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}Iteration \#1}{44}{subsection.2.6.1}
+\contentsline {subsection}{\numberline {2.6.2}Iteration \#2}{44}{subsection.2.6.2}
+\contentsline {subsection}{\numberline {2.6.3}Iteration \#3}{44}{subsection.2.6.3}
+\contentsline {subsection}{\numberline {2.6.4}Iteration \#4: Quiz Results Analysis}{44}{subsection.2.6.4}
+\contentsline {subsubsection}{Data Acquisition from Server}{45}{section*.89}
+\contentsline {subsubsection}{Data Acquisition from Pre-Study}{45}{section*.90}
+\contentsline {subsubsection}{Data Enhancement of Server Results}{45}{section*.91}
+\contentsline {subsubsection}{Date Enhancement of Pre-study Results}{46}{section*.93}
+\contentsline {subsubsection}{Data Enhancement by joining Pre-test and Results Summary}{46}{section*.94}
+\contentsline {subsubsection}{Visualization Mapping}{47}{section*.96}
+\contentsline {subsubsection}{Rendering}{47}{section*.97}
 \contentsline {chapter}{\numberline {3}Results}{49}{chapter.3}
 \contentsline {section}{\numberline {3.1}Developed Application}{49}{section.3.1}
 \contentsline {section}{\numberline {3.2}Iteration 1: Uganda Coach Visit}{51}{section.3.2}
@@ -205,7 +205,6 @@
 \contentsline {section}{\numberline {6.5}How can users' feedback be used to inform modifications of the app?}{108}{section.6.5}
 \contentsline {subsection}{\numberline {6.5.1}Educator Dashboard}{108}{subsection.6.5.1}
 \contentsline {subsection}{\numberline {6.5.2}To answer the research question more elegantly}{109}{subsection.6.5.2}
-\contentsline {chapter}{Bibliography}{111}{chapter*.156}
 \contentsline {chapter}{\numberline {A}Appendix 1}{117}{appendix.A}
 \contentsline {section}{\numberline {A.1}Original Time Plan}{117}{section.A.1}
 \contentsline {subsection}{\numberline {A.1.1}Before Uganda}{117}{subsection.A.1.1}

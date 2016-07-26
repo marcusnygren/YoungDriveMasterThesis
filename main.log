@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.24)  26 JUL 2016 15:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.24)  26 JUL 2016 16:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -575,6 +575,7 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count119
 )
+(/usr/local/texlive/2015/texmf-dist/tex/generic/bibtex/apalike.sty)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/natbib/bibentry.sty
 Package: bibentry 2007/10/30 1.5 (PWD)
 )
@@ -582,7 +583,7 @@ Package: bibentry 2007/10/30 1.5 (PWD)
 \tf@default=\write3
 \openout3 = `main.idx'.
 
-Package index Info: Writing index file main.idx on input line 610.
+Package index Info: Writing index file main.idx on input line 611.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
@@ -811,7 +812,7 @@ Package tocbibind Note: Using chapter style headings, unless overridden.
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
 les
 )
-LaTeX Info: Redefining \em on input line 809.
+LaTeX Info: Redefining \em on input line 810.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
@@ -1601,18 +1602,6 @@ File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.0 (rcs-revision 1.7)
 ))
    defining Unicode char U+00A0 (decimal 160)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/apacite/apacite.sty
-Package: apacite 2013/07/21 v6.03 APA citation
-)
-! Incomplete \iffalse; all text was ignored after line 587.
-<inserted text> 
-                \fi 
-l.21 
-     
-The file ended while I was skipping conditional text.
-This kind of error happens when you say `\if...' and forget
-the matching `\fi'. I've inserted a `\fi'; this might work.
-
 
 LaTeX Warning: Unused global option(s):
     [emarginparagraphs(notrecommended!).largesmallcaps].
@@ -1639,51 +1628,51 @@ LaTeX Warning: Label `fig:iteration' multiply defined.
 (./appendix/time_plan.aux) (./appendix/pre_test.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/jkpw/m/it on input line 22.
-LaTeX Font Info:    Try loading font information for OML+jkpw on input line 22.
+LaTeX Font Info:    Checking defaults for OML/jkpw/m/it on input line 21.
+LaTeX Font Info:    Try loading font information for OML+jkpw on input line 21.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/kpfonts/omljkpw.fd
 File: omljkpw.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/jkpw/m/n on input line 22.
-LaTeX Font Info:    Try loading font information for OMS+jkpw on input line 22.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/jkpw/m/n on input line 21.
+LaTeX Font Info:    Try loading font information for OMS+jkpw on input line 21.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/kpfonts/omsjkpw.fd
 File: omsjkpw.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/jkp/m/n on input line 22.
-LaTeX Font Info:    Try loading font information for OMX+jkp on input line 22.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/jkp/m/n on input line 21.
+LaTeX Font Info:    Try loading font information for OMX+jkp on input line 21.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/kpfonts/omxjkp.fd
 File: omxjkp.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/jkpexa/m/n on input line 22.
-LaTeX Font Info:    Try loading font information for U+jkpexa on input line 22.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/jkpexa/m/n on input line 21.
+LaTeX Font Info:    Try loading font information for U+jkpexa on input line 21.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/kpfonts/ujkpexa.fd
 File: ujkpexa.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 22.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 21.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Try loading font information for T1+jkp on input line 22.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Try loading font information for T1+jkp on input line 21.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/kpfonts/t1jkp.fd
 File: t1jkp.fd 2007/01/24 Fontinst v1.928 font definitions for T1/jkp.
@@ -1754,424 +1743,424 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 Package pdfcprot Info: I didn't find jkpbnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 22.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/pdfcprot/pplmnT1.cpa)
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
-LaTeX Font Info:    Try loading font information for TS1+jkp on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
+LaTeX Font Info:    Try loading font information for TS1+jkp on input line 21.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/kpfonts/ts1jkp.fd
 File: ts1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for TS1/jkp.
 )
 Package pdfcprot Info: I didn't find jkpbnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 22
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
 .
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/pdfcprot/pplmnTS1.cpa)
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 Package pdfcprot Info: I didn't find jkpbnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 22.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 Package pdfcprot Info: I didn't find jkpbnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 22
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 Package pdfcprot Info: I didn't find jkpbnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 22.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 Package pdfcprot Info: I didn't find jkpbnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 22
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 Package pdfcprot Info: I didn't find jkpbnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 22.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 Package pdfcprot Info: I didn't find jkpbnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 22
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 21.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 22.
+(Font)              scaled to size 9.49997pt on input line 21.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 9.49997pt on input line 22.
+(Font)              scaled to size 9.49997pt on input line 21.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 11.39996pt on input line 22.
+(Font)              scaled to size 11.39996pt on input line 21.
 Package pdfcprot Info: I didn't find phvbnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 22.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
-LaTeX Font Info:    Try loading font information for TS1+phv on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
+LaTeX Font Info:    Try loading font information for TS1+phv on input line 21.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ts1phv.fd
 File: ts1phv.fd 2001/06/04 scalable font definitions for TS1/phv.
 )
 LaTeX Font Info:    Font shape `TS1/phv/b/n' will be
-(Font)              scaled to size 11.39996pt on input line 22.
+(Font)              scaled to size 11.39996pt on input line 21.
 Package pdfcprot Info: I didn't find phvbnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 22
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 Package pdfcprot Info: I didn't find phvbnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 22.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 LaTeX Font Info:    Font shape `TS1/phv/b/n' will be
-(Font)              scaled to size 9.49997pt on input line 22.
+(Font)              scaled to size 9.49997pt on input line 21.
 Package pdfcprot Info: I didn't find phvbnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 22
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 8.54997pt on input line 22.
+(Font)              scaled to size 8.54997pt on input line 21.
 Package pdfcprot Info: I didn't find phvbnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 22.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 LaTeX Font Info:    Font shape `TS1/phv/b/n' will be
-(Font)              scaled to size 8.54997pt on input line 22.
+(Font)              scaled to size 8.54997pt on input line 21.
 Package pdfcprot Info: I didn't find phvbnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 22
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 7.59998pt on input line 22.
+(Font)              scaled to size 7.59998pt on input line 21.
 Package pdfcprot Info: I didn't find phvbnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 22.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 LaTeX Font Info:    Font shape `TS1/phv/b/n' will be
-(Font)              scaled to size 7.59998pt on input line 22.
+(Font)              scaled to size 7.59998pt on input line 21.
 Package pdfcprot Info: I didn't find phvbnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 22
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 Package pdfcprot Info: I didn't find jkpmnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 22.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 Package pdfcprot Info: I didn't find jkpmnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 22
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 Package pdfcprot Info: I didn't find jkpmnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 22.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 Package pdfcprot Info: I didn't find jkpmnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 22
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 Package pdfcprot Info: I didn't find jkpmnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 22.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 Package pdfcprot Info: I didn't find jkpmnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 22
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 Package pdfcprot Info: I didn't find jkpmnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 22.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 Package pdfcprot Info: I didn't find jkpmnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 22
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 Package pdfcprot Info: I didn't find jkpmitT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 22.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 Package pdfcprot Info: I didn't find jkpmitTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 22
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 Package pdfcprot Info: I didn't find jkpmitT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 22.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 Package pdfcprot Info: I didn't find jkpmitTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 22
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 Package pdfcprot Info: I didn't find jkpmitT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 22.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 Package pdfcprot Info: I didn't find jkpmitTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 22
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 Package pdfcprot Info: I didn't find jkpmitT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 22.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 Package pdfcprot Info: I didn't find jkpmitTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 22
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 11.39996pt on input line 22.
+(Font)              scaled to size 11.39996pt on input line 21.
 Package pdfcprot Info: I didn't find phvmnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 22.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
-(Font)              scaled to size 11.39996pt on input line 22.
+(Font)              scaled to size 11.39996pt on input line 21.
 Package pdfcprot Info: I didn't find phvmnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 22
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 Package pdfcprot Info: I didn't find phvmnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 22.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 22.
+(Font)              scaled to size 9.49997pt on input line 21.
 Package pdfcprot Info: I didn't find phvmnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 22
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 8.54997pt on input line 22.
+(Font)              scaled to size 8.54997pt on input line 21.
 Package pdfcprot Info: I didn't find phvmnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 22.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
-(Font)              scaled to size 8.54997pt on input line 22.
+(Font)              scaled to size 8.54997pt on input line 21.
 Package pdfcprot Info: I didn't find phvmnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 22
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 7.59998pt on input line 22.
+(Font)              scaled to size 7.59998pt on input line 21.
 Package pdfcprot Info: I didn't find phvmnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 22.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
-(Font)              scaled to size 7.59998pt on input line 22.
+(Font)              scaled to size 7.59998pt on input line 21.
 Package pdfcprot Info: I didn't find phvmnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 22
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 22.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 21.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 7.59998pt on input line 22.
+(Font)              scaled to size 7.59998pt on input line 21.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 22.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 21.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 11.39996pt on input line 22.
+(Font)              scaled to size 11.39996pt on input line 21.
 Package pdfcprot Info: I didn't find phvmitT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 22.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 LaTeX Font Info:    Font shape `TS1/phv/m/it' in size <12> not available
-(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 22.
+(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 21.
 LaTeX Font Info:    Font shape `TS1/phv/m/sl' will be
-(Font)              scaled to size 11.39996pt on input line 22.
+(Font)              scaled to size 11.39996pt on input line 21.
 Package pdfcprot Info: I didn't find phvmitTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 22
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 22.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 21.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 9.49997pt on input line 22.
+(Font)              scaled to size 9.49997pt on input line 21.
 Package pdfcprot Info: I didn't find phvmitT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 22.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 LaTeX Font Info:    Font shape `TS1/phv/m/it' in size <10> not available
-(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 22.
+(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 21.
 LaTeX Font Info:    Font shape `TS1/phv/m/sl' will be
-(Font)              scaled to size 9.49997pt on input line 22.
+(Font)              scaled to size 9.49997pt on input line 21.
 Package pdfcprot Info: I didn't find phvmitTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 22
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 22.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 21.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 8.54997pt on input line 22.
+(Font)              scaled to size 8.54997pt on input line 21.
 Package pdfcprot Info: I didn't find phvmitT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 22.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 LaTeX Font Info:    Font shape `TS1/phv/m/it' in size <9> not available
-(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 22.
+(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 21.
 LaTeX Font Info:    Font shape `TS1/phv/m/sl' will be
-(Font)              scaled to size 8.54997pt on input line 22.
+(Font)              scaled to size 8.54997pt on input line 21.
 Package pdfcprot Info: I didn't find phvmitTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 22
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 Package pdfcprot Info: I didn't find phvmitT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 22.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 LaTeX Font Info:    Font shape `TS1/phv/m/it' in size <8> not available
-(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 22.
+(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 21.
 LaTeX Font Info:    Font shape `TS1/phv/m/sl' will be
-(Font)              scaled to size 7.59998pt on input line 22.
+(Font)              scaled to size 7.59998pt on input line 21.
 Package pdfcprot Info: I didn't find phvmitTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 22
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 Package pdfcprot Info: I didn't find phvmslT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 22.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 Package pdfcprot Info: I didn't find phvmslTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 22
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 Package pdfcprot Info: I didn't find phvmslT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 22.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 Package pdfcprot Info: I didn't find phvmslTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 22
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 Package pdfcprot Info: I didn't find phvmslT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 22.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 Package pdfcprot Info: I didn't find phvmslTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 22
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 Package pdfcprot Info: I didn't find phvmslT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 22.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
 Package pdfcprot Info: I didn't find phvmslTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 22
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 22.
+(pdfcprot)             you intended to use. on input line 21.
  (./main.bbl)
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
@@ -2179,8 +2168,8 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box45
-Package backref Info: ** backref set up for natbib ** on input line 22.
-Package hyperref Info: Link coloring OFF on input line 22.
+Package backref Info: ** backref set up for natbib ** on input line 21.
+Package hyperref Info: Link coloring OFF on input line 21.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -2190,9 +2179,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count181
 )
-LaTeX Info: Redefining \ref on input line 22.
-LaTeX Info: Redefining \pageref on input line 22.
-LaTeX Info: Redefining \nameref on input line 22.
+LaTeX Info: Redefining \ref on input line 21.
+LaTeX Info: Redefining \pageref on input line 21.
+LaTeX Info: Redefining \nameref on input line 21.
 
 (./main.out) (./main.out)
 \@outlinefile=\write5
@@ -2201,14 +2190,12 @@ LaTeX Info: Redefining \nameref on input line 22.
 
 
 Package ctable Warning:  Transparency disabled: incompatible with tikz package 
- on input line 22.
+ on input line 21.
 
 Option `squaren' provided! 
  Command \squaren defined by SIunits package!
 
-ABD: EveryShipout initializing macros
-\c@maskedRefs=\count182
- (./main_intro.tex
+ABD: EveryShipout initializing macros (./main_intro.tex
 LaTeX Font Info:    Try loading font information for OT1+jkp on input line 1.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/kpfonts/ot1jkp.fd
@@ -2236,7 +2223,7 @@ LaTeX Font Info:    Try loading font information for U+jkpsyc on input line 1.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/kpfonts/ujkpsyc.fd
 File: ujkpsyc.fd 2006/08/15 v1.0
 )
-<fig/LiTH_sv_vert_blk.pdf, id=517, 259.31882pt x 190.21063pt>
+<fig/LiTH_sv_vert_blk.pdf, id=513, 259.31882pt x 190.21063pt>
 File: fig/LiTH_sv_vert_blk.pdf Graphic file (type pdf)
 
 <use fig/LiTH_sv_vert_blk.pdf>
@@ -2284,7 +2271,7 @@ name{page.ii}) has been already used, duplicate ignored
 l.7 \maketitle
                [2
 
-] <fig/LiTH_sigill_blk.pdf, id=588, 123.70215pt x 123.5817pt>
+] <fig/LiTH_sigill_blk.pdf, id=584, 123.70215pt x 123.5817pt>
 File: fig/LiTH_sigill_blk.pdf Graphic file (type pdf)
 
 <use fig/LiTH_sigill_blk.pdf>
@@ -2389,108 +2376,9 @@ l.30
 (./introduction/background/uganda/plan_youngdrive.tex [4]))
 (./introduction/background/2_theory.tex
 (./introduction/background/theory/entrepreneurship_education.tex
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.13 ...e last three decades. While \cite{dickson}
-                                                   says there are few empiri...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.13 ...amples include among others \cite{kuratko}
-                                                  , \cite{pittaway} and \cit...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.13 ...ong others \cite{kuratko}, \cite{pittaway}
-                                                   and \cite{bae}. \cite{ovi...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.13 ...e{kuratko}, \cite{pittaway} and \cite{bae}
-                                                  . \cite{oviawe} and \cite{...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.13 ...te{pittaway} and \cite{bae}. \cite{oviawe}
-                                                   and \cite{iakovleva} has ...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.13 ...e{bae}. \cite{oviawe} and \cite{iakovleva}
-                                                   has had an interest in in...
-Things are pretty mixed up, but I think the worst is over.
-
-
 Underfull \vbox (badness 1442) has occurred while \output is active []
 
- [5]
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.19 First, \cite{oviawe}
-                          conclude by how teaching of creativity and problem...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.21 Further, \cite{iakovleva}
-                               indicated that respondents from developing co...
-Things are pretty mixed up, but I think the worst is over.
-
-
-Overfull \hbox (15.25192pt too wide) in paragraph at lines 21--22
-[]\T1/jkp/m/n/10 Further, < in-di-cated that re-spon-dents from de-vel-op-ing c
-oun-tries do have stronger
- []
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.23 \cite{ruskovaara}
-                       concludes, that the teacher seems to be the main fact...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.23 ...entrepreneurship education. \cite{dickson}
-                                                   recommends mainly two thi...
-Things are pretty mixed up, but I think the worst is over.
-
-)
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.9     \cite{gates}
-                     has done a comprehensive study, which motivates why a d...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.11 ...ning specifically, are \cite{godwin-jones}
-                                                   and \cite{page}.
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.11 ...y, are \cite{godwin-jones} and \cite{page}
-                                                  .
-Things are pretty mixed up, but I think the worst is over.
-
+ [5])
 [6] (./introduction/background/theory/app_development.tex))
 (./introduction/background/3_related_work.tex [7]))) [8]
 \openout2 = `methods/methods.aux'.
@@ -2503,21 +2391,7 @@ Chapter 2.
 
 
 ]
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.17 In how people forget, \cite{bjork}
-                                        researches how people forget, and ho...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.38 ...e \ref{fig:revised-bloom} from \cite{heer}
-                                                  . Each colored block is an...
-Things are pretty mixed up, but I think the worst is over.
-
-<fig/RevisedBloom.png, id=875, 1593.955pt x 1262.7175pt>
+<fig/RevisedBloom.png, id=912, 1593.955pt x 1262.7175pt>
 File: fig/RevisedBloom.png Graphic file (type png)
 
 <use fig/RevisedBloom.png>
@@ -2528,396 +2402,29 @@ Package pdftex.def Info: fig/RevisedBloom.png used on input line 42.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [10]
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.73 ...he purpose of not forgetting. \cite{gates}
-                                                   concludes that spaced lea...
-Things are pretty mixed up, but I think the worst is over.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [11 <./fig/RevisedBloom.png>]
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.77   \cite{gates}
-                    found no evidence of consistent correlation between tota...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.79   When building skills, \cite{sierra}
-                                           suggests \textit{deliberate pract...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.83   \cite{sierra}
-                     suggests skills to be divided into three buckets: can't...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.83 ...ef{fig:sierra-practice} from \cite{sierra}
-                                                  . If you can’t get the u...
-Things are pretty mixed up, but I think the worst is over.
-
-<fig/SierraPractice.png, id=900, 684.5575pt x 244.915pt>
+ [11 <./fig/RevisedBloom.png>] <fig/SierraPractice.png, id=950, 684.5575pt x 24
+4.915pt>
 File: fig/SierraPractice.png Graphic file (type png)
 
 <use fig/SierraPractice.png>
 Package pdftex.def Info: fig/SierraPractice.png used on input line 87.
 (pdftex.def)             Requested size: 284.52863pt x 101.79851pt.
  [12 <./fig/SierraPractice.png>]
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.102 ...cial to effective learning, \cite{luckin}
-                                                   says. Assessment can part...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.108 ...iate feed-forward advice. \cite{sitzmann}
-                                                   has studied how questions...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.108 ...rding multiple-choice tests, \cite{nicol}
-                                                   gives seven principles of...
-Things are pretty mixed up, but I think the worst is over.
-
 
 LaTeX Warning: Reference `figure:multiple-choice' on page 13 undefined on input
  line 108.
 
-<fig/multipleChoice.png, id=915, 728.7225pt x 210.7875pt>
+<fig/multipleChoice.png, id=972, 728.7225pt x 210.7875pt>
 File: fig/multipleChoice.png Graphic file (type png)
 
 <use fig/multipleChoice.png>
 Package pdftex.def Info: fig/multipleChoice.png used on input line 112.
 (pdftex.def)             Requested size: 284.52863pt x 82.30006pt.
 
-! Undefined control sequence.
-\BCAY #1#2#3->\BCA 
-                   {#1}{#2}
-l.113 ... of good feedback practice \cite{nicol}.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   }
-l.113 ... of good feedback practice \cite{nicol}.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   3
-l.113 ... of good feedback practice \cite{nicol}.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Undefined control sequence.
-\cite ->\def \BCAY ##1##2##3{\BCA 
-                                  {##1}{##2}}\def \citeauthoryear ##1##2##3{...
-l.113 ... of good feedback practice \cite{nicol}.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   1
-l.113 ... of good feedback practice \cite{nicol}.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   2
-l.113 ... of good feedback practice \cite{nicol}.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Undefined control sequence.
-\citeauthoryear #1#2#3->\BCA 
-                             {#1}{#2}
-l.113 ... of good feedback practice \cite{nicol}.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   }
-l.113 ... of good feedback practice \cite{nicol}.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   3
-l.113 ... of good feedback practice \cite{nicol}.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Undefined control sequence.
-\cite ...##2}}\def \citeauthoryear ##1##2##3{\BCA 
-                                                  {##1}{##2}}\def \@BBOP {\B...
-l.113 ... of good feedback practice \cite{nicol}.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   1
-l.113 ... of good feedback practice \cite{nicol}.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   2
-l.113 ... of good feedback practice \cite{nicol}.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Undefined control sequence.
-\@BBOP ->\BBOP 
-               
-l.113 ... of good feedback practice \cite{nicol}.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\cite ...#2##3{\BCA {##1}{##2}}\def \@BBOP {\BBOP 
-                                                  }\def \@BBCP {\BBCP }\@ifn...
-l.113 ... of good feedback practice \cite{nicol}.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\@BBCP ->\BBCP 
-               
-l.113 ... of good feedback practice \cite{nicol}.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\cite ...}}\def \@BBOP {\BBOP }\def \@BBCP {\BBCP 
-                                                  }\@ifnextchar <{\@cite }{\...
-l.113 ... of good feedback practice \cite{nicol}.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Argument of \caption@ydblarg has an extra }.
-<inserted text> 
-                \par 
-l.113 ... of good feedback practice \cite{nicol}.}
-                                                  
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-{\@caption \@captype }{\@cite }\def \reserved@b {\@cite <>}\futurelet \ETC.
-! Paragraph ended before \caption@ydblarg was complete.
-<to be read again> 
-                   \par 
-l.113 ... of good feedback practice \cite{nicol}.}
-                                                  
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.113 ... of good feedback practice \cite{nicol}.}
-                                                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra }, or forgotten \endgroup.
-\sbox ...hbox {\color@setgroup #2\color@endgroup }
-                                                  
-l.113 ... of good feedback practice \cite{nicol}.}
-                                                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.113 ... of good feedback practice \cite{nicol}.}
-                                                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra }, or forgotten \endgroup.
-\@begin@tempboxa ...begingroup #2\color@endgroup }
-                                                  \def \width {\wd \@tempbox...
-l.113 ... of good feedback practice \cite{nicol}.}
-                                                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.113 ... of good feedback practice \cite{nicol}.}
-                                                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.113 ... of good feedback practice \cite{nicol}.}
-                                                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Too many }'s.
-\sf@endfloatbox ...gefalse \outer@nobreak \egroup 
-                                                  \color@endbox 
-l.115 \end{figure}
-                  
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-! Extra \endgroup.
-\color@endgroup ->\endgraf \endgroup 
-                                     
-l.115 \end{figure}
-                  
-Things are pretty mixed up, but I think the worst is over.
-
-! Too many }'s.
-\color@endbox ->\color@endgroup \egroup 
-                                        
-l.115 \end{figure}
-                  
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-! You can't use `\vadjust' in vertical mode.
-\sf@end@float ...ty \@floatpenalty \else \vadjust 
-                                                  {\penalty -\@Miv \vbox {}\...
-l.115 \end{figure}
-                  
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-! LaTeX Error: This may be a LaTeX bug.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.115 \end{figure}
-                  
-Call for help
-
-
-! LaTeX Error: \begin{document} ended by \end{figure}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.115 \end{figure}
-                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.115 \end{figure}
-                  
-Things are pretty mixed up, but I think the worst is over.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Package natbib Warning: Citation `dweck-youtube' on page 13 undefined on input 
@@ -2927,928 +2434,105 @@ line 117.
 Package natbib Warning: Citation `dweck-youtube' on page 13 undefined on input 
 line 117.
 
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.121   \cite{stefano}
-                       suggests that that reflection has been an overlooked ...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.121 ...to the teacher as well says \cite{luckin}
-                                                  .
-Things are pretty mixed up, but I think the worst is over.
-
-[13]
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.123   \cite{stefano}
-                       found that individuals who are given time to reflect ...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.127 ...it comes to study technique, \cite{bjork}
-                                                   as well shows that retrie...
-Things are pretty mixed up, but I think the worst is over.
-
-) (./methods/methodological-framework/methods_motivation.tex
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.12 \cite{koballa}
-                    and \cite{abell} gives an overview of theories developed...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.12 \cite{koballa} and \cite{abell}
-                                     gives an overview of theories developed...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.12 ...these three fields. Further, \cite{fulmer}
-                                                   provides a review of meth...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.14 \cite{deci}
-                 and \cite{ryan} studies self-determination theory, \cite{el...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.14 \cite{deci} and \cite{ryan}
-                                 studies self-determination theory, \cite{el...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.14 ...s self-determination theory, \cite{elliot}
-                                                   studies achievement theor...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.14 ...dies achievement theory, and \cite{eccles}
-                                                   and \cite{wigfield} studi...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.14 ...ory, and \cite{eccles} and \cite{wigfield}
-                                                   studies expectancy-value ...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.18 ...erms of product development, \cite{sierra}
-                                                   argues that if you have d...
-Things are pretty mixed up, but I think the worst is over.
-
-<fig/SierraSummary.png, id=930, 631.35875pt x 347.2975pt>
+[13]) (./methods/methodological-framework/methods_motivation.tex [14 <./fig/mul
+tipleChoice.png>] <fig/SierraSummary.png, id=1029, 631.35875pt x 347.2975pt>
 File: fig/SierraSummary.png Graphic file (type png)
 
 <use fig/SierraSummary.png>
 Package pdftex.def Info: fig/SierraSummary.png used on input line 22.
 (pdftex.def)             Requested size: 284.52863pt x 156.5156pt.
-
-! Undefined control sequence.
-\BCAY #1#2#3->\BCA 
-                   {#1}{#2}
-l.23 ...ve load and helping the user to progress.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   }
-l.23 ...ve load and helping the user to progress.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   3
-l.23 ...ve load and helping the user to progress.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Undefined control sequence.
-\cite ->\def \BCAY ##1##2##3{\BCA 
-                                  {##1}{##2}}\def \citeauthoryear ##1##2##3{...
-l.23 ...ve load and helping the user to progress.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   1
-l.23 ...ve load and helping the user to progress.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   2
-l.23 ...ve load and helping the user to progress.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Undefined control sequence.
-\citeauthoryear #1#2#3->\BCA 
-                             {#1}{#2}
-l.23 ...ve load and helping the user to progress.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   }
-l.23 ...ve load and helping the user to progress.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   3
-l.23 ...ve load and helping the user to progress.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Undefined control sequence.
-\cite ...##2}}\def \citeauthoryear ##1##2##3{\BCA 
-                                                  {##1}{##2}}\def \@BBOP {\B...
-l.23 ...ve load and helping the user to progress.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   1
-l.23 ...ve load and helping the user to progress.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   2
-l.23 ...ve load and helping the user to progress.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Undefined control sequence.
-\@BBOP ->\BBOP 
-               
-l.23 ...ve load and helping the user to progress.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\cite ...#2##3{\BCA {##1}{##2}}\def \@BBOP {\BBOP 
-                                                  }\def \@BBCP {\BBCP }\@ifn...
-l.23 ...ve load and helping the user to progress.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\@BBCP ->\BBCP 
-               
-l.23 ...ve load and helping the user to progress.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\cite ...}}\def \@BBOP {\BBOP }\def \@BBCP {\BBCP 
-                                                  }\@ifnextchar <{\@cite }{\...
-l.23 ...ve load and helping the user to progress.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Argument of \caption@ydblarg has an extra }.
-<inserted text> 
-                \par 
-l.23 ...ve load and helping the user to progress.}
-                                                  
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-{\@caption \@captype }{\@cite }\def \reserved@b {\@cite <>}\futurelet \ETC.
-! Paragraph ended before \caption@ydblarg was complete.
-<to be read again> 
-                   \par 
-l.23 ...ve load and helping the user to progress.}
-                                                  
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.23 ...ve load and helping the user to progress.}
-                                                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra }, or forgotten \endgroup.
-\sbox ...hbox {\color@setgroup #2\color@endgroup }
-                                                  
-l.23 ...ve load and helping the user to progress.}
-                                                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.23 ...ve load and helping the user to progress.}
-                                                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra }, or forgotten \endgroup.
-\@begin@tempboxa ...begingroup #2\color@endgroup }
-                                                  \def \width {\wd \@tempbox...
-l.23 ...ve load and helping the user to progress.}
-                                                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.23 ...ve load and helping the user to progress.}
-                                                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.23 ...ve load and helping the user to progress.}
-                                                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Too many }'s.
-\sf@endfloatbox ...gefalse \outer@nobreak \egroup 
-                                                  \color@endbox 
-l.25 \end{figure}
-                 
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-[14]
-! Extra \endgroup.
-\color@endgroup ->\endgraf \endgroup 
-                                     
-l.25 \end{figure}
-                 
-Things are pretty mixed up, but I think the worst is over.
-
-! Too many }'s.
-\color@endbox ->\color@endgroup \egroup 
-                                        
-l.25 \end{figure}
-                 
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-! You can't use `\vadjust' in vertical mode.
-\sf@end@float ...ty \@floatpenalty \else \vadjust 
-                                                  {\penalty -\@Miv \vbox {}\...
-l.25 \end{figure}
-                 
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-! LaTeX Error: This may be a LaTeX bug.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.25 \end{figure}
-                 
-Call for help
-
-
-! LaTeX Error: \begin{document} ended by \end{figure}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.25 \end{figure}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.25 \end{figure}
-                 
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.29 \cite{sierra}
-                   argues that working on what stops people matters more tha...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.33 ...h if the effort is too high. \cite{sierra}
-                                                   describes two strategies....
-Things are pretty mixed up, but I think the worst is over.
-
-
-Overfull \hbox (2.26198pt too wide) in paragraph at lines 35--36
+ [15 <./fig/SierraSummary.png>]
+Overfull \hbox (2.41197pt too wide) in paragraph at lines 35--36
 \T1/jkp/m/n/10 should be han-dled via de-sign-ing to sup-port cog-ni-tive re-so
-urces, Sierra says [[][]Sierra[],
+urces, Sierra says ([][]Sierra[],
  []
 
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.37 ...earning versus just-in-case, \cite{sierra}
-                                                   says.
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.39 ...nformation in different ways. \cite{gates}
-                                                   shows that in their resea...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.49 \cite{sierra}
-                   argues that to pull users forward, to stay motivated, pro...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.53 ...ng experiences, according to \cite{sierra}
-                                                  . For an entrepreneur, gai...
-Things are pretty mixed up, but I think the worst is over.
-
-[15]
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.59 ...to simple gamification, says \cite{sierra}
-                                                  . In an app for building e...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.61 ...on theory \citep{deci, ryan}.  \cite{pink}
-                                                   concludes that the surpri...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.61 ...stery and purpose. Meanwhile, \cite{gates}
-                                                   says that simple gamifica...
-Things are pretty mixed up, but I think the worst is over.
-
-) (./methods/methodological-framework/methods_design_process.tex
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.11 \cite{lowgren}
-                    writes about design thinking and useful techniques in ge...
-Things are pretty mixed up, but I think the worst is over.
-
-
-Overfull \hbox (8.53996pt too wide) in paragraph at lines 13--14
+[16]) (./methods/methodological-framework/methods_design_process.tex
+Overfull \hbox (8.68996pt too wide) in paragraph at lines 13--14
 []\T1/jkp/m/n/10 Service de-sign think-ing con-nects var-i-ous fields of ac-tiv
--ity [[][]Stick-dorn and Schnei-
+-ity ([][]Stick-dorn and Schnei-
  []
 
-[16]
+[17]
 Overfull \hbox (1.40999pt too wide) in paragraph at lines 31--32
 \T1/jkp/m/n/10 sur-pris-ing) so-lu-tion or de-sign can be achieved while work-i
 ng in a highly re-stricted
  []
 
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.38 According to \cite{lowgren}
-                                , "real" design is about finding ways to des...
-Things are pretty mixed up, but I think the worst is over.
-
-[17]) (./methods/methodological-framework/methods_service_design.tex
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.3 ...are described according to \cite{stickdorn}
-                                                  , together with how the wo...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.6 \cite{stickdorn}
-                     describes five principles that constitute service desig...
-Things are pretty mixed up, but I think the worst is over.
-
-[18]
+[18]) (./methods/methodological-framework/methods_service_design.tex
 Overfull \hbox (11.58199pt too wide) in paragraph at lines 8--9
 []\T1/jkp/m/n/10 He de-scribes how to fol-low these prin-ci-ples, by mak-ing th
 e pro-cess user-centered
  []
 
-<fig/Iteration.png, id=996, 496.85625pt x 589.20125pt>
+[19] <fig/Iteration.png, id=1132, 496.85625pt x 589.20125pt>
 File: fig/Iteration.png Graphic file (type png)
- <use fig/Iteration.png>
+
+<use fig/Iteration.png>
 Package pdftex.def Info: fig/Iteration.png used on input line 17.
 (pdftex.def)             Requested size: 248.96051pt x 295.23822pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<fig/projectLoop.png, id=1000, 610.28pt x 269.005pt>
+ [20 <./fig/Iteration.png>]
+<fig/projectLoop.png, id=1149, 610.28pt x 269.005pt>
 File: fig/projectLoop.png Graphic file (type png)
  <use fig/projectLoop.png>
 Package pdftex.def Info: fig/projectLoop.png used on input line 40.
 (pdftex.def)             Requested size: 284.52863pt x 125.4226pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[19]
 Overfull \hbox (7.882pt too wide) in paragraph at lines 50--51
 \T1/jkp/m/n/10 you struc-ture and in-spire brain-storms, you can ask "What if..
 .?" and do Co-Creation,
  []
 
-[20 <./fig/Iteration.png>])
+[21 <./fig/projectLoop.png>])
 (./methods/methodological-framework/methods_digital_service_design.tex
 Overfull \hbox (4.02203pt too wide) in paragraph at lines 3--4
 \T1/jkp/m/n/10 The method com-bines the ben-e-fits of Ser-vice De-sign, Ag-ile 
 Method-olo-gies (namely
  []
 
-[21 <./fig/projectLoop.png>] [22])
-(./methods/methodological-framework/methods_data_collection.tex [23]
+[22] [23]) (./methods/methodological-framework/methods_data_collection.tex
+[24]
 
-LaTeX Warning: Reference `cjmExample' on page 24 undefined on input line 17.
+LaTeX Warning: Reference `cjmExample' on page 25 undefined on input line 17.
 
-<fig/analysis/cjmExample.png, id=1069, 1009.7725pt x 737.75626pt>
+<fig/analysis/cjmExample.png, id=1204, 1009.7725pt x 737.75626pt>
 File: fig/analysis/cjmExample.png Graphic file (type png)
 
 <use fig/analysis/cjmExample.png>
 Package pdftex.def Info: fig/analysis/cjmExample.png used on input line 21.
 (pdftex.def)             Requested size: 248.96051pt x 181.89447pt.
 
+Underfull \vbox (badness 3612) has occurred while \output is active []
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[24]
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.36 ...users and the stakeholders. \cite{kniberg}
-                                                   says that a well executed...
-Things are pretty mixed up, but I think the worst is over.
-
-[25 <./fig/analysis/cjmExample.png>]
-<fig/analysis/terre.png, id=1094, 537.50812pt x 248.42813pt>
+ [25 <./fig/analysis/cjmExample.png>]
+<fig/analysis/terre.png, id=1222, 537.50812pt x 248.42813pt>
 File: fig/analysis/terre.png Graphic file (type png)
 
 <use fig/analysis/terre.png>
 Package pdftex.def Info: fig/analysis/terre.png used on input line 45.
 (pdftex.def)             Requested size: 248.96051pt x 115.06679pt.
 
-! Undefined control sequence.
-\BCAY #1#2#3->\BCA 
-                   {#1}{#2}
-l.46 ...tionship at all (random) \cite{une-terre}}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   }
-l.46 ...tionship at all (random) \cite{une-terre}}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   3
-l.46 ...tionship at all (random) \cite{une-terre}}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Undefined control sequence.
-\cite ->\def \BCAY ##1##2##3{\BCA 
-                                  {##1}{##2}}\def \citeauthoryear ##1##2##3{...
-l.46 ...tionship at all (random) \cite{une-terre}}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   1
-l.46 ...tionship at all (random) \cite{une-terre}}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   2
-l.46 ...tionship at all (random) \cite{une-terre}}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Undefined control sequence.
-\citeauthoryear #1#2#3->\BCA 
-                             {#1}{#2}
-l.46 ...tionship at all (random) \cite{une-terre}}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   }
-l.46 ...tionship at all (random) \cite{une-terre}}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   3
-l.46 ...tionship at all (random) \cite{une-terre}}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Undefined control sequence.
-\cite ...##2}}\def \citeauthoryear ##1##2##3{\BCA 
-                                                  {##1}{##2}}\def \@BBOP {\B...
-l.46 ...tionship at all (random) \cite{une-terre}}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   1
-l.46 ...tionship at all (random) \cite{une-terre}}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   2
-l.46 ...tionship at all (random) \cite{une-terre}}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Undefined control sequence.
-\@BBOP ->\BBOP 
-               
-l.46 ...tionship at all (random) \cite{une-terre}}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\cite ...#2##3{\BCA {##1}{##2}}\def \@BBOP {\BBOP 
-                                                  }\def \@BBCP {\BBCP }\@ifn...
-l.46 ...tionship at all (random) \cite{une-terre}}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\@BBCP ->\BBCP 
-               
-l.46 ...tionship at all (random) \cite{une-terre}}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\cite ...}}\def \@BBOP {\BBOP }\def \@BBCP {\BBCP 
-                                                  }\@ifnextchar <{\@cite }{\...
-l.46 ...tionship at all (random) \cite{une-terre}}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Argument of \caption@ydblarg has an extra }.
-<inserted text> 
-                \par 
-l.46 ...tionship at all (random) \cite{une-terre}}
-                                                  
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-{\@caption \@captype }{\@cite }\def \reserved@b {\@cite <>}\futurelet \ETC.
-! Paragraph ended before \caption@ydblarg was complete.
-<to be read again> 
-                   \par 
-l.46 ...tionship at all (random) \cite{une-terre}}
-                                                  
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.46 ...tionship at all (random) \cite{une-terre}}
-                                                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra }, or forgotten \endgroup.
-\sbox ...hbox {\color@setgroup #2\color@endgroup }
-                                                  
-l.46 ...tionship at all (random) \cite{une-terre}}
-                                                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.46 ...tionship at all (random) \cite{une-terre}}
-                                                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra }, or forgotten \endgroup.
-\@begin@tempboxa ...begingroup #2\color@endgroup }
-                                                  \def \width {\wd \@tempbox...
-l.46 ...tionship at all (random) \cite{une-terre}}
-                                                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.46 ...tionship at all (random) \cite{une-terre}}
-                                                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.46 ...tionship at all (random) \cite{une-terre}}
-                                                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Too many }'s.
-\sf@endfloatbox ...gefalse \outer@nobreak \egroup 
-                                                  \color@endbox 
-l.48 \end{figure}
-                 
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-! Extra \endgroup.
-\color@endgroup ->\endgraf \endgroup 
-                                     
-l.48 \end{figure}
-                 
-Things are pretty mixed up, but I think the worst is over.
-
-! Too many }'s.
-\color@endbox ->\color@endgroup \egroup 
-                                        
-l.48 \end{figure}
-                 
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-! You can't use `\vadjust' in vertical mode.
-\sf@end@float ...ty \@floatpenalty \else \vadjust 
-                                                  {\penalty -\@Miv \vbox {}\...
-l.48 \end{figure}
-                 
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-! LaTeX Error: This may be a LaTeX bug.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.48 \end{figure}
-                 
-Call for help
-
-
-! LaTeX Error: \begin{document} ended by \end{figure}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.48 \end{figure}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.48 \end{figure}
-                 
-Things are pretty mixed up, but I think the worst is over.
-
-<fig/analysis/rStatisticalAnalysis.png, id=1095, 331.2375pt x 331.2375pt>
+<fig/analysis/rStatisticalAnalysis.png, id=1227, 331.2375pt x 331.2375pt>
 File: fig/analysis/rStatisticalAnalysis.png Graphic file (type png)
 
 <use fig/analysis/rStatisticalAnalysis.png>
 Package pdftex.def Info: fig/analysis/rStatisticalAnalysis.png used on input li
 ne 79.
 (pdftex.def)             Requested size: 248.96051pt x 248.9582pt.
-))
-(./methods/setting_research_context.tex
-(./methods/setting-research-context/team.tex [26 <./fig/analysis/rStatisticalAn
-alysis.png>] [27]
 
-LaTeX Warning: Marginpar on page 28 moved.
 
-)
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+)) (./methods/setting_research_context.tex
+(./methods/setting-research-context/team.tex
+Underfull \vbox (badness 1939) has occurred while \output is active []
+
+ [26]
+[27 <./fig/analysis/terre.png>] [28 <./fig/analysis/rStatisticalAnalysis.png>])
+
 Overfull \hbox (4.31198pt too wide) in paragraph at lines 41--6
 []\T1/jkp/m/n/10 For ped-a-gog-i-cal de-vel-op-ment, Hen-rik Lund-mark from edt
 ech startup Knownly
@@ -3860,42 +2544,49 @@ Overfull \hbox (7.682pt too wide) in paragraph at lines 11--12
 take place in Uganda,
  []
 
-) (./methods/subjects.tex
+) [29] (./methods/subjects.tex
 Overfull \hbox (11.39392pt too wide) in paragraph at lines 3--4
 \T1/jkp/m/n/10 The fol-low-ing sec-tion de-scribes roles, busi-nesses, and coac
 h de-scrip-tions for Uganda
  []
 
-[28] <fig/ydStatistics.png, id=1120, 1102.1175pt x 107.40125pt>
+<fig/ydStatistics.png, id=1261, 1102.1175pt x 107.40125pt>
 File: fig/ydStatistics.png Graphic file (type png)
 
 <use fig/ydStatistics.png>
 Package pdftex.def Info: fig/ydStatistics.png used on input line 27.
 (pdftex.def)             Requested size: 248.96051pt x 24.26091pt.
- [29 <./fig/ydStatistics.png>]
 
-LaTeX Warning: Reference `fig:tororo' on page 30 undefined on input line 44.
 
-<fig/stayover.jpg, id=1130, 1284.8pt x 722.7pt>
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[30]
+
+LaTeX Warning: Reference `fig:tororo' on page 31 undefined on input line 44.
+
+<fig/stayover.jpg, id=1270, 1284.8pt x 722.7pt>
 File: fig/stayover.jpg Graphic file (type jpg)
  <use fig/stayover.jpg>
 Package pdftex.def Info: fig/stayover.jpg used on input line 48.
 (pdftex.def)             Requested size: 248.96051pt x 140.03821pt.
- [30 <./fig/stayover.jpg>]
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 
 Package natbib Warning: Citation `yd-zambia-interviews' on page 31 undefined on
  input line 60.
 
-) (./methods/study_design_data_collection.tex
-(./methods/study-design/implementation_design_process.tex [31]
-<fig/iterativeProcess.png, id=1144, 1186.4325pt x 686.565pt>
+[31 <./fig/ydStatistics.png>]) (./methods/study_design_data_collection.tex
+(./methods/study-design/implementation_design_process.tex [32 <./fig/stayover.j
+pg>] <fig/iterativeProcess.png, id=1284, 1186.4325pt x 686.565pt>
 File: fig/iterativeProcess.png Graphic file (type png)
 
 <use fig/iterativeProcess.png>
 Package pdftex.def Info: fig/iterativeProcess.png used on input line 31.
 (pdftex.def)             Requested size: 355.65944pt x 205.81395pt.
- [32 <./fig/iterativeProcess.png>]
-<fig/emSkype.png, id=1154, 1927.2pt x 1204.5pt>
+ [33 <./fig/iterativeProcess.png>]
+<fig/emSkype.png, id=1295, 1927.2pt x 1204.5pt>
 File: fig/emSkype.png Graphic file (type png)
  <use fig/emSkype.png>
 Package pdftex.def Info: fig/emSkype.png used on input line 48.
@@ -3931,8 +2622,8 @@ Overfull \hbox (8.5368pt too wide) in paragraph at lines 14--14
 [][][][]\T1/jkp/m/n/10 Complete 
  []
 
-) (./methods/study-design/iteration_1.tex [33 <./fig/emSkype.png>] [34]
-<fig/youthsessionSmall.jpg, id=1169, 803.0pt x 342.27875pt>
+) (./methods/study-design/iteration_1.tex [34 <./fig/emSkype.png>] [35]
+<fig/youthsessionSmall.jpg, id=1310, 803.0pt x 342.27875pt>
 File: fig/youthsessionSmall.jpg Graphic file (type jpg)
 
 <use fig/youthsessionSmall.jpg>
@@ -3940,37 +2631,40 @@ Package pdftex.def Info: fig/youthsessionSmall.jpg used on input line 24.
 (pdftex.def)             Requested size: 248.96051pt x 106.12097pt.
 ) (./methods/study-design/iteration_2.tex
 
-LaTeX Warning: Reference `fig:zambia' on page 35 undefined on input line 14.
+LaTeX Warning: Reference `fig:zambia' on page 36 undefined on input line 14.
 
-[35 <./fig/youthsessionSmall.jpg>]
-<fig/zambiaCreation.jpg, id=1178, 803.0pt x 602.25pt>
+[36 <./fig/youthsessionSmall.jpg>]
+<fig/zambiaCreation.jpg, id=1318, 803.0pt x 602.25pt>
 File: fig/zambiaCreation.jpg Graphic file (type jpg)
 
 <use fig/zambiaCreation.jpg>
 Package pdftex.def Info: fig/zambiaCreation.jpg used on input line 27.
 (pdftex.def)             Requested size: 248.96051pt x 186.72313pt.
- [36 <./fig/zambiaCreation.jpg>])
-(./methods/study-design/iteration_3.tex [37]) [38]
-(./methods/study-design/iteration_4.tex
 
-LaTeX Warning: Reference `pre-test' on page 39 undefined on input line 5.
 
-<fig/appevaluation.jpg, id=1211, 2601.72pt x 1943.26pt>
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[37]) (./methods/study-design/iteration_3.tex [38 <./fig/zambiaCreation.jpg>]
+[39]) (./methods/study-design/iteration_4.tex
+
+LaTeX Warning: Reference `pre-test' on page 40 undefined on input line 5.
+
+<fig/appevaluation.jpg, id=1352, 2601.72pt x 1943.26pt>
 File: fig/appevaluation.jpg Graphic file (type jpg)
 
 <use fig/appevaluation.jpg>
 Package pdftex.def Info: fig/appevaluation.jpg used on input line 13.
 (pdftex.def)             Requested size: 248.96051pt x 185.94594pt.
- [39 <./fig/appevaluation.jpg>]))
+ [40 <./fig/appevaluation.jpg>]))
 (./methods/application_implementation.tex
-(./methods/application-implementation/iteration_1.tex [40])
+(./methods/application-implementation/iteration_1.tex [41])
 (./methods/application-implementation/iteration_2.tex)
 (./methods/application-implementation/iteration_3.tex
 Underfull \vbox (badness 1033) has occurred while \output is active []
 
- [41])
+ [42])
 (./methods/application-implementation/iteration_4.tex))
-(./methods/data_analysis_theory.tex [42]
+(./methods/data_analysis_theory.tex [43]
 Overfull \hbox (2.71683pt too wide) in paragraph at lines 33--33
 \T1/jkp/m/n/10 beskriva 
  []
@@ -4030,25 +2724,25 @@ Overfull \hbox (11.7168pt too wide) in paragraph at lines 33--33
 \T1/jkp/m/n/10 tiviteterna  
  []
 
-(./methods/data_analysis_theory/iteration_4.tex [43]
+(./methods/data_analysis_theory/iteration_4.tex [44]
 Overfull \hbox (15.96997pt too wide) in paragraph at lines 9--10
 \T1/jkp/m/n/10 The Pre-study data ac-qui-si-tion was done by in-stead of look-i
 ng at the paper-submitted
  []
 
 
-LaTeX Warning: Reference `resultsColored' on page 44 undefined on input line 17
+LaTeX Warning: Reference `resultsColored' on page 45 undefined on input line 17
 .
 
-<fig/analysis/resultsColored.png, id=1268, 1927.2pt x 922.44624pt>
+<fig/analysis/resultsColored.png, id=1409, 1927.2pt x 922.44624pt>
 File: fig/analysis/resultsColored.png Graphic file (type png)
 
 <use fig/analysis/resultsColored.png>
 Package pdftex.def Info: fig/analysis/resultsColored.png used on input line 21.
 
 (pdftex.def)             Requested size: 248.96051pt x 119.16214pt.
- [44 <./fig/analysis/resultsColored.png>]
-<fig/analysis/analysFarg3.png, id=1280, 1917.1625pt x 471.7625pt>
+ [45 <./fig/analysis/resultsColored.png>]
+<fig/analysis/analysFarg3.png, id=1421, 1917.1625pt x 471.7625pt>
 File: fig/analysis/analysFarg3.png Graphic file (type png)
 
 <use fig/analysis/analysFarg3.png>
@@ -4058,9 +2752,9 @@ Package pdftex.def Info: fig/analysis/analysFarg3.png used on input line 69.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[45]
+[46]
 
-LaTeX Warning: Reference `parcoords' on page 46 undefined on input line 97.
+LaTeX Warning: Reference `parcoords' on page 47 undefined on input line 97.
 
 
 Overfull \hbox (5.23137pt too wide) in paragraph at lines 97--102
@@ -4068,22 +2762,18 @@ Overfull \hbox (5.23137pt too wide) in paragraph at lines 97--102
  D3.js was found, called
  []
 
-[46 <./fig/analysis/analysFarg3.png>]
-<fig/analysis/parallellCoordinates1.png, id=1296, 1204.5pt x 466.74374pt>
+[47 <./fig/analysis/analysFarg3.png>]
+<fig/analysis/parallellCoordinates1.png, id=1437, 1204.5pt x 466.74374pt>
 File: fig/analysis/parallellCoordinates1.png Graphic file (type png)
 
 <use fig/analysis/parallellCoordinates1.png>
 Package pdftex.def Info: fig/analysis/parallellCoordinates1.png used on input l
 ine 109.
 (pdftex.def)             Requested size: 248.96051pt x 96.46649pt.
-))) [47 <./fig/analysis/parallellCoordinates1.png>]
+))) [48 <./fig/analysis/parallellCoordinates1.png>]
 \openout2 = `result/result.aux'.
 
- (./result/result.tex [48
-
-
-
-]
+ (./result/result.tex
 Chapter 3.
 
 Overfull \hbox (2.74683pt too wide) in paragraph at lines 6--6
@@ -4106,7 +2796,7 @@ Overfull \hbox (2.74683pt too wide) in paragraph at lines 6--6
  []
 
 (./result/application.tex
-<fig/IterationMapLowRes.png, id=1309, 8662.3625pt x 4622.26875pt>
+<fig/IterationMapLowRes.png, id=1446, 8662.3625pt x 4622.26875pt>
 File: fig/IterationMapLowRes.png Graphic file (type png)
 
 <use fig/IterationMapLowRes.png>
@@ -4119,9 +2809,13 @@ LaTeX Warning: Marginpar on page 49 moved.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[49] [50 <./fig/IterationMapLowRes.png>])
+[49
+
+
+
+] [50 <./fig/IterationMapLowRes.png>])
 (./result/iteration1/iteration_1_opinions.tex
-<fig/iteration1/stakeholderInterview.jpg, id=1330, 1284.8pt x 722.7pt>
+<fig/iteration1/stakeholderInterview.jpg, id=1467, 1284.8pt x 722.7pt>
 File: fig/iteration1/stakeholderInterview.jpg Graphic file (type jpg)
 
 <use fig/iteration1/stakeholderInterview.jpg>
@@ -4138,7 +2832,7 @@ LaTeX Warning: Reference `youthSession1' on page 52 undefined on input line 41.
 
 
 [52 <./fig/iteration1/stakeholderInterview.jpg>]
-<fig/iteration1/youthSession.jpg, id=1343, 1284.8pt x 722.7pt>
+<fig/iteration1/youthSession.jpg, id=1480, 1284.8pt x 722.7pt>
 File: fig/iteration1/youthSession.jpg Graphic file (type jpg)
 
 <use fig/iteration1/youthSession.jpg>
@@ -4147,7 +2841,7 @@ Package pdftex.def Info: fig/iteration1/youthSession.jpg used on input line 52.
 (pdftex.def)             Requested size: 284.52863pt x 160.0421pt.
 )
 (./result/iteration1/iteration_1_data.tex
-<fig/cjmWorkshop.jpg, id=1345, 1284.8pt x 722.7pt>
+<fig/cjmWorkshop.jpg, id=1482, 1284.8pt x 722.7pt>
 File: fig/cjmWorkshop.jpg Graphic file (type jpg)
  <use fig/cjmWorkshop.jpg>
 Package pdftex.def Info: fig/cjmWorkshop.jpg used on input line 13.
@@ -4157,7 +2851,7 @@ Package pdftex.def Info: fig/cjmWorkshop.jpg used on input line 13.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [53 <./fig/iteration1/youthSession.jpg>] [54 <./fig/cjmWorkshop.jpg>]
-<fig/quizoid.png, id=1361, 453.695pt x 736.7525pt>
+<fig/quizoid.png, id=1498, 453.695pt x 736.7525pt>
 File: fig/quizoid.png Graphic file (type png)
  <use fig/quizoid.png>
 Package pdftex.def Info: fig/quizoid.png used on input line 40.
@@ -4166,7 +2860,7 @@ Package pdftex.def Info: fig/quizoid.png used on input line 40.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/duolingo.png, id=1366, 1445.4pt x 903.375pt>
+<fig/duolingo.png, id=1503, 1445.4pt x 903.375pt>
 File: fig/duolingo.png Graphic file (type png)
  <use fig/duolingo.png>
 Package pdftex.def Info: fig/duolingo.png used on input line 47.
@@ -4175,7 +2869,7 @@ Package pdftex.def Info: fig/duolingo.png used on input line 47.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/iteration1/smartphoneTest.jpg, id=1371, 1284.8pt x 722.7pt>
+<fig/iteration1/smartphoneTest.jpg, id=1508, 1284.8pt x 722.7pt>
 File: fig/iteration1/smartphoneTest.jpg Graphic file (type jpg)
 
 <use fig/iteration1/smartphoneTest.jpg>
@@ -4193,12 +2887,10 @@ lan-guages us-ing Duolingo
  []
 
 ) (./result/iteration1/iteration_1_together.tex [55]
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.13 ... technology, the advise from \cite{sierra}
-                                                   of designing for their co...
-Things are pretty mixed up, but I think the worst is over.
+Overfull \hbox (5.092pt too wide) in paragraph at lines 13--14
+\T1/jkp/m/n/10 teach-ing sit-u-a-tion among the youth group, a great coach can 
+teach an en-trepreneur-
+ []
 
 ) (./result/iteration2/iteration_2_opinions.tex [56] [57])
 (./result/iteration2/iteration_2_data.tex [58] [59]
@@ -4206,7 +2898,7 @@ Things are pretty mixed up, but I think the worst is over.
 LaTeX Warning: Reference `fig:zambiaWorkshop2' on page 60 undefined on input li
 ne 31.
 
-<fig/zambiaWorkshop2small.jpg, id=1405, 803.0pt x 489.83pt>
+<fig/zambiaWorkshop2small.jpg, id=1544, 803.0pt x 489.83pt>
 File: fig/zambiaWorkshop2small.jpg Graphic file (type jpg)
 
 <use fig/zambiaWorkshop2small.jpg>
@@ -4221,23 +2913,17 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 LaTeX Warning: Reference `rq' on page 60 undefined on input line 3.
 
 [60]
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.14 ...w on Bloom's revised taxonomy \cite{bloom}
-                                                   compared with YoungDrive'...
-Things are pretty mixed up, but I think the worst is over.
+
+Package natbib Warning: Citation `bloom' on page 61 undefined on input line 14.
+
 
 [61]
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.31 ... not get 100\% \textit{yet}") \cite{dweck}
-                                                  .
-Things are pretty mixed up, but I think the worst is over.
+
+Package natbib Warning: Citation `dweck' on page 62 undefined on input line 31.
+
 
 [62]) (./result/iteration3/iteration_3_opinions.tex [63] [64] [65]
-<fig/analysis/areYouSureQuiz.png, id=1445, 623.32875pt x 514.92375pt>
+<fig/analysis/areYouSureQuiz.png, id=1584, 623.32875pt x 514.92375pt>
 File: fig/analysis/areYouSureQuiz.png Graphic file (type png)
 
 <use fig/analysis/areYouSureQuiz.png>
@@ -4257,7 +2943,7 @@ LaTeX Warning: Reference `future-work' on page 67 undefined on input line 85.
 LaTeX Warning: Reference `fig:summativeTest' on page 67 undefined on input line
  6.
 
-<fig/analysis/iteration3data.png, id=1455, 553.06625pt x 678.535pt>
+<fig/analysis/iteration3data.png, id=1594, 553.06625pt x 678.535pt>
 File: fig/analysis/iteration3data.png Graphic file (type png)
 
 <use fig/analysis/iteration3data.png>
@@ -4268,7 +2954,7 @@ Package pdftex.def Info: fig/analysis/iteration3data.png used on input line 16.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/iteration3/appTestTablet.jpg, id=1456, 3035.34pt x 4047.12pt>
+<fig/iteration3/appTestTablet.jpg, id=1595, 3035.34pt x 4047.12pt>
 File: fig/iteration3/appTestTablet.jpg Graphic file (type jpg)
 
 <use fig/iteration3/appTestTablet.jpg>
@@ -4279,7 +2965,7 @@ Package pdftex.def Info: fig/iteration3/appTestTablet.jpg used on input line 25
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/iteration3/appTestComputer.jpg, id=1457, 4047.12pt x 3035.34pt>
+<fig/iteration3/appTestComputer.jpg, id=1596, 4047.12pt x 3035.34pt>
 File: fig/iteration3/appTestComputer.jpg Graphic file (type jpg)
 
 <use fig/iteration3/appTestComputer.jpg>
@@ -4290,83 +2976,9 @@ Package pdftex.def Info: fig/iteration3/appTestComputer.jpg used on input line
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[67]) (./result/iteration3/iteration_3_together.tex [68]
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.24     \item I
-                ncrease the use of questions to prompt self-monitoring  and ...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 24
-[][]
- []
-
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.29     \item I
-                mprove feedback to reflect that the teacher does not want to...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 29
-[][]
- []
-
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.30     \item D
-                ata collection needs to be online and needs to be individual
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 30
-[][]
- []
-
-[69]
-
-! LaTeX Error: \begin{document} ended by \end{itemize}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.34   \end{itemize}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.34   \end{itemize}
-                    
-Things are pretty mixed up, but I think the worst is over.
-
-) (./result/iteration4/iteration_4_opinions.tex
-<fig/iteration4qualitative_learning.png, id=1489, 769.87625pt x 554.07pt>
+[67]) (./result/iteration3/iteration_3_together.tex [68] [69])
+(./result/iteration4/iteration_4_opinions.tex
+<fig/iteration4qualitative_learning.png, id=1628, 769.87625pt x 554.07pt>
 File: fig/iteration4qualitative_learning.png Graphic file (type png)
 
 <use fig/iteration4qualitative_learning.png>
@@ -4378,7 +2990,7 @@ ine 7.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<fig/iteration4qualitative_interactiondesign.png, id=1490, 537.00626pt x 747.79
+<fig/iteration4qualitative_interactiondesign.png, id=1629, 537.00626pt x 747.79
 375pt>
 File: fig/iteration4qualitative_interactiondesign.png Graphic file (type png)
  <use fig/iteration4qualitative_interactiondesign.png>
@@ -4390,7 +3002,7 @@ n input line 14.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<fig/iteration4qualitative_servicedesign.png, id=1491, 600.2425pt x 534.99875pt
+<fig/iteration4qualitative_servicedesign.png, id=1630, 600.2425pt x 534.99875pt
 >
 File: fig/iteration4qualitative_servicedesign.png Graphic file (type png)
  <use fig/iteration4qualitative_servicedesign.png>
@@ -4411,7 +3023,7 @@ h in-creased the amount
 LaTeX Warning: Reference `analys4spreadsheet' on page 70 undefined on input lin
 e 17.
 
-<fig/analysis/analys4spreadsheet.png, id=1492, 1749.53625pt x 332.24126pt>
+<fig/analysis/analys4spreadsheet.png, id=1631, 1749.53625pt x 332.24126pt>
 File: fig/analysis/analys4spreadsheet.png Graphic file (type png)
 
 <use fig/analysis/analys4spreadsheet.png>
@@ -4428,7 +3040,7 @@ Overfull \hbox (3.68994pt too wide) in paragraph at lines 38--39
 re that there was a strong
  []
 
-[71] <fig/analysis/parallellCoordinates3.png, id=1508, 1836.8625pt x 923.45pt>
+[71] <fig/analysis/parallellCoordinates3.png, id=1648, 1836.8625pt x 923.45pt>
 File: fig/analysis/parallellCoordinates3.png Graphic file (type png)
 
 <use fig/analysis/parallellCoordinates3.png>
@@ -4444,313 +3056,11 @@ File: fig/analysis/terre.png Graphic file (type png)
 Package pdftex.def Info: fig/analysis/terre.png used on input line 59.
 (pdftex.def)             Requested size: 355.65944pt x 164.38005pt.
 
-! Undefined control sequence.
-\BCAY #1#2#3->\BCA 
-                   {#1}{#2}
-l.60 ...nts. Example from Lopez \cite{une-terre}.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   }
-l.60 ...nts. Example from Lopez \cite{une-terre}.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   3
-l.60 ...nts. Example from Lopez \cite{une-terre}.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Undefined control sequence.
-\cite ->\def \BCAY ##1##2##3{\BCA 
-                                  {##1}{##2}}\def \citeauthoryear ##1##2##3{...
-l.60 ...nts. Example from Lopez \cite{une-terre}.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   1
-l.60 ...nts. Example from Lopez \cite{une-terre}.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   2
-l.60 ...nts. Example from Lopez \cite{une-terre}.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Undefined control sequence.
-\citeauthoryear #1#2#3->\BCA 
-                             {#1}{#2}
-l.60 ...nts. Example from Lopez \cite{une-terre}.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   }
-l.60 ...nts. Example from Lopez \cite{une-terre}.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   3
-l.60 ...nts. Example from Lopez \cite{une-terre}.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Undefined control sequence.
-\cite ...##2}}\def \citeauthoryear ##1##2##3{\BCA 
-                                                  {##1}{##2}}\def \@BBOP {\B...
-l.60 ...nts. Example from Lopez \cite{une-terre}.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   1
-l.60 ...nts. Example from Lopez \cite{une-terre}.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   2
-l.60 ...nts. Example from Lopez \cite{une-terre}.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Undefined control sequence.
-\@BBOP ->\BBOP 
-               
-l.60 ...nts. Example from Lopez \cite{une-terre}.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\cite ...#2##3{\BCA {##1}{##2}}\def \@BBOP {\BBOP 
-                                                  }\def \@BBCP {\BBCP }\@ifn...
-l.60 ...nts. Example from Lopez \cite{une-terre}.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\@BBCP ->\BBCP 
-               
-l.60 ...nts. Example from Lopez \cite{une-terre}.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\cite ...}}\def \@BBOP {\BBOP }\def \@BBCP {\BBCP 
-                                                  }\@ifnextchar <{\@cite }{\...
-l.60 ...nts. Example from Lopez \cite{une-terre}.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Argument of \caption@ydblarg has an extra }.
-<inserted text> 
-                \par 
-l.60 ...nts. Example from Lopez \cite{une-terre}.}
-                                                  
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-{\@caption \@captype }{\@cite }\def \reserved@b {\@cite <>}\futurelet \ETC.
-! Paragraph ended before \caption@ydblarg was complete.
-<to be read again> 
-                   \par 
-l.60 ...nts. Example from Lopez \cite{une-terre}.}
-                                                  
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.60 ...nts. Example from Lopez \cite{une-terre}.}
-                                                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra }, or forgotten \endgroup.
-\sbox ...hbox {\color@setgroup #2\color@endgroup }
-                                                  
-l.60 ...nts. Example from Lopez \cite{une-terre}.}
-                                                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.60 ...nts. Example from Lopez \cite{une-terre}.}
-                                                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra }, or forgotten \endgroup.
-\@begin@tempboxa ...begingroup #2\color@endgroup }
-                                                  \def \width {\wd \@tempbox...
-l.60 ...nts. Example from Lopez \cite{une-terre}.}
-                                                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.60 ...nts. Example from Lopez \cite{une-terre}.}
-                                                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.60 ...nts. Example from Lopez \cite{une-terre}.}
-                                                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Too many }'s.
-\sf@endfloatbox ...gefalse \outer@nobreak \egroup 
-                                                  \color@endbox 
-l.62 \end{figure}
-                 
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-! Extra \endgroup.
-\color@endgroup ->\endgraf \endgroup 
-                                     
-l.62 \end{figure}
-                 
-Things are pretty mixed up, but I think the worst is over.
-
-! Too many }'s.
-\color@endbox ->\color@endgroup \egroup 
-                                        
-l.62 \end{figure}
-                 
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-! You can't use `\vadjust' in vertical mode.
-\sf@end@float ...ty \@floatpenalty \else \vadjust 
-                                                  {\penalty -\@Miv \vbox {}\...
-l.62 \end{figure}
-                 
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-! LaTeX Error: \begin{document} ended by \end{figure}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.62 \end{figure}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.62 \end{figure}
-                 
-Things are pretty mixed up, but I think the worst is over.
-
 [72]
-<fig/analysis/paralellCoordinatesWomen.png, id=1520, 1204.5pt x 404.51125pt>
+<fig/analysis/paralellCoordinatesWomen.png, id=1664, 1204.5pt x 404.51125pt>
 File: fig/analysis/paralellCoordinatesWomen.png Graphic file (type png)
 
 <use fig/analysis/paralellCoordinatesWomen.png>
@@ -4767,46 +3077,20 @@ reQuiz.png>] [77 <./fig/analysis/iteration3data.png>] [78 <./fig/iteration3/app
 TestTablet.jpg>] [79 <./fig/iteration3/appTestComputer.jpg>] [80 <./fig/iterati
 on4qualitative_learning.png>] [81 <./fig/iteration4qualitative_interactiondesig
 n.png>] [82 <./fig/iteration4qualitative_servicedesign.png> <./fig/analysis/ana
-lys4spreadsheet.png>] [83 <./fig/analysis/parallellCoordinates3.png> <./fig/ana
-lysis/terre.png>] [84 <./fig/analysis/paralellCoordinatesWomen.png>]
+lys4spreadsheet.png>] [83 <./fig/analysis/parallellCoordinates3.png>] [84 <./fi
+g/analysis/paralellCoordinatesWomen.png>]
 \openout2 = `discussion/discussion.aux'.
 
-
-(./discussion/discussion.tex
+ (./discussion/discussion.tex
 Chapter 4.
-(./discussion/1_dev_by_tech_limitations.tex
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.5 ...artphone today \cite{youngdrive-statistics}
-                                                  .
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.9 ...g feedback, mentioned by Nocol \cite{nicol}
-                                                  . On the other hand, since...
-Things are pretty mixed up, but I think the worst is over.
-
-[85
+(./discussion/1_dev_by_tech_limitations.tex [85
 
 
 
 ]
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.16 ... quiz results. Both Lopez \cite{une-terre}
-                                                   and \cite{ropinski} expla...
-Things are pretty mixed up, but I think the worst is over.
 
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.16 ...Lopez \cite{une-terre} and \cite{ropinski}
-                                                   explains how visualizatio...
-Things are pretty mixed up, but I think the worst is over.
+Package natbib Warning: Citation `ropinski' on page 86 undefined on input line 
+16.
 
 [86]
 
@@ -4825,36 +3109,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[87]
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.13 ...e with the insights from \cite{ruskovaara}
-                                                  , where the teacher seemed...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.13 ...on. However, contrary to \cite{ruskovaara}
-                                                  , women did perform better...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.15 ...Drive and the research from \cite{dickson}
-                                                   on recommendations for en...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.15 ... best practice from Dickson \cite{dickson}
-                                                  , which is that the app sh...
-Things are pretty mixed up, but I think the worst is over.
-
-[88]
+[87] [88]
 Overfull \hbox (6.10995pt too wide) in paragraph at lines 36--37
 []\T1/jkp/m/n/10 continually de-sign and run work-shops and tests suit-able for
  the tar-get groups 
@@ -4866,36 +3121,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[89]
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.52 ..., which goes in line with \cite{stickdorn}
-                                                  . To conclude, the design ...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.67 ... personal preference, as \cite{ruskovaara}
-                                                   claims how important the ...
-Things are pretty mixed up, but I think the worst is over.
-
-[90]) (./discussion/3_test_questions.tex
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.5 ...f the recommendations by Nicol \cite{nicol}
-                                                   were taken, is that they ...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.9 ... research by for example Nicol \cite{nicol}
-                                                   had already shown how mul...
-Things are pretty mixed up, but I think the worst is over.
-
+[89] [90]) (./discussion/3_test_questions.tex
 
 LaTeX Warning: Reference `fig:multiple-choice' on page 91 undefined on input li
 ne 9.
@@ -4920,100 +3146,27 @@ Overfull \hbox (2.89684pt too wide) in paragraph at lines 33--33
 [][][][]\T1/jkp/m/n/10 Improve 
  []
 
-) (./discussion/4_how_design_affects_usability_learning.tex
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.5 ... deliberate practice in mind. \cite{sierra}
-                                                   Depending on the combinat...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.11 ...bout reducing cognitive load \cite{sierra}
-                                                   until iteration 4, when u...
-Things are pretty mixed up, but I think the worst is over.
-
-[92]
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.13 ... case study detailed by Nicol \cite{nicol}
-                                                  . The effect is reaching m...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.30 ...by personal feedback. Sierra \cite{sierra}
-                                                   calls this "high pay-off ...
-Things are pretty mixed up, but I think the worst is over.
-
-
+) (./discussion/4_how_design_affects_usability_learning.tex [92]
 Underfull \vbox (badness 1502) has occurred while \output is active []
 
- [93]
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.35 ...pired by deliberate practice \cite{sierra}
-                                                  , and is already common in...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.41 ...s been used before by others. \cite{nicol}
-                                                   It has then been used to ...
-Things are pretty mixed up, but I think the worst is over.
-
-) (./discussion/5_user_feedback.tex
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.7 ...ng that Stickdorn has made \cite{stickdorn}
-                                                  , and is a violation from ...
-Things are pretty mixed up, but I think the worst is over.
-
-
+ [93])
+(./discussion/5_user_feedback.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [94]
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.13 ...g the process co-creative \cite{stickdorn}
-                                                  .
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.15 ...ng, inline with Stickdorn \cite{stickdorn}
-                                                  . The designer can balance...
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.17 ...er carrying out the process \cite{lowgren}
-                                                  . To embrace the role of a...
-Things are pretty mixed up, but I think the worst is over.
-
-)) [95]
+[95])) [96]
 \openout2 = `conclusion/conclusion.aux'.
 
- (./conclusion/conclusion.tex [96
-
-
-
-]
+ (./conclusion/conclusion.tex
 Chapter 5.
 
 Underfull \vbox (badness 4467) has occurred while \output is active []
 
- [97]
+ [97
+
+
+
+]
 Overfull \hbox (1.97202pt too wide) in paragraph at lines 25--26
 []\T1/jkp/m/n/10 Surprisingly of-ten, com-par-ing re-search and ex-pert opin-io
 ns with what coaches
@@ -5032,7 +3185,7 @@ Chapter 6.
 LaTeX Warning: Reference `unprocessedData' on page 99 undefined on input line 6
 .
 
-<fig/analysis/unprocessedData.png, id=1669, 1778.645pt x 939.51pt>
+<fig/analysis/unprocessedData.png, id=1856, 1778.645pt x 939.51pt>
 File: fig/analysis/unprocessedData.png Graphic file (type png)
 
 <use fig/analysis/unprocessedData.png>
@@ -5046,20 +3199,14 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [99
 
 ] [100 <./fig/analysis/unprocessedData.png>]
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.43 ...n is to try VOTO Mobile \cite{voto-mobile}
-                                                  , which supports multiple-...
-Things are pretty mixed up, but I think the worst is over.
+
+Package natbib Warning: Citation `voto-mobile' on page 101 undefined on input l
+ine 43.
 
 ) (./discussion/future_work_2.tex [101]
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.18 ... crucial according to \cite{dweck-youtube}
-                                                  , who found her method mad...
-Things are pretty mixed up, but I think the worst is over.
+
+Package natbib Warning: Citation `dweck-youtube' on page 102 undefined on input
+ line 18.
 
 [102]) (./discussion/future_work_3.tex [103]
 Overfull \hbox (9.662pt too wide) in paragraph at lines 23--24
@@ -5067,34 +3214,10 @@ Overfull \hbox (9.662pt too wide) in paragraph at lines 23--24
  the coach thought-
  []
 
-[104]
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.33 ... has not been done today. In \cite{yengin}
-                                                   questions were designed t...
-Things are pretty mixed up, but I think the worst is over.
-
-) (./discussion/future_work_4.tex
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.19 ...e hypothesis is inspired from \cite{bjork}
-                                                  , that knowledge is streng...
-Things are pretty mixed up, but I think the worst is over.
-
-[105]
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.34 ...ne such e-learning tool is \cite{memorize}
-                                                  . The tool has interactive...
-Things are pretty mixed up, but I think the worst is over.
-
-[106] <fig/biteSize.jpg, id=1711, 3914.625pt x 1947.275pt>
+[104]) (./discussion/future_work_4.tex [105] [106]
+<fig/biteSize.jpg, id=1905, 3914.625pt x 1947.275pt>
 File: fig/biteSize.jpg Graphic file (type jpg)
-
-<use fig/biteSize.jpg>
+ <use fig/biteSize.jpg>
 Package pdftex.def Info: fig/biteSize.jpg used on input line 49.
 (pdftex.def)             Requested size: 284.52863pt x 141.52295pt.
 
@@ -5110,38 +3233,31 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 ] [111]
-Underfull \hbox (badness 10000) in paragraph at lines 138--138
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
 \T1/pcr/m/n/10 edu / wp-[]content / uploads / 2015 / 09 / RevisedBloomsHandout-
-[]1 . pdf$[]\T1/jkp/m/n/10 ,
+[]1 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 176--176
-[]\T1/jkp/m/n/10 H. Lopez.  Par-al-lel co-or-di-nates: Read out pat-
+Underfull \hbox (badness 10000) in paragraph at lines 167--167
+[]\T1/jkp/m/n/10 Lopez, H. (2016).  Par-al-lel co-or-di-nates: Read out pat-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 176--176
+Underfull \hbox (badness 10000) in paragraph at lines 167--167
 \T1/jkp/m/n/10 terns.  []$\T1/pcr/m/n/10 http : / / une-[]terre . blogspot . se
  / 2012 / 09 /
  []
 
 [112]
-Underfull \hbox (badness 7362) in paragraph at lines 220--220
-[]\T1/jkp/m/n/10 S. Nis-sar.  So-cial in-no-va-tion and en-trepreneur-ship in u
-ganda. why
- []
-
-
-Underfull \hbox (badness 7012) in paragraph at lines 220--220
-\T1/jkp/m/n/10 mo-bile ser-vices are grow-ing fast in the area.  []$\T1/pcr/m/n
-/10 http : / / bit . ly /
+Underfull \hbox (badness 3942) in paragraph at lines 210--210
+[]\T1/jkp/m/n/10 Nissar, S. (2016).  So-cial in-no-va-tion and en-trepreneur-sh
+ip in uganda.
  []
 
 [113]
-Underfull \hbox (badness 10000) in paragraph at lines 286--286
-\T1/pcr/m/n/10 detail / magic-[]json / cajifcebjiflndefndbnoeenjpiiiagm ? hl = 
-en$[]\T1/jkp/m/n/10 ,
+Underfull \hbox (badness 10000) in paragraph at lines 270--270
+\T1/pcr/m/n/10 detail / magic-[]json / cajifcebjiflndefndbnoeenjpiiiagm ? hl =
  []
 
 ) (./main_outro.tex [114]
@@ -5169,728 +3285,101 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  (./appendix/pre_test.tex
 Appendix B.
-! Extra \endgroup.
-\@cite ...#3\fi \NAT@@close \else #1\fi \endgroup 
-                                                  
-l.3 ...ontext \cite{general-entrepreneurship-quiz}
-                                                  . The correct answers are ...
-Things are pretty mixed up, but I think the worst is over.
-
-<fig/pretest/pretestA.png, id=1818, 864.22874pt x 1072.005pt>
+<fig/pretest/pretestA.png, id=1995, 864.22874pt x 1072.005pt>
 File: fig/pretest/pretestA.png Graphic file (type png)
 
 <use fig/pretest/pretestA.png>
 Package pdftex.def Info: fig/pretest/pretestA.png used on input line 7.
 (pdftex.def)             Requested size: 355.65944pt x 441.16064pt.
 
-! Undefined control sequence.
-\BCAY #1#2#3->\BCA 
-                   {#1}{#2}
-l.8 ...stad \cite{general-entrepreneurship-quiz}.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   }
-l.8 ...stad \cite{general-entrepreneurship-quiz}.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   3
-l.8 ...stad \cite{general-entrepreneurship-quiz}.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Undefined control sequence.
-\cite ->\def \BCAY ##1##2##3{\BCA 
-                                  {##1}{##2}}\def \citeauthoryear ##1##2##3{...
-l.8 ...stad \cite{general-entrepreneurship-quiz}.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   1
-l.8 ...stad \cite{general-entrepreneurship-quiz}.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   2
-l.8 ...stad \cite{general-entrepreneurship-quiz}.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Undefined control sequence.
-\citeauthoryear #1#2#3->\BCA 
-                             {#1}{#2}
-l.8 ...stad \cite{general-entrepreneurship-quiz}.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   }
-l.8 ...stad \cite{general-entrepreneurship-quiz}.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   3
-l.8 ...stad \cite{general-entrepreneurship-quiz}.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Undefined control sequence.
-\cite ...##2}}\def \citeauthoryear ##1##2##3{\BCA 
-                                                  {##1}{##2}}\def \@BBOP {\B...
-l.8 ...stad \cite{general-entrepreneurship-quiz}.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   1
-l.8 ...stad \cite{general-entrepreneurship-quiz}.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   2
-l.8 ...stad \cite{general-entrepreneurship-quiz}.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Undefined control sequence.
-\@BBOP ->\BBOP 
-               
-l.8 ...stad \cite{general-entrepreneurship-quiz}.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\cite ...#2##3{\BCA {##1}{##2}}\def \@BBOP {\BBOP 
-                                                  }\def \@BBCP {\BBCP }\@ifn...
-l.8 ...stad \cite{general-entrepreneurship-quiz}.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\@BBCP ->\BBCP 
-               
-l.8 ...stad \cite{general-entrepreneurship-quiz}.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\cite ...}}\def \@BBOP {\BBOP }\def \@BBCP {\BBCP 
-                                                  }\@ifnextchar <{\@cite }{\...
-l.8 ...stad \cite{general-entrepreneurship-quiz}.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Argument of \caption@ydblarg has an extra }.
-<inserted text> 
-                \par 
-l.8 ...stad \cite{general-entrepreneurship-quiz}.}
-                                                  
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-{\@caption \@captype }{\@cite }\def \reserved@b {\@cite <>}\futurelet \ETC.
-! Paragraph ended before \caption@ydblarg was complete.
-<to be read again> 
-                   \par 
-l.8 ...stad \cite{general-entrepreneurship-quiz}.}
-                                                  
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.8 ...stad \cite{general-entrepreneurship-quiz}.}
-                                                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra }, or forgotten \endgroup.
-\sbox ...hbox {\color@setgroup #2\color@endgroup }
-                                                  
-l.8 ...stad \cite{general-entrepreneurship-quiz}.}
-                                                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.8 ...stad \cite{general-entrepreneurship-quiz}.}
-                                                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra }, or forgotten \endgroup.
-\@begin@tempboxa ...begingroup #2\color@endgroup }
-                                                  \def \width {\wd \@tempbox...
-l.8 ...stad \cite{general-entrepreneurship-quiz}.}
-                                                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.8 ...stad \cite{general-entrepreneurship-quiz}.}
-                                                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.8 ...stad \cite{general-entrepreneurship-quiz}.}
-                                                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Too many }'s.
-\sf@endfloatbox ...gefalse \outer@nobreak \egroup 
-                                                  \color@endbox 
-l.10 \end{figure}
-                 
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-! Extra \endgroup.
-\color@endgroup ->\endgraf \endgroup 
-                                     
-l.10 \end{figure}
-                 
-Things are pretty mixed up, but I think the worst is over.
-
-! Too many }'s.
-\color@endbox ->\color@endgroup \egroup 
-                                        
-l.10 \end{figure}
-                 
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-! You can't use `\vadjust' in vertical mode.
-\sf@end@float ...ty \@floatpenalty \else \vadjust 
-                                                  {\penalty -\@Miv \vbox {}\...
-l.10 \end{figure}
-                 
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-! LaTeX Error: \begin{document} ended by \end{figure}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.10 \end{figure}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.10 \end{figure}
-                 
-Things are pretty mixed up, but I think the worst is over.
-
-<fig/pretest/pretestB.png, id=1819, 865.2325pt x 1080.035pt>
+<fig/pretest/pretestB.png, id=2000, 865.2325pt x 1080.035pt>
 File: fig/pretest/pretestB.png Graphic file (type png)
 
 <use fig/pretest/pretestB.png>
 Package pdftex.def Info: fig/pretest/pretestB.png used on input line 14.
 (pdftex.def)             Requested size: 355.65944pt x 443.95435pt.
 
-! Undefined control sequence.
-\BCAY #1#2#3->\BCA 
-                   {#1}{#2}
-l.15 ...tad \cite{general-entrepreneurship-quiz}.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   }
-l.15 ...tad \cite{general-entrepreneurship-quiz}.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   3
-l.15 ...tad \cite{general-entrepreneurship-quiz}.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Undefined control sequence.
-\cite ->\def \BCAY ##1##2##3{\BCA 
-                                  {##1}{##2}}\def \citeauthoryear ##1##2##3{...
-l.15 ...tad \cite{general-entrepreneurship-quiz}.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   1
-l.15 ...tad \cite{general-entrepreneurship-quiz}.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   2
-l.15 ...tad \cite{general-entrepreneurship-quiz}.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Undefined control sequence.
-\citeauthoryear #1#2#3->\BCA 
-                             {#1}{#2}
-l.15 ...tad \cite{general-entrepreneurship-quiz}.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   }
-l.15 ...tad \cite{general-entrepreneurship-quiz}.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   3
-l.15 ...tad \cite{general-entrepreneurship-quiz}.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Undefined control sequence.
-\cite ...##2}}\def \citeauthoryear ##1##2##3{\BCA 
-                                                  {##1}{##2}}\def \@BBOP {\B...
-l.15 ...tad \cite{general-entrepreneurship-quiz}.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   1
-l.15 ...tad \cite{general-entrepreneurship-quiz}.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \reserved@a.
-<to be read again> 
-                   2
-l.15 ...tad \cite{general-entrepreneurship-quiz}.}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Undefined control sequence.
-\@BBOP ->\BBOP 
-               
-l.15 ...tad \cite{general-entrepreneurship-quiz}.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\cite ...#2##3{\BCA {##1}{##2}}\def \@BBOP {\BBOP 
-                                                  }\def \@BBCP {\BBCP }\@ifn...
-l.15 ...tad \cite{general-entrepreneurship-quiz}.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\@BBCP ->\BBCP 
-               
-l.15 ...tad \cite{general-entrepreneurship-quiz}.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\cite ...}}\def \@BBOP {\BBOP }\def \@BBCP {\BBCP 
-                                                  }\@ifnextchar <{\@cite }{\...
-l.15 ...tad \cite{general-entrepreneurship-quiz}.}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Argument of \caption@ydblarg has an extra }.
-<inserted text> 
-                \par 
-l.15 ...tad \cite{general-entrepreneurship-quiz}.}
-                                                  
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-{\@caption \@captype }{\@cite }\def \reserved@b {\@cite <>}\futurelet \ETC.
-! Paragraph ended before \caption@ydblarg was complete.
-<to be read again> 
-                   \par 
-l.15 ...tad \cite{general-entrepreneurship-quiz}.}
-                                                  
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.15 ...tad \cite{general-entrepreneurship-quiz}.}
-                                                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra }, or forgotten \endgroup.
-\sbox ...hbox {\color@setgroup #2\color@endgroup }
-                                                  
-l.15 ...tad \cite{general-entrepreneurship-quiz}.}
-                                                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.15 ...tad \cite{general-entrepreneurship-quiz}.}
-                                                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra }, or forgotten \endgroup.
-\@begin@tempboxa ...begingroup #2\color@endgroup }
-                                                  \def \width {\wd \@tempbox...
-l.15 ...tad \cite{general-entrepreneurship-quiz}.}
-                                                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.15 ...tad \cite{general-entrepreneurship-quiz}.}
-                                                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.15 ...tad \cite{general-entrepreneurship-quiz}.}
-                                                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Too many }'s.
-\sf@endfloatbox ...gefalse \outer@nobreak \egroup 
-                                                  \color@endbox 
-l.17 \end{figure}
-                 
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-! Extra \endgroup.
-\color@endgroup ->\endgraf \endgroup 
-                                     
-l.17 \end{figure}
-                 
-Things are pretty mixed up, but I think the worst is over.
-
-! Too many }'s.
-\color@endbox ->\color@endgroup \egroup 
-                                        
-l.17 \end{figure}
-                 
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-! You can't use `\vadjust' in vertical mode.
-\sf@end@float ...ty \@floatpenalty \else \vadjust 
-                                                  {\penalty -\@Miv \vbox {}\...
-l.17 \end{figure}
-                 
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-! LaTeX Error: \begin{document} ended by \end{figure}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.17 \end{figure}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.17 \end{figure}
-                 
-Things are pretty mixed up, but I think the worst is over.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 ) [121
 
 
 
-] [122
+] [122 <./fig/pretest/pretestA.png>] [123 <./fig/pretest/pretestB.png>]
+[124
 
 
 ]) (./main.ind)
 
 Package natbib Warning: There were undefined citations.
 
-<fig/LinkUniv_sv_vert_col.pdf, id=1831, 259.30878pt x 172.23346pt>
+<fig/LinkUniv_sv_vert_col.pdf, id=2027, 259.30878pt x 172.23346pt>
 File: fig/LinkUniv_sv_vert_col.pdf Graphic file (type pdf)
 
 <use fig/LinkUniv_sv_vert_col.pdf>
-Package pdftex.def Info: fig/LinkUniv_sv_vert_col.pdf used on input line 44.
+Package pdftex.def Info: fig/LinkUniv_sv_vert_col.pdf used on input line 43.
 (pdftex.def)             Requested size: 77.10475pt x 51.21495pt.
 
-Overfull \hbox (0.16193pt too wide) in paragraph at lines 44--44
+Overfull \hbox (0.16193pt too wide) in paragraph at lines 43--43
 \T1/jkp/m/n/10 and its pro-ce-dures for pub-li-ca-tion and for as-sur-ance of d
 oc-u-ment in-tegrity, please
  []
 
-[123
+[125
 
  <./fig/LinkUniv_sv_vert_col.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 44.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 44.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 43.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 43.
  (./main.aux (./thanks/thanks.aux)
 (./introduction/introduction.aux) (./methods/methods.aux) (./result/result.aux)
 (./discussion/discussion.aux) (./conclusion/conclusion.aux)
-
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
-
 (./appendix/time_plan.aux) (./appendix/pre_test.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 44.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 44.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 43.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 43.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 416946671CF3012CCA187461B4C2F64D;10522.
+(rerunfilecheck)             Checksum: 2F638C302BACB8A18E71582AB0B057DD;10471.
+Package rerunfilecheck Info: File `main.brf' has not changed.
+(rerunfilecheck)             Checksum: A9381506FD84F3377EA94FA2F1814444;7406.
 
-
-Package rerunfilecheck Warning: File `main.brf' has changed.
-(rerunfilecheck)                Rerun to get bibliographical references right.
-
-Package rerunfilecheck Info: Checksums for `main.brf':
-(rerunfilecheck)             Before: A9381506FD84F3377EA94FA2F1814444;7406
-(rerunfilecheck)             After:  E0F0B03388A5F5E9BF8D20721EF53331;3402.
 
 LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 44.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 43.
  ) 
 Here is how much of TeX's memory you used:
- 25261 strings out of 493089
- 445078 string characters out of 6134842
- 534746 words of memory out of 5000000
- 27295 multiletter control sequences out of 15000+600000
+ 25089 strings out of 493089
+ 442842 string characters out of 6134842
+ 531500 words of memory out of 5000000
+ 27121 multiletter control sequences out of 15000+600000
  219755 words of font info for 180 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,12n,78p,1226b,945s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{figure.caption.158} has been referenced but does 
-not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.157} has been referenced but does no
-t exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.54} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.30} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.28} has been referenced but does not
- exist, replaced by a fixed one
-
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/tex
-live/2015/texmf-dist/fonts/enc/dvips/kpfonts/kpfonts-expert.enc}</usr/local/tex
-live/2015/texmf-dist/fonts/type1/public/kpfonts/jkpbn8a.pfb></usr/local/texlive
-/2015/texmf-dist/fonts/type1/public/kpfonts/jkpbn8a.pfb></usr/local/texlive/201
-5/texmf-dist/fonts/type1/public/kpfonts/jkpmit8a.pfb></usr/local/texlive/2015/t
-exmf-dist/fonts/type1/public/kpfonts/jkpmn8a.pfb></usr/local/texlive/2015/texmf
--dist/fonts/type1/public/kpfonts/jkpmn8a.pfb></usr/local/texlive/2015/texmf-dis
-t/fonts/type1/public/kpfonts/jkpmnc.pfb></usr/local/texlive/2015/texmf-dist/fon
-ts/type1/public/kpfonts/jkpmne.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
-pe1/public/kpfonts/jkpmne.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/p
-ublic/kpfonts/jkpmsc8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publ
-ic/kpfonts/jkpsya.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/couri
-er/ucrr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/courier/ucrro
-8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb>
-Output written on main.pdf (141 pages, 27847794 bytes).
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
+exlive/2015/texmf-dist/fonts/enc/dvips/kpfonts/kpfonts-expert.enc}</usr/local/t
+exlive/2015/texmf-dist/fonts/type1/public/kpfonts/jkpbn8a.pfb></usr/local/texli
+ve/2015/texmf-dist/fonts/type1/public/kpfonts/jkpbn8a.pfb></usr/local/texlive/2
+015/texmf-dist/fonts/type1/public/kpfonts/jkpmit8a.pfb></usr/local/texlive/2015
+/texmf-dist/fonts/type1/public/kpfonts/jkpmn8a.pfb></usr/local/texlive/2015/tex
+mf-dist/fonts/type1/public/kpfonts/jkpmn8a.pfb></usr/local/texlive/2015/texmf-d
+ist/fonts/type1/public/kpfonts/jkpmnc.pfb></usr/local/texlive/2015/texmf-dist/f
+onts/type1/public/kpfonts/jkpmne.pfb></usr/local/texlive/2015/texmf-dist/fonts/
+type1/public/kpfonts/jkpmne.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1
+/public/kpfonts/jkpmsc8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pu
+blic/kpfonts/jkpsya.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/cou
+rier/ucrr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/courier/ucr
+ro8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pf
+b>
+Output written on main.pdf (143 pages, 29268520 bytes).
 PDF statistics:
- 1999 PDF objects out of 2073 (max. 8388607)
- 1753 compressed objects within 18 object streams
- 516 named destinations out of 1000 (max. 500000)
- 19681 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 2196 PDF objects out of 2487 (max. 8388607)
+ 1930 compressed objects within 20 object streams
+ 518 named destinations out of 1000 (max. 500000)
+ 19673 words of extra memory for PDF output out of 20736 (max. 10000000)
 
