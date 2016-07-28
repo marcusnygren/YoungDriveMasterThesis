@@ -604,9 +604,10 @@
 \ifrt@usebibunits
 \RequirePackage{bibunits}% Load before natbib.  We should not pass sectionbib here.  It is better to let some magic work out the correct level.  At the time of writing, I can't see how this works.  But it works.
 \fi
-\RequirePackage[round]{natbib}% This should be loaded early.  It is much too late to postpone it until a user decision after the class has been loaded.
-\RequirePackage{apalike}
-\RequirePackage{bibentry}% Load after natbib, and before hyperref.
+%\RequirePackage[round]{natbib}% This should be loaded early.  It is much too late to postpone it until a user decision after the class has been loaded.
+%\RequirePackage{apalike}
+%\RequirePackage{bibentry}% Load after natbib, and before hyperref.
+%\RequirePackage[natbib=true, style=apa]{biblatex}
 \AtBeginDocument{\relax\nobibliography*}% See the bibentry documentation!
 \makeindex
 \RequirePackage{xcolor}% So that link border colors may be set.
@@ -663,7 +664,7 @@
 \ifrt@UseBackref
 \PassOptionsToPackage{backref=page}{hyperref}
 \fi
-\RequirePackage{hyperref}
+%\RequirePackage{hyperref}
 \AtEndDocument{
   \ifthenelse{\value{rt@toplevel}=0}{
     %%% In case there are no parts, the part counter should still be at zero.
@@ -729,7 +730,7 @@
   turn hyperref off, it is also recommended that you\MessageBreak
   turn back references off using the nobackref class\MessageBreak
   option}
-\RequirePackage[pageref]{backref}
+%\RequirePackage[pageref]{backref}
 \fi
 %\RequirePackage{nameref}% nameref is automatically loaded by hyperref... but seems not to work without hyperref.
 \providecommand{\nameref}[1]{%

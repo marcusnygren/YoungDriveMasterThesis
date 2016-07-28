@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.24)  26 JUL 2016 16:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.24)  28 JUL 2016 12:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -568,22 +568,11 @@ Package: index 2004/01/20 v4.2beta Improved index support (dmj)
 \@indexbox=\insert233
 \indexproofstyle=\toks23
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/natbib/natbib.sty
-Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip48
-\bibsep=\skip49
-LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count119
-)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/bibtex/apalike.sty)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/natbib/bibentry.sty
-Package: bibentry 2007/10/30 1.5 (PWD)
-)
 \idxtitle@default=\toks24
 \tf@default=\write3
 \openout3 = `main.idx'.
 
-Package index Info: Writing index file main.idx on input line 611.
+Package index Info: Writing index file main.idx on input line 612.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
@@ -605,16 +594,16 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count120
-\calc@Bcount=\count121
+\calc@Acount=\count119
+\calc@Bcount=\count120
 \calc@Adimen=\dimen122
 \calc@Bdimen=\dimen123
-\calc@Askip=\skip50
-\calc@Bskip=\skip51
+\calc@Askip=\skip48
+\calc@Bskip=\skip49
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count122
-\calc@Cskip=\skip52
+\calc@Ccount=\count121
+\calc@Cskip=\skip50
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
@@ -630,176 +619,62 @@ Package caption3 Info: TeX engine: e-TeX on input line 57.
 \caption@parindent=\dimen129
 \caption@hangindent=\dimen130
 )
-\c@ContinuedFloat=\count123
+\c@ContinuedFloat=\count122
 Package caption Info: float package is loaded.
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
-
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
-Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
-
-
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
-Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
-Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
-Package hobsub Info: Skipping package `infwarerr' (already loaded).
-Package hobsub Info: Skipping package `ltxcmds' (already loaded).
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-Package hobsub Info: Skipping package `ifvtex' (already loaded).
-Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
-Package hobsub Info: Skipping package `ifpdf' (already loaded).
-Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
-Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
-Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
-)
-Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
-Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
-)
-Package hobsub Info: Skipping package `hobsub' (already loaded).
-Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
-Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
-Package: xcolor-patch 2011/01/30 xcolor patch
-Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
-Package atveryend Info: \enddocument detected (standard20110627).
-Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
-Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
-Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/auxhook.sty
-Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
-)
-\@linkdim=\dimen131
-\Hy@linkcounter=\count124
-\Hy@pagecounter=\count125
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
-)
-\Hy@SavedSpaceFactor=\count126
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/hyperref.cfg
-File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
-)
-Package hyperref Info: Option `colorlinks' set `false' on input line 4319.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 4319.
-Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4319
-.
-Package hyperref Info: Option `hyperfootnotes' set `false' on input line 4319.
-Package hyperref Info: Option `plainpages' set `false' on input line 4319.
-Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4319.
-Package hyperref Info: Hyper figures OFF on input line 4443.
-Package hyperref Info: Link nesting OFF on input line 4448.
-Package hyperref Info: Hyper index ON on input line 4451.
-Package hyperref Info: Plain pages OFF on input line 4458.
-Package hyperref Info: Backreferencing ON on input line 4461.
-Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4688.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/backref.sty
-Package: backref 2012/07/25 v1.38 Bibliographical back referencing
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
-Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-82.
-))
-\c@Hy@tempcnt=\count127
-LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen132
-\Fld@menulength=\count128
-\Field@Width=\dimen133
-\Fld@charsize=\dimen134
-Package hyperref Info: Hyper figures OFF on input line 6295.
-Package hyperref Info: Link nesting OFF on input line 6300.
-Package hyperref Info: Hyper index ON on input line 6303.
-Package hyperref Info: backreferencing ON on input line 6308.
-Package hyperref Info: Link coloring OFF on input line 6315.
-Package hyperref Info: Link coloring with OCG OFF on input line 6320.
-Package hyperref Info: PDF/A mode OFF on input line 6325.
-LaTeX Info: Redefining \ref on input line 6365.
-LaTeX Info: Redefining \pageref on input line 6369.
-\Hy@abspage=\count129
-\c@Item=\count130
-)
-
-Package hyperref Message: Driver (autodetected): hpdftex.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
-\Fld@listcount=\count131
-\c@bookmark@seq@number=\count132
-\Hy@SectionHShift=\skip53
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 44.
-\cftparskip=\skip54
-\cftbeforetoctitleskip=\skip55
-\cftaftertoctitleskip=\skip56
-\cftbeforepartskip=\skip57
-\cftpartnumwidth=\skip58
-\cftpartindent=\skip59
-\cftbeforechapskip=\skip60
-\cftchapindent=\skip61
-\cftchapnumwidth=\skip62
-\cftbeforesecskip=\skip63
-\cftsecindent=\skip64
-\cftsecnumwidth=\skip65
-\cftbeforesubsecskip=\skip66
-\cftsubsecindent=\skip67
-\cftsubsecnumwidth=\skip68
-\cftbeforesubsubsecskip=\skip69
-\cftsubsubsecindent=\skip70
-\cftsubsubsecnumwidth=\skip71
-\cftbeforeparaskip=\skip72
-\cftparaindent=\skip73
-\cftparanumwidth=\skip74
-\cftbeforesubparaskip=\skip75
-\cftsubparaindent=\skip76
-\cftsubparanumwidth=\skip77
-\cftbeforeloftitleskip=\skip78
-\cftafterloftitleskip=\skip79
-\cftbeforefigskip=\skip80
-\cftfigindent=\skip81
-\cftfignumwidth=\skip82
-\c@lofdepth=\count133
-\c@lotdepth=\count134
-\cftbeforelottitleskip=\skip83
-\cftafterlottitleskip=\skip84
-\cftbeforetabskip=\skip85
-\cfttabindent=\skip86
-\cfttabnumwidth=\skip87
+\cftparskip=\skip51
+\cftbeforetoctitleskip=\skip52
+\cftaftertoctitleskip=\skip53
+\cftbeforepartskip=\skip54
+\cftpartnumwidth=\skip55
+\cftpartindent=\skip56
+\cftbeforechapskip=\skip57
+\cftchapindent=\skip58
+\cftchapnumwidth=\skip59
+\cftbeforesecskip=\skip60
+\cftsecindent=\skip61
+\cftsecnumwidth=\skip62
+\cftbeforesubsecskip=\skip63
+\cftsubsecindent=\skip64
+\cftsubsecnumwidth=\skip65
+\cftbeforesubsubsecskip=\skip66
+\cftsubsubsecindent=\skip67
+\cftsubsubsecnumwidth=\skip68
+\cftbeforeparaskip=\skip69
+\cftparaindent=\skip70
+\cftparanumwidth=\skip71
+\cftbeforesubparaskip=\skip72
+\cftsubparaindent=\skip73
+\cftsubparanumwidth=\skip74
+\cftbeforeloftitleskip=\skip75
+\cftafterloftitleskip=\skip76
+\cftbeforefigskip=\skip77
+\cftfigindent=\skip78
+\cftfignumwidth=\skip79
+\c@lofdepth=\count123
+\c@lotdepth=\count124
+\cftbeforelottitleskip=\skip80
+\cftafterlottitleskip=\skip81
+\cftbeforetabskip=\skip82
+\cfttabindent=\skip83
+\cfttabnumwidth=\skip84
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/subfig/subfig.sty
 Package: subfig 2005/06/28 ver: 1.3 subfig package
-\c@KVtest=\count135
-\sf@farskip=\skip88
-\sf@captopadj=\dimen135
-\sf@capskip=\skip89
-\sf@nearskip=\skip90
-\c@subfigure=\count136
-\c@subfigure@save=\count137
-\c@subtable=\count138
-\c@subtable@save=\count139
-\sf@top=\skip91
-\sf@bottom=\skip92
+\c@KVtest=\count125
+\sf@farskip=\skip85
+\sf@captopadj=\dimen131
+\sf@capskip=\skip86
+\sf@nearskip=\skip87
+\c@subfigure=\count126
+\c@subfigure@save=\count127
+\c@subtable=\count128
+\c@subtable@save=\count129
+\sf@top=\skip88
+\sf@bottom=\skip89
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tocbibind/tocbibind.sty
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
@@ -812,7 +687,7 @@ Package tocbibind Note: Using chapter style headings, unless overridden.
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
 les
 )
-LaTeX Info: Redefining \em on input line 810.
+LaTeX Info: Redefining \em on input line 811.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
@@ -1095,8 +970,6 @@ File: ts1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
    defining Unicode char U+25EF (decimal 9711)
    defining Unicode char U+266A (decimal 9834)
 )
-Now handling font encoding PD1 ...
-... no UTF-8 mapping file for font encoding PD1
    defining Unicode char U+00A9 (decimal 169)
    defining Unicode char U+00AA (decimal 170)
    defining Unicode char U+00AE (decimal 174)
@@ -1125,8 +998,8 @@ Language: swedish 2005/03/31 v2.3d Swedish support from the babel system
 
 (/usr/local/texlive/2015/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2014/09/25 3.9l Babel common definitions
-\babel@savecnt=\count140
-\U@D=\dimen136
+\babel@savecnt=\count130
+\U@D=\dimen132
 )
 Package babel Info: Making " an active character on input line 90.
 )
@@ -1140,8 +1013,8 @@ Language: english 2012/08/20 v3.3p English support from the babel system
 (/usr/local/texlive/2015/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-\c@rtpapers@section=\count141
-\c@rtpapers@chapter=\count142
+\c@rtpapers@section=\count131
+\c@rtpapers@chapter=\count132
 )
 (./rtthesisClass/rtthesis-captions.sty
 
@@ -1173,14 +1046,14 @@ Package: amsthm 2015/03/04 v2.20.2
 \thm@headfont=\toks29
 \thm@notefont=\toks30
 \thm@headpunct=\toks31
-\thm@preskip=\skip93
-\thm@postskip=\skip94
-\thm@headsep=\skip95
+\thm@preskip=\skip90
+\thm@postskip=\skip91
+\thm@headsep=\skip92
 \dth@everypar=\toks32
 )
-\rt@theoremtopskip=\skip96
-\rt@definitionlinewidth=\skip97
-\c@theorem=\count143
+\rt@theoremtopskip=\skip93
+\rt@definitionlinewidth=\skip94
+\c@theorem=\count133
 )
 (./rtthesisClass/rtthesis-example.sty
 
@@ -1192,30 +1065,30 @@ ass
 (/usr/local/texlive/2015/texmf-dist/tex/latex/needspace/needspace.sty
 Package: needspace 2010/09/12 v1.3d reserve vertical space
 )
-\c@Example=\count144
-\exampleLineWidth=\skip98
-\exampleTopBotInnerMargin=\skip99
-\exampleTopBotOuterMargin=\skip100
-\rt@examplerulepos=\skip101
+\c@Example=\count134
+\exampleLineWidth=\skip95
+\exampleTopBotInnerMargin=\skip96
+\exampleTopBotOuterMargin=\skip97
+\rt@examplerulepos=\skip98
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-\fancy@headwidth=\skip102
-\f@ncyO@elh=\skip103
-\f@ncyO@erh=\skip104
-\f@ncyO@olh=\skip105
-\f@ncyO@orh=\skip106
-\f@ncyO@elf=\skip107
-\f@ncyO@erf=\skip108
-\f@ncyO@olf=\skip109
-\f@ncyO@orf=\skip110
+\fancy@headwidth=\skip99
+\f@ncyO@elh=\skip100
+\f@ncyO@erh=\skip101
+\f@ncyO@olh=\skip102
+\f@ncyO@orh=\skip103
+\f@ncyO@elf=\skip104
+\f@ncyO@erf=\skip105
+\f@ncyO@olf=\skip106
+\f@ncyO@orf=\skip107
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/array.sty
 Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen137
-\extrarowheight=\dimen138
+\col@sep=\dimen133
+\extrarowheight=\dimen134
 \NC@list=\toks33
-\extratabsurround=\skip111
-\backup@length=\skip112
+\extratabsurround=\skip108
+\backup@length=\skip109
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/ctable/ctable.sty
 Package: ctable 2014/04/25 v1.29 ctable package for \ flexible typesetting of t
@@ -1229,77 +1102,80 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 \XKV@toks=\toks34
 \XKV@tempa@toks=\toks35
 )
-\XKV@depth=\count145
+\XKV@depth=\count135
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2014/10/28 v2.10 `tabularx' package (DPC)
-\TX@col@width=\dimen139
-\TX@old@table=\dimen140
-\TX@old@col=\dimen141
-\TX@target=\dimen142
-\TX@delta=\dimen143
-\TX@cols=\count146
+\TX@col@width=\dimen135
+\TX@old@table=\dimen136
+\TX@old@col=\dimen137
+\TX@target=\dimen138
+\TX@delta=\dimen139
+\TX@cols=\count136
 \TX@ftn=\toks36
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
-\heavyrulewidth=\dimen144
-\lightrulewidth=\dimen145
-\cmidrulewidth=\dimen146
-\belowrulesep=\dimen147
-\belowbottomsep=\dimen148
-\aboverulesep=\dimen149
-\abovetopsep=\dimen150
-\cmidrulesep=\dimen151
-\cmidrulekern=\dimen152
-\defaultaddspace=\dimen153
-\@cmidla=\count147
-\@cmidlb=\count148
-\@aboverulesep=\dimen154
-\@belowrulesep=\dimen155
-\@thisruleclass=\count149
-\@lastruleclass=\count150
-\@thisrulewidth=\dimen156
+\heavyrulewidth=\dimen140
+\lightrulewidth=\dimen141
+\cmidrulewidth=\dimen142
+\belowrulesep=\dimen143
+\belowbottomsep=\dimen144
+\aboverulesep=\dimen145
+\abovetopsep=\dimen146
+\cmidrulesep=\dimen147
+\cmidrulekern=\dimen148
+\defaultaddspace=\dimen149
+\@cmidla=\count137
+\@cmidlb=\count138
+\@aboverulesep=\dimen150
+\@belowrulesep=\dimen151
+\@thisruleclass=\count139
+\@lastruleclass=\count140
+\@thisrulewidth=\dimen152
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/rotating/rotating.sty
 Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
-\c@r@tfl@t=\count151
-\rotFPtop=\skip113
-\rotFPbot=\skip114
+\c@r@tfl@t=\count141
+\rotFPtop=\skip110
+\rotFPbot=\skip111
 \rot@float@box=\box31
 \rot@mess@toks=\toks37
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/transparent.sty
 Package: transparent 2007/01/08 v1.0 Transparency via pdfTeX's color stack (HO)
 
-)
-\@ctblframesep=\dimen157
-\@defaultctblframesep=\dimen158
-\@ctblframerule=\dimen159
-\@defaultctblframerule=\dimen160
-\@ctblwidth=\dimen161
-\@defaultctblwidth=\dimen162
-\@ctblcaptionskip=\dimen163
-\@defaultctblcaptionskip=\dimen164
-\@ctblmaxwidth=\dimen165
-\@defaultctblmaxwidth=\dimen166
-\@ctblmincapwidth=\dimen167
-\@defaultctblmincapwidth=\dimen168
-\@ctblfooterwidth=\dimen169
-\@defaultctblfooterwidth=\dimen170
-\@ctblw=\dimen171
-\@ctblfloatwidth=\dimen172
-\@ctbloldsep=\dimen173
-\@ctbloldrule=\dimen174
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+))
+\@ctblframesep=\dimen153
+\@defaultctblframesep=\dimen154
+\@ctblframerule=\dimen155
+\@defaultctblframerule=\dimen156
+\@ctblwidth=\dimen157
+\@defaultctblwidth=\dimen158
+\@ctblcaptionskip=\dimen159
+\@defaultctblcaptionskip=\dimen160
+\@ctblmaxwidth=\dimen161
+\@defaultctblmaxwidth=\dimen162
+\@ctblmincapwidth=\dimen163
+\@defaultctblmincapwidth=\dimen164
+\@ctblfooterwidth=\dimen165
+\@defaultctblfooterwidth=\dimen166
+\@ctblw=\dimen167
+\@ctblfloatwidth=\dimen168
+\@ctbloldsep=\dimen169
+\@ctbloldrule=\dimen170
 \ctbl@t=\box32
-\@ctblcurftwidth=\dimen175
+\@ctblcurftwidth=\dimen171
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/appendix/appendix.sty
 Package: appendix 2009/09/02 v1.2b extra appendix facilities
-\c@@pps=\count152
-\c@@ppsavesec=\count153
-\c@@ppsaveapp=\count154
+\c@@pps=\count142
+\c@@ppsavesec=\count143
+\c@@ppsaveapp=\count144
 ))
 (./mythesis.sty (./rtmsc.sty
 Package: rtmsc 2010/03/24 rtmsc Style v. 0.02a
@@ -1313,7 +1189,7 @@ Package: SIunits 2007/12/02 v1.36 Support for the International System of units
  (MH)
 
 
-\@qskwidth=\skip115
+\@qskwidth=\skip112
 LaTeX Font Info:    Redeclaring font encoding TS1 on input line 46.
 \symgreek=\mathgroup9
 (/usr/local/texlive/2015/texmf-dist/tex/latex/SIunits/SIunits.cfg)
@@ -1328,8 +1204,8 @@ Package: todonotes 2012/07/25
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
 x
 \pgfutil@everybye=\toks38
-\pgfutil@tempdima=\dimen176
-\pgfutil@tempdimb=\dimen177
+\pgfutil@tempdima=\dimen172
+\pgfutil@tempdimb=\dimen173
 
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
 sts.tex))
@@ -1354,20 +1230,20 @@ Package: pgfsys 2013/11/30 v3.0.0 (rcs-revision 1.47)
 ode.tex
 \pgfkeys@tmptoks=\toks41
 ))
-\pgf@x=\dimen178
-\pgf@y=\dimen179
-\pgf@xa=\dimen180
-\pgf@ya=\dimen181
-\pgf@xb=\dimen182
-\pgf@yb=\dimen183
-\pgf@xc=\dimen184
-\pgf@yc=\dimen185
+\pgf@x=\dimen174
+\pgf@y=\dimen175
+\pgf@xa=\dimen176
+\pgf@ya=\dimen177
+\pgf@xb=\dimen178
+\pgf@yb=\dimen179
+\pgf@xc=\dimen180
+\pgf@yc=\dimen181
 \w@pgf@writea=\write4
 \r@pgf@reada=\read1
-\c@pgf@counta=\count155
-\c@pgf@countb=\count156
-\c@pgf@countc=\count157
-\c@pgf@countd=\count158
+\c@pgf@counta=\count145
+\c@pgf@countb=\count146
+\c@pgf@countc=\count147
+\c@pgf@countd=\count148
 \t@pgf@toka=\toks42
 \t@pgf@tokb=\toks43
 \t@pgf@tokc=\toks44
@@ -1388,8 +1264,8 @@ File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
 code.tex
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count159
-\pgfsyssoftpath@bigbuffer@items=\count160
+\pgfsyssoftpath@smallbuffer@items=\count149
+\pgfsyssoftpath@bigbuffer@items=\count150
 )
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
 code.tex
@@ -1401,8 +1277,8 @@ Package: pgfcore 2010/04/11 v3.0.0 (rcs-revision 1.7)
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen186
-\pgfmath@count=\count161
+\pgfmath@dimen=\dimen182
+\pgfmath@count=\count151
 \pgfmath@box=\box34
 \pgfmath@toks=\toks45
 \pgfmath@stack@operand=\toks46
@@ -1427,37 +1303,37 @@ code.tex)
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
 erarithmetics.code.tex)))
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count162
+\c@pgfmathroundto@lastzeros=\count152
 ))
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
 de.tex
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
-\pgf@picminx=\dimen187
-\pgf@picmaxx=\dimen188
-\pgf@picminy=\dimen189
-\pgf@picmaxy=\dimen190
-\pgf@pathminx=\dimen191
-\pgf@pathmaxx=\dimen192
-\pgf@pathminy=\dimen193
-\pgf@pathmaxy=\dimen194
-\pgf@xx=\dimen195
-\pgf@xy=\dimen196
-\pgf@yx=\dimen197
-\pgf@yy=\dimen198
-\pgf@zx=\dimen199
-\pgf@zy=\dimen200
+\pgf@picminx=\dimen183
+\pgf@picmaxx=\dimen184
+\pgf@picminy=\dimen185
+\pgf@picmaxy=\dimen186
+\pgf@pathminx=\dimen187
+\pgf@pathmaxx=\dimen188
+\pgf@pathminy=\dimen189
+\pgf@pathmaxy=\dimen190
+\pgf@xx=\dimen191
+\pgf@xy=\dimen192
+\pgf@yx=\dimen193
+\pgf@yy=\dimen194
+\pgf@zx=\dimen195
+\pgf@zy=\dimen196
 )
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
 ruct.code.tex
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
-\pgf@path@lastx=\dimen201
-\pgf@path@lasty=\dimen202
+\pgf@path@lastx=\dimen197
+\pgf@path@lasty=\dimen198
 )
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
 .code.tex
 File: pgfcorepathusage.code.tex 2013/12/13  (rcs-revision 1.23)
-\pgf@shorten@end@additional=\dimen203
-\pgf@shorten@start@additional=\dimen204
+\pgf@shorten@end@additional=\dimen199
+\pgf@shorten@start@additional=\dimen200
 )
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
 de.tex
@@ -1465,19 +1341,19 @@ File: pgfcorescopes.code.tex 2013/10/09  (rcs-revision 1.44)
 \pgfpic=\box35
 \pgf@hbox=\box36
 \pgf@layerbox@main=\box37
-\pgf@picture@serial@count=\count163
+\pgf@picture@serial@count=\count153
 )
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
 ate.code.tex
 File: pgfcoregraphicstate.code.tex 2013/09/19  (rcs-revision 1.11)
-\pgflinewidth=\dimen205
+\pgflinewidth=\dimen201
 )
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
 ations.code.tex
 File: pgfcoretransformations.code.tex 2013/10/10  (rcs-revision 1.17)
-\pgf@pt@x=\dimen206
-\pgf@pt@y=\dimen207
-\pgf@pt@temp=\dimen208
+\pgf@pt@x=\dimen202
+\pgf@pt@y=\dimen203
+\pgf@pt@temp=\dimen204
 )
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
 e.tex
@@ -1494,13 +1370,13 @@ File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
 de.tex
 File: pgfcorearrows.code.tex 2013/11/07  (rcs-revision 1.40)
-\pgfarrowsep=\dimen209
+\pgfarrowsep=\dimen205
 )
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
 e.tex
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
-\pgf@max=\dimen210
-\pgf@sys@shading@range@num=\count164
+\pgf@max=\dimen206
+\pgf@sys@shading@range@num=\count154
 )
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
 e.tex
@@ -1535,8 +1411,8 @@ File: pgfmoduleplot.code.tex 2013/07/31  (rcs-revision 1.12)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -0-65.sty
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.0 (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen211
-\pgf@nodesepend=\dimen212
+\pgf@nodesepstart=\dimen207
+\pgf@nodesepend=\dimen208
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -1-18.sty
@@ -1551,8 +1427,8 @@ Package: pgfcomp-version-1-18 2007/07/23 v3.0.0 (rcs-revision 1.1)
 Package: pgffor 2013/12/13 v3.0.0 (rcs-revision 1.25)
 
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen213
-\pgffor@skip=\dimen214
+\pgffor@iter=\dimen209
+\pgffor@skip=\dimen210
 \pgffor@stack=\toks48
 \pgffor@toks=\toks49
 ))
@@ -1563,32 +1439,32 @@ Package: tikz 2013/12/13 v3.0.0 (rcs-revision 1.142)
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
 dlers.code.tex
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.0 (rcs-revision 1.20)
-\pgf@plot@mark@count=\count165
-\pgfplotmarksize=\dimen215
+\pgf@plot@mark@count=\count155
+\pgfplotmarksize=\dimen211
 )
-\tikz@lastx=\dimen216
-\tikz@lasty=\dimen217
-\tikz@lastxsaved=\dimen218
-\tikz@lastysaved=\dimen219
-\tikzleveldistance=\dimen220
-\tikzsiblingdistance=\dimen221
+\tikz@lastx=\dimen212
+\tikz@lasty=\dimen213
+\tikz@lastxsaved=\dimen214
+\tikz@lastysaved=\dimen215
+\tikzleveldistance=\dimen216
+\tikzsiblingdistance=\dimen217
 \tikz@figbox=\box40
 \tikz@figbox@bg=\box41
 \tikz@tempbox=\box42
 \tikz@tempbox@bg=\box43
-\tikztreelevel=\count166
-\tikznumberofchildren=\count167
-\tikznumberofcurrentchild=\count168
-\tikz@fig@count=\count169
+\tikztreelevel=\count156
+\tikznumberofchildren=\count157
+\tikznumberofcurrentchild=\count158
+\tikz@fig@count=\count159
 
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
 e.tex
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count170
-\pgfmatrixcurrentcolumn=\count171
-\pgf@matrix@numberofcolumns=\count172
+\pgfmatrixcurrentrow=\count160
+\pgfmatrixcurrentcolumn=\count161
+\pgf@matrix@numberofcolumns=\count162
 )
-\tikz@expandcount=\count173
+\tikz@expandcount=\count163
 
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarytopaths.code.tex
@@ -1598,15 +1474,278 @@ File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.0 (rcs-revision 1.2)
 s/tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.0 (rcs-revision 1.7)
 )
-\c@@todonotes@numberoftodonotes=\count174
+\c@@todonotes@numberoftodonotes=\count164
 ))
    defining Unicode char U+00A0 (decimal 160)
 
+(/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2015/04/19 v3.0 programmable bibliographies (PK/JW/AB)
+
+
+Package biblatex Warning: No "backend" specified, using Biber backend.
+(biblatex)                To use BibTeX, load biblatex with 
+(biblatex)                the "backend=bibtex" option.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/biblatex2.sty
+Package: biblatex2 2015/04/19 v3.0 programmable bibliographies (biber) (PK/JW/A
+B)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2015/05/04 v2.2 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count165
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count166
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count167
+\c@listtotal=\count168
+\c@listcount=\count169
+\c@liststart=\count170
+\c@liststop=\count171
+\c@citecount=\count172
+\c@citetotal=\count173
+\c@multicitecount=\count174
+\c@multicitetotal=\count175
+\c@instcount=\count176
+\c@maxnames=\count177
+\c@minnames=\count178
+\c@maxitems=\count179
+\c@minitems=\count180
+\c@citecounter=\count181
+\c@savedcitecounter=\count182
+\c@uniquelist=\count183
+\c@uniquename=\count184
+\c@refsection=\count185
+\c@refsegment=\count186
+\c@maxextratitle=\count187
+\c@maxextratitleyear=\count188
+\c@maxextrayear=\count189
+\c@maxextraalpha=\count190
+\c@abbrvpenalty=\count191
+\c@highnamepenalty=\count192
+\c@lownamepenalty=\count193
+\c@maxparens=\count194
+\c@parenlevel=\count195
+\blx@tempcnta=\count196
+\blx@tempcntb=\count197
+\blx@tempcntc=\count198
+\blx@maxsection=\count199
+\blx@maxsegment@0=\count200
+\blx@notetype=\count201
+\blx@parenlevel@text=\count202
+\blx@parenlevel@foot=\count203
+\blx@sectionciteorder@0=\count204
+\labelnumberwidth=\skip113
+\labelalphawidth=\skip114
+\biblabelsep=\skip115
+\bibitemsep=\skip116
+\bibnamesep=\skip117
+\bibinitsep=\skip118
+\bibparsep=\skip119
+\bibhang=\skip120
+\blx@bcfin=\read2
+\blx@bcfout=\write5
+\c@mincomprange=\count205
+\c@maxcomprange=\count206
+\c@mincompwidth=\count207
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/blx-dm.def)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'apa.dbx' found.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex-apa/apa.dbx
+File: apa.dbx 2015/01/23 v6.7 APA biblatex style data model
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count208
+\c@savedafterword=\count209
+\c@annotator=\count210
+\c@savedannotator=\count211
+\c@author=\count212
+\c@savedauthor=\count213
+\c@bookauthor=\count214
+\c@savedbookauthor=\count215
+\c@commentator=\count216
+\c@savedcommentator=\count217
+\c@editor=\count218
+\c@savededitor=\count219
+\c@editora=\count220
+\c@savededitora=\count221
+\c@editorb=\count222
+\c@savededitorb=\count223
+\c@editorc=\count224
+\c@savededitorc=\count225
+\c@foreword=\count226
+\c@savedforeword=\count227
+\c@holder=\count228
+\c@savedholder=\count229
+\c@introduction=\count230
+\c@savedintroduction=\count231
+\c@namea=\count232
+\c@savednamea=\count266
+\c@nameb=\count267
+\c@savednameb=\count268
+\c@namec=\count269
+\c@savednamec=\count270
+\c@translator=\count271
+\c@savedtranslator=\count272
+\c@shortauthor=\count273
+\c@savedshortauthor=\count274
+\c@shorteditor=\count275
+\c@savedshorteditor=\count276
+\c@with=\count277
+\c@savedwith=\count278
+\c@writer=\count279
+\c@savedwriter=\count280
+\c@producer=\count281
+\c@savedproducer=\count282
+\c@execproducer=\count283
+\c@savedexecproducer=\count284
+\c@director=\count285
+\c@saveddirector=\count286
+\c@labelname=\count287
+\c@savedlabelname=\count288
+\c@institution=\count289
+\c@savedinstitution=\count290
+\c@lista=\count291
+\c@savedlista=\count292
+\c@listb=\count293
+\c@savedlistb=\count294
+\c@listc=\count295
+\c@savedlistc=\count296
+\c@listd=\count297
+\c@savedlistd=\count298
+\c@liste=\count299
+\c@savedliste=\count300
+\c@listf=\count301
+\c@savedlistf=\count302
+\c@location=\count303
+\c@savedlocation=\count304
+\c@organization=\count305
+\c@savedorganization=\count306
+\c@origlocation=\count307
+\c@savedoriglocation=\count308
+\c@origpublisher=\count309
+\c@savedorigpublisher=\count310
+\c@publisher=\count311
+\c@savedpublisher=\count312
+\c@language=\count313
+\c@savedlanguage=\count314
+\c@pageref=\count315
+\c@savedpageref=\count316
+\shorthandwidth=\skip121
+\shortjournalwidth=\skip122
+\shortserieswidth=\skip123
+\shorttitlewidth=\skip124
+\shortauthorwidth=\skip125
+\shorteditorwidth=\skip126
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2015/04/19 v3.0 biblatex compatibility (PK/JW/AB)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 
+\c@textcitecount=\count317
+\c@textcitetotal=\count318
+\c@textcitemaxnames=\count319
+\c@biburlnumpenalty=\count320
+\c@biburlucpenalty=\count321
+\c@biburllcpenalty=\count322
+\c@smartand=\count323
+)
+Package biblatex Info: Trying to load natbib compatibility...
+Package biblatex Info: ... file 'blx-natbib.def' found.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/blx-natbib.def
+File: blx-natbib.def 2015/04/19 v3.0 biblatex compatibility (PK/JW/AB)
+)
+Package biblatex Info: Trying to load bibliography style 'apa'...
+Package biblatex Info: ... file 'apa.bbx' found.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex-apa/apa.bbx
+File: apa.bbx 2015/01/23 v6.7 APA biblatex references style
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2015/04/19 v3.0 biblatex bibliography style (PK/JW/AB)
+\c@bbx:relatedcount=\count324
+\c@bbx:relatedtotal=\count325
+))
+Package biblatex Info: Trying to load citation style 'apa'...
+Package biblatex Info: ... file 'apa.cbx' found.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex-apa/apa.cbx
+File: apa.cbx 2015/01/23 v6.7 APA biblatex citation style
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\fullcite'.
+Package biblatex Info: Redefining '\citeyear'.
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\citeauthor'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)))
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2015/04/19 v3.0 biblatex localization (PK/JW/AB)
+)
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count326
+\@quotereset=\count327
 
 LaTeX Warning: Unused global option(s):
     [emarginparagraphs(notrecommended!).largesmallcaps].
 
-(./main.aux (./thanks/thanks.aux) (./introduction/introduction.aux
+(./main.aux
+Package biblatex Info: Trying to load language 'swedish'...
+Package biblatex Info: ... file 'swedish.lbx' found.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/lbx/swedish.lbx
+File: swedish.lbx 2015/04/19 v3.0 biblatex localization (PK/JW/AB)
+)
+(./thanks/thanks.aux) (./introduction/introduction.aux
 
 LaTeX Warning: Label `sec:related-work' multiply defined.
 
@@ -1628,51 +1767,49 @@ LaTeX Warning: Label `fig:iteration' multiply defined.
 (./appendix/time_plan.aux) (./appendix/pre_test.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/jkpw/m/it on input line 21.
-LaTeX Font Info:    Try loading font information for OML+jkpw on input line 21.
+LaTeX Font Info:    Checking defaults for OML/jkpw/m/it on input line 32.
+LaTeX Font Info:    Try loading font information for OML+jkpw on input line 32.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/kpfonts/omljkpw.fd
 File: omljkpw.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/jkpw/m/n on input line 21.
-LaTeX Font Info:    Try loading font information for OMS+jkpw on input line 21.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/jkpw/m/n on input line 32.
+LaTeX Font Info:    Try loading font information for OMS+jkpw on input line 32.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/kpfonts/omsjkpw.fd
 File: omsjkpw.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/jkp/m/n on input line 21.
-LaTeX Font Info:    Try loading font information for OMX+jkp on input line 21.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/jkp/m/n on input line 32.
+LaTeX Font Info:    Try loading font information for OMX+jkp on input line 32.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/kpfonts/omxjkp.fd
 File: omxjkp.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/jkpexa/m/n on input line 21.
-LaTeX Font Info:    Try loading font information for U+jkpexa on input line 21.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/jkpexa/m/n on input line 32.
+LaTeX Font Info:    Try loading font information for U+jkpexa on input line 32.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/kpfonts/ujkpexa.fd
 File: ujkpexa.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 21.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 32.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Try loading font information for T1+jkp on input line 21.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Try loading font information for T1+jkp on input line 32.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/kpfonts/t1jkp.fd
 File: t1jkp.fd 2007/01/24 Fontinst v1.928 font definitions for T1/jkp.
@@ -1716,23 +1853,34 @@ File: t1jkp.fd 2007/01/24 Fontinst v1.928 font definitions for T1/jkp.
 
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count175
-\scratchdimen=\dimen222
+\scratchcounter=\count328
+\scratchdimen=\dimen218
 \scratchbox=\box44
-\nofMPsegments=\count176
-\nofMParguments=\count177
+\nofMPsegments=\count329
+\nofMParguments=\count330
 \everyMPshowfont=\toks50
-\MPscratchCnt=\count178
-\MPscratchDim=\dimen223
-\MPnumerator=\count179
-\makeMPintoPDFobject=\count180
+\MPscratchCnt=\count331
+\MPscratchDim=\dimen219
+\MPnumerator=\count332
+\makeMPintoPDFobject=\count333
 \everyMPtoPDFconversion=\toks51
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
-)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
 Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
@@ -1743,461 +1891,476 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 Package pdfcprot Info: I didn't find jkpbnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 32.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/pdfcprot/pplmnT1.cpa)
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
-LaTeX Font Info:    Try loading font information for TS1+jkp on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
+LaTeX Font Info:    Try loading font information for TS1+jkp on input line 32.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/kpfonts/ts1jkp.fd
 File: ts1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for TS1/jkp.
 )
 Package pdfcprot Info: I didn't find jkpbnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 32
 .
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/pdfcprot/pplmnTS1.cpa)
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 Package pdfcprot Info: I didn't find jkpbnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 32.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 Package pdfcprot Info: I didn't find jkpbnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 32
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 Package pdfcprot Info: I didn't find jkpbnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 32.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 Package pdfcprot Info: I didn't find jkpbnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 32
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 Package pdfcprot Info: I didn't find jkpbnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 32.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 Package pdfcprot Info: I didn't find jkpbnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 32
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 32.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 21.
+(Font)              scaled to size 9.49997pt on input line 32.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 9.49997pt on input line 21.
+(Font)              scaled to size 9.49997pt on input line 32.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 11.39996pt on input line 21.
+(Font)              scaled to size 11.39996pt on input line 32.
 Package pdfcprot Info: I didn't find phvbnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 32.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
-LaTeX Font Info:    Try loading font information for TS1+phv on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
+LaTeX Font Info:    Try loading font information for TS1+phv on input line 32.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ts1phv.fd
 File: ts1phv.fd 2001/06/04 scalable font definitions for TS1/phv.
 )
 LaTeX Font Info:    Font shape `TS1/phv/b/n' will be
-(Font)              scaled to size 11.39996pt on input line 21.
+(Font)              scaled to size 11.39996pt on input line 32.
 Package pdfcprot Info: I didn't find phvbnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 32
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 Package pdfcprot Info: I didn't find phvbnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 32.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 LaTeX Font Info:    Font shape `TS1/phv/b/n' will be
-(Font)              scaled to size 9.49997pt on input line 21.
+(Font)              scaled to size 9.49997pt on input line 32.
 Package pdfcprot Info: I didn't find phvbnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 32
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 8.54997pt on input line 21.
+(Font)              scaled to size 8.54997pt on input line 32.
 Package pdfcprot Info: I didn't find phvbnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 32.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 LaTeX Font Info:    Font shape `TS1/phv/b/n' will be
-(Font)              scaled to size 8.54997pt on input line 21.
+(Font)              scaled to size 8.54997pt on input line 32.
 Package pdfcprot Info: I didn't find phvbnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 32
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 7.59998pt on input line 21.
+(Font)              scaled to size 7.59998pt on input line 32.
 Package pdfcprot Info: I didn't find phvbnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 32.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 LaTeX Font Info:    Font shape `TS1/phv/b/n' will be
-(Font)              scaled to size 7.59998pt on input line 21.
+(Font)              scaled to size 7.59998pt on input line 32.
 Package pdfcprot Info: I didn't find phvbnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 32
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 Package pdfcprot Info: I didn't find jkpmnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 32.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 Package pdfcprot Info: I didn't find jkpmnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 32
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 Package pdfcprot Info: I didn't find jkpmnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 32.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 Package pdfcprot Info: I didn't find jkpmnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 32
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 Package pdfcprot Info: I didn't find jkpmnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 32.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 Package pdfcprot Info: I didn't find jkpmnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 32
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 Package pdfcprot Info: I didn't find jkpmnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 32.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 Package pdfcprot Info: I didn't find jkpmnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 32
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 Package pdfcprot Info: I didn't find jkpmitT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 32.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 Package pdfcprot Info: I didn't find jkpmitTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 32
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 Package pdfcprot Info: I didn't find jkpmitT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 32.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 Package pdfcprot Info: I didn't find jkpmitTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 32
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 Package pdfcprot Info: I didn't find jkpmitT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 32.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 Package pdfcprot Info: I didn't find jkpmitTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 32
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 Package pdfcprot Info: I didn't find jkpmitT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 32.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 Package pdfcprot Info: I didn't find jkpmitTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 32
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 11.39996pt on input line 21.
+(Font)              scaled to size 11.39996pt on input line 32.
 Package pdfcprot Info: I didn't find phvmnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 32.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
-(Font)              scaled to size 11.39996pt on input line 21.
+(Font)              scaled to size 11.39996pt on input line 32.
 Package pdfcprot Info: I didn't find phvmnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 32
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 Package pdfcprot Info: I didn't find phvmnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 32.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 21.
+(Font)              scaled to size 9.49997pt on input line 32.
 Package pdfcprot Info: I didn't find phvmnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 32
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 8.54997pt on input line 21.
+(Font)              scaled to size 8.54997pt on input line 32.
 Package pdfcprot Info: I didn't find phvmnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 32.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
-(Font)              scaled to size 8.54997pt on input line 21.
+(Font)              scaled to size 8.54997pt on input line 32.
 Package pdfcprot Info: I didn't find phvmnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 32
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 7.59998pt on input line 21.
+(Font)              scaled to size 7.59998pt on input line 32.
 Package pdfcprot Info: I didn't find phvmnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 32.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
-(Font)              scaled to size 7.59998pt on input line 21.
+(Font)              scaled to size 7.59998pt on input line 32.
 Package pdfcprot Info: I didn't find phvmnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 32
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 21.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 32.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 7.59998pt on input line 21.
+(Font)              scaled to size 7.59998pt on input line 32.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 21.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 32.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 11.39996pt on input line 21.
+(Font)              scaled to size 11.39996pt on input line 32.
 Package pdfcprot Info: I didn't find phvmitT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 32.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 LaTeX Font Info:    Font shape `TS1/phv/m/it' in size <12> not available
-(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 21.
+(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 32.
 LaTeX Font Info:    Font shape `TS1/phv/m/sl' will be
-(Font)              scaled to size 11.39996pt on input line 21.
+(Font)              scaled to size 11.39996pt on input line 32.
 Package pdfcprot Info: I didn't find phvmitTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 32
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 21.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 32.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 9.49997pt on input line 21.
+(Font)              scaled to size 9.49997pt on input line 32.
 Package pdfcprot Info: I didn't find phvmitT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 32.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 LaTeX Font Info:    Font shape `TS1/phv/m/it' in size <10> not available
-(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 21.
+(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 32.
 LaTeX Font Info:    Font shape `TS1/phv/m/sl' will be
-(Font)              scaled to size 9.49997pt on input line 21.
+(Font)              scaled to size 9.49997pt on input line 32.
 Package pdfcprot Info: I didn't find phvmitTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 32
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 21.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 32.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 8.54997pt on input line 21.
+(Font)              scaled to size 8.54997pt on input line 32.
 Package pdfcprot Info: I didn't find phvmitT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 32.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 LaTeX Font Info:    Font shape `TS1/phv/m/it' in size <9> not available
-(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 21.
+(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 32.
 LaTeX Font Info:    Font shape `TS1/phv/m/sl' will be
-(Font)              scaled to size 8.54997pt on input line 21.
+(Font)              scaled to size 8.54997pt on input line 32.
 Package pdfcprot Info: I didn't find phvmitTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 32
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 Package pdfcprot Info: I didn't find phvmitT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 32.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 LaTeX Font Info:    Font shape `TS1/phv/m/it' in size <8> not available
-(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 21.
+(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 32.
 LaTeX Font Info:    Font shape `TS1/phv/m/sl' will be
-(Font)              scaled to size 7.59998pt on input line 21.
+(Font)              scaled to size 7.59998pt on input line 32.
 Package pdfcprot Info: I didn't find phvmitTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 32
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 Package pdfcprot Info: I didn't find phvmslT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 32.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 Package pdfcprot Info: I didn't find phvmslTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 32
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 Package pdfcprot Info: I didn't find phvmslT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 32.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 Package pdfcprot Info: I didn't find phvmslTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 32
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 Package pdfcprot Info: I didn't find phvmslT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 32.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 Package pdfcprot Info: I didn't find phvmslTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 32
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 Package pdfcprot Info: I didn't find phvmslT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 32.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 32.
 Package pdfcprot Info: I didn't find phvmslTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 32
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
- (./main.bbl)
+(pdfcprot)             you intended to use. on input line 32.
+
+! Undefined control sequence.
+\@begindocumenthook ...lax \relax \nobibliography 
+                                                  *\let \default@color \curr...
+l.32 \begin{document}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
-Package caption Info: hyperref package is loaded.
 Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\AtBeginShipoutBox=\box45
-Package backref Info: ** backref set up for natbib ** on input line 21.
-Package hyperref Info: Link coloring OFF on input line 21.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
-
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
-)
-\c@section@level=\count181
-)
-LaTeX Info: Redefining \ref on input line 21.
-LaTeX Info: Redefining \pageref on input line 21.
-LaTeX Info: Redefining \nameref on input line 21.
-
-(./main.out) (./main.out)
-\@outlinefile=\write5
-\openout5 = `main.out'.
-
-
 
 Package ctable Warning:  Transparency disabled: incompatible with tikz package 
- on input line 21.
+ on input line 32.
 
 Option `squaren' provided! 
  Command \squaren defined by SIunits package!
 
-ABD: EveryShipout initializing macros (./main_intro.tex
-LaTeX Font Info:    Try loading font information for OT1+jkp on input line 1.
+ABD: EveryShipout initializing macros
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout5 = `main.bcf'.
 
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' found.
+ (./main.bbl)
+Package biblatex Info: Reference section=0 on input line 32.
+Package biblatex Info: Reference segment=0 on input line 32.
+ (./main_intro.tex [1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap
+/pdftex.map}
+
+] [2
+
+]
+! Undefined control sequence.
+<argument> ...pb \@safe@activesfalse \pdfbookmark 
+                                                  [0]{Front Page}{FrontPage}
+l.1 \makeFrontPage
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+LaTeX Font Info:    Try loading font information for OT1+jkp on input line 1.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/kpfonts/ot1jkp.fd
 File: ot1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for OT1/jkp.
 )
@@ -2223,22 +2386,18 @@ LaTeX Font Info:    Try loading font information for U+jkpsyc on input line 1.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/kpfonts/ujkpsyc.fd
 File: ujkpsyc.fd 2006/08/15 v1.0
 )
-<fig/LiTH_sv_vert_blk.pdf, id=513, 259.31882pt x 190.21063pt>
+<fig/LiTH_sv_vert_blk.pdf, id=14, 259.31882pt x 190.21063pt>
 File: fig/LiTH_sv_vert_blk.pdf Graphic file (type pdf)
 
 <use fig/LiTH_sv_vert_blk.pdf>
 Package pdftex.def Info: fig/LiTH_sv_vert_blk.pdf used on input line 1.
 (pdftex.def)             Requested size: 232.7477pt x 170.71652pt.
 
-Overfull \hbox (19.91695pt too wide) in paragraph at lines 1--1
-[]| [] 
+Overfull \hbox (124.66678pt too wide) in paragraph at lines 1--1
+[]\T1/jkp/m/n/10 [0]Front Page-Front-Page | [] 
  []
 
-[1
-
-
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./fig/L
-iTH_sv_vert_blk.pdf>] [2
+[3 <./fig/LiTH_sv_vert_blk.pdf>] [4
 
 ]
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
@@ -2255,80 +2414,156 @@ LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 ] [2
 
 ]
-Overfull \hbox (35.56596pt too wide) in paragraph at lines 7--7
-[]| [] 
+! Undefined control sequence.
+<argument> ...pb \@safe@activesfalse \pdfbookmark 
+                                                  [0]{Title Page}{TitlePage}
+l.7 \maketitle
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (133.15579pt too wide) in paragraph at lines 7--7
+[]\T1/jkp/m/n/10 [0]Title PageTi-tlePage | [] 
  []
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.7 \maketitle
-               [1]pdfTeX warning (ext4): destination with the same identifier (
-name{page.ii}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.7 \maketitle
-               [2
+[1] [2
 
-] <fig/LiTH_sigill_blk.pdf, id=584, 123.70215pt x 123.5817pt>
+]
+! Undefined control sequence.
+<argument> ...pb \@safe@activesfalse \pdfbookmark 
+                                                  [0]{Library Page}{LibraryP...
+l.8 ...ge{\input{abstract/engelsk-sammanfattning}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<fig/LiTH_sigill_blk.pdf, id=39, 123.70215pt x 123.5817pt>
 File: fig/LiTH_sigill_blk.pdf Graphic file (type pdf)
 
 <use fig/LiTH_sigill_blk.pdf>
 Package pdftex.def Info: fig/LiTH_sigill_blk.pdf used on input line 8.
 (pdftex.def)             Requested size: 56.9055pt x 56.85014pt.
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 8.
 
+! Undefined control sequence.
+<argument> ...ze \@tempdima \@parboxrestore \href 
+                                                  {\thesis@url }{\texttt {\t...
+l.8 ...ge{\input{abstract/engelsk-sammanfattning}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 8.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+[]\T1/jkp/m/n/5 http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-
+ []
+
+
+Overfull \hbox (14.02397pt too wide) in paragraph at lines 8--8
+\T1/jkp/m/n/5 XXXXX\T1/pcr/m/n/5 http://urn.kb.se/resolve?urn=urn:nbn:se:liu:di
+va-XXXXX 
+ []
+
 (./abstract/engelsk-sammanfattning.tex) [3
 
  <./fig/LiTH_sigill_blk.pdf>]
 [4
 
 ]
+! Undefined control sequence.
+<argument> ...pb \@safe@activesfalse \pdfbookmark 
+                                                  [0]{\abstractname }{theabs...
+l.10 \begin{abstract}[swedish]
+                              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 13.67995pt on input line 10.
- (./abstract/svensk-sammanfattning.tex)pdfTeX warning (ext4): destination with 
-the same identifier (name{page.iii}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.12 \end{abstract}
-                    [3
+(./abstract/svensk-sammanfattning.tex) [3
 
-]pdfTeX warning (ext4): destination with the same identifier (name{page.iv}) ha
-s been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.12 \end{abstract}
-                    [4
+] [4
 
-] (./abstract/engelsk-sammanfattning.tex) [5
+]
+! Undefined control sequence.
+<argument> ...pb \@safe@activesfalse \pdfbookmark 
+                                                  [0]{\abstractname }{theabs...
+l.13 \begin{abstract}[english]
+                              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+(./abstract/engelsk-sammanfattning.tex) [5
 
 ] [6
 
 ]
 \openout2 = `thanks/thanks.aux'.
 
+ (./thanks/thanks.tex
+! Undefined control sequence.
+<argument> ...pb \@safe@activesfalse \pdfbookmark 
+                                                  [0]{\acknowledgmentsname }...
+l.1 \begin{acknowledgments}
+                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-(./thanks/thanks.tex [7
+[7
 
 
 ] [8
 
-]) (./main.toc [9
+])
+! Undefined control sequence.
+<argument> ...pb \@safe@activesfalse \pdfbookmark 
+                                                  [0]{\contentsname }{thetoc...
+l.17 \tableofcontents
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (111.75978pt too wide) in paragraph at lines 17--17
+[]\T1/jkp/m/n/10 [0]Contentsthetocanchor [] 
+ []
+
+(./main.toc [9
 
 ]
-Overfull \hbox (0.22948pt too wide) in paragraph at lines 162--162
- [][] [][]\T1/jkp/m/n/10 How is the de-sign af-fected by the con-tex-tual con-s
-traints, e.g. young 
+Overfull \hbox (0.22948pt too wide) in paragraph at lines 325--325
+ [][] []\T1/jkp/m/n/10 How is the de-sign af-fected by the con-tex-tual con-str
+aints, e.g. young 
  []
 
 [10]
-Overfull \hbox (0.22948pt too wide) in paragraph at lines 186--186
- [][] [][]\T1/jkp/m/n/10 How is the de-sign af-fected by the con-tex-tual con-s
-traints, e.g. young 
+Overfull \hbox (0.22948pt too wide) in paragraph at lines 373--373
+ [][] []\T1/jkp/m/n/10 How is the de-sign af-fected by the con-tex-tual con-str
+aints, e.g. young 
  []
 
 [11])
@@ -2345,14 +2580,13 @@ LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 108.12012pt on input line 1.
 (./introduction/purpose.tex
+
+LaTeX Warning: Citation 'nissar' on page 1 undefined on input line 8.
+
+
 Underfull \vbox (badness 6001) has occurred while \output is active []
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.9 
-     [1
+ [1
 
 
 
@@ -2362,36 +2596,129 @@ Overfull \hbox (17.05995pt too wide) in paragraph at lines 14--15
 er groups of en-trepreneurs,
  []
 
-) (./introduction/research_questions.tex
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
-ine 11.
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.30 
-      [2]) (./introduction/background.tex
+
+LaTeX Warning: Citation 'youngdrive-masterthesis-idea' on page 2 undefined on i
+nput line 22.
+
+) (./introduction/research_questions.tex [2]) (./introduction/background.tex
 (./introduction/background/1_uganda.tex
-(./introduction/background/uganda/entrepreneurship_uganda.tex [3])
-(./introduction/background/uganda/plan_youngdrive.tex [4]))
+(./introduction/background/uganda/entrepreneurship_uganda.tex
+
+LaTeX Warning: Citation 'nissar' on page 3 undefined on input line 6.
+
+[3]
+
+LaTeX Warning: Citation 'mitchel' on page 4 undefined on input line 18.
+
+
+Overfull \hbox (17.92198pt too wide) in paragraph at lines 18--19
+[]\T1/jkp/m/n/10 As Mitchel says about en-trepreneur-ship ([]), the mo-ti-va-ti
+on of en-trepreneur-
+ []
+
+
+LaTeX Warning: Citation 'nissar' on page 4 undefined on input line 30.
+
+) (./introduction/background/uganda/plan_youngdrive.tex [4]))
 (./introduction/background/2_theory.tex
 (./introduction/background/theory/entrepreneurship_education.tex
+
+LaTeX Warning: Citation 'dickson' on page 5 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'kuratko' on page 5 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'pittaway' on page 5 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'bae' on page 5 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'oviawe' on page 5 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'iakovleva' on page 5 undefined on input line 13.
+
+
 Underfull \vbox (badness 1442) has occurred while \output is active []
 
- [5])
-[6] (./introduction/background/theory/app_development.tex))
-(./introduction/background/3_related_work.tex [7]))) [8]
+ [5]
+
+LaTeX Warning: Citation 'oviawe' on page 6 undefined on input line 19.
+
+
+LaTeX Warning: Citation 'iakovleva' on page 6 undefined on input line 21.
+
+
+LaTeX Warning: Citation 'ruskovaara' on page 6 undefined on input line 23.
+
+
+LaTeX Warning: Citation 'dickson' on page 6 undefined on input line 23.
+
+)
+
+LaTeX Warning: Citation 'luckin' on page 6 undefined on input line 5.
+
+
+LaTeX Warning: Citation 'gates' on page 6 undefined on input line 9.
+
+
+LaTeX Warning: Citation 'godwin-jones' on page 6 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'page' on page 6 undefined on input line 11.
+
+[6]
+
+LaTeX Warning: Citation 'luckin' on page 7 undefined on input line 18.
+
+
+LaTeX Warning: Citation 'nicol' on page 7 undefined on input line 18.
+
+
+LaTeX Warning: Citation 'luckin' on page 7 undefined on input line 22.
+
+(./introduction/background/theory/app_development.tex))
+(./introduction/background/3_related_work.tex
+
+LaTeX Warning: Citation 'nissar' on page 7 undefined on input line 7.
+
+[7]
+
+LaTeX Warning: Citation 'yengin' on page 8 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'de-marcos' on page 8 undefined on input line 13.
+
+))) [8]
 \openout2 = `methods/methods.aux'.
 
  (./methods/methods.tex
 Chapter 2.
 (./methods/methodological_framework.tex
-(./methods/methodological-framework/methods_learning.tex [9
+(./methods/methodological-framework/methods_learning.tex
+
+LaTeX Warning: Citation 'dirksen' on page 9 undefined on input line 7.
+
+[9
 
 
 
 ]
-<fig/RevisedBloom.png, id=912, 1593.955pt x 1262.7175pt>
+
+LaTeX Warning: Citation 'bjork' on page 10 undefined on input line 17.
+
+
+LaTeX Warning: Citation 'cheong' on page 10 undefined on input line 38.
+
+
+LaTeX Warning: Citation 'heer' on page 10 undefined on input line 38.
+
+
+LaTeX Warning: Citation 'krathwohl' on page 10 undefined on input line 38.
+
+<fig/RevisedBloom.png, id=113, 1593.955pt x 1262.7175pt>
 File: fig/RevisedBloom.png Graphic file (type png)
 
 <use fig/RevisedBloom.png>
@@ -2402,10 +2729,35 @@ Package pdftex.def Info: fig/RevisedBloom.png used on input line 42.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [10]
+
+LaTeX Warning: Citation 'gates' on page 11 undefined on input line 73.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [11 <./fig/RevisedBloom.png>] <fig/SierraPractice.png, id=950, 684.5575pt x 24
-4.915pt>
+ [11 <./fig/RevisedBloom.png>]
+
+LaTeX Warning: Citation 'gates' on page 12 undefined on input line 77.
+
+
+LaTeX Warning: Citation 'sierra' on page 12 undefined on input line 79.
+
+
+LaTeX Warning: Citation 'yengin' on page 12 undefined on input line 79.
+
+
+LaTeX Warning: Citation 'yengin' on page 12 undefined on input line 81.
+
+
+LaTeX Warning: Citation 'sierra' on page 12 undefined on input line 83.
+
+
+LaTeX Warning: Citation 'sierra' on page 12 undefined on input line 83.
+
+
+LaTeX Warning: Citation 'sierra' on page 12 undefined on input line 83.
+
+<fig/SierraPractice.png, id=126, 684.5575pt x 244.915pt>
 File: fig/SierraPractice.png Graphic file (type png)
 
 <use fig/SierraPractice.png>
@@ -2413,10 +2765,25 @@ Package pdftex.def Info: fig/SierraPractice.png used on input line 87.
 (pdftex.def)             Requested size: 284.52863pt x 101.79851pt.
  [12 <./fig/SierraPractice.png>]
 
+LaTeX Warning: Citation 'sierra' on page 13 undefined on input line 94.
+
+
+LaTeX Warning: Citation 'luckin' on page 13 undefined on input line 102.
+
+
+LaTeX Warning: Citation 'bruhlmann' on page 13 undefined on input line 102.
+
+
+LaTeX Warning: Citation 'sitzmann' on page 13 undefined on input line 108.
+
+
+LaTeX Warning: Citation 'nicol' on page 13 undefined on input line 108.
+
+
 LaTeX Warning: Reference `figure:multiple-choice' on page 13 undefined on input
  line 108.
 
-<fig/multipleChoice.png, id=972, 728.7225pt x 210.7875pt>
+<fig/multipleChoice.png, id=131, 728.7225pt x 210.7875pt>
 File: fig/multipleChoice.png Graphic file (type png)
 
 <use fig/multipleChoice.png>
@@ -2424,88 +2791,301 @@ Package pdftex.def Info: fig/multipleChoice.png used on input line 112.
 (pdftex.def)             Requested size: 284.52863pt x 82.30006pt.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: Citation 'nicol' on page 13 undefined on input line 113.
 
 
-Package natbib Warning: Citation `dweck-youtube' on page 13 undefined on input 
-line 117.
+LaTeX Warning: Citation 'nicol' on page 13 undefined on input line 113.
 
 
-Package natbib Warning: Citation `dweck-youtube' on page 13 undefined on input 
-line 117.
+LaTeX Warning: Citation 'dweck-youtube' on page 13 undefined on input line 117.
 
-[13]) (./methods/methodological-framework/methods_motivation.tex [14 <./fig/mul
-tipleChoice.png>] <fig/SierraSummary.png, id=1029, 631.35875pt x 347.2975pt>
+
+
+LaTeX Warning: Citation 'dweck-youtube' on page 13 undefined on input line 117.
+
+
+
+Overfull \hbox (8.55997pt too wide) in paragraph at lines 117--118
+\T1/jkp/m/n/10 many more lower and medium achiev-ers also stayed un-til the end
+ ([]). 
+ []
+
+[13 <./fig/multipleChoice.png>]
+
+LaTeX Warning: Citation 'stefano' on page 14 undefined on input line 121.
+
+
+LaTeX Warning: Citation 'luckin' on page 14 undefined on input line 121.
+
+
+LaTeX Warning: Citation 'stefano' on page 14 undefined on input line 123.
+
+
+LaTeX Warning: Citation 'bjork' on page 14 undefined on input line 127.
+
+) (./methods/methodological-framework/methods_motivation.tex
+
+LaTeX Warning: Citation 'koballa' on page 14 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'abell' on page 14 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'fulmer' on page 14 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'deci' on page 14 undefined on input line 14.
+
+
+LaTeX Warning: Citation 'ryan' on page 14 undefined on input line 14.
+
+
+LaTeX Warning: Citation 'elliot' on page 14 undefined on input line 14.
+
+
+LaTeX Warning: Citation 'eccles' on page 14 undefined on input line 14.
+
+
+LaTeX Warning: Citation 'wigfield' on page 14 undefined on input line 14.
+
+
+LaTeX Warning: Citation 'brinkerhoff' on page 14 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'brinkerhoff' on page 14 undefined on input line 16.
+
+[14]
+
+LaTeX Warning: Citation 'sierra' on page 15 undefined on input line 18.
+
+
+LaTeX Warning: Citation 'sierra' on page 15 undefined on input line 18.
+
+<fig/SierraSummary.png, id=139, 631.35875pt x 347.2975pt>
 File: fig/SierraSummary.png Graphic file (type png)
 
 <use fig/SierraSummary.png>
 Package pdftex.def Info: fig/SierraSummary.png used on input line 22.
 (pdftex.def)             Requested size: 284.52863pt x 156.5156pt.
- [15 <./fig/SierraSummary.png>]
-Overfull \hbox (2.41197pt too wide) in paragraph at lines 35--36
+
+
+LaTeX Warning: Citation 'sierra' on page 15 undefined on input line 23.
+
+
+LaTeX Warning: Citation 'sierra' on page 15 undefined on input line 23.
+
+
+LaTeX Warning: Citation 'sierra' on page 15 undefined on input line 29.
+
+
+LaTeX Warning: Citation 'sierra' on page 15 undefined on input line 33.
+
+
+LaTeX Warning: Citation 'sierra' on page 15 undefined on input line 35.
+
+
+Overfull \hbox (6.01195pt too wide) in paragraph at lines 35--36
 \T1/jkp/m/n/10 should be han-dled via de-sign-ing to sup-port cog-ni-tive re-so
-urces, Sierra says ([][]Sierra[],
+urces, Sierra says ([]). 
  []
 
-[16]) (./methods/methodological-framework/methods_design_process.tex
-Overfull \hbox (8.68996pt too wide) in paragraph at lines 13--14
-[]\T1/jkp/m/n/10 Service de-sign think-ing con-nects var-i-ous fields of ac-tiv
--ity ([][]Stick-dorn and Schnei-
- []
+[15 <./fig/SierraSummary.png>]
+
+LaTeX Warning: Citation 'sierra' on page 16 undefined on input line 37.
+
+
+LaTeX Warning: Citation 'gates' on page 16 undefined on input line 39.
+
+
+LaTeX Warning: Citation 'sierra' on page 16 undefined on input line 49.
+
+
+LaTeX Warning: Citation 'sierra' on page 16 undefined on input line 53.
+
+
+LaTeX Warning: Citation 'sierra' on page 16 undefined on input line 59.
+
+[16]
+
+LaTeX Warning: Citation 'deci' on page 17 undefined on input line 61.
+
+
+LaTeX Warning: Citation 'ryan' on page 17 undefined on input line 61.
+
+
+LaTeX Warning: Citation 'pink' on page 17 undefined on input line 61.
+
+
+LaTeX Warning: Citation 'gates' on page 17 undefined on input line 61.
+
+) (./methods/methodological-framework/methods_design_process.tex
+
+LaTeX Warning: Citation 'lowgren' on page 17 undefined on input line 11.
+
+
+LaTeX Warning: Citation 'stickdorn' on page 17 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'stickdorn' on page 17 undefined on input line 19.
+
+
+LaTeX Warning: Citation 'lowgren' on page 17 undefined on input line 27.
 
 [17]
+
+LaTeX Warning: Citation 'stickdorn' on page 18 undefined on input line 29.
+
+
+LaTeX Warning: Citation 'lowgren' on page 18 undefined on input line 31.
+
+
 Overfull \hbox (1.40999pt too wide) in paragraph at lines 31--32
 \T1/jkp/m/n/10 sur-pris-ing) so-lu-tion or de-sign can be achieved while work-i
 ng in a highly re-stricted
  []
 
-[18]) (./methods/methodological-framework/methods_service_design.tex
+
+LaTeX Warning: Citation 'lowgren' on page 18 undefined on input line 38.
+
+
+LaTeX Warning: Citation 'lowgren' on page 18 undefined on input line 40.
+
+
+LaTeX Warning: Citation 'lowgren' on page 18 undefined on input line 42.
+
+
+LaTeX Warning: Citation 'stickdorn' on page 18 undefined on input line 44.
+
+[18]
+
+LaTeX Warning: Citation 'stickdorn' on page 19 undefined on input line 50.
+
+
+LaTeX Warning: Citation 'lowgren' on page 19 undefined on input line 58.
+
+) (./methods/methodological-framework/methods_service_design.tex
+
+LaTeX Warning: Citation 'stickdorn' on page 19 undefined on input line 3.
+
+
+LaTeX Warning: Citation 'stickdorn' on page 19 undefined on input line 6.
+
+
 Overfull \hbox (11.58199pt too wide) in paragraph at lines 8--9
 []\T1/jkp/m/n/10 He de-scribes how to fol-low these prin-ci-ples, by mak-ing th
 e pro-cess user-centered
  []
 
-[19] <fig/Iteration.png, id=1132, 496.85625pt x 589.20125pt>
-File: fig/Iteration.png Graphic file (type png)
 
-<use fig/Iteration.png>
+LaTeX Warning: Citation 'stickdorn' on page 19 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'expedition-mondial' on page 19 undefined on input line
+ 13.
+
+<fig/Iteration.png, id=155, 496.85625pt x 589.20125pt>
+File: fig/Iteration.png Graphic file (type png)
+ <use fig/Iteration.png>
 Package pdftex.def Info: fig/Iteration.png used on input line 17.
 (pdftex.def)             Requested size: 248.96051pt x 295.23822pt.
- [20 <./fig/Iteration.png>]
-<fig/projectLoop.png, id=1149, 610.28pt x 269.005pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[19]
+
+LaTeX Warning: Citation 'expedition-mondial' on page 20 undefined on input line
+ 29.
+
+
+Overfull \hbox (26.4372pt too wide) in paragraph at lines 29--30
+\T1/jkp/m/n/10 project closer, from Why? to What? to How?, of-ten with over-lap
+s ([]).
+ []
+
+<fig/projectLoop.png, id=159, 610.28pt x 269.005pt>
 File: fig/projectLoop.png Graphic file (type png)
  <use fig/projectLoop.png>
 Package pdftex.def Info: fig/projectLoop.png used on input line 40.
 (pdftex.def)             Requested size: 284.52863pt x 125.4226pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Citation 'lowgren' on page 20 undefined on input line 48.
+
+[20 <./fig/Iteration.png>]
+
+LaTeX Warning: Citation 'agile-manifesto' on page 21 undefined on input line 50
+.
+
 
 Overfull \hbox (7.882pt too wide) in paragraph at lines 50--51
 \T1/jkp/m/n/10 you struc-ture and in-spire brain-storms, you can ask "What if..
 .?" and do Co-Creation,
  []
 
-[21 <./fig/projectLoop.png>])
-(./methods/methodological-framework/methods_digital_service_design.tex
+
+LaTeX Warning: Citation 'kniberg' on page 21 undefined on input line 59.
+
+[21 <./fig/projectLoop.png>]
+
+LaTeX Warning: Citation 'expedition-mondial' on page 22 undefined on input line
+ 61.
+
+
+Overfull \hbox (26.38188pt too wide) in paragraph at lines 61--62
+\T1/jkp/m/n/10 ing and record-ing au-dio, ben-e-fit-ing the anal-y-sis done af-
+ter-wards ([]). 
+ []
+
+) (./methods/methodological-framework/methods_digital_service_design.tex
+
+LaTeX Warning: Citation 'nissar' on page 22 undefined on input line 3.
+
+
 Overfull \hbox (4.02203pt too wide) in paragraph at lines 3--4
 \T1/jkp/m/n/10 The method com-bines the ben-e-fits of Ser-vice De-sign, Ag-ile 
 Method-olo-gies (namely
  []
 
 [22] [23]) (./methods/methodological-framework/methods_data_collection.tex
-[24]
 
-LaTeX Warning: Reference `cjmExample' on page 25 undefined on input line 17.
+LaTeX Warning: Citation 'stickdorn' on page 24 undefined on input line 12.
 
-<fig/analysis/cjmExample.png, id=1204, 1009.7725pt x 737.75626pt>
+
+LaTeX Warning: Citation 'expedition-mondial' on page 24 undefined on input line
+ 12.
+
+
+LaTeX Warning: Citation 'stickdorn' on page 24 undefined on input line 14.
+
+
+LaTeX Warning: Citation 'stickdorn' on page 24 undefined on input line 17.
+
+
+LaTeX Warning: Reference `cjmExample' on page 24 undefined on input line 17.
+
+[24] <fig/analysis/cjmExample.png, id=178, 1009.7725pt x 737.75626pt>
 File: fig/analysis/cjmExample.png Graphic file (type png)
 
 <use fig/analysis/cjmExample.png>
 Package pdftex.def Info: fig/analysis/cjmExample.png used on input line 21.
 (pdftex.def)             Requested size: 248.96051pt x 181.89447pt.
 
-Underfull \vbox (badness 3612) has occurred while \output is active []
 
- [25 <./fig/analysis/cjmExample.png>]
-<fig/analysis/terre.png, id=1222, 537.50812pt x 248.42813pt>
+LaTeX Warning: Citation 'stickdorn' on page 25 undefined on input line 26.
+
+
+LaTeX Warning: Citation 'kniberg' on page 25 undefined on input line 36.
+
+[25 <./fig/analysis/cjmExample.png>]
+
+LaTeX Warning: Citation 'timo-ropinski-liu' on page 26 undefined on input line 
+41.
+
+<fig/analysis/terre.png, id=183, 537.50812pt x 248.42813pt>
 File: fig/analysis/terre.png Graphic file (type png)
 
 <use fig/analysis/terre.png>
@@ -2513,9 +3093,12 @@ Package pdftex.def Info: fig/analysis/terre.png used on input line 45.
 (pdftex.def)             Requested size: 248.96051pt x 115.06679pt.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: Citation 'une-terre' on page 26 undefined on input line 46.
 
-<fig/analysis/rStatisticalAnalysis.png, id=1227, 331.2375pt x 331.2375pt>
+
+LaTeX Warning: Citation 'une-terre' on page 26 undefined on input line 46.
+
+<fig/analysis/rStatisticalAnalysis.png, id=184, 331.2375pt x 331.2375pt>
 File: fig/analysis/rStatisticalAnalysis.png Graphic file (type png)
 
 <use fig/analysis/rStatisticalAnalysis.png>
@@ -2527,12 +3110,10 @@ ne 79.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 )) (./methods/setting_research_context.tex
-(./methods/setting-research-context/team.tex
-Underfull \vbox (badness 1939) has occurred while \output is active []
+(./methods/setting-research-context/team.tex [26 <./fig/analysis/terre.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [26]
-[27 <./fig/analysis/terre.png>] [28 <./fig/analysis/rStatisticalAnalysis.png>])
-
+ [27 <./fig/analysis/rStatisticalAnalysis.png>] [28])
 Overfull \hbox (4.31198pt too wide) in paragraph at lines 41--6
 []\T1/jkp/m/n/10 For ped-a-gog-i-cal de-vel-op-ment, Hen-rik Lund-mark from edt
 ech startup Knownly
@@ -2544,55 +3125,77 @@ Overfull \hbox (7.682pt too wide) in paragraph at lines 11--12
 take place in Uganda,
  []
 
-) [29] (./methods/subjects.tex
+) (./methods/subjects.tex
 Overfull \hbox (11.39392pt too wide) in paragraph at lines 3--4
 \T1/jkp/m/n/10 The fol-low-ing sec-tion de-scribes roles, busi-nesses, and coac
 h de-scrip-tions for Uganda
  []
 
-<fig/ydStatistics.png, id=1261, 1102.1175pt x 107.40125pt>
+
+LaTeX Warning: Citation 'mitchel' on page 29 undefined on input line 11.
+
+[29]
+
+LaTeX Warning: Citation 'youngdrive-statistics' on page 30 undefined on input l
+ine 23.
+
+
+Overfull \hbox (63.8598pt too wide) in paragraph at lines 23--24
+\T1/jkp/m/n/10 According to statis-tics gath-ered by Young-Drive dur-ing 2015 e
+val-u-a-tions ([]),
+ []
+
+<fig/ydStatistics.png, id=200, 1102.1175pt x 107.40125pt>
 File: fig/ydStatistics.png Graphic file (type png)
 
 <use fig/ydStatistics.png>
 Package pdftex.def Info: fig/ydStatistics.png used on input line 27.
 (pdftex.def)             Requested size: 248.96051pt x 24.26091pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[30]
+ [30 <./fig/ydStatistics.png>]
 
 LaTeX Warning: Reference `fig:tororo' on page 31 undefined on input line 44.
 
-<fig/stayover.jpg, id=1270, 1284.8pt x 722.7pt>
+<fig/stayover.jpg, id=205, 1284.8pt x 722.7pt>
 File: fig/stayover.jpg Graphic file (type jpg)
  <use fig/stayover.jpg>
 Package pdftex.def Info: fig/stayover.jpg used on input line 48.
 (pdftex.def)             Requested size: 248.96051pt x 140.03821pt.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: Citation 'yd-zambia-interviews' on page 31 undefined on input li
+ne 60.
 
 
-Package natbib Warning: Citation `yd-zambia-interviews' on page 31 undefined on
- input line 60.
+Overfull \hbox (12.68001pt too wide) in paragraph at lines 60--61
+\T1/jkp/m/n/10 de-rived from the notes of the Zam-bian coach job in-ter-views (
+[]). 
+ []
 
-[31 <./fig/ydStatistics.png>]) (./methods/study_design_data_collection.tex
-(./methods/study-design/implementation_design_process.tex [32 <./fig/stayover.j
-pg>] <fig/iterativeProcess.png, id=1284, 1186.4325pt x 686.565pt>
+[31 <./fig/stayover.jpg>]) (./methods/study_design_data_collection.tex
+(./methods/study-design/implementation_design_process.tex
+
+LaTeX Warning: Citation 'lowgren' on page 32 undefined on input line 19.
+
+<fig/iterativeProcess.png, id=209, 1186.4325pt x 686.565pt>
 File: fig/iterativeProcess.png Graphic file (type png)
 
 <use fig/iterativeProcess.png>
 Package pdftex.def Info: fig/iterativeProcess.png used on input line 31.
 (pdftex.def)             Requested size: 355.65944pt x 205.81395pt.
- [33 <./fig/iterativeProcess.png>]
-<fig/emSkype.png, id=1295, 1927.2pt x 1204.5pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[32] <fig/emSkype.png, id=213, 1927.2pt x 1204.5pt>
 File: fig/emSkype.png Graphic file (type png)
  <use fig/emSkype.png>
 Package pdftex.def Info: fig/emSkype.png used on input line 48.
 (pdftex.def)             Requested size: 355.65944pt x 222.27763pt.
-)
-(./methods/study-design/implementation_methods.tex
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (./methods/study-design/implementation_methods.tex
 File: fig/iterativeProcess.png Graphic file (type png)
 
 <use fig/iterativeProcess.png>
@@ -2622,49 +3225,68 @@ Overfull \hbox (8.5368pt too wide) in paragraph at lines 14--14
 [][][][]\T1/jkp/m/n/10 Complete 
  []
 
-) (./methods/study-design/iteration_1.tex [34 <./fig/emSkype.png>] [35]
-<fig/youthsessionSmall.jpg, id=1310, 803.0pt x 342.27875pt>
+) (./methods/study-design/iteration_1.tex [33 <./fig/iterativeProcess.png>]
+[34 <./fig/emSkype.png>]
+<fig/youthsessionSmall.jpg, id=222, 803.0pt x 342.27875pt>
 File: fig/youthsessionSmall.jpg Graphic file (type jpg)
 
 <use fig/youthsessionSmall.jpg>
 Package pdftex.def Info: fig/youthsessionSmall.jpg used on input line 24.
 (pdftex.def)             Requested size: 248.96051pt x 106.12097pt.
 ) (./methods/study-design/iteration_2.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [35 <./fig/youthsessionSmall.jpg>]
 
 LaTeX Warning: Reference `fig:zambia' on page 36 undefined on input line 14.
 
-[36 <./fig/youthsessionSmall.jpg>]
-<fig/zambiaCreation.jpg, id=1318, 803.0pt x 602.25pt>
+[36] <fig/zambiaCreation.jpg, id=230, 803.0pt x 602.25pt>
 File: fig/zambiaCreation.jpg Graphic file (type jpg)
 
 <use fig/zambiaCreation.jpg>
 Package pdftex.def Info: fig/zambiaCreation.jpg used on input line 27.
 (pdftex.def)             Requested size: 248.96051pt x 186.72313pt.
+ [37 <./fig/zambiaCreation.jpg>])
+(./methods/study-design/iteration_3.tex [38])
+(./methods/study-design/iteration_4.tex
+
+LaTeX Warning: Citation 'general-entrepreneurship-quiz' on page 39 undefined on
+ input line 5.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: Reference `pre-test' on page 39 undefined on input line 5.
 
-[37]) (./methods/study-design/iteration_3.tex [38 <./fig/zambiaCreation.jpg>]
-[39]) (./methods/study-design/iteration_4.tex
 
-LaTeX Warning: Reference `pre-test' on page 40 undefined on input line 5.
+Overfull \hbox (58.47177pt too wide) in paragraph at lines 5--6
+\T1/jkp/m/n/10 and an en-trepreneur-ship quiz, based on a well-known study ([])
+,
+ []
 
-<fig/appevaluation.jpg, id=1352, 2601.72pt x 1943.26pt>
+<fig/appevaluation.jpg, id=237, 2601.72pt x 1943.26pt>
 File: fig/appevaluation.jpg Graphic file (type jpg)
 
 <use fig/appevaluation.jpg>
 Package pdftex.def Info: fig/appevaluation.jpg used on input line 13.
 (pdftex.def)             Requested size: 248.96051pt x 185.94594pt.
- [40 <./fig/appevaluation.jpg>]))
-(./methods/application_implementation.tex
-(./methods/application-implementation/iteration_1.tex [41])
-(./methods/application-implementation/iteration_2.tex)
-(./methods/application-implementation/iteration_3.tex
-Underfull \vbox (badness 1033) has occurred while \output is active []
 
- [42])
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[39])) (./methods/application_implementation.tex [40 <./fig/appevaluation.jpg>]
+(./methods/application-implementation/iteration_1.tex
+
+LaTeX Warning: Citation 'meteor' on page 41 undefined on input line 9.
+
+
+LaTeX Warning: Citation 'ionic' on page 41 undefined on input line 9.
+
+
+LaTeX Warning: Citation 'react' on page 41 undefined on input line 11.
+
+) (./methods/application-implementation/iteration_2.tex [41])
+(./methods/application-implementation/iteration_3.tex [42])
 (./methods/application-implementation/iteration_4.tex))
-(./methods/data_analysis_theory.tex [43]
+(./methods/data_analysis_theory.tex
 Overfull \hbox (2.71683pt too wide) in paragraph at lines 33--33
 \T1/jkp/m/n/10 beskriva 
  []
@@ -2724,35 +3346,39 @@ Overfull \hbox (11.7168pt too wide) in paragraph at lines 33--33
 \T1/jkp/m/n/10 tiviteterna  
  []
 
-(./methods/data_analysis_theory/iteration_4.tex [44]
+[43] (./methods/data_analysis_theory/iteration_4.tex
+
+LaTeX Warning: Citation 'agaze' on page 44 undefined on input line 5.
+
+
 Overfull \hbox (15.96997pt too wide) in paragraph at lines 9--10
 \T1/jkp/m/n/10 The Pre-study data ac-qui-si-tion was done by in-stead of look-i
 ng at the paper-submitted
  []
 
 
-LaTeX Warning: Reference `resultsColored' on page 45 undefined on input line 17
+LaTeX Warning: Reference `resultsColored' on page 44 undefined on input line 17
 .
 
-<fig/analysis/resultsColored.png, id=1409, 1927.2pt x 922.44624pt>
+<fig/analysis/resultsColored.png, id=254, 1927.2pt x 922.44624pt>
 File: fig/analysis/resultsColored.png Graphic file (type png)
 
 <use fig/analysis/resultsColored.png>
 Package pdftex.def Info: fig/analysis/resultsColored.png used on input line 21.
 
 (pdftex.def)             Requested size: 248.96051pt x 119.16214pt.
- [45 <./fig/analysis/resultsColored.png>]
-<fig/analysis/analysFarg3.png, id=1421, 1917.1625pt x 471.7625pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[44] [45 <./fig/analysis/resultsColored.png>]
+<fig/analysis/analysFarg3.png, id=262, 1917.1625pt x 471.7625pt>
 File: fig/analysis/analysFarg3.png Graphic file (type png)
 
 <use fig/analysis/analysFarg3.png>
 Package pdftex.def Info: fig/analysis/analysFarg3.png used on input line 69.
 (pdftex.def)             Requested size: 248.96051pt x 61.25928pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[46]
+ [46 <./fig/analysis/analysFarg3.png>]
 
 LaTeX Warning: Reference `parcoords' on page 47 undefined on input line 97.
 
@@ -2762,18 +3388,21 @@ Overfull \hbox (5.23137pt too wide) in paragraph at lines 97--102
  D3.js was found, called
  []
 
-[47 <./fig/analysis/analysFarg3.png>]
-<fig/analysis/parallellCoordinates1.png, id=1437, 1204.5pt x 466.74374pt>
+<fig/analysis/parallellCoordinates1.png, id=267, 1204.5pt x 466.74374pt>
 File: fig/analysis/parallellCoordinates1.png Graphic file (type png)
 
 <use fig/analysis/parallellCoordinates1.png>
 Package pdftex.def Info: fig/analysis/parallellCoordinates1.png used on input l
 ine 109.
 (pdftex.def)             Requested size: 248.96051pt x 96.46649pt.
-))) [48 <./fig/analysis/parallellCoordinates1.png>]
+))) [47 <./fig/analysis/parallellCoordinates1.png>]
 \openout2 = `result/result.aux'.
 
- (./result/result.tex
+ (./result/result.tex [48
+
+
+
+]
 Chapter 3.
 
 Overfull \hbox (2.74683pt too wide) in paragraph at lines 6--6
@@ -2796,7 +3425,7 @@ Overfull \hbox (2.74683pt too wide) in paragraph at lines 6--6
  []
 
 (./result/application.tex
-<fig/IterationMapLowRes.png, id=1446, 8662.3625pt x 4622.26875pt>
+<fig/IterationMapLowRes.png, id=276, 8662.3625pt x 4622.26875pt>
 File: fig/IterationMapLowRes.png Graphic file (type png)
 
 <use fig/IterationMapLowRes.png>
@@ -2809,13 +3438,13 @@ LaTeX Warning: Marginpar on page 49 moved.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[49
-
-
-
-] [50 <./fig/IterationMapLowRes.png>])
+[49] [50 <./fig/IterationMapLowRes.png>])
 (./result/iteration1/iteration_1_opinions.tex
-<fig/iteration1/stakeholderInterview.jpg, id=1467, 1284.8pt x 722.7pt>
+
+LaTeX Warning: Citation 'youngdrive-manual' on page 51 undefined on input line 
+6.
+
+<fig/iteration1/stakeholderInterview.jpg, id=284, 1284.8pt x 722.7pt>
 File: fig/iteration1/stakeholderInterview.jpg Graphic file (type jpg)
 
 <use fig/iteration1/stakeholderInterview.jpg>
@@ -2832,7 +3461,7 @@ LaTeX Warning: Reference `youthSession1' on page 52 undefined on input line 41.
 
 
 [52 <./fig/iteration1/stakeholderInterview.jpg>]
-<fig/iteration1/youthSession.jpg, id=1480, 1284.8pt x 722.7pt>
+<fig/iteration1/youthSession.jpg, id=291, 1284.8pt x 722.7pt>
 File: fig/iteration1/youthSession.jpg Graphic file (type jpg)
 
 <use fig/iteration1/youthSession.jpg>
@@ -2841,7 +3470,7 @@ Package pdftex.def Info: fig/iteration1/youthSession.jpg used on input line 52.
 (pdftex.def)             Requested size: 284.52863pt x 160.0421pt.
 )
 (./result/iteration1/iteration_1_data.tex
-<fig/cjmWorkshop.jpg, id=1482, 1284.8pt x 722.7pt>
+<fig/cjmWorkshop.jpg, id=292, 1284.8pt x 722.7pt>
 File: fig/cjmWorkshop.jpg Graphic file (type jpg)
  <use fig/cjmWorkshop.jpg>
 Package pdftex.def Info: fig/cjmWorkshop.jpg used on input line 13.
@@ -2851,25 +3480,37 @@ Package pdftex.def Info: fig/cjmWorkshop.jpg used on input line 13.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [53 <./fig/iteration1/youthSession.jpg>] [54 <./fig/cjmWorkshop.jpg>]
-<fig/quizoid.png, id=1498, 453.695pt x 736.7525pt>
+<fig/quizoid.png, id=300, 453.695pt x 736.7525pt>
 File: fig/quizoid.png Graphic file (type png)
  <use fig/quizoid.png>
 Package pdftex.def Info: fig/quizoid.png used on input line 40.
 (pdftex.def)             Requested size: 248.96051pt x 404.28204pt.
 
 
+LaTeX Warning: Citation 'quizoid' on page 55 undefined on input line 41.
+
+
+LaTeX Warning: Citation 'quizoid' on page 55 undefined on input line 41.
+
+
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/duolingo.png, id=1503, 1445.4pt x 903.375pt>
+<fig/duolingo.png, id=301, 1445.4pt x 903.375pt>
 File: fig/duolingo.png Graphic file (type png)
  <use fig/duolingo.png>
 Package pdftex.def Info: fig/duolingo.png used on input line 47.
 (pdftex.def)             Requested size: 248.96051pt x 155.59802pt.
 
 
+LaTeX Warning: Citation 'duolingo' on page 55 undefined on input line 48.
+
+
+LaTeX Warning: Citation 'duolingo' on page 55 undefined on input line 48.
+
+
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/iteration1/smartphoneTest.jpg, id=1508, 1284.8pt x 722.7pt>
+<fig/iteration1/smartphoneTest.jpg, id=302, 1284.8pt x 722.7pt>
 File: fig/iteration1/smartphoneTest.jpg Graphic file (type jpg)
 
 <use fig/iteration1/smartphoneTest.jpg>
@@ -2887,10 +3528,8 @@ lan-guages us-ing Duolingo
  []
 
 ) (./result/iteration1/iteration_1_together.tex [55]
-Overfull \hbox (5.092pt too wide) in paragraph at lines 13--14
-\T1/jkp/m/n/10 teach-ing sit-u-a-tion among the youth group, a great coach can 
-teach an en-trepreneur-
- []
+
+LaTeX Warning: Citation 'sierra' on page 56 undefined on input line 13.
 
 ) (./result/iteration2/iteration_2_opinions.tex [56] [57])
 (./result/iteration2/iteration_2_data.tex [58] [59]
@@ -2898,7 +3537,7 @@ teach an en-trepreneur-
 LaTeX Warning: Reference `fig:zambiaWorkshop2' on page 60 undefined on input li
 ne 31.
 
-<fig/zambiaWorkshop2small.jpg, id=1544, 803.0pt x 489.83pt>
+<fig/zambiaWorkshop2small.jpg, id=320, 803.0pt x 489.83pt>
 File: fig/zambiaWorkshop2small.jpg Graphic file (type jpg)
 
 <use fig/zambiaWorkshop2small.jpg>
@@ -2914,16 +3553,14 @@ LaTeX Warning: Reference `rq' on page 60 undefined on input line 3.
 
 [60]
 
-Package natbib Warning: Citation `bloom' on page 61 undefined on input line 14.
-
+LaTeX Warning: Citation 'bloom' on page 61 undefined on input line 14.
 
 [61]
 
-Package natbib Warning: Citation `dweck' on page 62 undefined on input line 31.
-
+LaTeX Warning: Citation 'dweck' on page 62 undefined on input line 31.
 
 [62]) (./result/iteration3/iteration_3_opinions.tex [63] [64] [65]
-<fig/analysis/areYouSureQuiz.png, id=1584, 623.32875pt x 514.92375pt>
+<fig/analysis/areYouSureQuiz.png, id=340, 623.32875pt x 514.92375pt>
 File: fig/analysis/areYouSureQuiz.png Graphic file (type png)
 
 <use fig/analysis/areYouSureQuiz.png>
@@ -2943,7 +3580,7 @@ LaTeX Warning: Reference `future-work' on page 67 undefined on input line 85.
 LaTeX Warning: Reference `fig:summativeTest' on page 67 undefined on input line
  6.
 
-<fig/analysis/iteration3data.png, id=1594, 553.06625pt x 678.535pt>
+<fig/analysis/iteration3data.png, id=344, 553.06625pt x 678.535pt>
 File: fig/analysis/iteration3data.png Graphic file (type png)
 
 <use fig/analysis/iteration3data.png>
@@ -2954,7 +3591,7 @@ Package pdftex.def Info: fig/analysis/iteration3data.png used on input line 16.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/iteration3/appTestTablet.jpg, id=1595, 3035.34pt x 4047.12pt>
+<fig/iteration3/appTestTablet.jpg, id=345, 3035.34pt x 4047.12pt>
 File: fig/iteration3/appTestTablet.jpg Graphic file (type jpg)
 
 <use fig/iteration3/appTestTablet.jpg>
@@ -2965,7 +3602,7 @@ Package pdftex.def Info: fig/iteration3/appTestTablet.jpg used on input line 25
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/iteration3/appTestComputer.jpg, id=1596, 4047.12pt x 3035.34pt>
+<fig/iteration3/appTestComputer.jpg, id=346, 4047.12pt x 3035.34pt>
 File: fig/iteration3/appTestComputer.jpg Graphic file (type jpg)
 
 <use fig/iteration3/appTestComputer.jpg>
@@ -2976,9 +3613,18 @@ Package pdftex.def Info: fig/iteration3/appTestComputer.jpg used on input line
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[67]) (./result/iteration3/iteration_3_together.tex [68] [69])
-(./result/iteration4/iteration_4_opinions.tex
-<fig/iteration4qualitative_learning.png, id=1628, 769.87625pt x 554.07pt>
+[67]) (./result/iteration3/iteration_3_together.tex [68]
+
+LaTeX Warning: Citation 'sierra' on page 69 undefined on input line 18.
+
+
+LaTeX Warning: Citation 'sierra' on page 69 undefined on input line 22.
+
+
+LaTeX Warning: Citation 'sitzmann' on page 69 undefined on input line 24.
+
+[69]) (./result/iteration4/iteration_4_opinions.tex
+<fig/iteration4qualitative_learning.png, id=356, 769.87625pt x 554.07pt>
 File: fig/iteration4qualitative_learning.png Graphic file (type png)
 
 <use fig/iteration4qualitative_learning.png>
@@ -2990,8 +3636,8 @@ ine 7.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<fig/iteration4qualitative_interactiondesign.png, id=1629, 537.00626pt x 747.79
-375pt>
+<fig/iteration4qualitative_interactiondesign.png, id=357, 537.00626pt x 747.793
+75pt>
 File: fig/iteration4qualitative_interactiondesign.png Graphic file (type png)
  <use fig/iteration4qualitative_interactiondesign.png>
 Package pdftex.def Info: fig/iteration4qualitative_interactiondesign.png used o
@@ -3002,10 +3648,9 @@ n input line 14.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<fig/iteration4qualitative_servicedesign.png, id=1630, 600.2425pt x 534.99875pt
->
+<fig/iteration4qualitative_servicedesign.png, id=358, 600.2425pt x 534.99875pt>
 File: fig/iteration4qualitative_servicedesign.png Graphic file (type png)
- <use fig/iteration4qualitative_servicedesign.png>
+<use fig/iteration4qualitative_servicedesign.png>
 Package pdftex.def Info: fig/iteration4qualitative_servicedesign.png used on in
 put line 21.
 (pdftex.def)             Requested size: 355.65944pt x 317.00981pt.
@@ -3023,7 +3668,7 @@ h in-creased the amount
 LaTeX Warning: Reference `analys4spreadsheet' on page 70 undefined on input lin
 e 17.
 
-<fig/analysis/analys4spreadsheet.png, id=1631, 1749.53625pt x 332.24126pt>
+<fig/analysis/analys4spreadsheet.png, id=359, 1749.53625pt x 332.24126pt>
 File: fig/analysis/analys4spreadsheet.png Graphic file (type png)
 
 <use fig/analysis/analys4spreadsheet.png>
@@ -3040,13 +3685,30 @@ Overfull \hbox (3.68994pt too wide) in paragraph at lines 38--39
 re that there was a strong
  []
 
-[71] <fig/analysis/parallellCoordinates3.png, id=1648, 1836.8625pt x 923.45pt>
+[71] <fig/analysis/parallellCoordinates3.png, id=367, 1836.8625pt x 923.45pt>
 File: fig/analysis/parallellCoordinates3.png Graphic file (type png)
 
 <use fig/analysis/parallellCoordinates3.png>
 Package pdftex.def Info: fig/analysis/parallellCoordinates3.png used on input l
 ine 52.
 (pdftex.def)             Requested size: 355.65944pt x 178.79681pt.
+
+! Undefined control sequence.
+\Url Error ->\url used in a moving argument. 
+                                             
+l.53 ...hub.io/youngdrive-parallel-coordinates/}.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 1253) in paragraph at lines 53--53
+[]\T1/jkp/b/sl/10 Figure 3.17: |\T1/jkp/m/sl/10 The quiz re-sults from it-er-a-
+tion 4 shown in an in-ter-ac-
+ []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -3057,10 +3719,16 @@ Package pdftex.def Info: fig/analysis/terre.png used on input line 59.
 (pdftex.def)             Requested size: 355.65944pt x 164.38005pt.
 
 
+LaTeX Warning: Citation 'une-terre' on page 72 undefined on input line 60.
+
+
+LaTeX Warning: Citation 'une-terre' on page 72 undefined on input line 60.
+
+
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [72]
-<fig/analysis/paralellCoordinatesWomen.png, id=1664, 1204.5pt x 404.51125pt>
+<fig/analysis/paralellCoordinatesWomen.png, id=371, 1204.5pt x 404.51125pt>
 File: fig/analysis/paralellCoordinatesWomen.png Graphic file (type png)
 
 <use fig/analysis/paralellCoordinatesWomen.png>
@@ -3083,14 +3751,24 @@ g/analysis/paralellCoordinatesWomen.png>]
 
  (./discussion/discussion.tex
 Chapter 4.
-(./discussion/1_dev_by_tech_limitations.tex [85
+(./discussion/1_dev_by_tech_limitations.tex
+
+LaTeX Warning: Citation 'youngdrive-statistics' on page 85 undefined on input l
+ine 5.
+
+
+LaTeX Warning: Citation 'nicol' on page 85 undefined on input line 9.
+
+[85
 
 
 
 ]
 
-Package natbib Warning: Citation `ropinski' on page 86 undefined on input line 
-16.
+LaTeX Warning: Citation 'une-terre' on page 86 undefined on input line 16.
+
+
+LaTeX Warning: Citation 'ropinski' on page 86 undefined on input line 16.
 
 [86]
 
@@ -3109,11 +3787,33 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[87] [88]
+[87]
+
+LaTeX Warning: Citation 'lowgren' on page 88 undefined on input line 9.
+
+
+LaTeX Warning: Citation 'stickdorn' on page 88 undefined on input line 9.
+
+
+LaTeX Warning: Citation 'ruskovaara' on page 88 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'ruskovaara' on page 88 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'dickson' on page 88 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'dickson' on page 88 undefined on input line 15.
+
+[88]
 Overfull \hbox (6.10995pt too wide) in paragraph at lines 36--37
 []\T1/jkp/m/n/10 continually de-sign and run work-shops and tests suit-able for
  the tar-get groups 
  []
+
+
+LaTeX Warning: Citation 'stickdorn' on page 89 undefined on input line 43.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3121,10 +3821,32 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[89] [90]) (./discussion/3_test_questions.tex
+[89]
+
+LaTeX Warning: Citation 'stickdorn' on page 90 undefined on input line 52.
+
+
+LaTeX Warning: Citation 'ruskovaara' on page 90 undefined on input line 67.
+
+
+LaTeX Warning: Citation 'stickdorn' on page 90 undefined on input line 69.
+
+[90]) (./discussion/3_test_questions.tex
+
+LaTeX Warning: Citation 'nicol' on page 91 undefined on input line 5.
+
+
+LaTeX Warning: Citation 'nicol' on page 91 undefined on input line 9.
+
 
 LaTeX Warning: Reference `fig:multiple-choice' on page 91 undefined on input li
 ne 9.
+
+
+Overfull \hbox (1.22005pt too wide) in paragraph at lines 9--10
+[]\T1/jkp/m/n/10 Previous re-search by for ex-am-ple Nicol [] had al-ready show
+n how multiple-
+ []
 
 [91]
 Overfull \hbox (2.89684pt too wide) in paragraph at lines 33--33
@@ -3146,27 +3868,60 @@ Overfull \hbox (2.89684pt too wide) in paragraph at lines 33--33
 [][][][]\T1/jkp/m/n/10 Improve 
  []
 
-) (./discussion/4_how_design_affects_usability_learning.tex [92]
+) (./discussion/4_how_design_affects_usability_learning.tex
+
+LaTeX Warning: Citation 'sierra' on page 92 undefined on input line 5.
+
+
+LaTeX Warning: Citation 'sierra' on page 92 undefined on input line 11.
+
+[92]
+
+LaTeX Warning: Citation 'nicol' on page 93 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'sierra' on page 93 undefined on input line 30.
+
+
 Underfull \vbox (badness 1502) has occurred while \output is active []
 
- [93])
-(./discussion/5_user_feedback.tex
+ [93]
+
+LaTeX Warning: Citation 'sierra' on page 94 undefined on input line 35.
+
+
+LaTeX Warning: Citation 'nicol' on page 94 undefined on input line 41.
+
+) (./discussion/5_user_feedback.tex
+
+LaTeX Warning: Citation 'stickdorn' on page 94 undefined on input line 7.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [94]
-[95])) [96]
+
+LaTeX Warning: Citation 'stickdorn' on page 95 undefined on input line 13.
+
+
+LaTeX Warning: Citation 'stickdorn' on page 95 undefined on input line 15.
+
+
+LaTeX Warning: Citation 'lowgren' on page 95 undefined on input line 17.
+
+)) [95]
 \openout2 = `conclusion/conclusion.aux'.
 
- (./conclusion/conclusion.tex
-Chapter 5.
-
-Underfull \vbox (badness 4467) has occurred while \output is active []
-
- [97
+ (./conclusion/conclusion.tex [96
 
 
 
 ]
+Chapter 5.
+
+Underfull \vbox (badness 4467) has occurred while \output is active []
+
+ [97]
 Overfull \hbox (1.97202pt too wide) in paragraph at lines 25--26
 []\T1/jkp/m/n/10 Surprisingly of-ten, com-par-ing re-search and ex-pert opin-io
 ns with what coaches
@@ -3185,7 +3940,7 @@ Chapter 6.
 LaTeX Warning: Reference `unprocessedData' on page 99 undefined on input line 6
 .
 
-<fig/analysis/unprocessedData.png, id=1856, 1778.645pt x 939.51pt>
+<fig/analysis/unprocessedData.png, id=464, 1778.645pt x 939.51pt>
 File: fig/analysis/unprocessedData.png Graphic file (type png)
 
 <use fig/analysis/unprocessedData.png>
@@ -3200,13 +3955,18 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 ] [100 <./fig/analysis/unprocessedData.png>]
 
-Package natbib Warning: Citation `voto-mobile' on page 101 undefined on input l
-ine 43.
+LaTeX Warning: Citation 'voto-mobile' on page 101 undefined on input line 43.
+
+
+Overfull \hbox (10.71881pt too wide) in paragraph at lines 43--44
+[]\T1/jkp/m/n/10 A rec-om-men-da-tion is to try VOTO Mo-bile [] which sup-ports
+ multiple-
+ []
 
 ) (./discussion/future_work_2.tex [101]
 
-Package natbib Warning: Citation `dweck-youtube' on page 102 undefined on input
- line 18.
+LaTeX Warning: Citation 'dweck-youtube' on page 102 undefined on input line 18.
+
 
 [102]) (./discussion/future_work_3.tex [103]
 Overfull \hbox (9.662pt too wide) in paragraph at lines 23--24
@@ -3214,8 +3974,26 @@ Overfull \hbox (9.662pt too wide) in paragraph at lines 23--24
  the coach thought-
  []
 
-[104]) (./discussion/future_work_4.tex [105] [106]
-<fig/biteSize.jpg, id=1905, 3914.625pt x 1947.275pt>
+[104]
+
+LaTeX Warning: Citation 'yengin' on page 105 undefined on input line 33.
+
+) (./discussion/future_work_4.tex
+
+LaTeX Warning: Citation 'bjork' on page 105 undefined on input line 19.
+
+[105]
+
+LaTeX Warning: Citation 'bjork' on page 106 undefined on input line 31.
+
+
+LaTeX Warning: Citation 'memorize' on page 106 undefined on input line 34.
+
+[106]
+
+LaTeX Warning: Citation 'gates' on page 107 undefined on input line 38.
+
+<fig/biteSize.jpg, id=491, 3914.625pt x 1947.275pt>
 File: fig/biteSize.jpg Graphic file (type jpg)
  <use fig/biteSize.jpg>
 Package pdftex.def Info: fig/biteSize.jpg used on input line 49.
@@ -3225,67 +4003,40 @@ Package pdftex.def Info: fig/biteSize.jpg used on input line 49.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 ) (./discussion/future_work_5.tex [107] [108 <./fig/biteSize.jpg>]))) [109]
-(./main.bbl (./main.brf)
-\tf@brf=\write8
-\openout8 = `main.brf'.
 
- [110
+LaTeX Warning: Empty bibliography on input line 49.
 
-
-] [111]
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
-\T1/pcr/m/n/10 edu / wp-[]content / uploads / 2015 / 09 / RevisedBloomsHandout-
-[]1 .
- []
+(./main_outro.tex [110
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--167
-[]\T1/jkp/m/n/10 Lopez, H. (2016).  Par-al-lel co-or-di-nates: Read out pat-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 167--167
-\T1/jkp/m/n/10 terns.  []$\T1/pcr/m/n/10 http : / / une-[]terre . blogspot . se
- / 2012 / 09 /
- []
-
-[112]
-Underfull \hbox (badness 3942) in paragraph at lines 210--210
-[]\T1/jkp/m/n/10 Nissar, S. (2016).  So-cial in-no-va-tion and en-trepreneur-sh
-ip in uganda.
- []
-
-[113]
-Underfull \hbox (badness 10000) in paragraph at lines 270--270
-\T1/pcr/m/n/10 detail / magic-[]json / cajifcebjiflndefndbnoeenjpiiiagm ? hl =
- []
-
-) (./main_outro.tex [114]
+]
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 23.63593pt on input line 1.
- [115
-
-] [116]
+ [111] [112]
 \openout2 = `appendix/time_plan.aux'.
 
  (./appendix/time_plan.tex
 Appendix A.
-(./appendix/original_time_plan.tex [117
+(./appendix/original_time_plan.tex [113
 
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [118]
+ [114]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [119]))
-[120]
+ [115]))
+[116]
 \openout2 = `appendix/pre_test.aux'.
 
  (./appendix/pre_test.tex
 Appendix B.
-<fig/pretest/pretestA.png, id=1995, 864.22874pt x 1072.005pt>
+
+LaTeX Warning: Citation 'general-entrepreneurship-quiz' on page 117 undefined o
+n input line 3.
+
+<fig/pretest/pretestA.png, id=524, 864.22874pt x 1072.005pt>
 File: fig/pretest/pretestA.png Graphic file (type png)
 
 <use fig/pretest/pretestA.png>
@@ -3293,9 +4044,23 @@ Package pdftex.def Info: fig/pretest/pretestA.png used on input line 7.
 (pdftex.def)             Requested size: 355.65944pt x 441.16064pt.
 
 
+LaTeX Warning: Citation 'general-entrepreneurship-quiz' on page 117 undefined o
+n input line 8.
+
+
+LaTeX Warning: Citation 'general-entrepreneurship-quiz' on page 117 undefined o
+n input line 8.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+[]\T1/jkp/b/sl/10 Figure B.1: |\T1/jkp/m/sl/10 Pre-test, page 1, based on Wal-s
+tad
+ []
+
+
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/pretest/pretestB.png, id=2000, 865.2325pt x 1080.035pt>
+<fig/pretest/pretestB.png, id=525, 865.2325pt x 1080.035pt>
 File: fig/pretest/pretestB.png Graphic file (type png)
 
 <use fig/pretest/pretestB.png>
@@ -3303,83 +4068,125 @@ Package pdftex.def Info: fig/pretest/pretestB.png used on input line 14.
 (pdftex.def)             Requested size: 355.65944pt x 443.95435pt.
 
 
+LaTeX Warning: Citation 'general-entrepreneurship-quiz' on page 117 undefined o
+n input line 15.
+
+
+LaTeX Warning: Citation 'general-entrepreneurship-quiz' on page 117 undefined o
+n input line 15.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+[]\T1/jkp/b/sl/10 Figure B.2: |\T1/jkp/m/sl/10 Pre-test, page 2, based on Wal-s
+tad
+ []
+
+
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [121
+) [117
 
 
 
-] [122 <./fig/pretest/pretestA.png>] [123 <./fig/pretest/pretestB.png>]
-[124
+] [118 <./fig/pretest/pretestA.png>] [119 <./fig/pretest/pretestB.png>]
+[120
 
 
 ]) (./main.ind)
+! Undefined control sequence.
+<argument> ...pb \@safe@activesfalse \pdfbookmark 
+                                                  [0]{Copyright}{Copyright}
+l.55 \end{document}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-Package natbib Warning: There were undefined citations.
-
-<fig/LinkUniv_sv_vert_col.pdf, id=2027, 259.30878pt x 172.23346pt>
+<fig/LinkUniv_sv_vert_col.pdf, id=541, 259.30878pt x 172.23346pt>
 File: fig/LinkUniv_sv_vert_col.pdf Graphic file (type pdf)
 
 <use fig/LinkUniv_sv_vert_col.pdf>
-Package pdftex.def Info: fig/LinkUniv_sv_vert_col.pdf used on input line 43.
+Package pdftex.def Info: fig/LinkUniv_sv_vert_col.pdf used on input line 55.
 (pdftex.def)             Requested size: 77.10475pt x 51.21495pt.
 
-Overfull \hbox (0.16193pt too wide) in paragraph at lines 43--43
+! Undefined control sequence.
+\makeCopyright ...ess se förlagets hemsida \href 
+                                                  {http://www.ep.liu.se/}{\t...
+l.55 \end{document}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\makeCopyright ...fer to its www home page: \href 
+                                                  {http://www.ep.liu.se/}{\t...
+l.55 \end{document}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (0.16193pt too wide) in paragraph at lines 55--55
 \T1/jkp/m/n/10 and its pro-ce-dures for pub-li-ca-tion and for as-sur-ance of d
 oc-u-ment in-tegrity, please
  []
 
-[125
+[121
 
- <./fig/LinkUniv_sv_vert_col.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 43.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 43.
- (./main.aux (./thanks/thanks.aux)
+ <./fig/LinkUniv_sv_vert_col.pdf>] (./main.aux (./thanks/thanks.aux)
 (./introduction/introduction.aux) (./methods/methods.aux) (./result/result.aux)
 (./discussion/discussion.aux) (./conclusion/conclusion.aux)
 (./appendix/time_plan.aux) (./appendix/pre_test.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 43.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 43.
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 2F638C302BACB8A18E71582AB0B057DD;10471.
-Package rerunfilecheck Info: File `main.brf' has not changed.
-(rerunfilecheck)             Checksum: A9381506FD84F3377EA94FA2F1814444;7406.
-
 
 LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 43.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
  ) 
 Here is how much of TeX's memory you used:
- 25089 strings out of 493089
- 442842 string characters out of 6134842
- 531500 words of memory out of 5000000
- 27121 multiletter control sequences out of 15000+600000
- 219755 words of font info for 180 fonts, out of 8000000 for 9000
+ 25718 strings out of 493089
+ 470531 string characters out of 6134842
+ 934065 words of memory out of 5000000
+ 28249 multiletter control sequences out of 15000+600000
+ 219789 words of font info for 180 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,12n,78p,1226b,945s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
-exlive/2015/texmf-dist/fonts/enc/dvips/kpfonts/kpfonts-expert.enc}</usr/local/t
+ 69i,12n,78p,1244b,3164s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/kpfonts/kpfonts-expert.en
+c}{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2015/texmf-dist/fonts/type1/public/kpfonts/jkpbn8a.pfb></usr/local/texli
 ve/2015/texmf-dist/fonts/type1/public/kpfonts/jkpbn8a.pfb></usr/local/texlive/2
-015/texmf-dist/fonts/type1/public/kpfonts/jkpmit8a.pfb></usr/local/texlive/2015
-/texmf-dist/fonts/type1/public/kpfonts/jkpmn8a.pfb></usr/local/texlive/2015/tex
-mf-dist/fonts/type1/public/kpfonts/jkpmn8a.pfb></usr/local/texlive/2015/texmf-d
-ist/fonts/type1/public/kpfonts/jkpmnc.pfb></usr/local/texlive/2015/texmf-dist/f
-onts/type1/public/kpfonts/jkpmne.pfb></usr/local/texlive/2015/texmf-dist/fonts/
+015/texmf-dist/fonts/type1/public/kpfonts/jkpbne.pfb></usr/local/texlive/2015/t
+exmf-dist/fonts/type1/public/kpfonts/jkpmit8a.pfb></usr/local/texlive/2015/texm
+f-dist/fonts/type1/public/kpfonts/jkpmn8a.pfb></usr/local/texlive/2015/texmf-di
+st/fonts/type1/public/kpfonts/jkpmn8a.pfb></usr/local/texlive/2015/texmf-dist/f
+onts/type1/public/kpfonts/jkpmnc.pfb></usr/local/texlive/2015/texmf-dist/fonts/
 type1/public/kpfonts/jkpmne.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1
-/public/kpfonts/jkpmsc8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pu
-blic/kpfonts/jkpsya.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/cou
-rier/ucrr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/courier/ucr
-ro8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pf
-b>
-Output written on main.pdf (143 pages, 29268520 bytes).
+/public/kpfonts/jkpmne.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/publ
+ic/kpfonts/jkpmsc8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
+kpfonts/jkpsya.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/courier/
+ucrr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.
+pfb>
+Output written on main.pdf (141 pages, 29204914 bytes).
 PDF statistics:
- 2196 PDF objects out of 2487 (max. 8388607)
- 1930 compressed objects within 20 object streams
- 518 named destinations out of 1000 (max. 500000)
- 19673 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 597 PDF objects out of 1000 (max. 8388607)
+ 366 compressed objects within 4 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 18665 words of extra memory for PDF output out of 20736 (max. 10000000)
 

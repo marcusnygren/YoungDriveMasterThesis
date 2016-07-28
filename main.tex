@@ -15,7 +15,18 @@
 \usepackage{mythesis}
 \DeclareUnicodeCharacter{00A0}{ }
 
-\usepackage{hyperref}
+%\usepackage[american]{babel}
+%\usepackage{csquotes}
+\usepackage[natbib=true, style=apa]{biblatex}
+%\DeclareLanguageMapping{american}{american-apa}
+
+
+\addbibresource{references/myrefs}
+
+\setcounter{biburllcpenalty}{7000}
+\setcounter{biburlucpenalty}{8000}
+
+%\usepackage{hyperref}
 \usepackage{url}
 
 \begin{document}
@@ -34,7 +45,8 @@
 %\include{rtthesis-doc}
 
 %\bibliographystyle{plain}
-\bibliography{IEEEfull,references/myrefs}
+
+\printbibliography
 
 \input{main_outro}
 
