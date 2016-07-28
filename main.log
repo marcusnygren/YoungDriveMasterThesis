@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.24)  28 JUL 2016 12:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.24)  28 JUL 2016 12:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3233,30 +3233,36 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 ] [111]
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
-\T1/pcr/m/n/10 edu / wp-[]content / uploads / 2015 / 09 / RevisedBloomsHandout-
-[]1 .
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
+\T1/pcr/m/n/10 wp-[]content / uploads / 2015 / 09 / RevisedBloomsHandout-[]1 . 
+pdf$[]\T1/jkp/m/n/10 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--167
-[]\T1/jkp/m/n/10 Lopez, H. (2016).  Par-al-lel co-or-di-nates: Read out pat-
+Underfull \hbox (badness 10000) in paragraph at lines 176--176
+[]\T1/jkp/m/n/10 H. Lopez.  Par-al-lel co-or-di-nates: Read out pat-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--167
+Underfull \hbox (badness 10000) in paragraph at lines 176--176
 \T1/jkp/m/n/10 terns.  []$\T1/pcr/m/n/10 http : / / une-[]terre . blogspot . se
  / 2012 / 09 /
  []
 
 [112]
-Underfull \hbox (badness 3942) in paragraph at lines 210--210
-[]\T1/jkp/m/n/10 Nissar, S. (2016).  So-cial in-no-va-tion and en-trepreneur-sh
-ip in uganda.
+Underfull \hbox (badness 7362) in paragraph at lines 220--220
+[]\T1/jkp/m/n/10 S. Nis-sar.  So-cial in-no-va-tion and en-trepreneur-ship in u
+ganda. why
+ []
+
+
+Underfull \hbox (badness 4217) in paragraph at lines 220--220
+\T1/jkp/m/n/10 mo-bile ser-vices are grow-ing fast in the area.  []$\T1/pcr/m/n
+/10 http : / / bit . ly /
  []
 
 [113]
-Underfull \hbox (badness 10000) in paragraph at lines 270--270
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
 \T1/pcr/m/n/10 detail / magic-[]json / cajifcebjiflndefndbnoeenjpiiiagm ? hl =
  []
 
@@ -3285,7 +3291,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  (./appendix/pre_test.tex
 Appendix B.
-<fig/pretest/pretestA.png, id=1995, 864.22874pt x 1072.005pt>
+<fig/pretest/pretestA.png, id=1994, 864.22874pt x 1072.005pt>
 File: fig/pretest/pretestA.png Graphic file (type png)
 
 <use fig/pretest/pretestA.png>
@@ -3295,7 +3301,7 @@ Package pdftex.def Info: fig/pretest/pretestA.png used on input line 7.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/pretest/pretestB.png, id=2000, 865.2325pt x 1080.035pt>
+<fig/pretest/pretestB.png, id=1999, 865.2325pt x 1080.035pt>
 File: fig/pretest/pretestB.png Graphic file (type png)
 
 <use fig/pretest/pretestB.png>
@@ -3317,7 +3323,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 Package natbib Warning: There were undefined citations.
 
-<fig/LinkUniv_sv_vert_col.pdf, id=2027, 259.30878pt x 172.23346pt>
+<fig/LinkUniv_sv_vert_col.pdf, id=2026, 259.30878pt x 172.23346pt>
 File: fig/LinkUniv_sv_vert_col.pdf Graphic file (type pdf)
 
 <use fig/LinkUniv_sv_vert_col.pdf>
@@ -3356,7 +3362,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 43.
 Here is how much of TeX's memory you used:
  25089 strings out of 493089
  442842 string characters out of 6134842
- 531500 words of memory out of 5000000
+ 531698 words of memory out of 5000000
  27121 multiletter control sequences out of 15000+600000
  219755 words of font info for 180 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -3376,10 +3382,10 @@ blic/kpfonts/jkpsya.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/cou
 rier/ucrr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/courier/ucr
 ro8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pf
 b>
-Output written on main.pdf (143 pages, 29268495 bytes).
+Output written on main.pdf (143 pages, 29268654 bytes).
 PDF statistics:
- 2196 PDF objects out of 2487 (max. 8388607)
- 1930 compressed objects within 20 object streams
+ 2195 PDF objects out of 2487 (max. 8388607)
+ 1929 compressed objects within 20 object streams
  518 named destinations out of 1000 (max. 500000)
  19673 words of extra memory for PDF output out of 20736 (max. 10000000)
 
