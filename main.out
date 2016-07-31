@@ -7,120 +7,91 @@
 \BOOKMARK [0][]{thetocanchor.0}{Contents}{}% 7
 \BOOKMARK [0][]{chapter.1}{1 Introduction}{}% 8
 \BOOKMARK [1][-]{section.1.1}{1.1 Purpose}{chapter.1}% 9
-\BOOKMARK [2][-]{subsection.1.1.1}{1.1.1 An app for the entrepreneurship coaches}{section.1.1}% 10
-\BOOKMARK [2][-]{subsection.1.1.2}{1.1.2 Definition of success for the app}{section.1.1}% 11
+\BOOKMARK [2][-]{subsection.1.1.1}{1.1.1 An App for the Entrepreneurship Coaches}{section.1.1}% 10
+\BOOKMARK [2][-]{subsection.1.1.2}{1.1.2 Definition of Success for the App}{section.1.1}% 11
 \BOOKMARK [1][-]{section.1.2}{1.2 Research Questions}{chapter.1}% 12
 \BOOKMARK [1][-]{section.1.3}{1.3 Theoretical Background}{chapter.1}% 13
-\BOOKMARK [2][-]{subsection.1.3.1}{1.3.1 Social Innovation and Social Entrepreneurship in Uganda}{section.1.3}% 14
-\BOOKMARK [2][-]{subsection.1.3.2}{1.3.2 The Client: YoungDrive}{section.1.3}% 15
-\BOOKMARK [2][-]{subsection.1.3.3}{1.3.3 Entrepreneurship education}{section.1.3}% 16
-\BOOKMARK [2][-]{subsection.1.3.4}{1.3.4 Digital Education}{section.1.3}% 17
-\BOOKMARK [2][-]{subsection.1.3.5}{1.3.5 Hybrid App Development}{section.1.3}% 18
-\BOOKMARK [2][-]{subsection.1.3.6}{1.3.6 Related work}{section.1.3}% 19
-\BOOKMARK [0][]{chapter.2}{2 Methods and Implementation}{}% 20
-\BOOKMARK [1][-]{section.2.1}{2.1 Methodological Framework}{chapter.2}% 21
-\BOOKMARK [2][-]{subsection.2.1.1}{2.1.1 Design for Learning}{section.2.1}% 22
-\BOOKMARK [2][-]{subsection.2.1.2}{2.1.2 Design for Motivation}{section.2.1}% 23
-\BOOKMARK [2][-]{subsection.2.1.3}{2.1.3 Design Thinking}{section.2.1}% 24
-\BOOKMARK [2][-]{subsection.2.1.4}{2.1.4 Service Design Methodology}{section.2.1}% 25
-\BOOKMARK [2][-]{subsection.2.1.5}{2.1.5 Digital Service Design}{section.2.1}% 26
-\BOOKMARK [2][-]{subsection.2.1.6}{2.1.6 Data Analysis}{section.2.1}% 27
+\BOOKMARK [2][-]{subsection.1.3.1}{1.3.1 Entrepreneurship in Uganda}{section.1.3}% 14
+\BOOKMARK [2][-]{subsection.1.3.2}{1.3.2 Entrepreneurship Education}{section.1.3}% 15
+\BOOKMARK [2][-]{subsection.1.3.3}{1.3.3 YoungDrive}{section.1.3}% 16
+\BOOKMARK [2][-]{subsection.1.3.4}{1.3.4 Mobile in Uganda}{section.1.3}% 17
+\BOOKMARK [2][-]{subsection.1.3.5}{1.3.5 Mobile Learning}{section.1.3}% 18
+\BOOKMARK [0][]{chapter.2}{2 Methods and Implementation}{}% 19
+\BOOKMARK [1][-]{section.2.1}{2.1 Methodological Framework}{chapter.2}% 20
+\BOOKMARK [2][-]{subsection.2.1.1}{2.1.1 Design for Learning}{section.2.1}% 21
+\BOOKMARK [2][-]{subsection.2.1.2}{2.1.2 Design for Motivation}{section.2.1}% 22
+\BOOKMARK [2][-]{subsection.2.1.3}{2.1.3 Design Thinking}{section.2.1}% 23
+\BOOKMARK [2][-]{subsection.2.1.4}{2.1.4 Service Design Methodology}{section.2.1}% 24
+\BOOKMARK [2][-]{subsection.2.1.5}{2.1.5 Digital Service Design}{section.2.1}% 25
+\BOOKMARK [2][-]{subsection.2.1.6}{2.1.6 Hybrid App Development}{section.2.1}% 26
+\BOOKMARK [2][-]{subsection.2.1.7}{2.1.7 Data Analysis}{section.2.1}% 27
 \BOOKMARK [1][-]{section.2.2}{2.2 Setting and Research Context}{chapter.2}% 28
 \BOOKMARK [2][-]{subsection.2.2.1}{2.2.1 Setting}{section.2.2}% 29
-\BOOKMARK [2][-]{subsection.2.2.2}{2.2.2 Research context}{section.2.2}% 30
+\BOOKMARK [2][-]{subsection.2.2.2}{2.2.2 Research Context}{section.2.2}% 30
 \BOOKMARK [1][-]{section.2.3}{2.3 Understanding the YoungDrive participants}{chapter.2}% 31
 \BOOKMARK [2][-]{subsection.2.3.1}{2.3.1 Roles}{section.2.3}% 32
-\BOOKMARK [2][-]{subsection.2.3.2}{2.3.2 Social characteristics}{section.2.3}% 33
-\BOOKMARK [2][-]{subsection.2.3.3}{2.3.3 Tororo businesses}{section.2.3}% 34
-\BOOKMARK [2][-]{subsection.2.3.4}{2.3.4 Zambia coaches}{section.2.3}% 35
+\BOOKMARK [2][-]{subsection.2.3.2}{2.3.2 Social Characteristics}{section.2.3}% 33
+\BOOKMARK [2][-]{subsection.2.3.3}{2.3.3 Tororo Businesses}{section.2.3}% 34
+\BOOKMARK [2][-]{subsection.2.3.4}{2.3.4 Zambia Coaches}{section.2.3}% 35
 \BOOKMARK [1][-]{section.2.4}{2.4 Study Design and Data Collection}{chapter.2}% 36
-\BOOKMARK [2][-]{subsection.2.4.1}{2.4.1 Implementation of methods for data collection and data analysis}{section.2.4}% 37
-\BOOKMARK [2][-]{subsection.2.4.2}{2.4.2 Iteration 1}{section.2.4}% 38
-\BOOKMARK [2][-]{subsection.2.4.3}{2.4.3 Iteration 2}{section.2.4}% 39
-\BOOKMARK [2][-]{subsection.2.4.4}{2.4.4 Iteration 3}{section.2.4}% 40
-\BOOKMARK [2][-]{subsection.2.4.5}{2.4.5 Iteration 4}{section.2.4}% 41
+\BOOKMARK [2][-]{subsection.2.4.1}{2.4.1 Implementation of Methods for Data Collection and Data Analysis}{section.2.4}% 37
+\BOOKMARK [2][-]{subsection.2.4.2}{2.4.2 Iteration 1: Uganda Coach Visit}{section.2.4}% 38
+\BOOKMARK [2][-]{subsection.2.4.3}{2.4.3 Iteration 2: Zambia Coach Training}{section.2.4}% 39
+\BOOKMARK [2][-]{subsection.2.4.4}{2.4.4 Iteration 3: Uganda Formative Test}{section.2.4}% 40
+\BOOKMARK [2][-]{subsection.2.4.5}{2.4.5 Iteration 4: Uganda Summative Test}{section.2.4}% 41
 \BOOKMARK [1][-]{section.2.5}{2.5 Application Implementation}{chapter.2}% 42
-\BOOKMARK [2][-]{subsection.2.5.1}{2.5.1 User needs}{section.2.5}% 43
-\BOOKMARK [2][-]{subsection.2.5.2}{2.5.2 Stakeholder needs}{section.2.5}% 44
-\BOOKMARK [2][-]{subsection.2.5.3}{2.5.3 Devices to be used}{section.2.5}% 45
-\BOOKMARK [2][-]{subsection.2.5.4}{2.5.4 Choosing frameworks for creating the app}{section.2.5}% 46
+\BOOKMARK [2][-]{subsection.2.5.1}{2.5.1 User Needs}{section.2.5}% 43
+\BOOKMARK [2][-]{subsection.2.5.2}{2.5.2 Stakeholder Meeds}{section.2.5}% 44
+\BOOKMARK [2][-]{subsection.2.5.3}{2.5.3 Devices to be Used}{section.2.5}% 45
+\BOOKMARK [2][-]{subsection.2.5.4}{2.5.4 Choosing Frameworks for Creating the App}{section.2.5}% 46
 \BOOKMARK [2][-]{subsection.2.5.5}{2.5.5 Login}{section.2.5}% 47
 \BOOKMARK [1][-]{section.2.6}{2.6 Data Analysis Theory}{chapter.2}% 48
-\BOOKMARK [2][-]{subsection.2.6.1}{2.6.1 Iteration \0431}{section.2.6}% 49
-\BOOKMARK [2][-]{subsection.2.6.2}{2.6.2 Iteration \0432}{section.2.6}% 50
-\BOOKMARK [2][-]{subsection.2.6.3}{2.6.3 Iteration \0433}{section.2.6}% 51
-\BOOKMARK [2][-]{subsection.2.6.4}{2.6.4 Iteration \0434: Quiz Results Analysis}{section.2.6}% 52
+\BOOKMARK [2][-]{subsection.2.6.1}{2.6.1 Iteration 1: Uganda Coach Visit}{section.2.6}% 49
+\BOOKMARK [2][-]{subsection.2.6.2}{2.6.2 Iteration 2: Zambia Coach Training}{section.2.6}% 50
+\BOOKMARK [2][-]{subsection.2.6.3}{2.6.3 Iteration 3: Uganda Formative Test}{section.2.6}% 51
+\BOOKMARK [2][-]{subsection.2.6.4}{2.6.4 Iteration 4: Uganda Summative Test}{section.2.6}% 52
 \BOOKMARK [0][]{chapter.3}{3 Results}{}% 53
 \BOOKMARK [1][-]{section.3.1}{3.1 Developed Application}{chapter.3}% 54
 \BOOKMARK [1][-]{section.3.2}{3.2 Iteration 1: Uganda Coach Visit}{chapter.3}% 55
-\BOOKMARK [2][-]{subsection.3.2.1}{3.2.1 Qualitative data}{section.3.2}% 56
-\BOOKMARK [2][-]{subsection.3.2.2}{3.2.2 Quantitative data}{section.3.2}% 57
+\BOOKMARK [2][-]{subsection.3.2.1}{3.2.1 Qualitative Data}{section.3.2}% 56
+\BOOKMARK [2][-]{subsection.3.2.2}{3.2.2 Quantitative Data}{section.3.2}% 57
 \BOOKMARK [2][-]{subsection.3.2.3}{3.2.3 Discussion}{section.3.2}% 58
-\BOOKMARK [2][-]{subsection.3.2.4}{3.2.4 Next iteration}{section.3.2}% 59
+\BOOKMARK [2][-]{subsection.3.2.4}{3.2.4 Next Iteration}{section.3.2}% 59
 \BOOKMARK [1][-]{section.3.3}{3.3 Iteration 2: Zambia Coach Training}{chapter.3}% 60
-\BOOKMARK [2][-]{subsection.3.3.1}{3.3.1 Qualitative data}{section.3.3}% 61
-\BOOKMARK [2][-]{subsection.3.3.2}{3.3.2 Quantitative data}{section.3.3}% 62
+\BOOKMARK [2][-]{subsection.3.3.1}{3.3.1 Qualitative Data}{section.3.3}% 61
+\BOOKMARK [2][-]{subsection.3.3.2}{3.3.2 Quantitative Data}{section.3.3}% 62
 \BOOKMARK [2][-]{subsection.3.3.3}{3.3.3 Discussion}{section.3.3}% 63
-\BOOKMARK [2][-]{subsection.3.3.4}{3.3.4 Next iteration}{section.3.3}% 64
+\BOOKMARK [2][-]{subsection.3.3.4}{3.3.4 Next Iteration}{section.3.3}% 64
 \BOOKMARK [1][-]{section.3.4}{3.4 Iteration 3: Uganda Formative Test}{chapter.3}% 65
-\BOOKMARK [2][-]{subsection.3.4.1}{3.4.1 Qualitative data}{section.3.4}% 66
-\BOOKMARK [2][-]{subsection.3.4.2}{3.4.2 Quantitative data}{section.3.4}% 67
+\BOOKMARK [2][-]{subsection.3.4.1}{3.4.1 Qualitative Data}{section.3.4}% 66
+\BOOKMARK [2][-]{subsection.3.4.2}{3.4.2 Quantitative Data}{section.3.4}% 67
 \BOOKMARK [2][-]{subsection.3.4.3}{3.4.3 Discussion}{section.3.4}% 68
-\BOOKMARK [2][-]{subsection.3.4.4}{3.4.4 Next iteration}{section.3.4}% 69
+\BOOKMARK [2][-]{subsection.3.4.4}{3.4.4 Next Iteration}{section.3.4}% 69
 \BOOKMARK [1][-]{section.3.5}{3.5 Iteration 4: Uganda Summative Test}{chapter.3}% 70
-\BOOKMARK [2][-]{subsection.3.5.1}{3.5.1 Qualitative data}{section.3.5}% 71
-\BOOKMARK [2][-]{subsection.3.5.2}{3.5.2 Quantitative data}{section.3.5}% 72
+\BOOKMARK [2][-]{subsection.3.5.1}{3.5.1 Qualitative Data}{section.3.5}% 71
+\BOOKMARK [2][-]{subsection.3.5.2}{3.5.2 Quantitative Data}{section.3.5}% 72
 \BOOKMARK [0][]{chapter.4}{4 Discussion}{}% 73
-\BOOKMARK [1][-]{section.4.1}{4.1 How is the development affected by the technical possibilities?}{chapter.4}% 74
-\BOOKMARK [2][-]{subsection.4.1.1}{4.1.1 Online data collection was needed earlier}{section.4.1}% 75
-\BOOKMARK [2][-]{subsection.4.1.2}{4.1.2 Backwards capability issues}{section.4.1}% 76
-\BOOKMARK [2][-]{subsection.4.1.3}{4.1.3 No time assigned for writing Automatic tests}{section.4.1}% 77
-\BOOKMARK [2][-]{subsection.4.1.4}{4.1.4 Difficulties comparing quiz results between iterations}{section.4.1}% 78
-\BOOKMARK [1][-]{section.4.2}{4.2 How is the design affected by the contextual constraints, e.g. young entrepreneurs, entrepreneurship education, and culture?}{chapter.4}% 79
-\BOOKMARK [2][-]{subsection.4.2.1}{4.2.1 Having low scores on the quizzes might lower motivation}{section.4.2}% 80
-\BOOKMARK [1][-]{section.4.3}{4.3 How can test questions be developed to support entrepreneurship learning?}{chapter.4}% 81
-\BOOKMARK [2][-]{subsection.4.3.1}{4.3.1 Learning effect}{section.4.3}% 82
-\BOOKMARK [1][-]{section.4.4}{4.4 How does design affect usability and learning done via the app?}{chapter.4}% 83
-\BOOKMARK [2][-]{subsection.4.4.1}{4.4.1 Benefits with confidence level and correctness in combination}{section.4.4}% 84
-\BOOKMARK [2][-]{subsection.4.4.2}{4.4.2 Deciding on learning methods}{section.4.4}% 85
-\BOOKMARK [1][-]{section.4.5}{4.5 How can users' feedback be used to inform modifications of the app?}{chapter.4}% 86
-\BOOKMARK [0][]{chapter.5}{5 Conclusions}{}% 87
-\BOOKMARK [0][]{chapter.6}{6 Future Work}{}% 88
-\BOOKMARK [1][-]{section.6.1}{6.1 How is the development affected by the technical possibilities?}{chapter.6}% 89
-\BOOKMARK [2][-]{subsection.6.1.1}{6.1.1 Data analysis improvements}{section.6.1}% 90
-\BOOKMARK [2][-]{subsection.6.1.2}{6.1.2 Code quality}{section.6.1}% 91
-\BOOKMARK [2][-]{subsection.6.1.3}{6.1.3 Internationalization}{section.6.1}% 92
-\BOOKMARK [2][-]{subsection.6.1.4}{6.1.4 Availability on old Android devices}{section.6.1}% 93
-\BOOKMARK [2][-]{subsection.6.1.5}{6.1.5 Availability on feature phones}{section.6.1}% 94
-\BOOKMARK [2][-]{subsection.6.1.6}{6.1.6 A bigger data sample would benefit answering the other research questions}{section.6.1}% 95
-\BOOKMARK [1][-]{section.6.2}{6.2 How is the design affected by the contextual constraints, e.g. young entrepreneurs, entrepreneurship education, and culture?}{chapter.6}% 96
-\BOOKMARK [2][-]{subsection.6.2.1}{6.2.1 Replacing the teacher}{section.6.2}% 97
-\BOOKMARK [2][-]{subsection.6.2.2}{6.2.2 Scaffolding the coach guides}{section.6.2}% 98
-\BOOKMARK [2][-]{subsection.6.2.3}{6.2.3 More time designing the app for different Need groups}{section.6.2}% 99
-\BOOKMARK [2][-]{subsection.6.2.4}{6.2.4 Training the coaches with using a smartphone}{section.6.2}% 100
-\BOOKMARK [1][-]{section.6.3}{6.3 How can test questions be developed to support entrepreneurship learning?}{chapter.6}% 101
-\BOOKMARK [2][-]{subsection.6.3.1}{6.3.1 Designing for honesty with "Are you sure?"}{section.6.3}% 102
-\BOOKMARK [2][-]{subsection.6.3.2}{6.3.2 Self-reflection after a youth session}{section.6.3}% 103
-\BOOKMARK [2][-]{subsection.6.3.3}{6.3.3 Avoiding memorization}{section.6.3}% 104
-\BOOKMARK [2][-]{subsection.6.3.4}{6.3.4 Improving the questions}{section.6.3}% 105
-\BOOKMARK [1][-]{section.6.4}{6.4 How does design affect usability and learning done via the app?}{chapter.6}% 106
-\BOOKMARK [2][-]{subsection.6.4.1}{6.4.1 Assessing coach guide knowledge before the youth session}{section.6.4}% 107
-\BOOKMARK [2][-]{subsection.6.4.2}{6.4.2 Using a flashcards approach}{section.6.4}% 108
-\BOOKMARK [2][-]{subsection.6.4.3}{6.4.3 Improvements to the Certification mode}{section.6.4}% 109
-\BOOKMARK [2][-]{subsection.6.4.4}{6.4.4 Improvements training Correct Structure and Time Management}{section.6.4}% 110
-\BOOKMARK [2][-]{subsection.6.4.5}{6.4.5 Scaffolding with Flashcards}{section.6.4}% 111
-\BOOKMARK [2][-]{subsection.6.4.6}{6.4.6 Memory design}{section.6.4}% 112
-\BOOKMARK [2][-]{subsection.6.4.7}{6.4.7 Sharing with one another}{section.6.4}% 113
-\BOOKMARK [2][-]{subsection.6.4.8}{6.4.8 Including the paper manuals in the app}{section.6.4}% 114
-\BOOKMARK [1][-]{section.6.5}{6.5 How can users' feedback be used to inform modifications of the app?}{chapter.6}% 115
-\BOOKMARK [2][-]{subsection.6.5.1}{6.5.1 Educator Dashboard}{section.6.5}% 116
-\BOOKMARK [2][-]{subsection.6.5.2}{6.5.2 To answer the research question more elegantly}{section.6.5}% 117
-\BOOKMARK [0][]{appendix.A}{A Appendix 1}{}% 118
-\BOOKMARK [1][-]{section.A.1}{A.1 Original Time Plan}{appendix.A}% 119
-\BOOKMARK [2][-]{subsection.A.1.1}{A.1.1 Before Uganda}{section.A.1}% 120
-\BOOKMARK [2][-]{subsection.A.1.2}{A.1.2 In Uganda}{section.A.1}% 121
-\BOOKMARK [2][-]{subsection.A.1.3}{A.1.3 After Uganda}{section.A.1}% 122
-\BOOKMARK [2][-]{subsection.A.1.4}{A.1.4 After Semester}{section.A.1}% 123
-\BOOKMARK [1][-]{section.A.2}{A.2 Revised Time Plan}{appendix.A}% 124
-\BOOKMARK [0][]{appendix.B}{B Appendix 2}{}% 125
-\BOOKMARK [0][]{Copyright.0}{Copyright}{}% 126
+\BOOKMARK [1][-]{section.4.1}{4.1 How is the Development Affected by the Technical Possibilities?}{chapter.4}% 74
+\BOOKMARK [2][-]{subsection.4.1.1}{4.1.1 Online Data Collection was Needed Earlier}{section.4.1}% 75
+\BOOKMARK [2][-]{subsection.4.1.2}{4.1.2 Backwards Capability Issues}{section.4.1}% 76
+\BOOKMARK [2][-]{subsection.4.1.3}{4.1.3 No Time Assigned for Writing Automatic Tests}{section.4.1}% 77
+\BOOKMARK [2][-]{subsection.4.1.4}{4.1.4 Difficulties Comparing Quiz Results between Iterations}{section.4.1}% 78
+\BOOKMARK [1][-]{section.4.2}{4.2 How is the Design Affected by the Contextual Constraints, e.g. Young Entrepreneurs, Entrepreneurship Education, and Culture?}{chapter.4}% 79
+\BOOKMARK [2][-]{subsection.4.2.1}{4.2.1 Having Low Scores on the Quizzes Might Lower Motivation}{section.4.2}% 80
+\BOOKMARK [1][-]{section.4.3}{4.3 How Can Test Questions be Developed to Support Entrepreneurship Learning?}{chapter.4}% 81
+\BOOKMARK [2][-]{subsection.4.3.1}{4.3.1 Constructing Good Questions in Entrepreneurship}{section.4.3}% 82
+\BOOKMARK [2][-]{subsection.4.3.2}{4.3.2 Necessary Improvements to the Multiple-Choice Design}{section.4.3}% 83
+\BOOKMARK [2][-]{subsection.4.3.3}{4.3.3 Learning Effect}{section.4.3}% 84
+\BOOKMARK [1][-]{section.4.4}{4.4 How Does Design Affect Usability and Learning done via the App?}{chapter.4}% 85
+\BOOKMARK [2][-]{subsection.4.4.1}{4.4.1 Benefits with Confidence Level and Correctness in Combination}{section.4.4}% 86
+\BOOKMARK [2][-]{subsection.4.4.2}{4.4.2 Deciding on Learning Methods}{section.4.4}% 87
+\BOOKMARK [1][-]{section.4.5}{4.5 How Can Users' Feedback be Used to Inform Modifications of the App?}{chapter.4}% 88
+\BOOKMARK [0][]{chapter.5}{5 Conclusions}{}% 89
+\BOOKMARK [1][-]{section.5.1}{5.1 Contributed to the Domain of Entrepreneurship Education in a Developing Country Context}{chapter.5}% 90
+\BOOKMARK [1][-]{section.5.2}{5.2 Demonstrated how Certain Technical Constraints and Design Constraints can be Overcome in a Developing World Context}{chapter.5}% 91
+\BOOKMARK [1][-]{section.5.3}{5.3 Provided Methods of Investigating Usability and Learnings with a Digital Training Tool in the Real-World Training Context}{chapter.5}% 92
+\BOOKMARK [1][-]{section.5.4}{5.4 Created New Methods in Service Design, when Co-Designing Digital Artefacts in a Developing Country Context}{chapter.5}% 93
+\BOOKMARK [0][]{chapter.6}{6 Future Work}{}% 94
+\BOOKMARK [1][-]{section.6.1}{6.1 How is the Development Affected by the Technical Possibilities?}{chapter.6}% 95
+\BOOKMARK [2][-]{subsection.6.1.1}{6.1.1 Data Analysis Improvements}{section.6.1}% 96
+\BOOKMARK [2][-]{subsection.6.1.2}{6.1.2 Code Quality}{sectio
