@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.24)  31 JUL 2016 21:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.24)  8 AUG 2016 20:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1606,7 +1606,14 @@ File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.0 (rcs-revision 1.7)
 LaTeX Warning: Unused global option(s):
     [emarginparagraphs(notrecommended!).largesmallcaps].
 
-(./main.aux)
+(./main.aux (./thanks/thanks.aux) (./introduction/introduction.aux)
+(./methods/methods.aux) (./result/result.aux
+
+LaTeX Warning: Label `fig:analysFarg3' multiply defined.
+
+) (./discussion/discussion.aux) (./conclusion/conclusion.aux)
+(./appendix/app_images.aux) (./appendix/pre_test.aux) (./appendix/time_plan.aux
+))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/jkpw/m/it on input line 21.
@@ -2163,34 +2170,10 @@ LaTeX Info: Redefining \ref on input line 21.
 LaTeX Info: Redefining \pageref on input line 21.
 LaTeX Info: Redefining \nameref on input line 21.
 
-(./main.out)
-Runaway argument?
-{chapte 
-! File ended while scanning use of \@@BOOKMARK.
-<inserted text> 
-                \par 
-l.21 \begin{document}
-                     
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
-
-(./main.out)
-Runaway argument?
-{chapte 
-! File ended while scanning use of \@@BOOKMARK.
-<inserted text> 
-                \par 
-l.21 \begin{document}
-                     
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
-
+(./main.out) (./main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
+
 
 
 Package ctable Warning:  Transparency disabled: incompatible with tikz package 
@@ -2227,7 +2210,7 @@ LaTeX Font Info:    Try loading font information for U+jkpsyc on input line 1.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/kpfonts/ujkpsyc.fd
 File: ujkpsyc.fd 2006/08/15 v1.0
 )
-<fig/LiTH_sv_vert_blk.pdf, id=220, 259.31882pt x 190.21063pt>
+<fig/LiTH_sv_vert_blk.pdf, id=553, 259.31882pt x 190.21063pt>
 File: fig/LiTH_sv_vert_blk.pdf Graphic file (type pdf)
 
 <use fig/LiTH_sv_vert_blk.pdf>
@@ -2245,40 +2228,16 @@ Overfull \hbox (19.91695pt too wide) in paragraph at lines 1--1
 iTH_sv_vert_blk.pdf>] [2
 
 ]
-LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 19.70294pt on input line 6.
-LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 19.70294pt on input line 6.
-
-
-Package hyperref Warning: old tdo file detected, not used; run LaTeX again.
-
-\tf@tdo=\write6
-\openout6 = `main.tdo'.
+Overfull \hbox (35.56596pt too wide) in paragraph at lines 7--7
+[]| [] 
+ []
 
 [1
 
 
 ] [2
 
-]
-Overfull \hbox (35.56596pt too wide) in paragraph at lines 7--7
-[]| [] 
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.7 \maketitle
-               [1]pdfTeX warning (ext4): destination with the same identifier (
-name{page.ii}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.7 \maketitle
-               [2
-
-] <fig/LiTH_sigill_blk.pdf, id=252, 123.70215pt x 123.5817pt>
+] <fig/LiTH_sigill_blk.pdf, id=577, 123.70215pt x 123.5817pt>
 File: fig/LiTH_sigill_blk.pdf Graphic file (type pdf)
 
 <use fig/LiTH_sigill_blk.pdf>
@@ -2296,51 +2255,63 @@ File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 
 ]
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 13.67995pt on input line 10.
- (./abstract/svensk-sammanfattning.tex)pdfTeX warning (ext4): destination with 
-the same identifier (name{page.iii}) has been already used, duplicate ignored
+(Font)              scaled to size 13.67995pt on input line 13.
+ (./abstract/engelsk-sammanfattning.tex
+Overfull \hbox (3.59996pt too wide) in paragraph at lines 10--11
+\T1/jkp/m/n/10 choice ques-tions with thought-ful feed-back could stim-u-late c
+re-ativ-ity and problem-
+ []
+
+)
+Overfull \hbox (7.68199pt too wide) in paragraph at lines 12--15
+\T1/jkp/m/n/10 coaches, hav-ing in mind that the teacher is be-lieved the main 
+fac-tor of en-trepreneur-
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.iii}) ha
+s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.12 \end{abstract}
+l.15 \end{abstract}
                     [3
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{page.iv}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.12 \end{abstract}
+l.15 \end{abstract}
                     [4
-
-] (./abstract/engelsk-sammanfattning.tex
-Overfull \hbox (3.59996pt too wide) in paragraph at lines 10--11
-\T1/jkp/m/n/10 choice ques-tions with thought-ful feed-back could stim-u-late c
-re-ativ-ity and problem-
- []
-
-) [5
-
-] [6
 
 ]
 \openout2 = `thanks/thanks.aux'.
 
- (./thanks/thanks.tex [7
+ (./thanks/thanks.tex
+Overfull \hbox (6.10657pt too wide) in paragraph at lines 14--15
+\T1/jkp/m/n/10 Kon-rad Schön-born. But by biggest thanks goes to those that kne
+w the en-trepreneur-
+ []
+
+[5
 
 
-] [8
-
-])
-
-Package hyperref Warning: old toc file detected, not used; run LaTeX again.
-
-\tf@toc=\write7
-\openout7 = `main.toc'.
-
-[9
-
-] [10
+] [6
 
 ])
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 19.70294pt on input line 17.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 19.70294pt on input line 17.
+ (./main.toc [7
+
+] [8]
+Underfull \vbox (badness 1635) has occurred while \output is active []
+
+ [9])
+\tf@toc=\write6
+\openout6 = `main.toc'.
+
+
+[10])
 \openout2 = `introduction/introduction.aux'.
 
  (./introduction/introduction.tex
@@ -2349,12 +2320,14 @@ LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 40.54503pt on input line 1.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 108.12012pt on input line 1.
+
+Overfull \hbox (18.07196pt too wide) in paragraph at lines 14--15
+\T1/jkp/m/n/10 Tech-nol-ogy and En-gi-neer-ing at the De-part-ment of Sci-ence 
+and Tech-nol-ogy, Linköping
+ []
+
 (./introduction/purpose.tex
-
-Package natbib Warning: Citation `nissar' on page 1 undefined on input line 8.
-
-
-Underfull \vbox (badness 6001) has occurred while \output is active []
+Underfull \vbox (badness 2080) has occurred while \output is active []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
@@ -2364,340 +2337,81 @@ l.9
      [1
 
 
+
 ]
 Overfull \hbox (17.05995pt too wide) in paragraph at lines 14--15
 \T1/jkp/m/n/10 By train-ing coaches that can carry out the ed-u-ca-tion in larg
 er groups of en-trepreneurs,
  []
 
-
-Package natbib Warning: Citation `youngdrive-masterthesis-idea' on page 2 undef
-ined on input line 22.
-
 ) (./introduction/research_questions.tex) (./introduction/background.tex
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
+ine 6.
+
 (./introduction/background/1_uganda.tex
 (./introduction/background/uganda/entrepreneurship_uganda.tex
-
-Package natbib Warning: Citation `nissar' on page 2 undefined on input line 6.
+Overfull \hbox (1.0594pt too wide) in paragraph at lines 6--7
+\T1/jkp/m/n/10 A cou-ple of promi-nent facts helps to por-trait en-trepreneur-s
+hip ac-tiv-ity in Uganda: 
+ []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.9       \item U
-                 ganda is the world's most entrepreneurial country. (28\% of...
-[2]
-
-Package natbib Warning: Citation `mitchel' on page 3 undefined on input line 18
-.
-
-(./introduction/background/theory/entrepreneurship_education.tex
-
-Package natbib Warning: Citation `dickson' on page 3 undefined on input line 13
-.
-
-
-Package natbib Warning: Citation `kuratko' on page 3 undefined on input line 13
-.
-
-
-Package natbib Warning: Citation `pittaway' on page 3 undefined on input line 1
-3.
-
-
-Package natbib Warning: Citation `bae' on page 3 undefined on input line 13.
-
-
-Package natbib Warning: Citation `oviawe' on page 3 undefined on input line 13.
-
-
-
-Package natbib Warning: Citation `iakovleva' on page 3 undefined on input line 
-13.
-
-
-Package natbib Warning: Citation `oviawe' on page 3 undefined on input line 19.
-
-
-
-Package natbib Warning: Citation `iakovleva' on page 3 undefined on input line 
-21.
-
-
-Package natbib Warning: Citation `ruskovaara' on page 3 undefined on input line
- 23.
-
-
-Package natbib Warning: Citation `dickson' on page 3 undefined on input line 23
-.
-
-) [3]) (./introduction/background/uganda/mobile_uganda.tex
-
-Package natbib Warning: Citation `nissar' on page 4 undefined on input line 7.
-
-
-Package natbib Warning: Citation `ledgerlink' on page 4 undefined on input line
- 9.
-
-(./introduction/background/theory/digital_learning.tex
-
-Package natbib Warning: Citation `luckin' on page 4 undefined on input line 3.
-
-
-Package natbib Warning: Citation `luckin' on page 4 undefined on input line 3.
-
-
-Package natbib Warning: Citation `gates' on page 4 undefined on input line 3.
-
-
-Underfull \vbox (badness 1253) has occurred while \output is active []
-
- [4]
-
-Package natbib Warning: Citation `luckin' on page 5 undefined on input line 7.
-
-
-Package natbib Warning: Citation `ischool' on page 5 undefined on input line 7.
-
-
-
-Package natbib Warning: Citation `nicol' on page 5 undefined on input line 7.
-
-
-Overfull \hbox (15.27667pt too wide) in paragraph at lines 7--8
-\T1/jkp/m/n/10 prior per-for-mance (\T1/jkp/b/n/10 ?\T1/jkp/m/n/10 ). There are
- nu-mer-ous ex-am-ples of de-vel-op-ments in \T1/jkp/m/it/10 e-assessment
- []
-
-
-Package natbib Warning: Citation `yengin' on page 5 undefined on input line 9.
-
-
-Package natbib Warning: Citation `de-marcos' on page 5 undefined on input line 
-9.
-
-
-Package natbib Warning: Citation `luckin' on page 5 undefined on input line 13.
-
-
-
-Package natbib Warning: Citation `gates' on page 5 undefined on input line 13.
-
-)
-Overfull \hbox (3.32863pt too wide) in paragraph at lines 13--14
-\T1/jkp/m/n/10 within and be-yond the class-room. Com-bin-ing these two, in-tro
--duc-ing e-assessment
- []
-
-)) (./introduction/background/2_theory.tex))) [5]
+                 ganda can be ranked the world's most entrepreneurial countr...
+[2] (./introduction/background/theory/entrepreneurship_education.tex) [3])
+(./introduction/background/uganda/mobile_uganda.tex [4]
+(./introduction/background/theory/digital_learning.tex)))
+(./introduction/background/2_theory.tex))) [5]
 \openout2 = `methods/methods.aux'.
 
- (./methods/methods.tex
-[6
+ (./methods/methods.tex [6
 
 
 
 ]
 Chapter 2.
 (./methods/methodological_framework.tex
-(./methods/methodological-framework/methods_learning.tex
-
-Package natbib Warning: Citation `dirksen' on page 7 undefined on input line 7.
-
-
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
-ine 27.
-
-Package natbib Warning: Citation `cheong' on page 7 undefined on input line 27.
-
-
-
-LaTeX Warning: Reference `fig:revised-bloom' on page 7 undefined on input line 
-27.
-
-
-Package natbib Warning: Citation `heer' on page 7 undefined on input line 27.
-
-
-Package natbib Warning: Citation `krathwohl' on page 7 undefined on input line 
-27.
-
-[7] <fig/RevisedBloom.png, id=341, 1593.955pt x 1262.7175pt>
+(./methods/methodological-framework/methods_learning.tex [7]
+<fig/RevisedBloom.png, id=902, 1593.955pt x 1262.7175pt>
 File: fig/RevisedBloom.png Graphic file (type png)
 
 <use fig/RevisedBloom.png>
 Package pdftex.def Info: fig/RevisedBloom.png used on input line 31.
 (pdftex.def)             Requested size: 355.65944pt x 281.74855pt.
 
+Underfull \vbox (badness 6961) has occurred while \output is active []
 
-Package natbib Warning: Citation `gates' on page 8 undefined on input line 40.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [8 <./fig/RevisedBloom.png>]
-
-Package natbib Warning: Citation `yengin' on page 9 undefined on input line 42.
-
-
-
-Package natbib Warning: Citation `sierra' on page 9 undefined on input line 42.
-
-
-
-Package natbib Warning: Citation `sierra' on page 9 undefined on input line 42.
-
-
-
-LaTeX Warning: Reference `fig:sierra-practice' on page 9 undefined on input lin
-e 42.
-
-
-Package natbib Warning: Citation `sierra' on page 9 undefined on input line 42.
-
-
-
-Package natbib Warning: Citation `sierra' on page 9 undefined on input line 42.
-
-
-<fig/SierraPractice.png, id=353, 684.5575pt x 244.915pt>
+ [8 <./fig/RevisedBloom.png>] <fig/SierraPractice.png, id=931, 684.5575pt x 244
+.915pt>
 File: fig/SierraPractice.png Graphic file (type png)
 
 <use fig/SierraPractice.png>
 Package pdftex.def Info: fig/SierraPractice.png used on input line 46.
 (pdftex.def)             Requested size: 284.52863pt x 101.79851pt.
-
-
-Package natbib Warning: Citation `sierra' on page 9 undefined on input line 51.
-
-
-
-LaTeX Warning: Reference `sec:motivation' on page 9 undefined on input line 51.
-
-
-
-Package natbib Warning: Citation `sierra' on page 9 undefined on input line 53.
-
-
-[9 <./fig/SierraPractice.png>]
-
-Package natbib Warning: Citation `luckin' on page 10 undefined on input line 59
-.
-
-
-Package natbib Warning: Citation `bruhlmann' on page 10 undefined on input line
- 59.
-
-
-Package natbib Warning: Citation `sitzmann' on page 10 undefined on input line 
-65.
-
-
-Package natbib Warning: Citation `nicol' on page 10 undefined on input line 65.
-
-
-
-LaTeX Warning: Reference `figure:multiple-choice' on page 10 undefined on input
- line 65.
-
-<fig/multipleChoice.png, id=362, 728.7225pt x 210.7875pt>
+ [9 <./fig/SierraPractice.png>]
+<fig/multipleChoice.png, id=956, 728.7225pt x 210.7875pt>
 File: fig/multipleChoice.png Graphic file (type png)
 
 <use fig/multipleChoice.png>
-Package pdftex.def Info: fig/multipleChoice.png used on input line 69.
+Package pdftex.def Info: fig/multipleChoice.png used on input line 65.
 (pdftex.def)             Requested size: 284.52863pt x 82.30006pt.
-
-
-Package natbib Warning: Citation `nicol' on page 10 undefined on input line 70.
-
-
-
-Package natbib Warning: Citation `nicol' on page 10 undefined on input line 70.
-
-
-
-Package natbib Warning: Citation `dweck-youtube' on page 10 undefined on input 
-line 74.
-
-
-Package natbib Warning: Citation `dweck-youtube' on page 10 undefined on input 
-line 74.
-
-[10 <./fig/multipleChoice.png>]
-
-Package natbib Warning: Citation `stefano' on page 11 undefined on input line 7
-8.
-
-
-Package natbib Warning: Citation `luckin' on page 11 undefined on input line 78
-.
-
-
-Package natbib Warning: Citation `stefano' on page 11 undefined on input line 8
-0.
-
-
-Package natbib Warning: Citation `bjork' on page 11 undefined on input line 84.
-
-
-) (./methods/methodological-framework/methods_motivation.tex
+ [10 <./fig/multipleChoice.png>])
+(./methods/methodological-framework/methods_motivation.tex
 Overfull \hbox (1.67207pt too wide) in paragraph at lines 7--8
 []\T1/jkp/m/n/10 Achievement - the stu-dent is driven by ex-trin-sic mo-ti-va-t
 ions, to be re-warded 
  []
 
 
-Package natbib Warning: Citation `koballa' on page 11 undefined on input line 1
-1.
+Overfull \hbox (3.64008pt too wide) in paragraph at lines 11--12
+[][]\T1/jkp/m/n/10 Koballa and Glynn[] ([]2007[]) and [][]Abell and Le-d-er-man
+[] ([]2007[]) pro-vide an overview
+ []
 
-
-Package natbib Warning: Citation `abell' on page 11 undefined on input line 11.
-
-
-
-Package natbib Warning: Citation `fulmer' on page 11 undefined on input line 11
-.
-
-
-Package natbib Warning: Citation `deci' on page 11 undefined on input line 11.
-
-
-Package natbib Warning: Citation `ryan' on page 11 undefined on input line 11.
-
-
-Package natbib Warning: Citation `elliot' on page 11 undefined on input line 11
-.
-
-
-Package natbib Warning: Citation `eccles' on page 11 undefined on input line 11
-.
-
-
-Package natbib Warning: Citation `wigfield' on page 11 undefined on input line 
-11.
-
-
-Package natbib Warning: Citation `sierra' on page 11 undefined on input line 13
-.
-
-
-Package natbib Warning: Citation `sierra' on page 11 undefined on input line 13
-.
-
-
-LaTeX Warning: Reference `fig:sierra-summary' on page 11 undefined on input lin
-e 13.
-
-[11]
-
-Package natbib Warning: Citation `brinkerhoff' on page 12 undefined on input li
-ne 15.
-
-
-Package natbib Warning: Citation `brinkerhoff' on page 12 undefined on input li
-ne 15.
-
-<fig/SierraSummary.png, id=375, 631.35875pt x 347.2975pt>
+[11] <fig/SierraSummary.png, id=1019, 631.35875pt x 347.2975pt>
 File: fig/SierraSummary.png Graphic file (type png)
 
 <use fig/SierraSummary.png>
@@ -2705,174 +2419,34 @@ Package pdftex.def Info: fig/SierraSummary.png used on input line 19.
 (pdftex.def)             Requested size: 284.52863pt x 156.5156pt.
 
 
-Package natbib Warning: Citation `sierra' on page 12 undefined on input line 20
-.
+LaTeX Warning: Reference `sweller' on page 12 undefined on input line 26.
 
-
-Package natbib Warning: Citation `sierra' on page 12 undefined on input line 20
-.
-
-
-Package natbib Warning: Citation `sierra' on page 12 undefined on input line 26
-.
-
-
-Package natbib Warning: Citation `sierra' on page 12 undefined on input line 30
-.
-
-
-Package natbib Warning: Citation `sierra' on page 12 undefined on input line 32
-.
-
-
-Package natbib Warning: Citation `sierra' on page 12 undefined on input line 34
-.
-
-[12 <./fig/SierraSummary.png>]
-
-Package natbib Warning: Citation `gates' on page 13 undefined on input line 36.
-
-
-
-Package natbib Warning: Citation `sierra' on page 13 undefined on input line 46
-.
-
-
-Package natbib Warning: Citation `sierra' on page 13 undefined on input line 50
-.
-
-
-Package natbib Warning: Citation `sierra' on page 13 undefined on input line 56
-.
-
-
-Package natbib Warning: Citation `deci' on page 13 undefined on input line 58.
-
-
-Package natbib Warning: Citation `ryan' on page 13 undefined on input line 58.
-
-
-Package natbib Warning: Citation `pink' on page 13 undefined on input line 58.
-
-
-Package natbib Warning: Citation `gates' on page 13 undefined on input line 58.
-
-
-) [13] (./methods/methodological-framework/methods_design_process.tex
-Overfull \hbox (14.86652pt too wide) in paragraph at lines 5--6
-\T1/jkp/m/n/10 sug-gest how do de-velop soft-ware ef-fi-ciently. When-ever a pr
-oject is multi-disciplinary,
+[12 <./fig/SierraSummary.png>] [13])
+(./methods/methodological-framework/methods_design_process.tex
+Overfull \hbox (7.71858pt too wide) in paragraph at lines 5--6
+\T1/jkp/m/n/10 For ex-am-ple, ag-ile de-vel-op-ment sug-gest how do de-velop so
+ft-ware ef-fi-ciently. When-
  []
 
-
-Package natbib Warning: Citation `lowgren' on page 14 undefined on input line 7
-.
-
-
-Package natbib Warning: Citation `stickdorn' on page 14 undefined on input line
- 7.
-
-
-Package natbib Warning: Citation `stickdorn' on page 14 undefined on input line
- 9.
-
-
-Package natbib Warning: Citation `lowgren' on page 14 undefined on input line 1
-3.
-
-
-Package natbib Warning: Citation `stickdorn' on page 14 undefined on input line
- 13.
-
 [14]
-
-Package natbib Warning: Citation `lowgren' on page 15 undefined on input line 1
-5.
-
-
 Overfull \hbox (1.40999pt too wide) in paragraph at lines 15--16
 \T1/jkp/m/n/10 sur-pris-ing) so-lu-tion or de-sign can be achieved while work-i
 ng in a highly re-stricted
  []
 
-
-LaTeX Warning: Reference `digital-service-design' on page 15 undefined on input
- line 17.
-
-
-Package natbib Warning: Citation `lowgren' on page 15 undefined on input line 2
-0.
-
-
-Package natbib Warning: Citation `lowgren' on page 15 undefined on input line 2
-0.
-
-
-Package natbib Warning: Citation `lowgren' on page 15 undefined on input line 2
-2.
-
-
-Package natbib Warning: Citation `stickdorn' on page 15 undefined on input line
- 22.
-
-
-Package natbib Warning: Citation `stickdorn' on page 15 undefined on input line
- 26.
-
-[15]
-
-Package natbib Warning: Citation `lowgren' on page 16 undefined on input line 3
-0.
-
-
-Package natbib Warning: Citation `lowgren' on page 16 undefined on input line 3
-0.
-
-) (./methods/methodological-framework/methods_service_design.tex
-
-Package natbib Warning: Citation `stickdorn' on page 16 undefined on input line
- 3.
-
-
-Package natbib Warning: Citation `stickdorn' on page 16 undefined on input line
- 6.
-
-
+[15]) (./methods/methodological-framework/methods_service_design.tex
 Overfull \hbox (11.58199pt too wide) in paragraph at lines 8--9
 []\T1/jkp/m/n/10 He de-scribes how to fol-low these prin-ci-ples, by mak-ing th
 e pro-cess user-centered
  []
 
-
-Package natbib Warning: Citation `stickdorn' on page 16 undefined on input line
- 13.
-
-
-Package natbib Warning: Citation `expedition-mondial' on page 16 undefined on i
-nput line 13.
-
-
-LaTeX Warning: Reference `fig:iteration' on page 16 undefined on input line 13.
-
-
-<fig/Iteration.png, id=400, 496.85625pt x 589.20125pt>
+[16] <fig/Iteration.png, id=1131, 496.85625pt x 589.20125pt>
 File: fig/Iteration.png Graphic file (type png)
- <use fig/Iteration.png>
+
+<use fig/Iteration.png>
 Package pdftex.def Info: fig/Iteration.png used on input line 17.
 (pdftex.def)             Requested size: 248.96051pt x 295.23822pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Package natbib Warning: Citation `expedition-mondial' on page 16 undefined on i
-nput line 29.
-
-
-LaTeX Warning: Reference `fig:iterationprocess' on page 16 undefined on input l
-ine 29.
-
-[16] <fig/projectLoop.png, id=412, 610.28pt x 269.005pt>
+ <fig/projectLoop.png, id=1139, 610.28pt x 269.005pt>
 File: fig/projectLoop.png Graphic file (type png)
 
 <use fig/projectLoop.png>
@@ -2882,414 +2456,169 @@ Package pdftex.def Info: fig/projectLoop.png used on input line 40.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Package natbib Warning: Citation `lowgren' on page 17 undefined on input line 4
-8.
-
 [17 <./fig/Iteration.png>]
-
-Package natbib Warning: Citation `agile-manifesto' on page 18 undefined on inpu
-t line 50.
-
-
 Overfull \hbox (7.882pt too wide) in paragraph at lines 50--51
 \T1/jkp/m/n/10 you struc-ture and in-spire brain-storms, you can ask "What if..
 .?" and do Co-Creation,
  []
 
-
-Package natbib Warning: Citation `kniberg' on page 18 undefined on input line 5
-9.
-
-
-Package natbib Warning: Citation `expedition-mondial' on page 18 undefined on i
-nput line 61.
-
-) (./methods/methodological-framework/methods_digital_service_design.tex
-
-Package natbib Warning: Citation `nissar' on page 18 undefined on input line 3.
-
-
-
+[18 <./fig/projectLoop.png>])
+(./methods/methodological-framework/methods_digital_service_design.tex
 Overfull \hbox (4.02203pt too wide) in paragraph at lines 3--4
 \T1/jkp/m/n/10 The method com-bines the ben-e-fits of Ser-vice De-sign, Ag-ile 
 Method-olo-gies (namely
  []
 
-[18 <./fig/projectLoop.png>] [19])
-(./introduction/background/theory/app_development.tex [20]
-
-Package natbib Warning: Citation `cordova' on page 21 undefined on input line 9
-.
-
-
-Package natbib Warning: Citation `meteor' on page 21 undefined on input line 11
-.
-
-
-Package natbib Warning: Citation `heroku' on page 21 undefined on input line 13
-.
-
-
-Package natbib Warning: Citation `github' on page 21 undefined on input line 13
-.
-
-) (./methods/methodological-framework/methods_data_collection.tex
-
-Package natbib Warning: Citation `stickdorn' on page 21 undefined on input line
- 12.
-
-
-Package natbib Warning: Citation `expedition-mondial' on page 21 undefined on i
-nput line 12.
-
-[21]
-
-Package natbib Warning: Citation `stickdorn' on page 22 undefined on input line
- 14.
-
-
-Package natbib Warning: Citation `stickdorn' on page 22 undefined on input line
- 17.
-
-
-LaTeX Warning: Reference `cjmExample' on page 22 undefined on input line 17.
-
-<fig/analysis/cjmExample.png, id=450, 1009.7725pt x 737.75626pt>
+[19]) [20] (./introduction/background/theory/app_development.tex)
+(./methods/methodological-framework/methods_data_collection.tex [21]
+<fig/analysis/cjmExample.png, id=1220, 1009.7725pt x 737.75626pt>
 File: fig/analysis/cjmExample.png Graphic file (type png)
 
 <use fig/analysis/cjmExample.png>
-Package pdftex.def Info: fig/analysis/cjmExample.png used on input line 21.
+Package pdftex.def Info: fig/analysis/cjmExample.png used on input line 15.
 (pdftex.def)             Requested size: 248.96051pt x 181.89447pt.
 
+Underfull \vbox (badness 4954) has occurred while \output is active []
 
-Package natbib Warning: Citation `stickdorn' on page 22 undefined on input line
- 26.
-
-[22 <./fig/analysis/cjmExample.png>]
-
-Package natbib Warning: Citation `kniberg' on page 23 undefined on input line 3
-6.
-
-
-Package natbib Warning: Citation `lowgren' on page 23 undefined on input line 3
-6.
-
-
-LaTeX Warning: Reference `fig:corrHeatmap' on page 23 undefined on input line 3
-9.
-
-
-Package natbib Warning: Citation `timo-ropinski-liu' on page 23 undefined on in
-put line 41.
-
-
-LaTeX Warning: Reference `fig:uneTerre' on page 23 undefined on input line 41.
-
-<fig/analysis/terre.png, id=460, 537.50812pt x 248.42813pt>
+ [22 <./fig/analysis/cjmExample.png>]
+<fig/analysis/terre.png, id=1236, 537.50812pt x 248.42813pt>
 File: fig/analysis/terre.png Graphic file (type png)
 
 <use fig/analysis/terre.png>
-Package pdftex.def Info: fig/analysis/terre.png used on input line 45.
+Package pdftex.def Info: fig/analysis/terre.png used on input line 35.
 (pdftex.def)             Requested size: 248.96051pt x 115.06679pt.
-
-
-Package natbib Warning: Citation `une-terre' on page 23 undefined on input line
- 46.
-
-
-Package natbib Warning: Citation `une-terre' on page 23 undefined on input line
- 46.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<fig/analysis/rStatisticalAnalysis.png, id=461, 331.2375pt x 331.2375pt>
+ [23]
+<fig/analysis/rStatisticalAnalysis.png, id=1252, 331.2375pt x 331.2375pt>
 File: fig/analysis/rStatisticalAnalysis.png Graphic file (type png)
 
 <use fig/analysis/rStatisticalAnalysis.png>
 Package pdftex.def Info: fig/analysis/rStatisticalAnalysis.png used on input li
-ne 79.
-(pdftex.def)             Requested size: 248.96051pt x 248.9582pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-)) (./methods/setting_research_context.tex
-(./methods/setting-research-context/team.tex [23] [24 <./fig/analysis/terre.png
->]
-
-LaTeX Warning: Reference `aGoodDesigner' on page 25 undefined on input line 32.
-
-
-[25 <./fig/analysis/rStatisticalAnalysis.png>])
-Overfull \hbox (4.31198pt too wide) in paragraph at lines 41--6
-[]\T1/jkp/m/n/10 For ped-a-gog-i-cal de-vel-op-ment, Hen-rik Lund-mark from edt
-ech startup Knownly
+ne 69.
+(pdftex.def)             Requested size: 160.04565pt x 160.04347pt.
+ [24 <./fig/analysis/terre.png> <./fig/analysis/rStatisticalAnalysis.png>]))
+(./methods/setting_research_context.tex
+(./methods/setting-research-context/team.tex
+Overfull \hbox (0.75658pt too wide) in paragraph at lines 10--11
+\T1/jkp/m/n/10 The stake-hold-ers are con-sid-ered Young-Drive and Plan In-ter-
+na-tional. \T1/jkp/b/n/10 Young-Drive
  []
 
+[25
 
-Overfull \hbox (7.682pt too wide) in paragraph at lines 11--12
-[]\T1/jkp/m/n/10 Therefore, the whole de-sign and de-vel-op-ment pro-cess will 
-take place in Uganda,
- []
-
-) (./methods/subjects.tex
-Overfull \hbox (11.39392pt too wide) in paragraph at lines 3--4
-\T1/jkp/m/n/10 The fol-low-ing sec-tion de-scribes roles, busi-nesses, and coac
-h de-scrip-tions for Uganda
- []
-
-
-Underfull \vbox (badness 1303) has occurred while \output is active []
-
- [26]
-
-Package natbib Warning: Citation `mitchel' on page 27 undefined on input line 1
-1.
-
-
-Package natbib Warning: Citation `youngdrive-statistics' on page 27 undefined o
-n input line 23.
-
-
-LaTeX Warning: Reference `fig:ydStatistics' on page 27 undefined on input line 
-23.
-
-<fig/ydStatistics.png, id=488, 1102.1175pt x 107.40125pt>
+])) (./methods/subjects.tex [26]
+<fig/ydStatistics.png, id=1277, 1102.1175pt x 107.40125pt>
 File: fig/ydStatistics.png Graphic file (type png)
 
 <use fig/ydStatistics.png>
 Package pdftex.def Info: fig/ydStatistics.png used on input line 27.
 (pdftex.def)             Requested size: 248.96051pt x 24.26091pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[27]
-
-LaTeX Warning: Reference `fig:tororo' on page 28 undefined on input line 44.
-
-<fig/stayover.jpg, id=495, 1284.8pt x 722.7pt>
+ [27 <./fig/ydStatistics.png>]
+<fig/stayover.jpg, id=1288, 1284.8pt x 722.7pt>
 File: fig/stayover.jpg Graphic file (type jpg)
  <use fig/stayover.jpg>
-Package pdftex.def Info: fig/stayover.jpg used on input line 48.
+Package pdftex.def Info: fig/stayover.jpg used on input line 38.
 (pdftex.def)             Requested size: 248.96051pt x 140.03821pt.
- [28 <./fig/ydStatistics.png> <./fig/stayover.jpg>]
-
-Package natbib Warning: Citation `yd-zambia-interviews' on page 29 undefined on
- input line 60.
-
-) (./methods/study_design_data_collection.tex
+)
+(./methods/study_design_data_collection.tex [28 <./fig/stayover.jpg>]
 (./methods/study-design/implementation_design_process.tex [29]
+<fig/iterativeprocess2.png, id=1306, 1186.4325pt x 517.935pt>
+File: fig/iterativeprocess2.png Graphic file (type png)
 
-Package natbib Warning: Citation `lowgren' on page 30 undefined on input line 1
-9.
+<use fig/iterativeprocess2.png>
+Package pdftex.def Info: fig/iterativeprocess2.png used on input line 24.
+(pdftex.def)             Requested size: 355.65944pt x 155.26314pt.
 
-
-LaTeX Warning: Reference `fig:emSkype' on page 30 undefined on input line 36.
-
-<fig/emSkype.png, id=507, 1927.2pt x 1204.5pt>
+<fig/emSkype.png, id=1310, 1927.2pt x 1204.5pt>
 File: fig/emSkype.png Graphic file (type png)
  <use fig/emSkype.png>
-Package pdftex.def Info: fig/emSkype.png used on input line 40.
+Package pdftex.def Info: fig/emSkype.png used on input line 33.
 (pdftex.def)             Requested size: 355.65944pt x 222.27763pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (./methods/study-design/implementation_methods.tex
-
-LaTeX Warning: Reference `fig:methods' on page 30 undefined on input line 3.
-
-<fig/iterativeprocess2.png, id=508, 1186.4325pt x 517.935pt>
-File: fig/iterativeprocess2.png Graphic file (type png)
-
-<use fig/iterativeprocess2.png>
-Package pdftex.def Info: fig/iterativeprocess2.png used on input line 9.
-(pdftex.def)             Requested size: 355.65944pt x 155.26314pt.
-
-
-LaTeX Warning: Reference `digital-service-design' on page 30 undefined on input
- line 10.
-
-
-LaTeX Warning: Reference `digital-service-design' on page 30 undefined on input
- line 10.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) (./methods/study-design/iteration_1.tex
-
-Package natbib Warning: Citation `lowgren' on page 30 undefined on input line 5
-.
-
-[30]
-
-LaTeX Warning: Reference `fig:youthsession' on page 31 undefined on input line 
-18.
-
-[31 <./fig/emSkype.png>]
-<fig/youthsessionSmall.jpg, id=521, 803.0pt x 342.27875pt>
+) (./methods/study-design/iteration_1.tex [30 <./fig/iterativeprocess2.png>]
+<fig/youthsessionSmall.jpg, id=1323, 803.0pt x 342.27875pt>
 File: fig/youthsessionSmall.jpg Graphic file (type jpg)
 
 <use fig/youthsessionSmall.jpg>
-Package pdftex.def Info: fig/youthsessionSmall.jpg used on input line 22.
+Package pdftex.def Info: fig/youthsessionSmall.jpg used on input line 20.
 (pdftex.def)             Requested size: 248.96051pt x 106.12097pt.
-) (./methods/study-design/iteration_2.tex
-[32 <./fig/iterativeprocess2.png> <./fig/youthsessionSmall.jpg>]
 
-LaTeX Warning: Reference `fig:zambia' on page 33 undefined on input line 14.
 
-<fig/zambiaCreation.jpg, id=529, 803.0pt x 602.25pt>
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (./methods/study-design/iteration_2.tex [31 <./fig/emSkype.png>] [32 <./fig/y
+outhsessionSmall.jpg>] <fig/zambiaCreation.jpg, id=1344, 803.0pt x 602.25pt>
 File: fig/zambiaCreation.jpg Graphic file (type jpg)
 
 <use fig/zambiaCreation.jpg>
-Package pdftex.def Info: fig/zambiaCreation.jpg used on input line 27.
+Package pdftex.def Info: fig/zambiaCreation.jpg used on input line 25.
 (pdftex.def)             Requested size: 248.96051pt x 186.72313pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[33] [34 <./fig/zambiaCreation.jpg>]) (./methods/study-design/iteration_3.tex
-[35]) (./methods/study-design/iteration_4.tex
-
-Package natbib Warning: Citation `general-entrepreneurship-quiz' on page 36 und
-efined on input line 3.
-
-
-LaTeX Warning: Reference `pre-test' on page 36 undefined on input line 3.
-
-
-LaTeX Warning: Reference `fig:appevaluation' on page 36 undefined on input line
- 7.
-
-<fig/appevaluation.jpg, id=561, 2601.72pt x 1943.26pt>
+ [33 <./fig/zambiaCreation.jpg>])
+(./methods/study-design/iteration_3.tex [34])
+(./methods/study-design/iteration_4.tex
+<fig/appevaluation.jpg, id=1365, 2601.72pt x 1943.26pt>
 File: fig/appevaluation.jpg Graphic file (type jpg)
 
 <use fig/appevaluation.jpg>
-Package pdftex.def Info: fig/appevaluation.jpg used on input line 11.
+Package pdftex.def Info: fig/appevaluation.jpg used on input line 7.
 (pdftex.def)             Requested size: 248.96051pt x 185.94594pt.
+ [35])) (./methods/data_analysis_theory.tex [36 <./fig/appevaluation.jpg>] [37]
+ (./methods/data_analysis_theory/iteration_4.tex
+Overfull \hbox (6.00401pt too wide) in paragraph at lines 9--10
+\T1/jkp/m/n/10 readable for-mat, like CSV. Mul-ti-ple ap-proaches were tried, a
+nd the Google Chrome
+ []
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[36])) (./methods/application_implementation.tex [37 <./fig/appevaluation.jpg>]
-(./methods/application-implementation/iteration_1.tex
-
-Package natbib Warning: Citation `meteor' on page 38 undefined on input line 9.
-
-
-
-Package natbib Warning: Citation `ionic' on page 38 undefined on input line 9.
-
-
-Package natbib Warning: Citation `react' on page 38 undefined on input line 11.
-
-
-) (./methods/application-implementation/iteration_2.tex
-
-LaTeX Warning: Reference `progress-payoffs' on page 38 undefined on input line 
-4.
-
-[38]) (./methods/application-implementation/iteration_3.tex
-
-LaTeX Warning: Reference `backwards-capability' on page 39 undefined on input l
-ine 3.
-
-) (./methods/application-implementation/iteration_4.tex) [39])
-(./methods/data_analysis_theory.tex
-
-LaTeX Warning: Reference `sec:data-analysis' on page 40 undefined on input line
- 9.
-
-
-LaTeX Warning: Reference `sec:data-analysis' on page 40 undefined on input line
- 13.
-
-[40] (./methods/data_analysis_theory/iteration_4.tex
-
-Package natbib Warning: Citation `agaze' on page 41 undefined on input line 5.
-
-
-Overfull \hbox (15.96997pt too wide) in paragraph at lines 9--10
+Overfull \hbox (15.96997pt too wide) in paragraph at lines 13--14
 \T1/jkp/m/n/10 The Pre-study data ac-qui-si-tion was done by in-stead of look-i
 ng at the paper-submitted
  []
 
-[41]
-
-LaTeX Warning: Reference `resultsColored' on page 42 undefined on input line 17
-.
-
-<fig/analysis/resultsColored.png, id=608, 1927.2pt x 922.44624pt>
+<fig/analysis/resultsColored.png, id=1395, 1927.2pt x 922.44624pt>
 File: fig/analysis/resultsColored.png Graphic file (type png)
 
 <use fig/analysis/resultsColored.png>
 Package pdftex.def Info: fig/analysis/resultsColored.png used on input line 21.
 
 (pdftex.def)             Requested size: 248.96051pt x 119.16214pt.
- [42 <./fig/analysis/resultsColored.png>]
-
-LaTeX Warning: Reference `fig:analysFarg3' on page 43 undefined on input line 6
-5.
-
-<fig/analysis/analysFarg3.png, id=616, 1917.1625pt x 471.7625pt>
-File: fig/analysis/analysFarg3.png Graphic file (type png)
-
-<use fig/analysis/analysFarg3.png>
-Package pdftex.def Info: fig/analysis/analysFarg3.png used on input line 69.
-(pdftex.def)             Requested size: 248.96051pt x 61.25928pt.
- [43 <./fig/analysis/analysFarg3.png>]
-
-LaTeX Warning: Reference `parcoords' on page 44 undefined on input line 97.
-
-
-Overfull \hbox (5.23137pt too wide) in paragraph at lines 97--102
-[]\T1/jkp/m/n/10 A vi-sual frame-work for mul-ti-di-men-sional de-tec-tives for
- D3.js was found, called
- []
-
-
-LaTeX Warning: Reference `fig:parallell-coordinates-1' on page 44 undefined on 
-input line 105.
-
-<fig/analysis/parallellCoordinates1.png, id=625, 1204.5pt x 466.74374pt>
-File: fig/analysis/parallellCoordinates1.png Graphic file (type png)
-
-<use fig/analysis/parallellCoordinates1.png>
-Package pdftex.def Info: fig/analysis/parallellCoordinates1.png used on input l
-ine 109.
-(pdftex.def)             Requested size: 248.96051pt x 96.46649pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-))) [44] [45 <./fig/analysis/parallellCoordinates1.png>]
+[38] [39 <./fig/analysis/resultsColored.png>]
+<fig/analysis/analysFarg3.png, id=1411, 1917.1625pt x 471.7625pt>
+File: fig/analysis/analysFarg3.png Graphic file (type png)
+
+<use fig/analysis/analysFarg3.png>
+Package pdftex.def Info: fig/analysis/analysFarg3.png used on input line 67.
+(pdftex.def)             Requested size: 248.96051pt x 61.25928pt.
+ [40 <./fig/analysis/analysFarg3.png>]
+<fig/analysis/parallellCoordinates3.png, id=1427, 1836.8625pt x 923.45pt>
+File: fig/analysis/parallellCoordinates3.png Graphic file (type png)
+
+<use fig/analysis/parallellCoordinates3.png>
+Package pdftex.def Info: fig/analysis/parallellCoordinates3.png used on input l
+ine 93.
+(pdftex.def)             Requested size: 355.65944pt x 178.79681pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+)) (./methods/application_implementation.tex [41]
+(./methods/application-implementation/iteration_1.tex)
+(./methods/application-implementation/iteration_2.tex [42 <./fig/analysis/paral
+lellCoordinates3.png>]) (./methods/application-implementation/iteration_3.tex
+[43]) (./methods/application-implementation/iteration_4.tex))) [44]
 \openout2 = `result/result.aux'.
 
- (./result/result.tex
-[46
 
-
-
-]
+(./result/result.tex
 Chapter 3.
 (./result/application.tex
-
-LaTeX Warning: Reference `fig:iteration-map' on page 47 undefined on input line
- 1.
-
-
-LaTeX Warning: Reference `cha:developed-app' on page 47 undefined on input line
- 1.
-
-
-LaTeX Warning: Reference `fig:iteration-map' on page 47 undefined on input line
- 1.
-
-<fig/IterationMapLowRes.png, id=643, 4622.26875pt x 8662.3625pt>
+<fig/IterationMapLowRes.png, id=1466, 4622.26875pt x 8662.3625pt>
 File: fig/IterationMapLowRes.png Graphic file (type png)
 
 <use fig/IterationMapLowRes.png>
@@ -3302,44 +2631,15 @@ LaTeX Warning: Float too large for page by 12.37263pt on input line 8.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[47] [48 <./fig/IterationMapLowRes.png>]
-
-LaTeX Warning: Reference `fig:iteration-map' on page 49 undefined on input line
- 14.
+[45
 
 
-LaTeX Warning: Reference `fig:iteration-map' on page 49 undefined on input line
- 16.
 
+] [46 <./fig/IterationMapLowRes.png>] [47
 
-LaTeX Warning: Reference `fig:iteration-map' on page 49 undefined on input line
- 20.
-
-
-LaTeX Warning: Reference `fig:iteration-map' on page 49 undefined on input line
- 26.
-
-
-LaTeX Warning: Reference `fig:iteration-map' on page 49 undefined on input line
- 34.
-
-[49
-
-]
-
-LaTeX Warning: Reference `fig:iteration-map' on page 50 undefined on input line
- 36.
-
-) (./result/iteration1/iteration_1_opinions.tex
-
-Package natbib Warning: Citation `youngdrive-manual' on page 50 undefined on in
-put line 6.
-
-
-LaTeX Warning: Reference `fig:stakeholderInterview' on page 50 undefined on inp
-ut line 6.
-
-<fig/iteration1/stakeholderInterview.jpg, id=659, 1284.8pt x 722.7pt>
+])
+(./result/iteration1/iteration_1_opinions.tex
+<fig/iteration1/stakeholderInterview.jpg, id=1491, 1284.8pt x 722.7pt>
 File: fig/iteration1/stakeholderInterview.jpg Graphic file (type jpg)
 
 <use fig/iteration1/stakeholderInterview.jpg>
@@ -3350,13 +2650,8 @@ line 10.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[50]
-
-LaTeX Warning: Reference `youthSession1' on page 51 undefined on input line 41.
-
-
-[51 <./fig/iteration1/stakeholderInterview.jpg>]
-<fig/iteration1/youthSession.jpg, id=674, 1284.8pt x 722.7pt>
+[48] [49 <./fig/iteration1/stakeholderInterview.jpg>]
+<fig/iteration1/youthSession.jpg, id=1506, 1284.8pt x 722.7pt>
 File: fig/iteration1/youthSession.jpg Graphic file (type jpg)
 
 <use fig/iteration1/youthSession.jpg>
@@ -3365,10 +2660,7 @@ Package pdftex.def Info: fig/iteration1/youthSession.jpg used on input line 52.
 (pdftex.def)             Requested size: 284.52863pt x 160.0421pt.
 )
 (./result/iteration1/iteration_1_data.tex
-
-LaTeX Warning: Reference `fig:cjm' on page 52 undefined on input line 9.
-
-<fig/cjmWorkshop.jpg, id=675, 1284.8pt x 722.7pt>
+<fig/cjmWorkshop.jpg, id=1508, 1284.8pt x 722.7pt>
 File: fig/cjmWorkshop.jpg Graphic file (type jpg)
  <use fig/cjmWorkshop.jpg>
 Package pdftex.def Info: fig/cjmWorkshop.jpg used on input line 13.
@@ -3377,56 +2669,23 @@ Package pdftex.def Info: fig/cjmWorkshop.jpg used on input line 13.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[52 <./fig/iteration1/youthSession.jpg>]
-
-LaTeX Warning: Reference `purpose' on page 53 undefined on input line 28.
-
-
-LaTeX Warning: Reference `fig:quizoid' on page 53 undefined on input line 36.
-
-
-LaTeX Warning: Reference `fig:duolingo' on page 53 undefined on input line 36.
-
-
-LaTeX Warning: Reference `fig:smartphoneTest' on page 53 undefined on input lin
-e 36.
-
-<fig/quizoid.png, id=683, 453.695pt x 736.7525pt>
+[50 <./fig/iteration1/youthSession.jpg>] [51 <./fig/cjmWorkshop.jpg>]
+<fig/quizoid.png, id=1522, 453.695pt x 736.7525pt>
 File: fig/quizoid.png Graphic file (type png)
  <use fig/quizoid.png>
 Package pdftex.def Info: fig/quizoid.png used on input line 40.
-(pdftex.def)             Requested size: 248.96051pt x 404.28204pt.
+(pdftex.def)             Requested size: 177.82971pt x 288.77129pt.
 
-
-Package natbib Warning: Citation `quizoid' on page 53 undefined on input line 4
-1.
-
-
-Package natbib Warning: Citation `quizoid' on page 53 undefined on input line 4
-1.
-
-[53 <./fig/cjmWorkshop.jpg>]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<fig/duolingo.png, id=689, 1445.4pt x 903.375pt>
+<fig/duolingo.png, id=1527, 1445.4pt x 903.375pt>
 File: fig/duolingo.png Graphic file (type png)
  <use fig/duolingo.png>
 Package pdftex.def Info: fig/duolingo.png used on input line 47.
 (pdftex.def)             Requested size: 248.96051pt x 155.59802pt.
 
 
-Package natbib Warning: Citation `duolingo' on page 54 undefined on input line 
-48.
-
-
-Package natbib Warning: Citation `duolingo' on page 54 undefined on input line 
-48.
-
-
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/iteration1/smartphoneTest.jpg, id=690, 1284.8pt x 722.7pt>
+<fig/iteration1/smartphoneTest.jpg, id=1532, 1284.8pt x 722.7pt>
 File: fig/iteration1/smartphoneTest.jpg Graphic file (type jpg)
 
 <use fig/iteration1/smartphoneTest.jpg>
@@ -3437,169 +2696,81 @@ Package pdftex.def Info: fig/iteration1/smartphoneTest.jpg used on input line 5
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Overfull \hbox (16.05397pt too wide) in paragraph at lines 61--62
+[52 <./fig/quizoid.png>] [53 <./fig/duolingo.png> <./fig/iteration1/smartphoneT
+est.jpg>]) (./result/iteration1/iteration_1_together.tex
+Overfull \hbox (16.05397pt too wide) in paragraph at lines 63--1
 \T1/jkp/m/n/10 ing the de-vice, un-der-stand-ing ad-vanced games, or train-ing 
 lan-guages us-ing Duolingo
  []
 
-) (./result/iteration1/iteration_1_together.tex
 
-LaTeX Warning: Reference `purpose' on page 54 undefined on input line 7.
+Overfull \hbox (5.092pt too wide) in paragraph at lines 13--14
+\T1/jkp/m/n/10 teach-ing sit-u-a-tion among the youth group, a great coach can 
+teach an en-trepreneur-
+ []
 
+[54
 
-LaTeX Warning: Reference `learning-assessment' on page 54 undefined on input li
-ne 7.
-
-
-LaTeX Warning: Reference `rq1' on page 54 undefined on input line 11.
-
-
-Package natbib Warning: Citation `sierra' on page 54 undefined on input line 13
-.
-
-[54]) (./result/iteration2/iteration_2_opinions.tex [55] [56])
-(./result/iteration2/iteration_2_data.tex
-Underfull \vbox (badness 3354) has occurred while \output is active []
-
- [57]
-[58]
-
-LaTeX Warning: Reference `fig:zambiaWorkshop2' on page 59 undefined on input li
-ne 31.
-
-<fig/zambiaWorkshop2small.jpg, id=723, 803.0pt x 489.83pt>
+]) (./result/iteration2/iteration_2_opinions.tex [55]
+<fig/zambiaWorkshop2small.jpg, id=1562, 803.0pt x 489.83pt>
 File: fig/zambiaWorkshop2small.jpg Graphic file (type jpg)
 
 <use fig/zambiaWorkshop2small.jpg>
-Package pdftex.def Info: fig/zambiaWorkshop2small.jpg used on input line 36.
-(pdftex.def)             Requested size: 248.96051pt x 151.86815pt.
+Package pdftex.def Info: fig/zambiaWorkshop2small.jpg used on input line 15.
+(pdftex.def)             Requested size: 320.09132pt x 195.25584pt.
+) (./result/iteration2/iteration_2_data.tex
+[56 <./fig/zambiaWorkshop2small.jpg>] [57] [58])
+(./result/iteration2/iteration_2_together.tex
+Underfull \vbox (badness 3354) has occurred while \output is active []
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) (./result/iteration2/iteration_2_together.tex
-
-LaTeX Warning: Reference `rq' on page 59 undefined on input line 3.
-
-
-Package natbib Warning: Citation `bloom' on page 59 undefined on input line 14.
-
-
-[59] [60]
-
-Package natbib Warning: Citation `dweck' on page 61 undefined on input line 31.
-
-
-[61]) (./result/iteration3/iteration_3_opinions.tex
-
-LaTeX Warning: Reference `fig:iteration-map' on page 62 undefined on input line
- 8.
-
-[62] [63]
-
-LaTeX Warning: Reference `fig:areYouReady' on page 64 undefined on input line 6
-1.
-
-<fig/analysis/areYouSureQuiz.png, id=762, 623.32875pt x 514.92375pt>
-File: fig/analysis/areYouSureQuiz.png Graphic file (type png)
-
-<use fig/analysis/areYouSureQuiz.png>
-Package pdftex.def Info: fig/analysis/areYouSureQuiz.png used on input line 65.
-
-(pdftex.def)             Requested size: 284.52863pt x 235.04495pt.
- [64]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: Reference `fig:iteration-map' on page 65 undefined on input line
- 70.
-
-[65]
-
-LaTeX Warning: Reference `future-work' on page 66 undefined on input line 85.
-
-) (./result/iteration3/iteration_3_data.tex
-
-LaTeX Warning: Reference `fig:summativeTest' on page 66 undefined on input line
- 6.
-
-
-LaTeX Warning: Reference `fig:computerTest' on page 66 undefined on input line 
-6.
-
-
-LaTeX Warning: Reference `fig:iteration3data' on page 66 undefined on input lin
-e 10.
-
-<fig/analysis/iteration3data.png, id=773, 553.06625pt x 678.535pt>
+ [59]
+[60] [61]) (./result/iteration3/iteration_3_opinions.tex [62] [63])
+(./result/iteration3/iteration_3_data.tex [64]
+<fig/analysis/iteration3data.png, id=1622, 553.06625pt x 678.535pt>
 File: fig/analysis/iteration3data.png Graphic file (type png)
 
 <use fig/analysis/iteration3data.png>
-Package pdftex.def Info: fig/analysis/iteration3data.png used on input line 16.
+Package pdftex.def Info: fig/analysis/iteration3data.png used on input line 14.
 
 (pdftex.def)             Requested size: 284.52863pt x 349.07152pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<fig/iteration3/appTestTablet.jpg, id=774, 3035.34pt x 4047.12pt>
+<fig/iteration3/appTestTablet.jpg, id=1623, 3035.34pt x 4047.12pt>
 File: fig/iteration3/appTestTablet.jpg Graphic file (type jpg)
 
 <use fig/iteration3/appTestTablet.jpg>
-Package pdftex.def Info: fig/iteration3/appTestTablet.jpg used on input line 25
+Package pdftex.def Info: fig/iteration3/appTestTablet.jpg used on input line 23
 .
-(pdftex.def)             Requested size: 284.52863pt x 379.35481pt.
+(pdftex.def)             Requested size: 142.2616pt x 189.64653pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/iteration3/appTestComputer.jpg, id=775, 4047.12pt x 3035.34pt>
+<fig/iteration3/appTestComputer.jpg, id=1624, 4047.12pt x 3035.34pt>
 File: fig/iteration3/appTestComputer.jpg Graphic file (type jpg)
 
 <use fig/iteration3/appTestComputer.jpg>
 Package pdftex.def Info: fig/iteration3/appTestComputer.jpg used on input line 
-32.
+30.
 (pdftex.def)             Requested size: 284.52863pt x 213.3755pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+[65 <./fig/analysis/iteration3data.png>] [66 <./fig/iteration3/appTestTablet.jp
+g>] [67 <./fig/iteration3/appTestComputer.jpg>])
+(./result/iteration3/iteration_3_workshops.tex
+<fig/analysis/areYouSureQuiz.png, id=1645, 623.32875pt x 514.92375pt>
+File: fig/analysis/areYouSureQuiz.png Graphic file (type png)
 
-LaTeX Warning: Reference `fig:iteration-map' on page 66 undefined on input line
- 37.
+<use fig/analysis/areYouSureQuiz.png>
+Package pdftex.def Info: fig/analysis/areYouSureQuiz.png used on input line 7.
+(pdftex.def)             Requested size: 284.52863pt x 235.04495pt.
+ [68
 
-[66]) (./result/iteration3/iteration_3_together.tex [67]
-
-LaTeX Warning: Reference `cha:discussion' on page 68 undefined on input line 9.
-
-
-
-Package natbib Warning: Citation `sierra' on page 68 undefined on input line 18
-.
-
-
-Package natbib Warning: Citation `sierra' on page 68 undefined on input line 22
-.
-
-
-Package natbib Warning: Citation `sitzmann' on page 68 undefined on input line 
-24.
-
-[68]) (./result/iteration4/iteration_4_opinions.tex
-
-LaTeX Warning: Reference `fig:learning' on page 69 undefined on input line 3.
-
-
-LaTeX Warning: Reference `fig:interactiondesign' on page 69 undefined on input 
-line 3.
-
-
-LaTeX Warning: Reference `fig:servicedesign' on page 69 undefined on input line
- 3.
-
-<fig/iteration4qualitative_learning.png, id=796, 769.87625pt x 554.07pt>
+ <./fig/analysis/areYouSureQuiz.png>]
+[69]) (./result/iteration3/iteration_3_together.tex [70] [71])
+(./result/iteration4/iteration_4_opinions.tex
+<fig/iteration4qualitative_learning.png, id=1683, 769.87625pt x 554.07pt>
 File: fig/iteration4qualitative_learning.png Graphic file (type png)
 
 <use fig/iteration4qualitative_learning.png>
@@ -3607,12 +2778,8 @@ Package pdftex.def Info: fig/iteration4qualitative_learning.png used on input l
 ine 7.
 (pdftex.def)             Requested size: 355.65944pt x 255.96591pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-<fig/iteration4qualitative_interactiondesign.png, id=797, 537.00626pt x 747.793
-75pt>
+<fig/iteration4qualitative_interactiondesign.png, id=1684, 537.00626pt x 747.79
+375pt>
 File: fig/iteration4qualitative_interactiondesign.png Graphic file (type png)
  <use fig/iteration4qualitative_interactiondesign.png>
 Package pdftex.def Info: fig/iteration4qualitative_interactiondesign.png used o
@@ -3623,9 +2790,10 @@ n input line 14.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<fig/iteration4qualitative_servicedesign.png, id=798, 600.2425pt x 534.99875pt>
+<fig/iteration4qualitative_servicedesign.png, id=1685, 600.2425pt x 534.99875pt
+>
 File: fig/iteration4qualitative_servicedesign.png Graphic file (type png)
-<use fig/iteration4qualitative_servicedesign.png>
+ <use fig/iteration4qualitative_servicedesign.png>
 Package pdftex.def Info: fig/iteration4qualitative_servicedesign.png used on in
 put line 21.
 (pdftex.def)             Requested size: 355.65944pt x 317.00981pt.
@@ -3633,300 +2801,90 @@ put line 21.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (./result/iteration4/iteration_4_data.tex
+[72 <./fig/iteration4qualitative_learning.png>] [73 <./fig/iteration4qualitativ
+e_interactiondesign.png>] [74 <./fig/iteration4qualitative_servicedesign.png>])
+(./result/iteration4/iteration_4_data.tex
 Overfull \hbox (1.50398pt too wide) in paragraph at lines 14--15
 \T1/jkp/m/n/10 For the first time, au-to-matic data col-lec-tion was used, whic
 h in-creased the amount
  []
 
-
-LaTeX Warning: Reference `fig:analysFarg3' on page 69 undefined on input line 1
-7.
-
-<fig/analysis/analys4spreadsheet.png, id=799, 1749.53625pt x 332.24126pt>
+<fig/analysis/analys4spreadsheet.png, id=1705, 1749.53625pt x 332.24126pt>
 File: fig/analysis/analys4spreadsheet.png Graphic file (type png)
 
 <use fig/analysis/analys4spreadsheet.png>
 Package pdftex.def Info: fig/analysis/analys4spreadsheet.png used on input line
  21.
 (pdftex.def)             Requested size: 355.65944pt x 67.53703pt.
+ [75
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[69]
-Overfull \hbox (3.68994pt too wide) in paragraph at lines 38--39
-[]\T1/jkp/m/n/10 First-hand in-sights be-fore the par-al-lell co-or-di-nates we
-re that there was a strong
+ <./fig/analysis/analys4spreadsheet.png>]
+Overfull \hbox (0.52995pt too wide) in paragraph at lines 38--39
+[]\T1/jkp/m/n/10 First-hand in-sights be-fore the par-al-lel co-or-di-nates wer
+e that there was a strong
  []
 
-[70]
-
-LaTeX Warning: Reference `fig:terre' on page 71 undefined on input line 48.
-
-
-LaTeX Warning: Reference `fig:parallellCoordinates3' on page 71 undefined on in
-put line 48.
-
-<fig/analysis/parallellCoordinates3.png, id=814, 1836.8625pt x 923.45pt>
-File: fig/analysis/parallellCoordinates3.png Graphic file (type png)
-
-<use fig/analysis/parallellCoordinates3.png>
-Package pdftex.def Info: fig/analysis/parallellCoordinates3.png used on input l
-ine 52.
-(pdftex.def)             Requested size: 355.65944pt x 178.79681pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+[76]
 File: fig/analysis/terre.png Graphic file (type png)
-<use fig/analysis/terre.png>
-Package pdftex.def Info: fig/analysis/terre.png used on input line 59.
-(pdftex.def)             Requested size: 355.65944pt x 164.38005pt.
+ <use fig/analysis/terre.png>
+Package pdftex.def Info: fig/analysis/terre.png used on input line 52.
+(pdftex.def)             Requested size: 320.09132pt x 147.93976pt.
+File: fig/analysis/parallellCoordinates3.png Graphic file (type png)
+ <use fig/analysis/parallellCoordinates3.png>
+Package pdftex.def Info: fig/analysis/parallellCoordinates3.png used on input l
+ine 59.
+(pdftex.def)             Requested size: 320.09132pt x 160.91573pt.
 
-
-Package natbib Warning: Citation `une-terre' on page 71 undefined on input line
- 60.
-
-
-Package natbib Warning: Citation `une-terre' on page 71 undefined on input line
- 60.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: Reference `fig:quiz9pl' on page 71 undefined on input line 89.
-
-[71]
-<fig/analysis/paralellCoordinatesWomen.png, id=822, 1204.5pt x 404.51125pt>
+[77]
+<fig/analysis/paralellCoordinatesWomen.png, id=1736, 1204.5pt x 404.51125pt>
 File: fig/analysis/paralellCoordinatesWomen.png Graphic file (type png)
 
 <use fig/analysis/paralellCoordinatesWomen.png>
 Package pdftex.def Info: fig/analysis/paralellCoordinatesWomen.png used on inpu
-t line 95.
+t line 97.
 (pdftex.def)             Requested size: 355.65944pt x 119.44087pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-)) [72] [73 <./fig/quizoid.png>] [74 <./fig/duolingo.png> <./fig/iteration1/sma
-rtphoneTest.jpg>] [75 <./fig/zambiaWorkshop2small.jpg> <./fig/analysis/areYouSu
-reQuiz.png>] [76 <./fig/analysis/iteration3data.png>] [77 <./fig/iteration3/app
-TestTablet.jpg>] [78 <./fig/iteration3/appTestComputer.jpg>] [79 <./fig/iterati
-on4qualitative_learning.png>] [80 <./fig/iteration4qualitative_interactiondesig
-n.png>] [81 <./fig/iteration4qualitative_servicedesign.png> <./fig/analysis/ana
-lys4spreadsheet.png>] [82 <./fig/analysis/parallellCoordinates3.png>] [83 <./fi
-g/analysis/paralellCoordinatesWomen.png>]
+)) [78
+
+] [79 <./fig/analysis/paralellCoordinatesWomen.png>]
 \openout2 = `discussion/discussion.aux'.
 
- (./discussion/discussion.tex [84
+
+(./discussion/discussion.tex [80
 
 
 
 ]
 Chapter 4.
-(./discussion/1_dev_by_tech_limitations.tex
-
-Package natbib Warning: Citation `youngdrive-statistics' on page 85 undefined o
-n input line 5.
-
-
-Package natbib Warning: Citation `nicol' on page 85 undefined on input line 9.
-
-[85]
-
-Package natbib Warning: Citation `une-terre' on page 86 undefined on input line
- 16.
-
-
-Package natbib Warning: Citation `ropinski' on page 86 undefined on input line 
-16.
-
-[86]
-
-LaTeX Warning: Reference `future-work' on page 87 undefined on input line 34.
-
-
-Overfull \hbox (16.1999pt too wide) in paragraph at lines 34--35
-\T1/jkp/m/n/10 It would be highly in-ter-est-ing to com-pare the quiz re-sults 
-be-tween dif-fer-ent itreations
- []
-
-) (./discussion/2_situation_affects_design.tex
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 20.98103pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[87]
-
-Package natbib Warning: Citation `lowgren' on page 88 undefined on input line 9
-.
-
-
-Package natbib Warning: Citation `stickdorn' on page 88 undefined on input line
- 9.
-
-
-Package natbib Warning: Citation `ruskovaara' on page 88 undefined on input lin
-e 13.
-
-
-Package natbib Warning: Citation `ruskovaara' on page 88 undefined on input lin
-e 13.
-
-
-Package natbib Warning: Citation `dickson' on page 88 undefined on input line 1
-5.
-
-
-Package natbib Warning: Citation `dickson' on page 88 undefined on input line 1
-5.
-
-[88]
+(./discussion/1_dev_by_tech_limitations.tex [81] [82])
+(./discussion/2_situation_affects_design.tex [83] [84]
 Overfull \hbox (6.10995pt too wide) in paragraph at lines 36--37
 []\T1/jkp/m/n/10 continually de-sign and run work-shops and tests suit-able for
  the tar-get groups 
  []
 
+[85])
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Package natbib Warning: Citation `stickdorn' on page 89 undefined on input line
- 43.
+ [86]
+(./discussion/3_test_questions.tex
+Underfull \vbox (badness 1215) has occurred while \output is active []
 
+ [87]
+[88]) (./discussion/4_how_design_affects_usability_learning.tex
+Underfull \vbox (badness 1400) has occurred while \output is active []
 
-Package natbib Warning: Citation `stickdorn' on page 89 undefined on input line
- 52.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 20.98103pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[89]
-
-Package natbib Warning: Citation `ruskovaara' on page 90 undefined on input lin
-e 67.
-
-
-Package natbib Warning: Citation `stickdorn' on page 90 undefined on input line
- 69.
-
-) [90] (./discussion/3_test_questions.tex
-
-Package natbib Warning: Citation `nicol' on page 91 undefined on input line 5.
-
-
-LaTeX Warning: Reference `fig:revised-bloom' on page 91 undefined on input line
- 5.
-
-
-Package natbib Warning: Citation `nicol' on page 91 undefined on input line 9.
-
-
-LaTeX Warning: Reference `fig:multiple-choice' on page 91 undefined on input li
-ne 9.
-
-
-Package natbib Warning: Citation `krathwohl' on page 91 undefined on input line
- 25.
-
-
-Underfull \vbox (badness 3118) has occurred while \output is active []
-
- [91]
-
-Package natbib Warning: Citation `nicol' on page 92 undefined on input line 27.
-
-
-
-LaTeX Warning: Reference `sec:future-work-4' on page 92 undefined on input line
- 32.
-
-
-LaTeX Warning: Reference `fig:learning' on page 92 undefined on input line 36.
-
-
-LaTeX Warning: Reference `fig:interactiondesign' on page 92 undefined on input 
-line 36.
-
-[92]
-Overfull \hbox (2.89684pt too wide) in paragraph at lines 44--44
-[][][][]\T1/jkp/m/n/10 Improve 
- []
-
-
-Overfull \hbox (2.89684pt too wide) in paragraph at lines 44--44
-[][][][]\T1/jkp/m/n/10 Improve 
- []
-
-
-Overfull \hbox (2.89684pt too wide) in paragraph at lines 44--44
-[][][][]\T1/jkp/m/n/10 Improve 
- []
-
-
-Overfull \hbox (2.89684pt too wide) in paragraph at lines 44--44
-[][][][]\T1/jkp/m/n/10 Improve 
- []
-
-) (./discussion/4_how_design_affects_usability_learning.tex
-
-Package natbib Warning: Citation `sierra' on page 93 undefined on input line 5.
-
-
-
-Package natbib Warning: Citation `sierra' on page 93 undefined on input line 11
-.
-
-
-Package natbib Warning: Citation `nicol' on page 93 undefined on input line 13.
-
-
-[93]
-
-Package natbib Warning: Citation `sierra' on page 94 undefined on input line 30
-.
-
-
-Package natbib Warning: Citation `sierra' on page 94 undefined on input line 35
-.
-
-[94]
-
-Package natbib Warning: Citation `nicol' on page 95 undefined on input line 41.
-
-
-) (./discussion/5_user_feedback.tex
-
-Package natbib Warning: Citation `stickdorn' on page 95 undefined on input line
- 7.
-
-
-LaTeX Warning: Reference `digital-service-design' on page 95 undefined on input
- line 9.
-
-[95]
-
-Package natbib Warning: Citation `stickdorn' on page 96 undefined on input line
- 13.
-
-
-Package natbib Warning: Citation `stickdorn' on page 96 undefined on input line
- 15.
-
-
-Package natbib Warning: Citation `lowgren' on page 96 undefined on input line 1
-7.
-
-)) [96]
+ [89]
+[90]) (./discussion/5_user_feedback.tex [91])) [92]
 \openout2 = `conclusion/conclusion.aux'.
 
- (./conclusion/conclusion.tex
+
+(./conclusion/conclusion.tex
 Chapter 5.
-[97
+[93
 
 
 
@@ -3942,30 +2900,19 @@ Overfull \hbox (13.50055pt too wide) in paragraph at lines 42--43
 ns, the self-confidence
  []
 
-[98]
-
-LaTeX Warning: Reference `mini-sprint' on page 99 undefined on input line 49.
-
-(./discussion/future_work.tex
+[94] (./discussion/future_work.tex
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 20.98103pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[99] [100
+[95] [96
 
 ]
 Chapter 6.
-
-LaTeX Warning: Reference `purpose' on page 101 undefined on input line 5.
-
 (./discussion/future_work_1.tex
-
-LaTeX Warning: Reference `unprocessedData' on page 101 undefined on input line 
-6.
-
-<fig/analysis/unprocessedData.png, id=1002, 1778.645pt x 939.51pt>
+<fig/analysis/unprocessedData.png, id=1899, 1778.645pt x 939.51pt>
 File: fig/analysis/unprocessedData.png Graphic file (type png)
 
 <use fig/analysis/unprocessedData.png>
@@ -3976,101 +2923,195 @@ Package pdftex.def Info: fig/analysis/unprocessedData.png used on input line 10
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[101] [102 <./fig/analysis/unprocessedData.png>]
+[97] [98 <./fig/analysis/unprocessedData.png>]) (./discussion/future_work_2.tex
 
-Package natbib Warning: Citation `voto-mobile' on page 103 undefined on input l
-ine 43.
-
-) (./discussion/future_work_2.tex [103]
-
-Package natbib Warning: Citation `dweck-youtube' on page 104 undefined on input
- line 18.
-
-[104]) (./discussion/future_work_3.tex [105]
-Overfull \hbox (9.662pt too wide) in paragraph at lines 23--24
-[]\T1/jkp/m/n/10 An app with self-evaluation and mon-i-tor-ing, would help keep
- the coach thought-
+Overfull \hbox (1.84996pt too wide) in paragraph at lines 3--4
+\T1/jkp/m/n/10 There were many things to con-sider when de-sign-ing for the con
+-tex-tual con-straints.
  []
 
-[106]
 
-Package natbib Warning: Citation `yengin' on page 107 undefined on input line 3
-3.
+Underfull \vbox (badness 1308) has occurred while \output is active []
 
-) (./discussion/future_work_4.tex
-
-Package natbib Warning: Citation `bjork' on page 107 undefined on input line 19
-.
-
-[107]
-
-Package natbib Warning: Citation `youngdrive-masterthesis-idea' on page 108 und
-efined on input line 22.
-
-
-Package natbib Warning: Citation `bjork' on page 108 undefined on input line 34
-.
-
-[108]
-
-Package natbib Warning: Citation `memorize' on page 109 undefined on input line
- 37.
-
-
-Package natbib Warning: Citation `gates' on page 109 undefined on input line 41
-.
-
-
-LaTeX Warning: Reference `fig:bite-size' on page 109 undefined on input line 48
-.
-
-<fig/biteSize.jpg, id=1063, 3914.625pt x 1947.275pt>
+ [99]
+[100]) (./discussion/future_work_3.tex [101] [102])
+(./discussion/future_work_4.tex [103] [104] [105]
+<fig/biteSize.jpg, id=1962, 3914.625pt x 1947.275pt>
 File: fig/biteSize.jpg Graphic file (type jpg)
  <use fig/biteSize.jpg>
-Package pdftex.def Info: fig/biteSize.jpg used on input line 52.
+Package pdftex.def Info: fig/biteSize.jpg used on input line 46.
 (pdftex.def)             Requested size: 284.52863pt x 141.52295pt.
+)
+(./discussion/future_work_5.tex
+Underfull \vbox (badness 5802) has occurred while \output is active []
+
+ [106 <./fig/biteSize.jpg>]))) [107] (./main.bbl (./main.brf)
+\tf@brf=\write7
+\openout7 = `main.brf'.
+
+ [108
+
+
+] [109]
+Underfull \hbox (badness 2717) in paragraph at lines 139--139
+[]\T1/jkp/m/n/10 C. Dweck.  The power of be-liev-ing that you can im-prove.  []
+$\T1/pcr/m/n/10 https :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
+\T1/pcr/m/n/10 / / www . ted . com / talks / carol _ dweck _ the _ power _ of _
+ believing _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--177
+\T1/pcr/m/n/10 wp-[]content / uploads / 2015 / 09 / RevisedBloomsHandout-[]1 . 
+pdf$[]\T1/jkp/m/n/10 ,
+ []
+
+[110]
+Underfull \hbox (badness 10000) in paragraph at lines 220--220
+[]\T1/jkp/m/n/10 H. Lopez.  Par-al-lel co-or-di-nates: Read out pat-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--220
+\T1/jkp/m/n/10 terns.  []$\T1/pcr/m/n/10 http : / / une-[]terre . blogspot . se
+ / 2012 / 09 /
+ []
+
+
+Underfull \hbox (badness 7362) in paragraph at lines 279--279
+[]\T1/jkp/m/n/10 S. Nis-sar.  So-cial in-no-va-tion and en-trepreneur-ship in u
+ganda. why
+ []
+
+
+Underfull \hbox (badness 4217) in paragraph at lines 279--279
+\T1/jkp/m/n/10 mo-bile ser-vices are grow-ing fast in the area.  []$\T1/pcr/m/n
+/10 http : / / bit . ly /
+ []
+
+[111]
+Underfull \hbox (badness 10000) in paragraph at lines 345--345
+\T1/pcr/m/n/10 detail / magic-[]json / cajifcebjiflndefndbnoeenjpiiiagm ? hl =
+ []
+
+) (./main_outro.tex [112]
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 23.63593pt on input line 1.
+ [113
+
+] [114]
+\openout2 = `appendix/app_images.aux'.
+
+ (./appendix/app_images.tex
+Appendix A.
+<fig/app/iteration4/a4.png, id=2050, 2622.79875pt x 4673.46pt>
+File: fig/app/iteration4/a4.png Graphic file (type png)
+
+<use fig/app/iteration4/a4.png>
+Package pdftex.def Info: fig/app/iteration4/a4.png used on input line 7.
+(pdftex.def)             Requested size: 117.36826pt x 209.08434pt.
+
+<fig/app/iteration4/b4.png, id=2051, 2619.7875pt x 4655.3925pt>
+File: fig/app/iteration4/b4.png Graphic file (type png)
+
+<use fig/app/iteration4/b4.png>
+Package pdftex.def Info: fig/app/iteration4/b4.png used on input line 14.
+(pdftex.def)             Requested size: 117.36826pt x 208.56017pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (./discussion/future_work_5.tex [109] [110 <./fig/biteSize.jpg>]))) [111]
-(./main.bbl) (./main_outro.tex [112
+<fig/app/iteration4/c4.png, id=2052, 2619.7875pt x 4655.3925pt>
+File: fig/app/iteration4/c4.png Graphic file (type png)
+
+<use fig/app/iteration4/c4.png>
+Package pdftex.def Info: fig/app/iteration4/c4.png used on input line 21.
+(pdftex.def)             Requested size: 117.36826pt x 208.56017pt.
 
 
-]
-LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 23.63593pt on input line 1.
- [113] [114]
-\openout2 = `appendix/time_plan.aux'.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
- (./appendix/time_plan.tex
-Appendix A.
-(./appendix/original_time_plan.tex [115
+<fig/app/iteration4/d4.png, id=2053, 1768.6075pt x 1551.7975pt>
+File: fig/app/iteration4/d4.png Graphic file (type png)
+
+<use fig/app/iteration4/d4.png>
+Package pdftex.def Info: fig/app/iteration4/d4.png used on input line 28.
+(pdftex.def)             Requested size: 177.82971pt x 156.01758pt.
 
 
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
- [116]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+<fig/app/iteration4/e4.png, id=2054, 2619.7875pt x 4655.3925pt>
+File: fig/app/iteration4/e4.png Graphic file (type png)
 
- [117]))
-[118]
+<use fig/app/iteration4/e4.png>
+Package pdftex.def Info: fig/app/iteration4/e4.png used on input line 35.
+(pdftex.def)             Requested size: 117.36826pt x 208.56017pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<fig/app/iteration4/f4.png, id=2055, 2622.79875pt x 4655.3925pt>
+File: fig/app/iteration4/f4.png Graphic file (type png)
+
+<use fig/app/iteration4/f4.png>
+Package pdftex.def Info: fig/app/iteration4/f4.png used on input line 42.
+(pdftex.def)             Requested size: 117.36826pt x 208.27602pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<fig/app/iteration4/g4.png, id=2056, 2619.7875pt x 4655.3925pt>
+File: fig/app/iteration4/g4.png Graphic file (type png)
+
+<use fig/app/iteration4/g4.png>
+Package pdftex.def Info: fig/app/iteration4/g4.png used on input line 49.
+(pdftex.def)             Requested size: 117.36826pt x 208.56017pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<fig/app/iteration4/h4.png, id=2057, 5317.8675pt x 4658.40375pt>
+File: fig/app/iteration4/h4.png Graphic file (type png)
+
+<use fig/app/iteration4/h4.png>
+Package pdftex.def Info: fig/app/iteration4/h4.png used on input line 56.
+(pdftex.def)             Requested size: 177.82971pt x 155.7394pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<fig/app/iteration4/i4.png, id=2058, 2622.79875pt x 4655.3925pt>
+File: fig/app/iteration4/i4.png Graphic file (type png)
+
+<use fig/app/iteration4/i4.png>
+Package pdftex.def Info: fig/app/iteration4/i4.png used on input line 63.
+(pdftex.def)             Requested size: 117.36826pt x 208.27602pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [115
+
+
+ <./fig/app/iteration4/a4.png>] [116 <./fig/app/iteration4/b4.png> <./fig/app/i
+teration4/c4.png>] [117 <./fig/app/iteration4/d4.png> <./fig/app/iteration4/e4.
+png>] [118 <./fig/app/iteration4/f4.png> <./fig/app/iteration4/g4.png>]
+[119 <./fig/app/iteration4/h4.png> <./fig/app/iteration4/i4.png>]
 \openout2 = `appendix/pre_test.aux'.
 
- (./appendix/pre_test.tex
+
+(./appendix/pre_test.tex [120
+
+
+
+]
 Appendix B.
-
-LaTeX Warning: Reference `fig:pretest1' on page 119 undefined on input line 3.
-
-
-LaTeX Warning: Reference `fig:pretest2' on page 119 undefined on input line 3.
-
-
-Package natbib Warning: Citation `general-entrepreneurship-quiz' on page 119 un
-defined on input line 3.
-
-<fig/pretest/pretestA.png, id=1121, 864.22874pt x 1072.005pt>
+<fig/pretest/pretestA.png, id=2106, 864.22874pt x 1072.005pt>
 File: fig/pretest/pretestA.png Graphic file (type png)
 
 <use fig/pretest/pretestA.png>
@@ -4078,17 +3119,9 @@ Package pdftex.def Info: fig/pretest/pretestA.png used on input line 7.
 (pdftex.def)             Requested size: 355.65944pt x 441.16064pt.
 
 
-Package natbib Warning: Citation `general-entrepreneurship-quiz' on page 119 un
-defined on input line 8.
-
-
-Package natbib Warning: Citation `general-entrepreneurship-quiz' on page 119 un
-defined on input line 8.
-
-
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/pretest/pretestB.png, id=1122, 865.2325pt x 1080.035pt>
+<fig/pretest/pretestB.png, id=2111, 865.2325pt x 1080.035pt>
 File: fig/pretest/pretestB.png Graphic file (type png)
 
 <use fig/pretest/pretestB.png>
@@ -4096,63 +3129,92 @@ Package pdftex.def Info: fig/pretest/pretestB.png used on input line 14.
 (pdftex.def)             Requested size: 355.65944pt x 443.95435pt.
 
 
-Package natbib Warning: Citation `general-entrepreneurship-quiz' on page 119 un
-defined on input line 15.
-
-
-Package natbib Warning: Citation `general-entrepreneurship-quiz' on page 119 un
-defined on input line 15.
-
-
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [119
+) [121] [122 <./fig/pretest/pretestA.png>] [123 <./fig/pretest/pretestB.png>]
+\openout2 = `appendix/time_plan.aux'.
 
 
-
-] [120 <./fig/pretest/pretestA.png>] [121 <./fig/pretest/pretestB.png>]
-\openout2 = `appendix/app_images.aux'.
-
-
-(./appendix/app_images.tex [122
+(./appendix/time_plan.tex [124
 
 
 
 ]
 Appendix C.
+(./appendix/original_time_plan.tex [125]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Reference `developed-application' on page 123 undefined on input
- line 3.
+ [126]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [127]))
+[128]) (./main.ind)
+<fig/LinkUniv_sv_vert_col.pdf, id=2154, 259.30878pt x 172.23346pt>
+File: fig/LinkUniv_sv_vert_col.pdf Graphic file (type pdf)
 
-LaTeX Warning: Reference `fig:a4' on page 123 undefined on input line 3.
+<use fig/LinkUniv_sv_vert_col.pdf>
+Package pdftex.def Info: fig/LinkUniv_sv_vert_col.pdf used on input line 42.
+(pdftex.def)             Requested size: 77.10475pt x 51.21495pt.
 
+Overfull \hbox (0.16193pt too wide) in paragraph at lines 42--42
+\T1/jkp/m/n/10 and its pro-ce-dures for pub-li-ca-tion and for as-sur-ance of d
+oc-u-ment in-tegrity, please
+ []
 
-LaTeX Warning: Reference `fig:b4' on page 123 undefined on input line 3.
-
-
-LaTeX Warning: Reference `fig:c4' on page 123 undefined on input line 3.
-
-
-LaTeX Warning: Reference `fig:d4' on page 123 undefined on input line 3.
-
-
-LaTeX Warning: Reference `fig:e4' on page 123 undefined on input line 3.
-
-
-LaTeX Warning: Reference `fig:f4' on page 123 undefined on input line 3.
-
-
-LaTeX Warning: Reference `fig:g4' on page 123 undefined on input line 3.
-
-<fig/app/iteration4/a4.png, id=1144, 2622.79875pt x 4673.46pt>
-File: fig/app/iteration4/a4.png Graphic file (type png)
-
-<use fig/app/iteration4/a4.png>
-Package pdftex.def Info: fig/app/iteration4/a4.png used on input line 7.
-(pdftex.def)             Requested size: 284.52863pt x 506.95108pt.
+[129
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/
+ <./fig/LinkUniv_sv_vert_col.pdf>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 42.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 42.
+ (./main.aux (./thanks/thanks.aux)
+(./introduction/introduction.aux) (./methods/methods.aux) (./result/result.aux)
+(./discussion/discussion.aux) (./conclusion/conclusion.aux)
+(./appendix/app_images.aux) (./appendix/pre_test.aux) (./appendix/time_plan.aux
+))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 42.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 42.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 7FA2ABE36A0300F037CAF82B2B7F9479;12016.
+Package rerunfilecheck Info: File `main.brf' has not changed.
+(rerunfilecheck)             Checksum: 48E80B7B1DE1EB9F96C8A040BC6AAAC7;9003.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 42.
+ ) 
+Here is how much of TeX's memory you used:
+ 25148 strings out of 493089
+ 443125 string characters out of 6134842
+ 527592 words of memory out of 5000000
+ 27185 multiletter control sequences out of 15000+600000
+ 219755 words of font info for 180 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 69i,12n,78p,1226b,703s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
+exlive/2015/texmf-dist/fonts/enc/dvips/kpfonts/kpfonts-expert.enc}</usr/local/t
+exlive/2015/texmf-dist/fonts/type1/public/kpfonts/jkpbn8a.pfb></usr/local/texli
+ve/2015/texmf-dist/fonts/type1/public/kpfonts/jkpbn8a.pfb></usr/local/texlive/2
+015/texmf-dist/fonts/type1/public/kpfonts/jkpmit8a.pfb></usr/local/texlive/2015
+/texmf-dist/fonts/type1/public/kpfonts/jkpmn8a.pfb></usr/local/texlive/2015/tex
+mf-dist/fonts/type1/public/kpfonts/jkpmn8a.pfb></usr/local/texlive/2015/texmf-d
+ist/fonts/type1/public/kpfonts/jkpmnc.pfb></usr/local/texlive/2015/texmf-dist/f
+onts/type1/public/kpfonts/jkpmne.pfb></usr/local/texlive/2015/texmf-dist/fonts/
+type1/public/kpfonts/jkpmne.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1
+/public/kpfonts/jkpmsc8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pu
+blic/kpfonts/jkpsya.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/cou
+rier/ucrr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/courier/ucr
+ro8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pf
+b>
+Output written on main.pdf (143 pages, 40062351 bytes).
+PDF statistics:
+ 2319 PDF objects out of 2487 (max. 8388607)
+ 2033 compressed objects within 21 object streams
+ 502 named destinations out of 1000 (max. 500000)
+ 19793 words of extra memory for PDF output out of 20736 (max. 10000000)
+

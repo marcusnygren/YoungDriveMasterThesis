@@ -1,11 +1,9 @@
-For iteration 3, as components grew, there was a need for a client-side router. The Meteor plugin Flow Router was used, as it was very popular with good integrations.
+\subsection{Enabling Data Collection}
 
-For iteration 3, there was also a need to store data per individual, partly because the feature was prioritized from YoungDrive, but also because of the purpose of data collection. In order to store data per individual, a database and login would be needed. Because of technical difficulties, login and automatic data collection was not implemented until iteration 4, which can be read more about in the Discussion in \ref{backwards-capability}.
+For iteration 3, as components grew, there was a need for a client-side router. The Meteor plugin Flow Router was used, as it was very popular with good integrations. For iteration 3, there was also a need to store data per individual, partly because the feature was prioritized from YoungDrive, but also because of the purpose of data collection. In order to store data per individual, a database and login would be needed. Because of technical difficulties, login and automatic data collection was not implemented until iteration 4, which can be read more about in the Discussion in \ref{backwards-capability}.
 
-\subsection{Login}
-To record data per user, would require login. This would be a usability issue for most problems, being 1st-time smartphone users. They need to find it intuitive, user-friendly, and be able to remember the password in the future. A lot of different suggestions were through the ideation phase.
-
-The simplest login possible was chosen, after evaluation and discussion with experts: a 3-digit code, which was to be given to each coach during the test. Meteor had limitations with their auto-login module, which is very fast to implement. Thus, a 3-digit login was written manually. To summarize, the front-end was not problematic, however, implementing server-client communication so that it worked online and offline, was.
+\subsubsection{Login}
+To record data per user, would require login. This would be a usability issue for most problems, being first-time smartphone users. They need to find it intuitive, user-friendly, and be able to remember the password in the future. A lot of different suggestions were through the ideation phase. The simplest login possible was chosen, after evaluation and discussion with experts: a 3-digit code, which was to be given to each coach during the test. Meteor had limitations with their auto-login module, which is very fast to implement. Thus, a 3-digit login was written manually. To summarize, the front-end was not problematic, however, implementing server-client communication so that it worked online and offline, was.
 
 %Jag pratade med flera om detta, Expedition Mondial och Grameen. Från EM lärde jag mig att de trodde min idé med en färdiggjort lista med coachernas namn (vi vet ju vilka som är i Tororo) skulle fungera, och från Grameen fick jag höra om dera erfarenhet att de validerat använda samma approach, med en PIN (längre än 4 siffror dock), men att de inte nailat konceptet ännu, och att de också itererar på sin approach för nästa uppdatering av LedgerLink.
 
@@ -16,7 +14,5 @@ The simplest login possible was chosen, after evaluation and discussion with exp
 \subsubsection{Online and Offline Database}
 If data was to be sent from the client to the server, there needs to be a database with Meteor Collections. An example app was made first, only using Meteor Collections. Meteor's use of Distributed Data Protocol (DDP), made app pushes feel immediate, even though data was not sent until there was Internet access.
 
-However, it was found out that if it took more than 15 minutes to get online, the push would be aborted. For users that are seldom online, this would not be viable.
-
-An offline database was needed, and the plugin GroundDB was implemented. As it was cumbersome to get right, pushing the data whenever online, and hard to test (needed to wait 15 minutes each time), this was not ready for the interactions until Iteration 4. As a consequence, until iteration 4 of the app, no results were saved online via the app whatsoever.
+However, it was found out that if it took more than 15 minutes to get online, the push would be aborted. For users that are seldom online, this would not be viable. An offline database was needed, and the plugin GroundDB was implemented. As it was cumbersome to get right, pushing the data whenever online, and hard to test (needed to wait 15 minutes each time), this was not ready for the interactions until Iteration 4. As a consequence, until iteration 4 of the app, no results were saved online via the app whatsoever.
 
