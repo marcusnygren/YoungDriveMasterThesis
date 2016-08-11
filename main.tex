@@ -12,7 +12,7 @@
   noparts% Use option 'noparts' if you do not make use of part divisions.
 ]{rtthesisClass/rtthesis}
 
-\setcounter{secnumdepth}{3}
+%\setcounter{secnumdepth}{3}
 
 \usepackage{mythesis}
 \DeclareUnicodeCharacter{00A0}{ }
@@ -30,15 +30,14 @@
 \include{theory/theory}
 \include{methods/methods}
 \include{result/result}
-%\include{analysis/analysis}
 \include{discussion/discussion}
 \include{conclusion/conclusion}
+%
+\bibliography{IEEEfull,references/myrefs}
+%
+\input{main_outro}
 
 %\include{rtthesis-doc}
-
-\bibliography{IEEEfull,references/myrefs}
-
-\input{main_outro}
 
 \printindex
 

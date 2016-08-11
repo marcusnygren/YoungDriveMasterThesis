@@ -99,36 +99,54 @@
 \BOOKMARK [2][-]{subsection.5.4.1}{5.4.1 Benefits with Confidence Level and Correctness in Combination}{section.5.4}% 99
 \BOOKMARK [2][-]{subsection.5.4.2}{5.4.2 Deciding on Learning Methods}{section.5.4}% 100
 \BOOKMARK [1][-]{section.5.5}{5.5 How Can Users' Feedback be Used to Inform Modifications of the App?}{chapter.5}% 101
-\BOOKMARK [0][]{chapter.6}{6 Conclusions}{}% 102
-\BOOKMARK [1][-]{section.6.1}{6.1 Contribution to the Domain of Entrepreneurship Education in a Developing Country Context}{chapter.6}% 103
-\BOOKMARK [1][-]{section.6.2}{6.2 Demonstration of how Certain Technical Constraints and Design Constraints can be Overcome in a Developing World Context}{chapter.6}% 104
-\BOOKMARK [1][-]{section.6.3}{6.3 Provided Methods of Investigating Usability and Learnings with a Digital Training Tool in the Real-World Entrepreneurship Training Context}{chapter.6}% 105
-\BOOKMARK [1][-]{section.6.4}{6.4 Created New Methods in Service Design, when Co-Designing Digital Artefacts in a Developing Country Context}{chapter.6}% 106
-\BOOKMARK [0][]{chapter.7}{7 Future Work}{}% 107
-\BOOKMARK [1][-]{section.7.1}{7.1 How is the Development Affected by the Technical Possibilities?}{chapter.7}% 108
-\BOOKMARK [2][-]{subsection.7.1.1}{7.1.1 Data Analysis Improvements}{section.7.1}% 109
-\BOOKMARK [2][-]{subsection.7.1.2}{7.1.2 Code Quality}{section.7.1}% 110
-\BOOKMARK [2][-]{subsection.7.1.3}{7.1.3 Availability in More Countries}{section.7.1}% 111
-\BOOKMARK [2][-]{subsection.7.1.4}{7.1.4 Availability on All Android Devices}{section.7.1}% 112
-\BOOKMARK [2][-]{subsection.7.1.5}{7.1.5 Availability on Feature Phones}{section.7.1}% 113
-\BOOKMARK [2][-]{subsection.7.1.6}{7.1.6 Reaching Statistical Significance}{section.7.1}% 114
-\BOOKMARK [1][-]{section.7.2}{7.2 How is the Design Affected by the Contextual Constraints?}{chapter.7}% 115
-\BOOKMARK [2][-]{subsection.7.2.1}{7.2.1 Replacing the Teacher}{section.7.2}% 116
-\BOOKMARK [2][-]{subsection.7.2.2}{7.2.2 Scaffolding the Coach Guides}{section.7.2}% 117
-\BOOKMARK [2][-]{subsection.7.2.3}{7.2.3 More Time Designing the App for Different Need Groups}{section.7.2}% 118
-\BOOKMARK [2][-]{subsection.7.2.4}{7.2.4 Training the Coaches with Using a Smartphone}{section.7.2}% 119
-\BOOKMARK [1][-]{section.7.3}{7.3 How can Test Questions be Developed to Support Entrepreneurship Learning?}{chapter.7}% 120
-\BOOKMARK [2][-]{subsection.7.3.1}{7.3.1 Designing for honesty with "Are you sure?"}{section.7.3}% 121
-\BOOKMARK [2][-]{subsection.7.3.2}{7.3.2 Self-Reflection After a Youth Session}{section.7.3}% 122
-\BOOKMARK [2][-]{subsection.7.3.3}{7.3.3 Avoiding Memorization of Answers}{section.7.3}% 123
-\BOOKMARK [2][-]{subsection.7.3.4}{7.3.4 Improving the Questions}{section.7.3}% 124
-\BOOKMARK [1][-]{section.7.4}{7.4 How does Design Affect Usability and Learning Done via the App?}{chapter.7}% 125
-\BOOKMARK [2][-]{subsection.7.4.1}{7.4.1 Assessing Coach Guide Knowledge Before the Youth Session}{section.7.4}% 126
-\BOOKMARK [2][-]{subsection.7.4.2}{7.4.2 Using a Flashcards Approach}{section.7.4}% 127
-\BOOKMARK [2][-]{subsection.7.4.3}{7.4.3 Adding more media channels to more closely simulate the learning environment}{section.7.4}% 128
-\BOOKMARK [2][-]{subsection.7.4.4}{7.4.4 Improvements to the Certification Mode}{section.7.4}% 129
-\BOOKMARK [2][-]{subsection.7.4.5}{7.4.5 Improvements training Correct Structure and Time Management}{section.7.4}% 130
-\BOOKMARK [2][-]{subsection.7.4.6}{7.4.6 Scaffolding with Flashcards}{section.7.4}% 131
-\BOOKMARK [2][-]{subsection.7.4.7}{7.4.7 Memory Design}{section.7.4}% 132
-\BOOKMARK [2][-]{subsection.7.4.8}{7.4.8 Sharing with One Another}{section.7.4}% 133
-\BOOKMARK [2][-]{subsection.7.4.9}{7.4.9 Including the P
+\BOOKMARK [1][-]{section.5.6}{5.6 Summary}{chapter.5}% 102
+\BOOKMARK [0][]{chapter.6}{6 Conclusions}{}% 103
+\BOOKMARK [1][-]{section.6.1}{6.1 Contribution to the Domain of Entrepreneurship Education in a Developing Country Context}{chapter.6}% 104
+\BOOKMARK [1][-]{section.6.2}{6.2 Demonstration of how Certain Technical Constraints and Design Constraints can be Overcome in a Developing World Context}{chapter.6}% 105
+\BOOKMARK [1][-]{section.6.3}{6.3 Provided Methods of Investigating Usability and Learnings with a Digital Training Tool in the Real-World Entrepreneurship Training Context}{chapter.6}% 106
+\BOOKMARK [1][-]{section.6.4}{6.4 Created New Methods in Service Design, when Co-Designing Digital Artefacts in a Developing Country Context}{chapter.6}% 107
+\BOOKMARK [0][]{chapter.7}{7 Future Work}{}% 108
+\BOOKMARK [1][-]{section.7.1}{7.1 How is the Development Affected by the Technical Possibilities?}{chapter.7}% 109
+\BOOKMARK [2][-]{subsection.7.1.1}{7.1.1 Data Analysis Improvements}{section.7.1}% 110
+\BOOKMARK [2][-]{subsection.7.1.2}{7.1.2 Code Quality}{section.7.1}% 111
+\BOOKMARK [2][-]{subsection.7.1.3}{7.1.3 Availability in More Countries}{section.7.1}% 112
+\BOOKMARK [2][-]{subsection.7.1.4}{7.1.4 Availability on All Android Devices}{section.7.1}% 113
+\BOOKMARK [2][-]{subsection.7.1.5}{7.1.5 Availability on Feature Phones}{section.7.1}% 114
+\BOOKMARK [2][-]{subsection.7.1.6}{7.1.6 Reaching Statistical Significance}{section.7.1}% 115
+\BOOKMARK [1][-]{section.7.2}{7.2 How is the Design Affected by the Contextual Constraints?}{chapter.7}% 116
+\BOOKMARK [2][-]{subsection.7.2.1}{7.2.1 Replacing the Teacher}{section.7.2}% 117
+\BOOKMARK [2][-]{subsection.7.2.2}{7.2.2 Scaffolding the Coach Guides}{section.7.2}% 118
+\BOOKMARK [2][-]{subsection.7.2.3}{7.2.3 More Time Designing the App for Different Need Groups}{section.7.2}% 119
+\BOOKMARK [2][-]{subsection.7.2.4}{7.2.4 Training the Coaches with Using a Smartphone}{section.7.2}% 120
+\BOOKMARK [1][-]{section.7.3}{7.3 How can Test Questions be Developed to Support Entrepreneurship Learning?}{chapter.7}% 121
+\BOOKMARK [2][-]{subsection.7.3.1}{7.3.1 Designing for honesty with "Are you sure?"}{section.7.3}% 122
+\BOOKMARK [2][-]{subsection.7.3.2}{7.3.2 Self-Reflection After a Youth Session}{section.7.3}% 123
+\BOOKMARK [2][-]{subsection.7.3.3}{7.3.3 Avoiding Memorization of Answers}{section.7.3}% 124
+\BOOKMARK [2][-]{subsection.7.3.4}{7.3.4 Improving the Questions}{section.7.3}% 125
+\BOOKMARK [1][-]{section.7.4}{7.4 How does Design Affect Usability and Learning Done via the App?}{chapter.7}% 126
+\BOOKMARK [2][-]{subsection.7.4.1}{7.4.1 Assessing Coach Guide Knowledge Before the Youth Session}{section.7.4}% 127
+\BOOKMARK [2][-]{subsection.7.4.2}{7.4.2 Using a Flashcards Approach}{section.7.4}% 128
+\BOOKMARK [2][-]{subsection.7.4.3}{7.4.3 Adding more media channels to more closely simulate the learning environment}{section.7.4}% 129
+\BOOKMARK [2][-]{subsection.7.4.4}{7.4.4 Improvements to the Certification Mode}{section.7.4}% 130
+\BOOKMARK [2][-]{subsection.7.4.5}{7.4.5 Improvements training Correct Structure and Time Management}{section.7.4}% 131
+\BOOKMARK [2][-]{subsection.7.4.6}{7.4.6 Scaffolding with Flashcards}{section.7.4}% 132
+\BOOKMARK [2][-]{subsection.7.4.7}{7.4.7 Memory Design}{section.7.4}% 133
+\BOOKMARK [2][-]{subsection.7.4.8}{7.4.8 Sharing with One Another}{section.7.4}% 134
+\BOOKMARK [2][-]{subsection.7.4.9}{7.4.9 Including the Paper Manuals in the App}{section.7.4}% 135
+\BOOKMARK [1][-]{section.7.5}{7.5 How can Users' Feedback be Used to Inform Modifications of the App?}{chapter.7}% 136
+\BOOKMARK [2][-]{subsection.7.5.1}{7.5.1 Educator Dashboard}{section.7.5}% 137
+\BOOKMARK [2][-]{subsection.7.5.2}{7.5.2 To Answer the Research Question More Elegantly}{section.7.5}% 138
+\BOOKMARK [0][]{appendix.A}{A Appendix A: Images of Developed Application}{}% 139
+\BOOKMARK [0][]{appendix.B}{B Appendix B: Pre-Test}{}% 140
+\BOOKMARK [0][]{appendix.C}{C Appendix C: Time Plans and Activities}{}% 141
+\BOOKMARK [1][-]{section.C.1}{C.1 Original Time Plan and Activities}{appendix.C}% 142
+\BOOKMARK [2][-]{subsection.C.1.1}{C.1.1 Before Uganda}{section.C.1}% 143
+\BOOKMARK [2][-]{subsection.C.1.2}{C.1.2 In Uganda}{section.C.1}% 144
+\BOOKMARK [2][-]{subsection.C.1.3}{C.1.3 After Uganda}{section.C.1}% 145
+\BOOKMARK [2][-]{subsection.C.1.4}{C.1.4 After Semester}{section.C.1}% 146
+\BOOKMARK [1][-]{section.C.2}{C.2 Revised Time Plan and Activities}{appendix.C}% 147
+\BOOKMARK [2][-]{subsection.C.2.1}{C.2.1 Iteration 1: Uganda Coach Visit}{section.C.2}% 148
+\BOOKMARK [2][-]{subsection.C.2.2}{C.2.2 Iteration 2: Zambia Coach Training}{section.C.2}% 149
+\BOOKMARK [2][-]{subsection.C.2.3}{C.2.3 Iteration 3: Uganda Formative Test}{section.C.2}% 150
+\BOOKMARK [2][-]{subsection.C.2.4}{C.2.4 Iteration 4: Uganda Summative Test}{section.C.2}% 151
+\BOOKMARK [0][]{Copyright.0}{Copyright}{}% 152
