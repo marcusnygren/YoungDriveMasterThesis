@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.24)  8 AUG 2016 20:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.24)  11 AUG 2016 22:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1606,60 +1606,53 @@ File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.0 (rcs-revision 1.7)
 LaTeX Warning: Unused global option(s):
     [emarginparagraphs(notrecommended!).largesmallcaps].
 
-(./main.aux (./thanks/thanks.aux) (./introduction/introduction.aux)
-(./methods/methods.aux) (./result/result.aux
-
-LaTeX Warning: Label `fig:analysFarg3' multiply defined.
-
-) (./discussion/discussion.aux) (./conclusion/conclusion.aux)
-(./appendix/app_images.aux) (./appendix/pre_test.aux) (./appendix/time_plan.aux
-))
+(./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/jkpw/m/it on input line 21.
-LaTeX Font Info:    Try loading font information for OML+jkpw on input line 21.
+LaTeX Font Info:    Checking defaults for OML/jkpw/m/it on input line 24.
+LaTeX Font Info:    Try loading font information for OML+jkpw on input line 24.
 
  (/usr/local/texlive/2015/texmf-dist/tex/latex/kpfonts/omljkpw.fd
 File: omljkpw.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/jkpw/m/n on input line 21.
-LaTeX Font Info:    Try loading font information for OMS+jkpw on input line 21.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/jkpw/m/n on input line 24.
+LaTeX Font Info:    Try loading font information for OMS+jkpw on input line 24.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/kpfonts/omsjkpw.fd
 File: omsjkpw.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/jkp/m/n on input line 21.
-LaTeX Font Info:    Try loading font information for OMX+jkp on input line 21.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/jkp/m/n on input line 24.
+LaTeX Font Info:    Try loading font information for OMX+jkp on input line 24.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/kpfonts/omxjkp.fd
 File: omxjkp.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/jkpexa/m/n on input line 21.
-LaTeX Font Info:    Try loading font information for U+jkpexa on input line 21.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/jkpexa/m/n on input line 24.
+LaTeX Font Info:    Try loading font information for U+jkpexa on input line 24.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/kpfonts/ujkpexa.fd
 File: ujkpexa.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 21.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 24.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Try loading font information for T1+jkp on input line 21.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Try loading font information for T1+jkp on input line 24.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/kpfonts/t1jkp.fd
 File: t1jkp.fd 2007/01/24 Fontinst v1.928 font definitions for T1/jkp.
@@ -1730,424 +1723,424 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 Package pdfcprot Info: I didn't find jkpbnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 24.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/pdfcprot/pplmnT1.cpa)
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
-LaTeX Font Info:    Try loading font information for TS1+jkp on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
+LaTeX Font Info:    Try loading font information for TS1+jkp on input line 24.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/kpfonts/ts1jkp.fd
 File: ts1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for TS1/jkp.
 )
 Package pdfcprot Info: I didn't find jkpbnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 24
 .
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/pdfcprot/pplmnTS1.cpa)
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 Package pdfcprot Info: I didn't find jkpbnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 24.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 Package pdfcprot Info: I didn't find jkpbnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 24
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 Package pdfcprot Info: I didn't find jkpbnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 24.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 Package pdfcprot Info: I didn't find jkpbnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 24
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 Package pdfcprot Info: I didn't find jkpbnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 24.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 Package pdfcprot Info: I didn't find jkpbnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 24
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 24.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 21.
+(Font)              scaled to size 9.49997pt on input line 24.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 9.49997pt on input line 21.
+(Font)              scaled to size 9.49997pt on input line 24.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 11.39996pt on input line 21.
+(Font)              scaled to size 11.39996pt on input line 24.
 Package pdfcprot Info: I didn't find phvbnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 24.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
-LaTeX Font Info:    Try loading font information for TS1+phv on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
+LaTeX Font Info:    Try loading font information for TS1+phv on input line 24.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ts1phv.fd
 File: ts1phv.fd 2001/06/04 scalable font definitions for TS1/phv.
 )
 LaTeX Font Info:    Font shape `TS1/phv/b/n' will be
-(Font)              scaled to size 11.39996pt on input line 21.
+(Font)              scaled to size 11.39996pt on input line 24.
 Package pdfcprot Info: I didn't find phvbnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 24
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 Package pdfcprot Info: I didn't find phvbnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 24.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 LaTeX Font Info:    Font shape `TS1/phv/b/n' will be
-(Font)              scaled to size 9.49997pt on input line 21.
+(Font)              scaled to size 9.49997pt on input line 24.
 Package pdfcprot Info: I didn't find phvbnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 24
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 8.54997pt on input line 21.
+(Font)              scaled to size 8.54997pt on input line 24.
 Package pdfcprot Info: I didn't find phvbnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 24.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 LaTeX Font Info:    Font shape `TS1/phv/b/n' will be
-(Font)              scaled to size 8.54997pt on input line 21.
+(Font)              scaled to size 8.54997pt on input line 24.
 Package pdfcprot Info: I didn't find phvbnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 24
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 7.59998pt on input line 21.
+(Font)              scaled to size 7.59998pt on input line 24.
 Package pdfcprot Info: I didn't find phvbnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 24.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 LaTeX Font Info:    Font shape `TS1/phv/b/n' will be
-(Font)              scaled to size 7.59998pt on input line 21.
+(Font)              scaled to size 7.59998pt on input line 24.
 Package pdfcprot Info: I didn't find phvbnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 24
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 Package pdfcprot Info: I didn't find jkpmnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 24.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 Package pdfcprot Info: I didn't find jkpmnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 24
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 Package pdfcprot Info: I didn't find jkpmnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 24.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 Package pdfcprot Info: I didn't find jkpmnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 24
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 Package pdfcprot Info: I didn't find jkpmnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 24.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 Package pdfcprot Info: I didn't find jkpmnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 24
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 Package pdfcprot Info: I didn't find jkpmnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 24.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 Package pdfcprot Info: I didn't find jkpmnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 24
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 Package pdfcprot Info: I didn't find jkpmitT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 24.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 Package pdfcprot Info: I didn't find jkpmitTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 24
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 Package pdfcprot Info: I didn't find jkpmitT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 24.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 Package pdfcprot Info: I didn't find jkpmitTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 24
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 Package pdfcprot Info: I didn't find jkpmitT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 24.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 Package pdfcprot Info: I didn't find jkpmitTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 24
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 Package pdfcprot Info: I didn't find jkpmitT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 24.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 Package pdfcprot Info: I didn't find jkpmitTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 24
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 11.39996pt on input line 21.
+(Font)              scaled to size 11.39996pt on input line 24.
 Package pdfcprot Info: I didn't find phvmnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 24.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
-(Font)              scaled to size 11.39996pt on input line 21.
+(Font)              scaled to size 11.39996pt on input line 24.
 Package pdfcprot Info: I didn't find phvmnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 24
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 Package pdfcprot Info: I didn't find phvmnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 24.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 21.
+(Font)              scaled to size 9.49997pt on input line 24.
 Package pdfcprot Info: I didn't find phvmnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 24
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 8.54997pt on input line 21.
+(Font)              scaled to size 8.54997pt on input line 24.
 Package pdfcprot Info: I didn't find phvmnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 24.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
-(Font)              scaled to size 8.54997pt on input line 21.
+(Font)              scaled to size 8.54997pt on input line 24.
 Package pdfcprot Info: I didn't find phvmnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 24
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 7.59998pt on input line 21.
+(Font)              scaled to size 7.59998pt on input line 24.
 Package pdfcprot Info: I didn't find phvmnT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 24.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
-(Font)              scaled to size 7.59998pt on input line 21.
+(Font)              scaled to size 7.59998pt on input line 24.
 Package pdfcprot Info: I didn't find phvmnTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 24
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 21.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 24.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 7.59998pt on input line 21.
+(Font)              scaled to size 7.59998pt on input line 24.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 21.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 24.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 11.39996pt on input line 21.
+(Font)              scaled to size 11.39996pt on input line 24.
 Package pdfcprot Info: I didn't find phvmitT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 24.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 LaTeX Font Info:    Font shape `TS1/phv/m/it' in size <12> not available
-(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 21.
+(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 24.
 LaTeX Font Info:    Font shape `TS1/phv/m/sl' will be
-(Font)              scaled to size 11.39996pt on input line 21.
+(Font)              scaled to size 11.39996pt on input line 24.
 Package pdfcprot Info: I didn't find phvmitTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 24
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 21.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 24.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 9.49997pt on input line 21.
+(Font)              scaled to size 9.49997pt on input line 24.
 Package pdfcprot Info: I didn't find phvmitT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 24.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 LaTeX Font Info:    Font shape `TS1/phv/m/it' in size <10> not available
-(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 21.
+(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 24.
 LaTeX Font Info:    Font shape `TS1/phv/m/sl' will be
-(Font)              scaled to size 9.49997pt on input line 21.
+(Font)              scaled to size 9.49997pt on input line 24.
 Package pdfcprot Info: I didn't find phvmitTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 24
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 21.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 24.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 8.54997pt on input line 21.
+(Font)              scaled to size 8.54997pt on input line 24.
 Package pdfcprot Info: I didn't find phvmitT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 24.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 LaTeX Font Info:    Font shape `TS1/phv/m/it' in size <9> not available
-(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 21.
+(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 24.
 LaTeX Font Info:    Font shape `TS1/phv/m/sl' will be
-(Font)              scaled to size 8.54997pt on input line 21.
+(Font)              scaled to size 8.54997pt on input line 24.
 Package pdfcprot Info: I didn't find phvmitTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 24
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 Package pdfcprot Info: I didn't find phvmitT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 24.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 LaTeX Font Info:    Font shape `TS1/phv/m/it' in size <8> not available
-(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 21.
+(Font)              Font shape `TS1/phv/m/sl' tried instead on input line 24.
 LaTeX Font Info:    Font shape `TS1/phv/m/sl' will be
-(Font)              scaled to size 7.59998pt on input line 21.
+(Font)              scaled to size 7.59998pt on input line 24.
 Package pdfcprot Info: I didn't find phvmitTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 24
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 Package pdfcprot Info: I didn't find phvmslT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 24.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 Package pdfcprot Info: I didn't find phvmslTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 24
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 Package pdfcprot Info: I didn't find phvmslT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 24.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 Package pdfcprot Info: I didn't find phvmslTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 24
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 Package pdfcprot Info: I didn't find phvmslT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 24.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 Package pdfcprot Info: I didn't find phvmslTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 24
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 Package pdfcprot Info: I didn't find phvmslT1.cpa.
-(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 21.
+(pdfcprot)              As a fallback I will try pplmnT1.cpa. on input line 24.
 
 Package pdfcprot Info: File pplmnT1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
 Package pdfcprot Info: I didn't find phvmslTS1.cpa.
-(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 21
+(pdfcprot)              As a fallback I will try pplmnTS1.cpa. on input line 24
 .
 Package pdfcprot Info: File pplmnTS1.cpa{} used for the adjustment
 (pdfcprot)             of the char protruding. It seems that it isn't the one
-(pdfcprot)             you intended to use. on input line 21.
+(pdfcprot)             you intended to use. on input line 24.
  (./main.bbl)
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
@@ -2155,8 +2148,8 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box45
-Package backref Info: ** backref set up for natbib ** on input line 21.
-Package hyperref Info: Link coloring OFF on input line 21.
+Package backref Info: ** backref set up for natbib ** on input line 24.
+Package hyperref Info: Link coloring OFF on input line 24.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -2166,18 +2159,42 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count181
 )
-LaTeX Info: Redefining \ref on input line 21.
-LaTeX Info: Redefining \pageref on input line 21.
-LaTeX Info: Redefining \nameref on input line 21.
+LaTeX Info: Redefining \ref on input line 24.
+LaTeX Info: Redefining \pageref on input line 24.
+LaTeX Info: Redefining \nameref on input line 24.
 
-(./main.out) (./main.out)
+(./main.out)
+Runaway argument?
+{7.4.9 Including the P 
+! File ended while scanning use of \@@BOOKMARK.
+<inserted text> 
+                \par 
+l.24 \begin{document}
+                     
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+(./main.out)
+Runaway argument?
+{7.4.9 Including the P 
+! File ended while scanning use of \@@BOOKMARK.
+<inserted text> 
+                \par 
+l.24 \begin{document}
+                     
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
 
-
 Package ctable Warning:  Transparency disabled: incompatible with tikz package 
- on input line 21.
+ on input line 24.
 
 Option `squaren' provided! 
  Command \squaren defined by SIunits package!
@@ -2210,7 +2227,7 @@ LaTeX Font Info:    Try loading font information for U+jkpsyc on input line 1.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/kpfonts/ujkpsyc.fd
 File: ujkpsyc.fd 2006/08/15 v1.0
 )
-<fig/LiTH_sv_vert_blk.pdf, id=553, 259.31882pt x 190.21063pt>
+<fig/LiTH_sv_vert_blk.pdf, id=541, 259.31882pt x 190.21063pt>
 File: fig/LiTH_sv_vert_blk.pdf Graphic file (type pdf)
 
 <use fig/LiTH_sv_vert_blk.pdf>
@@ -2237,7 +2254,7 @@ Overfull \hbox (35.56596pt too wide) in paragraph at lines 7--7
 
 ] [2
 
-] <fig/LiTH_sigill_blk.pdf, id=577, 123.70215pt x 123.5817pt>
+] <fig/LiTH_sigill_blk.pdf, id=565, 123.70215pt x 123.5817pt>
 File: fig/LiTH_sigill_blk.pdf Graphic file (type pdf)
 
 <use fig/LiTH_sigill_blk.pdf>
@@ -2301,17 +2318,18 @@ LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 19.70294pt on input line 17.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 19.70294pt on input line 17.
- (./main.toc [7
 
-] [8]
-Underfull \vbox (badness 1635) has occurred while \output is active []
 
- [9])
+Package hyperref Warning: old toc file detected, not used; run LaTeX again.
+
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
+[7
 
-[10])
+] [8
+
+])
 \openout2 = `introduction/introduction.aux'.
 
  (./introduction/introduction.tex
@@ -2326,7 +2344,15 @@ Overfull \hbox (18.07196pt too wide) in paragraph at lines 14--15
 and Tech-nol-ogy, Linköping
  []
 
+
+LaTeX Warning: Reference `sec:mobile-uganda' on page 1 undefined on input line 
+16.
+
 (./introduction/purpose.tex
+
+Package natbib Warning: Citation `nissar' on page 1 undefined on input line 8.
+
+
 Underfull \vbox (badness 2080) has occurred while \output is active []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
@@ -2337,81 +2363,314 @@ l.9
      [1
 
 
-
 ]
 Overfull \hbox (17.05995pt too wide) in paragraph at lines 14--15
 \T1/jkp/m/n/10 By train-ing coaches that can carry out the ed-u-ca-tion in larg
 er groups of en-trepreneurs,
  []
 
-) (./introduction/research_questions.tex) (./introduction/background.tex
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
-ine 6.
 
-(./introduction/background/1_uganda.tex
-(./introduction/background/uganda/entrepreneurship_uganda.tex
-Overfull \hbox (1.0594pt too wide) in paragraph at lines 6--7
-\T1/jkp/m/n/10 A cou-ple of promi-nent facts helps to por-trait en-trepreneur-s
-hip ac-tiv-ity in Uganda: 
- []
+Package natbib Warning: Citation `youngdrive-masterthesis-idea' on page 2 undef
+ined on input line 22.
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
-been already used, duplicate ignored
+) (./introduction/research_questions.tex) (./introduction/background.tex))pdfTe
+X warning (ext4): destination with the same identifier (name{page.2}) has been 
+already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.9       \item U
-                 ganda can be ranked the world's most entrepreneurial countr...
-[2] (./introduction/background/theory/entrepreneurship_education.tex) [3])
-(./introduction/background/uganda/mobile_uganda.tex [4]
-(./introduction/background/theory/digital_learning.tex)))
-(./introduction/background/2_theory.tex))) [5]
-\openout2 = `methods/methods.aux'.
+l.29 \include{introduction/introduction}
+                                         [2]
+\openout2 = `theory/theory.aux'.
 
- (./methods/methods.tex [6
-
-
-
-]
+ (./theory/theory.tex
 Chapter 2.
-(./methods/methodological_framework.tex
-(./methods/methodological-framework/methods_learning.tex [7]
-<fig/RevisedBloom.png, id=902, 1593.955pt x 1262.7175pt>
+(./theory/entrepreneurship_education.tex
+
+Package natbib Warning: Citation `dickson' on page 3 undefined on input line 13
+.
+
+
+Package natbib Warning: Citation `kuratko' on page 3 undefined on input line 13
+.
+
+
+Package natbib Warning: Citation `pittaway' on page 3 undefined on input line 1
+3.
+
+
+Package natbib Warning: Citation `bae' on page 3 undefined on input line 13.
+
+
+Package natbib Warning: Citation `oviawe' on page 3 undefined on input line 13.
+
+
+
+Package natbib Warning: Citation `iakovleva' on page 3 undefined on input line 
+13.
+
+
+Package natbib Warning: Citation `oviawe' on page 3 undefined on input line 19.
+
+
+
+Package natbib Warning: Citation `iakovleva' on page 3 undefined on input line 
+19.
+
+
+Package natbib Warning: Citation `ruskovaara' on page 3 undefined on input line
+ 21.
+
+
+Package natbib Warning: Citation `dickson' on page 3 undefined on input line 21
+.
+
+) [3
+
+
+
+] (./theory/digital_learning.tex
+
+Package natbib Warning: Citation `luckin' on page 4 undefined on input line 3.
+
+
+Package natbib Warning: Citation `luckin' on page 4 undefined on input line 3.
+
+
+Package natbib Warning: Citation `gates' on page 4 undefined on input line 3.
+
+
+Package natbib Warning: Citation `luckin' on page 4 undefined on input line 7.
+
+
+Package natbib Warning: Citation `ischool' on page 4 undefined on input line 7.
+
+
+
+Package natbib Warning: Citation `nicol' on page 4 undefined on input line 7.
+
+
+Overfull \hbox (15.27667pt too wide) in paragraph at lines 7--8
+\T1/jkp/m/n/10 prior per-for-mance (\T1/jkp/b/n/10 ?\T1/jkp/m/n/10 ). There are
+ nu-mer-ous ex-am-ples of de-vel-op-ments in \T1/jkp/m/it/10 e-assessment
+ []
+
+
+Package natbib Warning: Citation `yengin' on page 4 undefined on input line 9.
+
+
+Package natbib Warning: Citation `de-marcos' on page 4 undefined on input line 
+9.
+
+
+Package natbib Warning: Citation `luckin' on page 4 undefined on input line 13.
+
+
+
+Package natbib Warning: Citation `gates' on page 4 undefined on input line 13.
+
+) (./theory/methods_learning.tex
+
+Package natbib Warning: Citation `dirksen' on page 4 undefined on input line 7.
+
+
+[4]
+
+Package natbib Warning: Citation `krathwohl' on page 5 undefined on input line 
+27.
+
+
+Package natbib Warning: Citation `cheong' on page 5 undefined on input line 27.
+
+
+
+LaTeX Warning: Reference `fig:revised-bloom' on page 5 undefined on input line 
+27.
+
+
+Package natbib Warning: Citation `heer' on page 5 undefined on input line 27.
+
+<fig/RevisedBloom.png, id=631, 1593.955pt x 1262.7175pt>
 File: fig/RevisedBloom.png Graphic file (type png)
 
 <use fig/RevisedBloom.png>
 Package pdftex.def Info: fig/RevisedBloom.png used on input line 31.
 (pdftex.def)             Requested size: 355.65944pt x 281.74855pt.
 
-Underfull \vbox (badness 6961) has occurred while \output is active []
 
- [8 <./fig/RevisedBloom.png>] <fig/SierraPractice.png, id=931, 684.5575pt x 244
-.915pt>
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package natbib Warning: Citation `gates' on page 5 undefined on input line 40.
+
+
+Package natbib Warning: Citation `yengin' on page 5 undefined on input line 42.
+
+
+
+Package natbib Warning: Citation `sierra' on page 5 undefined on input line 42.
+
+
+
+Package natbib Warning: Citation `sierra' on page 5 undefined on input line 42.
+
+
+
+LaTeX Warning: Reference `fig:sierra-practice' on page 5 undefined on input lin
+e 42.
+
+
+Package natbib Warning: Citation `sierra' on page 5 undefined on input line 42.
+
+
+
+Package natbib Warning: Citation `sierra' on page 5 undefined on input line 42.
+
+
+<fig/SierraPractice.png, id=633, 684.5575pt x 244.915pt>
 File: fig/SierraPractice.png Graphic file (type png)
 
 <use fig/SierraPractice.png>
 Package pdftex.def Info: fig/SierraPractice.png used on input line 46.
 (pdftex.def)             Requested size: 284.52863pt x 101.79851pt.
- [9 <./fig/SierraPractice.png>]
-<fig/multipleChoice.png, id=956, 728.7225pt x 210.7875pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package natbib Warning: Citation `sierra' on page 5 undefined on input line 51.
+
+
+
+LaTeX Warning: Reference `sec:motivation' on page 5 undefined on input line 51.
+
+
+[5]
+
+Package natbib Warning: Citation `sierra' on page 6 undefined on input line 53.
+
+
+
+Package natbib Warning: Citation `luckin' on page 6 undefined on input line 59.
+
+
+
+Package natbib Warning: Citation `bruhlmann' on page 6 undefined on input line 
+59.
+
+
+LaTeX Warning: Reference `sec:motivation' on page 6 undefined on input line 59.
+
+
+[6 <./fig/RevisedBloom.png>]
+
+Package natbib Warning: Citation `sitzmann' on page 7 undefined on input line 6
+1.
+
+
+Package natbib Warning: Citation `nicol' on page 7 undefined on input line 61.
+
+
+LaTeX Warning: Reference `fig:multiple-choice' on page 7 undefined on input lin
+e 61.
+
+<fig/multipleChoice.png, id=647, 728.7225pt x 210.7875pt>
 File: fig/multipleChoice.png Graphic file (type png)
 
 <use fig/multipleChoice.png>
 Package pdftex.def Info: fig/multipleChoice.png used on input line 65.
 (pdftex.def)             Requested size: 284.52863pt x 82.30006pt.
- [10 <./fig/multipleChoice.png>])
-(./methods/methodological-framework/methods_motivation.tex
+
+
+Package natbib Warning: Citation `nicol' on page 7 undefined on input line 66.
+
+
+Package natbib Warning: Citation `nicol' on page 7 undefined on input line 66.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package natbib Warning: Citation `dweck' on page 7 undefined on input line 70.
+
+
+Package natbib Warning: Citation `dweck' on page 7 undefined on input line 70.
+
+
+Package natbib Warning: Citation `stefano' on page 7 undefined on input line 74
+.
+
+
+Package natbib Warning: Citation `luckin' on page 7 undefined on input line 74.
+
+
+
+Package natbib Warning: Citation `stefano' on page 7 undefined on input line 74
+.
+
+[7 <./fig/SierraPractice.png>]
+
+Package natbib Warning: Citation `bjork' on page 8 undefined on input line 78.
+
+
+Package natbib Warning: Citation `nicol' on page 8 undefined on input line 78.
+
+) (./theory/methods_motivation.tex
 Overfull \hbox (1.67207pt too wide) in paragraph at lines 7--8
 []\T1/jkp/m/n/10 Achievement - the stu-dent is driven by ex-trin-sic mo-ti-va-t
 ions, to be re-warded 
  []
 
 
-Overfull \hbox (3.64008pt too wide) in paragraph at lines 11--12
-[][]\T1/jkp/m/n/10 Koballa and Glynn[] ([]2007[]) and [][]Abell and Le-d-er-man
-[] ([]2007[]) pro-vide an overview
- []
+Package natbib Warning: Citation `koballa' on page 8 undefined on input line 11
+.
 
-[11] <fig/SierraSummary.png, id=1019, 631.35875pt x 347.2975pt>
+
+Package natbib Warning: Citation `abell' on page 8 undefined on input line 11.
+
+
+Package natbib Warning: Citation `fulmer' on page 8 undefined on input line 11.
+
+
+
+Package natbib Warning: Citation `deci' on page 8 undefined on input line 11.
+
+
+Package natbib Warning: Citation `ryan' on page 8 undefined on input line 11.
+
+
+Package natbib Warning: Citation `elliot' on page 8 undefined on input line 11.
+
+
+
+Package natbib Warning: Citation `eccles' on page 8 undefined on input line 11.
+
+
+
+Package natbib Warning: Citation `wigfield' on page 8 undefined on input line 1
+1.
+
+[8 <./fig/multipleChoice.png>]
+
+Package natbib Warning: Citation `sierra' on page 9 undefined on input line 13.
+
+
+
+Package natbib Warning: Citation `sierra' on page 9 undefined on input line 13.
+
+
+
+LaTeX Warning: Reference `fig:sierra-summary' on page 9 undefined on input line
+ 13.
+
+
+Package natbib Warning: Citation `brinkerhoff' on page 9 undefined on input lin
+e 15.
+
+
+Package natbib Warning: Citation `brinkerhoff' on page 9 undefined on input lin
+e 15.
+
+<fig/SierraSummary.png, id=661, 631.35875pt x 347.2975pt>
 File: fig/SierraSummary.png Graphic file (type png)
 
 <use fig/SierraSummary.png>
@@ -2419,126 +2678,420 @@ Package pdftex.def Info: fig/SierraSummary.png used on input line 19.
 (pdftex.def)             Requested size: 284.52863pt x 156.5156pt.
 
 
-LaTeX Warning: Reference `sweller' on page 12 undefined on input line 26.
+Package natbib Warning: Citation `sierra' on page 9 undefined on input line 20.
 
-[12 <./fig/SierraSummary.png>] [13])
-(./methods/methodological-framework/methods_design_process.tex
-Overfull \hbox (7.71858pt too wide) in paragraph at lines 5--6
-\T1/jkp/m/n/10 For ex-am-ple, ag-ile de-vel-op-ment sug-gest how do de-velop so
-ft-ware ef-fi-ciently. When-
- []
 
-[14]
+
+Package natbib Warning: Citation `sierra' on page 9 undefined on input line 20.
+
+
+
+Package natbib Warning: Citation `sierra' on page 9 undefined on input line 26.
+
+
+
+Package natbib Warning: Citation `sweller' on page 9 undefined on input line 26
+.
+
+
+Package natbib Warning: Citation `sierra' on page 9 undefined on input line 28.
+
+
+
+Package natbib Warning: Citation `sierra' on page 9 undefined on input line 28.
+
+
+
+Package natbib Warning: Citation `sierra' on page 9 undefined on input line 28.
+
+
+[9 <./fig/SierraSummary.png>]
+
+Package natbib Warning: Citation `gates' on page 10 undefined on input line 30.
+
+
+
+Package natbib Warning: Citation `sierra' on page 10 undefined on input line 36
+.
+
+
+Package natbib Warning: Citation `sierra' on page 10 undefined on input line 40
+.
+
+
+Package natbib Warning: Citation `sierra' on page 10 undefined on input line 46
+.
+
+[10]
+
+Package natbib Warning: Citation `deci' on page 11 undefined on input line 48.
+
+
+Package natbib Warning: Citation `ryan' on page 11 undefined on input line 48.
+
+
+Package natbib Warning: Citation `pink' on page 11 undefined on input line 48.
+
+
+Package natbib Warning: Citation `gates' on page 11 undefined on input line 48.
+
+
+) (./theory/methods_design_process.tex
+
+Package natbib Warning: Citation `lowgren' on page 11 undefined on input line 5
+.
+
+
+Package natbib Warning: Citation `lowgren' on page 11 undefined on input line 7
+.
+
+
+Package natbib Warning: Citation `stickdorn' on page 11 undefined on input line
+ 7.
+
+
+Package natbib Warning: Citation `clatworthy' on page 11 undefined on input lin
+e 9.
+
+
+Package natbib Warning: Citation `stickdorn' on page 11 undefined on input line
+ 9.
+
+[11]
+
+Package natbib Warning: Citation `lowgren' on page 12 undefined on input line 1
+3.
+
+
+Package natbib Warning: Citation `stickdorn' on page 12 undefined on input line
+ 13.
+
+
+Package natbib Warning: Citation `lowgren' on page 12 undefined on input line 1
+5.
+
+
 Overfull \hbox (1.40999pt too wide) in paragraph at lines 15--16
 \T1/jkp/m/n/10 sur-pris-ing) so-lu-tion or de-sign can be achieved while work-i
 ng in a highly re-stricted
  []
 
-[15]) (./methods/methodological-framework/methods_service_design.tex
+
+LaTeX Warning: Reference `digital-service-design' on page 12 undefined on input
+ line 17.
+
+
+Package natbib Warning: Citation `lowgren' on page 12 undefined on input line 2
+0.
+
+
+Package natbib Warning: Citation `lowgren' on page 12 undefined on input line 2
+0.
+
+
+Package natbib Warning: Citation `lowgren' on page 12 undefined on input line 2
+2.
+
+
+Package natbib Warning: Citation `stickdorn' on page 12 undefined on input line
+ 22.
+
+
+Package natbib Warning: Citation `stickdorn' on page 12 undefined on input line
+ 26.
+
+[12]
+
+Package natbib Warning: Citation `lowgren' on page 13 undefined on input line 3
+0.
+
+
+Package natbib Warning: Citation `lowgren' on page 13 undefined on input line 3
+0.
+
+) (./theory/methods_service_design.tex
+
+Package natbib Warning: Citation `stickdorn' on page 13 undefined on input line
+ 3.
+
+
+Package natbib Warning: Citation `stickdorn' on page 13 undefined on input line
+ 6.
+
+
 Overfull \hbox (11.58199pt too wide) in paragraph at lines 8--9
 []\T1/jkp/m/n/10 He de-scribes how to fol-low these prin-ci-ples, by mak-ing th
 e pro-cess user-centered
  []
 
-[16] <fig/Iteration.png, id=1131, 496.85625pt x 589.20125pt>
-File: fig/Iteration.png Graphic file (type png)
 
-<use fig/Iteration.png>
+Package natbib Warning: Citation `stickdorn' on page 13 undefined on input line
+ 13.
+
+
+Package natbib Warning: Citation `expedition-mondial' on page 13 undefined on i
+nput line 13.
+
+
+LaTeX Warning: Reference `fig:iteration' on page 13 undefined on input line 13.
+
+
+<fig/Iteration.png, id=680, 496.85625pt x 589.20125pt>
+File: fig/Iteration.png Graphic file (type png)
+ <use fig/Iteration.png>
 Package pdftex.def Info: fig/Iteration.png used on input line 17.
 (pdftex.def)             Requested size: 248.96051pt x 295.23822pt.
- <fig/projectLoop.png, id=1139, 610.28pt x 269.005pt>
-File: fig/projectLoop.png Graphic file (type png)
 
-<use fig/projectLoop.png>
+
+Package natbib Warning: Citation `nissar' on page 13 undefined on input line 18
+.
+
+
+Package natbib Warning: Citation `nissar' on page 13 undefined on input line 18
+.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[13]
+
+Package natbib Warning: Citation `expedition-mondial' on page 14 undefined on i
+nput line 29.
+
+
+LaTeX Warning: Reference `fig:iterationprocess' on page 14 undefined on input l
+ine 29.
+
+<fig/projectLoop.png, id=687, 610.28pt x 269.005pt>
+File: fig/projectLoop.png Graphic file (type png)
+ <use fig/projectLoop.png>
 Package pdftex.def Info: fig/projectLoop.png used on input line 40.
 (pdftex.def)             Requested size: 284.52863pt x 125.4226pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[17 <./fig/Iteration.png>]
+
+Package natbib Warning: Citation `lowgren' on page 14 undefined on input line 4
+8.
+
+[14 <./fig/Iteration.png>]
+
+Package natbib Warning: Citation `agile-manifesto' on page 15 undefined on inpu
+t line 50.
+
+
 Overfull \hbox (7.882pt too wide) in paragraph at lines 50--51
 \T1/jkp/m/n/10 you struc-ture and in-spire brain-storms, you can ask "What if..
 .?" and do Co-Creation,
  []
 
-[18 <./fig/projectLoop.png>])
-(./methods/methodological-framework/methods_digital_service_design.tex
+
+Package natbib Warning: Citation `kniberg' on page 15 undefined on input line 5
+9.
+
+[15 <./fig/projectLoop.png>]
+
+Package natbib Warning: Citation `expedition-mondial' on page 16 undefined on i
+nput line 61.
+
+) (./theory/methods_digital_service_design.tex
+
+Package natbib Warning: Citation `nissar' on page 16 undefined on input line 3.
+
+
+
 Overfull \hbox (4.02203pt too wide) in paragraph at lines 3--4
 \T1/jkp/m/n/10 The method com-bines the ben-e-fits of Ser-vice De-sign, Ag-ile 
 Method-olo-gies (namely
  []
 
-[19]) [20] (./introduction/background/theory/app_development.tex)
-(./methods/methodological-framework/methods_data_collection.tex [21]
-<fig/analysis/cjmExample.png, id=1220, 1009.7725pt x 737.75626pt>
-File: fig/analysis/cjmExample.png Graphic file (type png)
 
-<use fig/analysis/cjmExample.png>
-Package pdftex.def Info: fig/analysis/cjmExample.png used on input line 15.
-(pdftex.def)             Requested size: 248.96051pt x 181.89447pt.
+Package natbib Warning: Citation `clatworthy' on page 16 undefined on input lin
+e 9.
 
-Underfull \vbox (badness 4954) has occurred while \output is active []
+[16]) [17] (./theory/app_development.tex
 
- [22 <./fig/analysis/cjmExample.png>]
-<fig/analysis/terre.png, id=1236, 537.50812pt x 248.42813pt>
-File: fig/analysis/terre.png Graphic file (type png)
+Package natbib Warning: Citation `cordova' on page 18 undefined on input line 5
+.
 
-<use fig/analysis/terre.png>
-Package pdftex.def Info: fig/analysis/terre.png used on input line 35.
-(pdftex.def)             Requested size: 248.96051pt x 115.06679pt.
- [23]
-<fig/analysis/rStatisticalAnalysis.png, id=1252, 331.2375pt x 331.2375pt>
-File: fig/analysis/rStatisticalAnalysis.png Graphic file (type png)
 
-<use fig/analysis/rStatisticalAnalysis.png>
-Package pdftex.def Info: fig/analysis/rStatisticalAnalysis.png used on input li
-ne 69.
-(pdftex.def)             Requested size: 160.04565pt x 160.04347pt.
- [24 <./fig/analysis/terre.png> <./fig/analysis/rStatisticalAnalysis.png>]))
-(./methods/setting_research_context.tex
-(./methods/setting-research-context/team.tex
-Overfull \hbox (0.75658pt too wide) in paragraph at lines 10--11
+Package natbib Warning: Citation `meteor' on page 18 undefined on input line 7.
+
+
+
+Package natbib Warning: Citation `heroku' on page 18 undefined on input line 7.
+
+
+
+Package natbib Warning: Citation `github' on page 18 undefined on input line 7.
+
+
+)) [18]
+\openout2 = `methods/methods.aux'.
+
+ (./methods/methods.tex
+Chapter 3.
+(./methods/youngdrive.tex
+(./introduction/background/uganda/entrepreneurship_uganda.tex
+Overfull \hbox (1.0594pt too wide) in paragraph at lines 6--7
+\T1/jkp/m/n/10 A cou-ple of promi-nent facts helps to por-trait en-trepreneur-s
+hip ac-tiv-ity in Uganda: 
+ []
+
+
+Package natbib Warning: Citation `goodis' on page 19 undefined on input line 9.
+
+
+
+Package natbib Warning: Citation `unPopulation' on page 19 undefined on input l
+ine 10.
+
+
+Package natbib Warning: Citation `lostopportunity' on page 19 undefined on inpu
+t line 11.
+
+
+Package natbib Warning: Citation `nissar' on page 19 undefined on input line 16
+.
+
+
+Package natbib Warning: Citation `mitchel' on page 19 undefined on input line 1
+6.
+
+) [19
+
+
+
+] (./introduction/background/uganda/youngdrive.tex
+
+Package natbib Warning: Citation `youngdrive-web' on page 20 undefined on input
+ line 3.
+
+) (./methods/setting-research-context/roles.tex
+
+Package natbib Warning: Citation `mitchel' on page 20 undefined on input line 7
+.
+
+[20]) (./introduction/background/uganda/mobile_uganda.tex
+
+Package natbib Warning: Citation `nissar' on page 21 undefined on input line 7.
+
+
+
+Package natbib Warning: Citation `ledgerlink' on page 21 undefined on input lin
+e 9.
+
+)) (./methods/setting-research-context/team.tex
+
+LaTeX Warning: Reference `aGoodDesigner' on page 21 undefined on input line 6.
+
+[21]
+Overfull \hbox (0.75658pt too wide) in paragraph at lines 14--15
 \T1/jkp/m/n/10 The stake-hold-ers are con-sid-ered Young-Drive and Plan In-ter-
 na-tional. \T1/jkp/b/n/10 Young-Drive
  []
 
-[25
+) [22] (./methods/subjects_context.tex
 
-])) (./methods/subjects.tex [26]
-<fig/ydStatistics.png, id=1277, 1102.1175pt x 107.40125pt>
+Package natbib Warning: Citation `youngdrive-statistics' on page 23 undefined o
+n input line 9.
+
+
+LaTeX Warning: Reference `fig:ydStatistics' on page 23 undefined on input line 
+9.
+
+<fig/ydStatistics.png, id=741, 1102.1175pt x 107.40125pt>
 File: fig/ydStatistics.png Graphic file (type png)
 
 <use fig/ydStatistics.png>
-Package pdftex.def Info: fig/ydStatistics.png used on input line 27.
-(pdftex.def)             Requested size: 248.96051pt x 24.26091pt.
- [27 <./fig/ydStatistics.png>]
-<fig/stayover.jpg, id=1288, 1284.8pt x 722.7pt>
+Package pdftex.def Info: fig/ydStatistics.png used on input line 13.
+(pdftex.def)             Requested size: 355.65944pt x 34.65916pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Reference `fig:tororo' on page 23 undefined on input line 18.
+
+<fig/stayover.jpg, id=742, 1284.8pt x 722.7pt>
 File: fig/stayover.jpg Graphic file (type jpg)
  <use fig/stayover.jpg>
-Package pdftex.def Info: fig/stayover.jpg used on input line 38.
+Package pdftex.def Info: fig/stayover.jpg used on input line 22.
 (pdftex.def)             Requested size: 248.96051pt x 140.03821pt.
-)
-(./methods/study_design_data_collection.tex [28 <./fig/stayover.jpg>]
-(./methods/study-design/implementation_design_process.tex [29]
-<fig/iterativeprocess2.png, id=1306, 1186.4325pt x 517.935pt>
-File: fig/iterativeprocess2.png Graphic file (type png)
+ [23]
 
-<use fig/iterativeprocess2.png>
-Package pdftex.def Info: fig/iterativeprocess2.png used on input line 24.
+Package natbib Warning: Citation `yd-zambia-interviews' on page 24 undefined on
+ input line 32.
+
+[24 <./fig/ydStatistics.png> <./fig/stayover.jpg>])
+(./methods/study_design_data_collection.tex
+(./methods/study-design/implementation_design_process.tex
+
+Package natbib Warning: Citation `lowgren' on page 25 undefined on input line 1
+3.
+
+
+LaTeX Warning: Reference `cha:appendix1' on page 25 undefined on input line 20.
+
+
+
+LaTeX Warning: Reference `fig:methods' on page 25 undefined on input line 20.
+
+
+LaTeX Warning: Reference `studydesign' on page 25 undefined on input line 20.
+
+[25] <fig/iterativeprocess3.png, id=759, 1186.4325pt x 517.935pt>
+File: fig/iterativeprocess3.png Graphic file (type png)
+
+<use fig/iterativeprocess3.png>
+Package pdftex.def Info: fig/iterativeprocess3.png used on input line 24.
 (pdftex.def)             Requested size: 355.65944pt x 155.26314pt.
 
-<fig/emSkype.png, id=1310, 1927.2pt x 1204.5pt>
+
+LaTeX Warning: Reference `digital-service-design' on page 26 undefined on input
+ line 25.
+
+
+LaTeX Warning: Reference `digital-service-design' on page 26 undefined on input
+ line 25.
+
+<fig/study-design.png, id=760, 945.5325pt x 551.05875pt>
+File: fig/study-design.png Graphic file (type png)
+
+<use fig/study-design.png>
+Package pdftex.def Info: fig/study-design.png used on input line 31.
+(pdftex.def)             Requested size: 284.52863pt x 165.8234pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Reference `fig:emSkype' on page 26 undefined on input line 36.
+
+<fig/emSkype.png, id=761, 1927.2pt x 1204.5pt>
 File: fig/emSkype.png Graphic file (type png)
  <use fig/emSkype.png>
-Package pdftex.def Info: fig/emSkype.png used on input line 33.
+Package pdftex.def Info: fig/emSkype.png used on input line 40.
 (pdftex.def)             Requested size: 355.65944pt x 222.27763pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (./methods/study-design/iteration_1.tex [30 <./fig/iterativeprocess2.png>]
-<fig/youthsessionSmall.jpg, id=1323, 803.0pt x 342.27875pt>
+) (./methods/study-design/iteration_1.tex [26 <./fig/iterativeprocess3.png>]
+
+Package natbib Warning: Citation `quizoid' on page 27 undefined on input line 1
+3.
+
+
+Package natbib Warning: Citation `duolingo' on page 27 undefined on input line 
+13.
+
+
+LaTeX Warning: Reference `fig:youthsession' on page 27 undefined on input line 
+16.
+
+<fig/youthsessionSmall.jpg, id=768, 803.0pt x 342.27875pt>
 File: fig/youthsessionSmall.jpg Graphic file (type jpg)
 
 <use fig/youthsessionSmall.jpg>
@@ -2548,24 +3101,166 @@ Package pdftex.def Info: fig/youthsessionSmall.jpg used on input line 20.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (./methods/study-design/iteration_2.tex [31 <./fig/emSkype.png>] [32 <./fig/y
-outhsessionSmall.jpg>] <fig/zambiaCreation.jpg, id=1344, 803.0pt x 602.25pt>
+
+LaTeX Warning: Reference `fig:cjm' on page 27 undefined on input line 26.
+
+
+Underfull \vbox (badness 3460) has occurred while \output is active []
+
+ [27 <./fig/study-design.png>] <fig/cjmWorkshop.jpg, id=775, 1284.8pt x 722.7pt
+>
+File: fig/cjmWorkshop.jpg Graphic file (type jpg)
+
+<use fig/cjmWorkshop.jpg>
+Package pdftex.def Info: fig/cjmWorkshop.jpg used on input line 30.
+(pdftex.def)             Requested size: 248.96051pt x 140.03821pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (./methods/study-design/iteration_2.tex
+Underfull \vbox (badness 3058) has occurred while \output is active []
+
+ [28 <./fig/emSkype.png>] [29 <./fig/youthsessionSmall.jpg> <./fig/cjmWorkshop.
+jpg>]
+
+LaTeX Warning: Reference `fig:zambia' on page 30 undefined on input line 12.
+
+<fig/zambiaCreation.jpg, id=791, 803.0pt x 602.25pt>
 File: fig/zambiaCreation.jpg Graphic file (type jpg)
 
 <use fig/zambiaCreation.jpg>
 Package pdftex.def Info: fig/zambiaCreation.jpg used on input line 25.
 (pdftex.def)             Requested size: 248.96051pt x 186.72313pt.
- [33 <./fig/zambiaCreation.jpg>])
-(./methods/study-design/iteration_3.tex [34])
-(./methods/study-design/iteration_4.tex
-<fig/appevaluation.jpg, id=1365, 2601.72pt x 1943.26pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (8.27pt too wide) in paragraph at lines 30--31
+\T1/jkp/m/n/10 pho-tographed and served as guid-ance for mod-i-fi-ca-tions of t
+he ex-ist-ing app through-
+ []
+
+[30] [31 <./fig/zambiaCreation.jpg>]) (./methods/study-design/iteration_3.tex
+[32]) (./methods/study-design/iteration_4.tex
+
+Package natbib Warning: Citation `general-entrepreneurship-quiz' on page 33 und
+efined on input line 3.
+
+
+LaTeX Warning: Reference `cha:pre-test' on page 33 undefined on input line 3.
+
+
+LaTeX Warning: Reference `fig:appevaluation' on page 33 undefined on input line
+ 3.
+
+[33] <fig/appevaluation.jpg, id=826, 2601.72pt x 1943.26pt>
 File: fig/appevaluation.jpg Graphic file (type jpg)
 
 <use fig/appevaluation.jpg>
 Package pdftex.def Info: fig/appevaluation.jpg used on input line 7.
 (pdftex.def)             Requested size: 248.96051pt x 185.94594pt.
- [35])) (./methods/data_analysis_theory.tex [36 <./fig/appevaluation.jpg>] [37]
- (./methods/data_analysis_theory/iteration_4.tex
+)) (./methods/data_analysis_theory.tex
+
+LaTeX Warning: Reference `studydesign' on page 34 undefined on input line 9.
+
+[34 <./fig/appevaluation.jpg>]
+(./methods/data_analysis_theory/methods_data_collection.tex
+
+Package natbib Warning: Citation `stickdorn' on page 35 undefined on input line
+ 8.
+
+
+Package natbib Warning: Citation `expedition-mondial' on page 35 undefined on i
+nput line 8.
+
+
+Package natbib Warning: Citation `stickdorn' on page 35 undefined on input line
+ 8.
+
+
+Package natbib Warning: Citation `stickdorn' on page 35 undefined on input line
+ 11.
+
+
+LaTeX Warning: Reference `fig:cjmExample' on page 35 undefined on input line 11
+.
+
+
+Package natbib Warning: Citation `stickdorn' on page 35 undefined on input line
+ 11.
+
+[35] <fig/analysis/cjmExample.png, id=845, 1009.7725pt x 737.75626pt>
+File: fig/analysis/cjmExample.png Graphic file (type png)
+
+<use fig/analysis/cjmExample.png>
+Package pdftex.def Info: fig/analysis/cjmExample.png used on input line 15.
+(pdftex.def)             Requested size: 248.96051pt x 181.89447pt.
+
+
+Package natbib Warning: Citation `kniberg' on page 36 undefined on input line 2
+6.
+
+
+Package natbib Warning: Citation `clatworthy' on page 36 undefined on input lin
+e 26.
+
+[36 <./fig/analysis/cjmExample.png>]
+
+Package natbib Warning: Citation `mindmeister' on page 37 undefined on input li
+ne 31.
+
+[37]
+
+LaTeX Warning: Reference `fig:corrHeatmap' on page 38 undefined on input line 4
+0.
+
+
+Overfull \hbox (2.47188pt too wide) in paragraph at lines 40--41
+\T1/jkp/m/n/10 Below, meth-ods for analysing col-lected quiz re-sults and pre-t
+est data in the project
+ []
+
+
+Package natbib Warning: Citation `timo-ropinski-liu' on page 38 undefined on in
+put line 42.
+
+
+LaTeX Warning: Reference `fig:uneTerre' on page 38 undefined on input line 42.
+
+<fig/analysis/terre.png, id=862, 537.50812pt x 248.42813pt>
+File: fig/analysis/terre.png Graphic file (type png)
+
+<use fig/analysis/terre.png>
+Package pdftex.def Info: fig/analysis/terre.png used on input line 46.
+(pdftex.def)             Requested size: 248.96051pt x 115.06679pt.
+
+
+Package natbib Warning: Citation `une-terre' on page 38 undefined on input line
+ 47.
+
+
+Package natbib Warning: Citation `une-terre' on page 38 undefined on input line
+ 47.
+
+<fig/analysis/rStatisticalAnalysis.png, id=863, 331.2375pt x 331.2375pt>
+File: fig/analysis/rStatisticalAnalysis.png Graphic file (type png)
+
+<use fig/analysis/rStatisticalAnalysis.png>
+Package pdftex.def Info: fig/analysis/rStatisticalAnalysis.png used on input li
+ne 80.
+(pdftex.def)             Requested size: 160.04565pt x 160.04347pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[38 <./fig/analysis/terre.png>] [39 <./fig/analysis/rStatisticalAnalysis.png>])
+(./methods/data_analysis_theory/iteration_4.tex
+
+Package natbib Warning: Citation `agaze' on page 40 undefined on input line 9.
+
+
 Overfull \hbox (6.00401pt too wide) in paragraph at lines 9--10
 \T1/jkp/m/n/10 readable for-mat, like CSV. Mul-ti-ple ap-proaches were tried, a
 nd the Google Chrome
@@ -2577,48 +3272,106 @@ Overfull \hbox (15.96997pt too wide) in paragraph at lines 13--14
 ng at the paper-submitted
  []
 
-<fig/analysis/resultsColored.png, id=1395, 1927.2pt x 922.44624pt>
+
+LaTeX Warning: Reference `fig:resultsColored' on page 40 undefined on input lin
+e 17.
+
+<fig/analysis/resultsColored.png, id=876, 1927.2pt x 922.44624pt>
 File: fig/analysis/resultsColored.png Graphic file (type png)
 
 <use fig/analysis/resultsColored.png>
 Package pdftex.def Info: fig/analysis/resultsColored.png used on input line 21.
 
-(pdftex.def)             Requested size: 248.96051pt x 119.16214pt.
+(pdftex.def)             Requested size: 320.09132pt x 153.21048pt.
+ [40
+
+ <./fig/analysis/resultsColored.png>]
+
+LaTeX Warning: Reference `fig:analysFarg3' on page 41 undefined on input line 6
+3.
+
+[41] <fig/analysis/sheets/0Overview.png, id=891, 1892.06876pt x 321.2pt>
+File: fig/analysis/sheets/0Overview.png Graphic file (type png)
+
+<use fig/analysis/sheets/0Overview.png>
+Package pdftex.def Info: fig/analysis/sheets/0Overview.png used on input line 6
+7.
+(pdftex.def)             Requested size: 355.65944pt x 60.37679pt.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: Reference `cha:appendix4' on page 42 undefined on input line 68.
 
-[38] [39 <./fig/analysis/resultsColored.png>]
-<fig/analysis/analysFarg3.png, id=1411, 1917.1625pt x 471.7625pt>
-File: fig/analysis/analysFarg3.png Graphic file (type png)
 
-<use fig/analysis/analysFarg3.png>
-Package pdftex.def Info: fig/analysis/analysFarg3.png used on input line 67.
-(pdftex.def)             Requested size: 248.96051pt x 61.25928pt.
- [40 <./fig/analysis/analysFarg3.png>]
-<fig/analysis/parallellCoordinates3.png, id=1427, 1836.8625pt x 923.45pt>
+
+LaTeX Warning: Reference `cha:appendix4' on page 42 undefined on input line 68.
+
+
+
+Package natbib Warning: Citation `d3' on page 42 undefined on input line 81.
+
+
+Package natbib Warning: Citation `parcoords' on page 42 undefined on input line
+ 81.
+
+[42 <./fig/analysis/sheets/0Overview.png>]
+
+LaTeX Warning: Reference `fig:parallell-coordinates-1' on page 43 undefined on 
+input line 89.
+
+<fig/analysis/parallellCoordinates3.png, id=900, 923.45pt x 1836.8625pt>
 File: fig/analysis/parallellCoordinates3.png Graphic file (type png)
 
 <use fig/analysis/parallellCoordinates3.png>
 Package pdftex.def Info: fig/analysis/parallellCoordinates3.png used on input l
 ine 93.
-(pdftex.def)             Requested size: 355.65944pt x 178.79681pt.
+(pdftex.def)             Requested size: 248.96051pt x 495.20274pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-)) (./methods/application_implementation.tex [41]
-(./methods/application-implementation/iteration_1.tex)
-(./methods/application-implementation/iteration_2.tex [42 <./fig/analysis/paral
-lellCoordinates3.png>]) (./methods/application-implementation/iteration_3.tex
-[43]) (./methods/application-implementation/iteration_4.tex))) [44]
+)) (./methods/application_implementation.tex
+(./methods/application-implementation/iteration_1.tex
+
+Package natbib Warning: Citation `meteor' on page 43 undefined on input line 6.
+
+
+
+Package natbib Warning: Citation `ionic' on page 43 undefined on input line 6.
+
+[43]
+
+Package natbib Warning: Citation `react' on page 44 undefined on input line 8.
+
+) (./methods/application-implementation/iteration_2.tex
+
+LaTeX Warning: Reference `progress-payoffs' on page 44 undefined on input line 
+5.
+
+) (./methods/application-implementation/iteration_3.tex
+
+LaTeX Warning: Reference `backwards-capability' on page 44 undefined on input l
+ine 3.
+
+[44]) (./methods/application-implementation/iteration_4.tex))) [45] [46 <./fig/
+analysis/parallellCoordinates3.png>]
 \openout2 = `result/result.aux'.
 
-
-(./result/result.tex
-Chapter 3.
+ (./result/result.tex
+Chapter 4.
 (./result/application.tex
-<fig/IterationMapLowRes.png, id=1466, 4622.26875pt x 8662.3625pt>
+
+LaTeX Warning: Reference `fig:iteration-map' on page 47 undefined on input line
+ 1.
+
+
+LaTeX Warning: Reference `cha:developed-app' on page 47 undefined on input line
+ 1.
+
+
+LaTeX Warning: Reference `fig:iteration-map' on page 47 undefined on input line
+ 1.
+
+<fig/IterationMapLowRes.png, id=923, 4622.26875pt x 8662.3625pt>
 File: fig/IterationMapLowRes.png Graphic file (type png)
 
 <use fig/IterationMapLowRes.png>
@@ -2626,20 +3379,53 @@ Package pdftex.def Info: fig/IterationMapLowRes.png used on input line 5.
 (pdftex.def)             Requested size: 284.52863pt x 533.20137pt.
 
 
-LaTeX Warning: Float too large for page by 12.37263pt on input line 8.
+LaTeX Warning: Float too large for page by 36.37263pt on input line 8.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[45
+[47
 
 
 
-] [46 <./fig/IterationMapLowRes.png>] [47
+] [48 <./fig/IterationMapLowRes.png>]
 
-])
-(./result/iteration1/iteration_1_opinions.tex
-<fig/iteration1/stakeholderInterview.jpg, id=1491, 1284.8pt x 722.7pt>
+LaTeX Warning: Reference `fig:iteration-map' on page 49 undefined on input line
+ 14.
+
+
+LaTeX Warning: Reference `fig:iteration-map' on page 49 undefined on input line
+ 16.
+
+
+LaTeX Warning: Reference `fig:iteration-map' on page 49 undefined on input line
+ 20.
+
+
+LaTeX Warning: Reference `fig:iteration-map' on page 49 undefined on input line
+ 26.
+
+
+LaTeX Warning: Reference `fig:iteration-map' on page 49 undefined on input line
+ 34.
+
+[49
+
+]
+
+LaTeX Warning: Reference `fig:iteration-map' on page 50 undefined on input line
+ 36.
+
+) (./result/iteration1/iteration_1_opinions.tex
+
+Package natbib Warning: Citation `youngdrive-manual' on page 50 undefined on in
+put line 6.
+
+
+LaTeX Warning: Reference `fig:stakeholderInterview' on page 50 undefined on inp
+ut line 6.
+
+<fig/iteration1/stakeholderInterview.jpg, id=944, 1284.8pt x 722.7pt>
 File: fig/iteration1/stakeholderInterview.jpg Graphic file (type jpg)
 
 <use fig/iteration1/stakeholderInterview.jpg>
@@ -2650,8 +3436,13 @@ line 10.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[48] [49 <./fig/iteration1/stakeholderInterview.jpg>]
-<fig/iteration1/youthSession.jpg, id=1506, 1284.8pt x 722.7pt>
+[50]
+
+LaTeX Warning: Reference `fig:youthSession1' on page 51 undefined on input line
+ 41.
+
+[51 <./fig/iteration1/stakeholderInterview.jpg>]
+<fig/iteration1/youthSession.jpg, id=956, 1284.8pt x 722.7pt>
 File: fig/iteration1/youthSession.jpg Graphic file (type jpg)
 
 <use fig/iteration1/youthSession.jpg>
@@ -2660,259 +3451,936 @@ Package pdftex.def Info: fig/iteration1/youthSession.jpg used on input line 52.
 (pdftex.def)             Requested size: 284.52863pt x 160.0421pt.
 )
 (./result/iteration1/iteration_1_data.tex
-<fig/cjmWorkshop.jpg, id=1508, 1284.8pt x 722.7pt>
-File: fig/cjmWorkshop.jpg Graphic file (type jpg)
- <use fig/cjmWorkshop.jpg>
-Package pdftex.def Info: fig/cjmWorkshop.jpg used on input line 13.
-(pdftex.def)             Requested size: 248.96051pt x 140.03821pt.
+
+LaTeX Warning: Reference `purpose' on page 52 undefined on input line 17.
+
+[52 <./fig/iteration1/youthSession.jpg>]
+
+LaTeX Warning: Reference `fig:quizoid' on page 53 undefined on input line 25.
+
+
+LaTeX Warning: Reference `fig:duolingo' on page 53 undefined on input line 25.
+
+
+LaTeX Warning: Reference `fig:smartphoneTest' on page 53 undefined on input lin
+e 25.
+
+<fig/quizoid.png, id=963, 453.695pt x 736.7525pt>
+File: fig/quizoid.png Graphic file (type png)
+ <use fig/quizoid.png>
+Package pdftex.def Info: fig/quizoid.png used on input line 29.
+(pdftex.def)             Requested size: 177.82971pt x 288.77129pt.
+
+
+Package natbib Warning: Citation `quizoid' on page 53 undefined on input line 3
+0.
+
+
+Package natbib Warning: Citation `quizoid' on page 53 undefined on input line 3
+0.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[50 <./fig/iteration1/youthSession.jpg>] [51 <./fig/cjmWorkshop.jpg>]
-<fig/quizoid.png, id=1522, 453.695pt x 736.7525pt>
-File: fig/quizoid.png Graphic file (type png)
- <use fig/quizoid.png>
-Package pdftex.def Info: fig/quizoid.png used on input line 40.
-(pdftex.def)             Requested size: 177.82971pt x 288.77129pt.
-
-<fig/duolingo.png, id=1527, 1445.4pt x 903.375pt>
+<fig/duolingo.png, id=964, 1445.4pt x 903.375pt>
 File: fig/duolingo.png Graphic file (type png)
  <use fig/duolingo.png>
-Package pdftex.def Info: fig/duolingo.png used on input line 47.
+Package pdftex.def Info: fig/duolingo.png used on input line 36.
 (pdftex.def)             Requested size: 248.96051pt x 155.59802pt.
 
 
+Package natbib Warning: Citation `duolingo' on page 53 undefined on input line 
+37.
+
+
+Package natbib Warning: Citation `duolingo' on page 53 undefined on input line 
+37.
+
+
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/iteration1/smartphoneTest.jpg, id=1532, 1284.8pt x 722.7pt>
+<fig/iteration1/smartphoneTest.jpg, id=965, 1284.8pt x 722.7pt>
 File: fig/iteration1/smartphoneTest.jpg Graphic file (type jpg)
 
 <use fig/iteration1/smartphoneTest.jpg>
-Package pdftex.def Info: fig/iteration1/smartphoneTest.jpg used on input line 5
-4.
+Package pdftex.def Info: fig/iteration1/smartphoneTest.jpg used on input line 4
+3.
 (pdftex.def)             Requested size: 248.96051pt x 140.03821pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[52 <./fig/quizoid.png>] [53 <./fig/duolingo.png> <./fig/iteration1/smartphoneT
-est.jpg>]) (./result/iteration1/iteration_1_together.tex
-Overfull \hbox (16.05397pt too wide) in paragraph at lines 63--1
+[53] [54 <./fig/quizoid.png> <./fig/duolingo.png>] [55 <./fig/iteration1/smartp
+honeTest.jpg>]) (./result/iteration1/iteration_1_together.tex
+Overfull \hbox (16.05397pt too wide) in paragraph at lines 52--1
 \T1/jkp/m/n/10 ing the de-vice, un-der-stand-ing ad-vanced games, or train-ing 
 lan-guages us-ing Duolingo
  []
 
 
-Overfull \hbox (5.092pt too wide) in paragraph at lines 13--14
-\T1/jkp/m/n/10 teach-ing sit-u-a-tion among the youth group, a great coach can 
-teach an en-trepreneur-
- []
+LaTeX Warning: Reference `purpose' on page 56 undefined on input line 7.
 
-[54
 
-]) (./result/iteration2/iteration_2_opinions.tex [55]
-<fig/zambiaWorkshop2small.jpg, id=1562, 803.0pt x 489.83pt>
-File: fig/zambiaWorkshop2small.jpg Graphic file (type jpg)
+LaTeX Warning: Reference `learning-assessment' on page 56 undefined on input li
+ne 7.
 
-<use fig/zambiaWorkshop2small.jpg>
-Package pdftex.def Info: fig/zambiaWorkshop2small.jpg used on input line 15.
-(pdftex.def)             Requested size: 320.09132pt x 195.25584pt.
-) (./result/iteration2/iteration_2_data.tex
-[56 <./fig/zambiaWorkshop2small.jpg>] [57] [58])
-(./result/iteration2/iteration_2_together.tex
-Underfull \vbox (badness 3354) has occurred while \output is active []
 
- [59]
-[60] [61]) (./result/iteration3/iteration_3_opinions.tex [62] [63])
-(./result/iteration3/iteration_3_data.tex [64]
-<fig/analysis/iteration3data.png, id=1622, 553.06625pt x 678.535pt>
-File: fig/analysis/iteration3data.png Graphic file (type png)
+LaTeX Warning: Reference `rq1' on page 56 undefined on input line 11.
 
-<use fig/analysis/iteration3data.png>
-Package pdftex.def Info: fig/analysis/iteration3data.png used on input line 14.
 
-(pdftex.def)             Requested size: 284.52863pt x 349.07152pt.
-
-<fig/iteration3/appTestTablet.jpg, id=1623, 3035.34pt x 4047.12pt>
-File: fig/iteration3/appTestTablet.jpg Graphic file (type jpg)
-
-<use fig/iteration3/appTestTablet.jpg>
-Package pdftex.def Info: fig/iteration3/appTestTablet.jpg used on input line 23
+Package natbib Warning: Citation `sierra' on page 56 undefined on input line 13
 .
-(pdftex.def)             Requested size: 142.2616pt x 189.64653pt.
+
+[56
+
+]) (./result/iteration2/iteration_2_opinions.tex
+
+LaTeX Warning: Reference `fig:zambia1A2' on page 57 undefined on input line 7.
+
+
+LaTeX Warning: Reference `fig:zambia1B2' on page 57 undefined on input line 7.
+
+
+LaTeX Warning: Reference `fig:zambia1C0' on page 57 undefined on input line 7.
+
+
+LaTeX Warning: Reference `fig:zambia1C1' on page 57 undefined on input line 7.
+
+<fig/workshops/zambia1A2.jpg, id=988, 2677.00125pt x 2295.57625pt>
+File: fig/workshops/zambia1A2.jpg Graphic file (type jpg)
+
+<use fig/workshops/zambia1A2.jpg>
+Package pdftex.def Info: fig/workshops/zambia1A2.jpg used on input line 11.
+(pdftex.def)             Requested size: 320.09132pt x 274.47649pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/iteration3/appTestComputer.jpg, id=1624, 4047.12pt x 3035.34pt>
+<fig/workshops/zambia1B2.jpg, id=989, 3981.87625pt x 1184.425pt>
+File: fig/workshops/zambia1B2.jpg Graphic file (type jpg)
+
+<use fig/workshops/zambia1B2.jpg>
+Package pdftex.def Info: fig/workshops/zambia1B2.jpg used on input line 18.
+(pdftex.def)             Requested size: 320.09132pt x 95.20775pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<fig/workshops/zambia1C0.jpg, id=990, 4047.12pt x 3035.34pt>
+File: fig/workshops/zambia1C0.jpg Graphic file (type jpg)
+
+<use fig/workshops/zambia1C0.jpg>
+Package pdftex.def Info: fig/workshops/zambia1C0.jpg used on input line 25.
+(pdftex.def)             Requested size: 320.09132pt x 240.05324pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<fig/workshops/zambia1C1.jpg, id=991, 4047.12pt x 3035.34pt>
+File: fig/workshops/zambia1C1.jpg Graphic file (type jpg)
+
+<use fig/workshops/zambia1C1.jpg>
+Package pdftex.def Info: fig/workshops/zambia1C1.jpg used on input line 32.
+(pdftex.def)             Requested size: 320.09132pt x 240.05324pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[57]
+
+LaTeX Warning: Reference `fig:zambiaWorkshop2' on page 58 undefined on input li
+ne 41.
+
+<fig/zambiaWorkshop2small.jpg, id=998, 803.0pt x 489.83pt>
+File: fig/zambiaWorkshop2small.jpg Graphic file (type jpg)
+
+<use fig/zambiaWorkshop2small.jpg>
+Package pdftex.def Info: fig/zambiaWorkshop2small.jpg used on input line 45.
+(pdftex.def)             Requested size: 320.09132pt x 195.25584pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (./result/iteration2/iteration_2_data.tex
+
+LaTeX Warning: Reference `fig:zambiaResults' on page 58 undefined on input line
+ 9.
+
+
+LaTeX Warning: Reference `fig:zambiaSummary' on page 58 undefined on input line
+ 9.
+
+
+Underfull \vbox (badness 1448) has occurred while \output is active []
+
+ [58 <./fig/workshops/zambia1A2.jpg>]
+<fig/analysis/sheets/zambiaResults.png, id=1005, 265.99374pt x 755.82375pt>
+File: fig/analysis/sheets/zambiaResults.png Graphic file (type png)
+
+<use fig/analysis/sheets/zambiaResults.png>
+Package pdftex.def Info: fig/analysis/sheets/zambiaResults.png used on input li
+ne 13.
+(pdftex.def)             Requested size: 177.82971pt x 505.31519pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[59 <./fig/workshops/zambia1B2.jpg>] [60 <./fig/workshops/zambia1C0.jpg> <./fig
+/workshops/zambia1C1.jpg>] [61 <./fig/zambiaWorkshop2small.jpg>] [62 <./fig/ana
+lysis/sheets/zambiaResults.png>]
+
+LaTeX Warning: Reference `fig:zambiaSummary' on page 63 undefined on input line
+ 28.
+
+<fig/analysis/sheets/zambiaSummary.png, id=1030, 1563.8425pt x 281.05pt>
+File: fig/analysis/sheets/zambiaSummary.png Graphic file (type png)
+
+<use fig/analysis/sheets/zambiaSummary.png>
+Package pdftex.def Info: fig/analysis/sheets/zambiaSummary.png used on input li
+ne 32.
+(pdftex.def)             Requested size: 355.65944pt x 63.91537pt.
+
+! Undefined control sequence.
+l.45     \subsubsubsection
+                          {Motivation}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[63
+
+ <./fig/analysis/sheets/zambiaSummary.png>] [64]
+! Undefined control sequence.
+l.72     \subsubsubsection
+                          {Learning}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `zambiaSummary' on page 65 undefined on input line 73.
+
+
+
+Package natbib Warning: Citation `sierra' on page 65 undefined on input line 81
+.
+
+[65]) (./result/iteration2/iteration_2_bloom.tex)
+(./result/iteration2/iteration_2_together.tex
+
+LaTeX Warning: Reference `sec:research-questions' on page 66 undefined on input
+ line 3.
+
+! Undefined control sequence.
+l.13 \subsubsubsection
+                      {Validating the coaches' level of knowledge}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Package natbib Warning: Citation `krathwohl' on page 66 undefined on input line
+ 14.
+
+[66]
+
+LaTeX Warning: Reference `nicol' on page 67 undefined on input line 18.
+
+[67]
+
+Package natbib Warning: Citation `dweck' on page 68 undefined on input line 29.
+
+
+[68]) (./result/iteration3/iteration_3_opinions.tex
+
+LaTeX Warning: Reference `fig:iteration-map' on page 69 undefined on input line
+ 10.
+
+[69]
+
+LaTeX Warning: Reference `fig:iteration-map' on page 70 undefined on input line
+ 12.
+
+) (./result/iteration3/iteration_3_data.tex
+
+LaTeX Warning: Reference `fig:tabletTest' on page 70 undefined on input line 4.
+
+
+
+LaTeX Warning: Reference `fig:computerTest' on page 70 undefined on input line 
+4.
+
+
+LaTeX Warning: Reference `fig:iteration3data' on page 70 undefined on input lin
+e 8.
+
+[70] <fig/analysis/iteration3data.png, id=1071, 553.06625pt x 678.535pt>
+File: fig/analysis/iteration3data.png Graphic file (type png)
+
+<use fig/analysis/iteration3data.png>
+Package pdftex.def Info: fig/analysis/iteration3data.png used on input line 16.
+
+(pdftex.def)             Requested size: 284.52863pt x 349.07152pt.
+ [71 <./fig/analysis/iteration3data.png>]
+<fig/iteration3/appTestTablet.jpg, id=1078, 3035.34pt x 4047.12pt>
+File: fig/iteration3/appTestTablet.jpg Graphic file (type jpg)
+
+<use fig/iteration3/appTestTablet.jpg>
+Package pdftex.def Info: fig/iteration3/appTestTablet.jpg used on input line 25
+.
+(pdftex.def)             Requested size: 142.2616pt x 189.64653pt.
+
+<fig/iteration3/appTestComputer.jpg, id=1079, 4047.12pt x 3035.34pt>
 File: fig/iteration3/appTestComputer.jpg Graphic file (type jpg)
 
 <use fig/iteration3/appTestComputer.jpg>
 Package pdftex.def Info: fig/iteration3/appTestComputer.jpg used on input line 
-30.
+32.
 (pdftex.def)             Requested size: 284.52863pt x 213.3755pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[65 <./fig/analysis/iteration3data.png>] [66 <./fig/iteration3/appTestTablet.jp
-g>] [67 <./fig/iteration3/appTestComputer.jpg>])
-(./result/iteration3/iteration_3_workshops.tex
-<fig/analysis/areYouSureQuiz.png, id=1645, 623.32875pt x 514.92375pt>
-File: fig/analysis/areYouSureQuiz.png Graphic file (type png)
 
-<use fig/analysis/areYouSureQuiz.png>
-Package pdftex.def Info: fig/analysis/areYouSureQuiz.png used on input line 7.
-(pdftex.def)             Requested size: 284.52863pt x 235.04495pt.
- [68
-
- <./fig/analysis/areYouSureQuiz.png>]
-[69]) (./result/iteration3/iteration_3_together.tex [70] [71])
-(./result/iteration4/iteration_4_opinions.tex
-<fig/iteration4qualitative_learning.png, id=1683, 769.87625pt x 554.07pt>
-File: fig/iteration4qualitative_learning.png Graphic file (type png)
-
-<use fig/iteration4qualitative_learning.png>
-Package pdftex.def Info: fig/iteration4qualitative_learning.png used on input l
-ine 7.
-(pdftex.def)             Requested size: 355.65944pt x 255.96591pt.
-
-<fig/iteration4qualitative_interactiondesign.png, id=1684, 537.00626pt x 747.79
-375pt>
-File: fig/iteration4qualitative_interactiondesign.png Graphic file (type png)
- <use fig/iteration4qualitative_interactiondesign.png>
-Package pdftex.def Info: fig/iteration4qualitative_interactiondesign.png used o
-n input line 14.
-(pdftex.def)             Requested size: 355.65944pt x 495.26837pt.
+LaTeX Warning: Reference `fig:iteration-map' on page 72 undefined on input line
+ 39.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: Reference `sec:definitionofsuccess' on page 72 undefined on inpu
+t line 41.
+
+[72 <./fig/iteration3/appTestTablet.jpg>]
+
+LaTeX Warning: Reference `fig:iteration-map' on page 73 undefined on input line
+ 45.
+
+[73 <./fig/iteration3/appTestComputer.jpg>])
+(./result/iteration3/iteration_3_workshops.tex [74
+
+]
+
+LaTeX Warning: Reference `fig:areYouReady' on page 75 undefined on input line 5
+2.
+
+[75]
+<fig/analysis/sheets/iteration2tororo_smalltest_compressed.png, id=1110, 294.09
+875pt x 408.52625pt>
+File: fig/analysis/sheets/iteration2tororo_smalltest_compressed.png Graphic fil
+e (type png)
+
+<use fig/analysis/sheets/iteration2tororo_smalltest_compressed.png>
+Package pdftex.def Info: fig/analysis/sheets/iteration2tororo_smalltest_compres
+sed.png used on input line 56.
+(pdftex.def)             Requested size: 177.82971pt x 247.01889pt.
+ [76 <./fig/analysis/sheets/iteration2tororo_smalltest_compressed.png>]
+
+LaTeX Warning: Reference `fig:iteration-map' on page 77 undefined on input line
+ 63.
 
 
-<fig/iteration4qualitative_servicedesign.png, id=1685, 600.2425pt x 534.99875pt
->
-File: fig/iteration4qualitative_servicedesign.png Graphic file (type png)
- <use fig/iteration4qualitative_servicedesign.png>
-Package pdftex.def Info: fig/iteration4qualitative_servicedesign.png used on in
-put line 21.
-(pdftex.def)             Requested size: 355.65944pt x 317.00981pt.
+LaTeX Warning: Reference `cha:future-work' on page 77 undefined on input line 7
+8.
+
+) (./result/iteration3/iteration_3_together.tex [77
+
+]
+
+LaTeX Warning: Reference `cha:discussion' on page 78 undefined on input line 9.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+[78]
 
-[72 <./fig/iteration4qualitative_learning.png>] [73 <./fig/iteration4qualitativ
-e_interactiondesign.png>] [74 <./fig/iteration4qualitative_servicedesign.png>])
+Package natbib Warning: Citation `sierra' on page 79 undefined on input line 18
+.
+
+
+Package natbib Warning: Citation `sierra' on page 79 undefined on input line 22
+.
+
+
+Package natbib Warning: Citation `sitzmann' on page 79 undefined on input line 
+24.
+
+)
+Overfull \hbox (3.7486pt too wide) in paragraph at lines 48--49
+\T1/jkp/m/n/10 shown to-gether with con-clu-sions. In these ac-tiv-i-ties, ther
+e were 25 coaches present
+ []
+
 (./result/iteration4/iteration_4_data.tex
 Overfull \hbox (1.50398pt too wide) in paragraph at lines 14--15
 \T1/jkp/m/n/10 For the first time, au-to-matic data col-lec-tion was used, whic
 h in-creased the amount
  []
 
-<fig/analysis/analys4spreadsheet.png, id=1705, 1749.53625pt x 332.24126pt>
-File: fig/analysis/analys4spreadsheet.png Graphic file (type png)
 
-<use fig/analysis/analys4spreadsheet.png>
-Package pdftex.def Info: fig/analysis/analys4spreadsheet.png used on input line
- 21.
-(pdftex.def)             Requested size: 355.65944pt x 67.53703pt.
- [75
+LaTeX Warning: Reference `fig:analysFarg3' on page 79 undefined on input line 1
+7.
 
- <./fig/analysis/analys4spreadsheet.png>]
-Overfull \hbox (0.52995pt too wide) in paragraph at lines 38--39
+
+LaTeX Warning: Reference `cha:appendix4' on page 79 undefined on input line 17.
+
+
+[79]
+File: fig/analysis/sheets/0Overview.png Graphic file (type png)
+ <use fig/analysis/sheets/0Overview.png>
+Package pdftex.def Info: fig/analysis/sheets/0Overview.png used on input line 2
+1.
+(pdftex.def)             Requested size: 355.65944pt x 60.37679pt.
+
+
+LaTeX Warning: Reference `cha:appendix4' on page 80 undefined on input line 22.
+
+
+
+LaTeX Warning: Reference `cha:appendix4' on page 80 undefined on input line 22.
+
+
+
+Overfull \hbox (0.52995pt too wide) in paragraph at lines 69--70
 []\T1/jkp/m/n/10 First-hand in-sights be-fore the par-al-lel co-or-di-nates wer
 e that there was a strong
  []
 
-[76]
-File: fig/analysis/terre.png Graphic file (type png)
- <use fig/analysis/terre.png>
-Package pdftex.def Info: fig/analysis/terre.png used on input line 52.
-(pdftex.def)             Requested size: 320.09132pt x 147.93976pt.
+[80]
+! Undefined control sequence.
+l.73 \subsubsubsection
+                      {Bonus Result: Learnings from Observing All of the Qui...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `fig:unprocessedData' on page 81 undefined on input li
+ne 74.
+
+
+LaTeX Warning: Reference `fig:parallellCoordinates3' on page 81 undefined on in
+put line 81.
+
+[81]
 File: fig/analysis/parallellCoordinates3.png Graphic file (type png)
  <use fig/analysis/parallellCoordinates3.png>
 Package pdftex.def Info: fig/analysis/parallellCoordinates3.png used on input l
-ine 59.
-(pdftex.def)             Requested size: 320.09132pt x 160.91573pt.
+ine 85.
+(pdftex.def)             Requested size: 248.96051pt x 495.20274pt.
 
-[77]
-<fig/analysis/paralellCoordinatesWomen.png, id=1736, 1204.5pt x 404.51125pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[82] [83]
+
+LaTeX Warning: Reference `entrepreneurship-education' on page 84 undefined on i
+nput line 112.
+
+
+LaTeX Warning: Reference `fig:parallellCoordinates3' on page 84 undefined on in
+put line 112.
+
+
+LaTeX Warning: Reference `fig:quiz9pl' on page 84 undefined on input line 112.
+
+
+LaTeX Warning: Reference `fig:quiz9pl' on page 84 undefined on input line 115.
+
+<fig/analysis/paralellCoordinatesWomen.png, id=1155, 1204.5pt x 404.51125pt>
 File: fig/analysis/paralellCoordinatesWomen.png Graphic file (type png)
 
 <use fig/analysis/paralellCoordinatesWomen.png>
 Package pdftex.def Info: fig/analysis/paralellCoordinatesWomen.png used on inpu
-t line 97.
+t line 119.
 (pdftex.def)             Requested size: 355.65944pt x 119.44087pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-)) [78
 
-] [79 <./fig/analysis/paralellCoordinatesWomen.png>]
+LaTeX Warning: Reference `fig:parallellCoordinates3' on page 84 undefined on in
+put line 124.
+
+) [84
+
+] (./result/iteration4/iteration_4_opinions.tex
+
+LaTeX Warning: Reference `fig:overview' on page 85 undefined on input line 3.
+
+
+LaTeX Warning: Reference `fig:interactiondesign' on page 85 undefined on input 
+line 3.
+
+
+LaTeX Warning: Reference `fig:learning' on page 85 undefined on input line 3.
+
+
+LaTeX Warning: Reference `fig:servicedesign' on page 85 undefined on input line
+ 3.
+
+
+<fig/analysis/interviews/overview_notexpanded.png, id=1160, 544.0325pt x 148.55
+5pt>
+File: fig/analysis/interviews/overview_notexpanded.png Graphic file (type png)
+ <use fig/analysis/interviews/overview_notexpanded.png>
+Package pdftex.def Info: fig/analysis/interviews/overview_notexpanded.png used 
+on input line 7.
+(pdftex.def)             Requested size: 106.69891pt x 29.1347pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+<fig/analysis/interviews/interactiondesign_notexpanded.png, id=1161, 373.395pt 
+x 155.58125pt>
+File: fig/analysis/interviews/interactiondesign_notexpanded.png Graphic file (t
+ype png)
+ <use fig/analysis/interviews/interactiondesign_notexpanded.png>
+Package pdftex.def Info: fig/analysis/interviews/interactiondesign_notexpanded.
+png used on input line 14.
+(pdftex.def)             Requested size: 106.69891pt x 44.45743pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+<fig/analysis/interviews/learning_notexpanded.png, id=1162, 319.1925pt x 84.315
+pt>
+File: fig/analysis/interviews/learning_notexpanded.png Graphic file (type png)
+ <use fig/analysis/interviews/learning_notexpanded.png>
+Package pdftex.def Info: fig/analysis/interviews/learning_notexpanded.png used 
+on input line 23.
+(pdftex.def)             Requested size: 106.69891pt x 28.18425pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+<fig/analysis/interviews/servicedesign_notexpanded.png, id=1163, 521.95pt x 79.
+29625pt>
+File: fig/analysis/interviews/servicedesign_notexpanded.png Graphic file (type 
+png)
+ <use fig/analysis/interviews/servicedesign_notexpanded.png>
+Package pdftex.def Info: fig/analysis/interviews/servicedesign_notexpanded.png 
+used on input line 30.
+(pdftex.def)             Requested size: 106.69891pt x 16.20984pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[85 <./fig/analysis/paralellCoordinatesWomen.png>] [86 <./fig/analysis/intervie
+ws/overview_notexpanded.png> <./fig/analysis/interviews/interactiondesign_notex
+panded.png> <./fig/analysis/interviews/learning_notexpanded.png> <./fig/analysi
+s/interviews/servicedesign_notexpanded.png>]
+
+LaTeX Warning: Reference `fig:learning1' on page 87 undefined on input line 39.
+
+
+
+LaTeX Warning: Reference `fig:learning2' on page 87 undefined on input line 39.
+
+
+
+<fig/analysis/interviews/learning_correct.png, id=1183, 772.8875pt x 299.1175pt
+>
+File: fig/analysis/interviews/learning_correct.png Graphic file (type png)
+ <use fig/analysis/interviews/learning_correct.png>
+Package pdftex.def Info: fig/analysis/interviews/learning_correct.png used on i
+nput line 43.
+(pdftex.def)             Requested size: 355.65944pt x 137.64592pt.
+
+<fig/analysis/interviews/learning_incorrect.png, id=1184, 1168.365pt x 399.4925
+pt>
+File: fig/analysis/interviews/learning_incorrect.png Graphic file (type png)
+ <use fig/analysis/interviews/learning_incorrect.png>
+Package pdftex.def Info: fig/analysis/interviews/learning_incorrect.png used on
+ input line 50.
+(pdftex.def)             Requested size: 355.65944pt x 121.61034pt.
+ [87
+
+ <./fig/analysis/interviews/learning_correct.png> <./fig/analysis/interviews/le
+arning_incorrect.png>]
+
+LaTeX Warning: Reference `fig:interaction1' on page 88 undefined on input line 
+59.
+
+
+LaTeX Warning: Reference `fig:interaction2' on page 88 undefined on input line 
+59.
+
+
+LaTeX Warning: Reference `fig:interaction3' on page 88 undefined on input line 
+59.
+
+
+<fig/analysis/interviews/interactiondesign_pleasurability.png, id=1194, 1211.52
+625pt x 348.30125pt>
+File: fig/analysis/interviews/interactiondesign_pleasurability.png Graphic file
+ (type png)
+
+<use fig/analysis/interviews/interactiondesign_pleasurability.png>
+Package pdftex.def Info: fig/analysis/interviews/interactiondesign_pleasurabili
+ty.png used on input line 63.
+(pdftex.def)             Requested size: 355.65944pt x 102.2484pt.
+
+<fig/analysis/interviews/interactiondesign_usability.png, id=1195, 562.1pt x 19
+9.74625pt>
+File: fig/analysis/interviews/interactiondesign_usability.png Graphic file (typ
+e png)
+ <use fig/analysis/interviews/interactiondesign_usability.png>
+Package pdftex.def Info: fig/analysis/interviews/interactiondesign_usability.pn
+g used on input line 72.
+(pdftex.def)             Requested size: 355.65944pt x 126.38637pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+<fig/analysis/interviews/interactiondesign_utility.png, id=1196, 749.80125pt x 
+241.90375pt>
+File: fig/analysis/interviews/interactiondesign_utility.png Graphic file (type 
+png)
+ <use fig/analysis/interviews/interactiondesign_utility.png>
+Package pdftex.def Info: fig/analysis/interviews/interactiondesign_utility.png 
+used on input line 79.
+(pdftex.def)             Requested size: 355.65944pt x 114.74675pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[88
+
+ <./fig/analysis/interviews/interactiondesign_pleasurability.png>] [89 <./fig/a
+nalysis/interviews/interactiondesign_usability.png> <./fig/analysis/interviews/
+interactiondesign_utility.png>]
+
+LaTeX Warning: Reference `fig:servicedesign1' on page 90 undefined on input lin
+e 88.
+
+
+LaTeX Warning: Reference `fig:servicedesign1' on page 90 undefined on input lin
+e 88.
+
+
+<fig/analysis/interviews/servicedesign_when.png, id=1213, 588.1975pt x 337.26pt
+>
+File: fig/analysis/interviews/servicedesign_when.png Graphic file (type png)
+ <use fig/analysis/interviews/servicedesign_when.png>
+Package pdftex.def Info: fig/analysis/interviews/servicedesign_when.png used on
+ input line 92.
+(pdftex.def)             Requested size: 355.65944pt x 203.92714pt.
+
+<fig/analysis/interviews/servicedesign_cant.png, id=1214, 688.5725pt x 278.0387
+6pt>
+File: fig/analysis/interviews/servicedesign_cant.png Graphic file (type png)
+ <use fig/analysis/interviews/servicedesign_cant.png>
+Package pdftex.def Info: fig/analysis/interviews/servicedesign_cant.png used on
+ input line 99.
+(pdftex.def)             Requested size: 355.65944pt x 143.60944pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[90
+
+ <./fig/analysis/interviews/servicedesign_when.png>] [91 <./fig/analysis/interv
+iews/servicedesign_cant.png>]))
 \openout2 = `discussion/discussion.aux'.
 
+ (./discussion/discussion.tex [92
 
-(./discussion/discussion.tex [80
 
 
 
 ]
-Chapter 4.
-(./discussion/1_dev_by_tech_limitations.tex [81] [82])
-(./discussion/2_situation_affects_design.tex [83] [84]
-Overfull \hbox (6.10995pt too wide) in paragraph at lines 36--37
+Chapter 5.
+(./discussion/1_dev_by_tech_limitations.tex
+
+Package natbib Warning: Citation `youngdrive-statistics' on page 93 undefined o
+n input line 5.
+
+
+Package natbib Warning: Citation `nicol' on page 93 undefined on input line 9.
+
+[93]
+
+Package natbib Warning: Citation `une-terre' on page 94 undefined on input line
+ 16.
+
+
+Package natbib Warning: Citation `timo-ropinski-liu' on page 94 undefined on in
+put line 16.
+
+[94]
+
+LaTeX Warning: Reference `sec:internationalization' on page 95 undefined on inp
+ut line 32.
+
+) (./discussion/2_situation_affects_design.tex
+
+Package natbib Warning: Citation `stickdorn' on page 95 undefined on input line
+ 7.
+
+[95]
+
+Package natbib Warning: Citation `lowgren' on page 96 undefined on input line 9
+.
+
+
+Package natbib Warning: Citation `stickdorn' on page 96 undefined on input line
+ 9.
+
+
+Package natbib Warning: Citation `ruskovaara' on page 96 undefined on input lin
+e 13.
+
+
+Package natbib Warning: Citation `ruskovaara' on page 96 undefined on input lin
+e 13.
+
+
+Package natbib Warning: Citation `dickson' on page 96 undefined on input line 1
+5.
+
+
+Package natbib Warning: Citation `dickson' on page 96 undefined on input line 1
+5.
+
+
+Overfull \hbox (4.31396pt too wide) in paragraph at lines 18--19
+\T1/jkp/m/n/10 per-i-ments, and do-ing con-stant im-prove-ments, to make in-cre
+as-ingly well-informed
+ []
+
+[96]
+Overfull \hbox (6.10995pt too wide) in paragraph at lines 34--35
 []\T1/jkp/m/n/10 continually de-sign and run work-shops and tests suit-able for
  the tar-get groups 
  []
 
-[85])
+
+Package natbib Warning: Citation `stickdorn' on page 97 undefined on input line
+ 41.
+
+
+Package natbib Warning: Citation `stickdorn' on page 97 undefined on input line
+ 43.
+
+
+Package natbib Warning: Citation `stickdorn' on page 97 undefined on input line
+ 49.
+
+[97]
+
+Package natbib Warning: Citation `ruskovaara' on page 98 undefined on input lin
+e 58.
+
+
+Package natbib Warning: Citation `stickdorn' on page 98 undefined on input line
+ 60.
+
+)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [86]
+ [98]
 (./discussion/3_test_questions.tex
-Underfull \vbox (badness 1215) has occurred while \output is active []
 
- [87]
-[88]) (./discussion/4_how_design_affects_usability_learning.tex
-Underfull \vbox (badness 1400) has occurred while \output is active []
+Package natbib Warning: Citation `nicol' on page 99 undefined on input line 5.
 
- [89]
-[90]) (./discussion/5_user_feedback.tex [91])) [92]
+
+LaTeX Warning: Reference `fig:revised-bloom' on page 99 undefined on input line
+ 5.
+
+
+Package natbib Warning: Citation `krathwohl' on page 99 undefined on input line
+ 7.
+
+
+Package natbib Warning: Citation `nicol' on page 99 undefined on input line 9.
+
+
+LaTeX Warning: Reference `fig:multiple-choice' on page 99 undefined on input li
+ne 9.
+
+
+Package natbib Warning: Citation `kniberg' on page 99 undefined on input line 1
+1.
+
+[99]
+
+Package natbib Warning: Citation `krathwohl' on page 100 undefined on input lin
+e 25.
+
+
+Package natbib Warning: Citation `nicol' on page 100 undefined on input line 27
+.
+
+
+LaTeX Warning: Reference `learningbythinking' on page 100 undefined on input li
+ne 29.
+
+
+LaTeX Warning: Reference `sec:future-work-4' on page 100 undefined on input lin
+e 32.
+
+
+LaTeX Warning: Reference `fig:learning' on page 100 undefined on input line 36.
+
+
+
+LaTeX Warning: Reference `fig:interactiondesign' on page 100 undefined on input
+ line 36.
+
+[100]) (./discussion/4_how_design_affects_usability_learning.tex
+
+Package natbib Warning: Citation `sierra' on page 101 undefined on input line 5
+.
+
+
+Package natbib Warning: Citation `sweller' on page 101 undefined on input line 
+9.
+
+
+Package natbib Warning: Citation `sierra' on page 101 undefined on input line 9
+.
+
+[101]
+
+Package natbib Warning: Citation `nicol' on page 102 undefined on input line 11
+.
+
+
+LaTeX Warning: Reference `sec:interview-learning' on page 102 undefined on inpu
+t line 21.
+
+
+Package natbib Warning: Citation `sierra' on page 102 undefined on input line 2
+6.
+
+[102]
+
+Package natbib Warning: Citation `sierra' on page 103 undefined on input line 3
+1.
+
+
+Package natbib Warning: Citation `nicol' on page 103 undefined on input line 37
+.
+
+
+Package natbib Warning: Citation `nicol' on page 103 undefined on input line 37
+.
+
+
+LaTeX Warning: Reference `sec:sd-3' on page 103 undefined on input line 41.
+
+
+LaTeX Warning: Reference `cha:future-work' on page 103 undefined on input line 
+41.
+
+) [103] (./discussion/5_user_feedback.tex
+
+Package natbib Warning: Citation `stickdorn' on page 104 undefined on input lin
+e 7.
+
+
+LaTeX Warning: Reference `digital-service-design' on page 104 undefined on inpu
+t line 9.
+
+
+LaTeX Warning: Reference `stickdorn' on page 104 undefined on input line 11.
+
+
+Package natbib Warning: Citation `stickdorn' on page 104 undefined on input lin
+e 13.
+
+
+Package natbib Warning: Citation `stickdorn' on page 104 undefined on input lin
+e 15.
+
+
+Package natbib Warning: Citation `lowgren' on page 104 undefined on input line 
+17.
+
+[104])) [105]
 \openout2 = `conclusion/conclusion.aux'.
 
-
-(./conclusion/conclusion.tex
-Chapter 5.
-[93
+ (./conclusion/conclusion.tex [106
 
 
 
 ]
-Overfull \hbox (1.97202pt too wide) in paragraph at lines 42--43
+Chapter 6.
+[107]
+
+Package natbib Warning: Citation `clatworthy' on page 108 undefined on input li
+ne 36.
+
+
+Overfull \hbox (20.2119pt too wide) in paragraph at lines 36--37
+\T1/jkp/m/n/10 To in-ves-ti-gate us-abil-ity, ob-ser-va-tions us-ing think-alou
+d in the real-world en-trepreneur-
+ []
+
+[108]
+Overfull \hbox (1.97202pt too wide) in paragraph at lines 40--41
 []\T1/jkp/m/n/10 Surprisingly of-ten, com-par-ing re-search and ex-pert opin-io
 ns with what coaches
  []
 
 
-Overfull \hbox (13.50055pt too wide) in paragraph at lines 42--43
+Overfull \hbox (13.50055pt too wide) in paragraph at lines 40--41
 \T1/jkp/m/n/10 thought was best for learn-ing, was in uni-son. When this hap-pe
 ns, the self-confidence
  []
 
-[94] (./discussion/future_work.tex
+
+LaTeX Warning: Reference `sec:user-feedback' on page 109 undefined on input lin
+e 42.
+
+
+LaTeX Warning: Reference `mini-sprint' on page 109 undefined on input line 47.
+
+
+Package natbib Warning: Citation `lowgren' on page 109 undefined on input line 
+51.
+
+
+Package natbib Warning: Citation `stickdorn' on page 109 undefined on input lin
+e 51.
+
+
+Package natbib Warning: Citation `stickdorn' on page 109 undefined on input lin
+e 51.
+
+(./discussion/future_work.tex
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 20.98103pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[95] [96
+[109] [110
 
 ]
-Chapter 6.
+Chapter 7.
+
+LaTeX Warning: Reference `purpose' on page 111 undefined on input line 5.
+
 (./discussion/future_work_1.tex
-<fig/analysis/unprocessedData.png, id=1899, 1778.645pt x 939.51pt>
+
+LaTeX Warning: Reference `dataanalysisframework' on page 111 undefined on input
+ line 6.
+
+
+LaTeX Warning: Reference `fig:unprocessedData' on page 111 undefined on input l
+ine 6.
+
+<fig/analysis/unprocessedData.png, id=1315, 1778.645pt x 939.51pt>
 File: fig/analysis/unprocessedData.png Graphic file (type png)
 
 <use fig/analysis/unprocessedData.png>
@@ -2923,99 +4391,113 @@ Package pdftex.def Info: fig/analysis/unprocessedData.png used on input line 10
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[97] [98 <./fig/analysis/unprocessedData.png>]) (./discussion/future_work_2.tex
+[111] [112 <./fig/analysis/unprocessedData.png>]
 
+Package natbib Warning: Citation `voto-mobile' on page 113 undefined on input l
+ine 37.
+
+) (./discussion/future_work_2.tex
 Overfull \hbox (1.84996pt too wide) in paragraph at lines 3--4
 \T1/jkp/m/n/10 There were many things to con-sider when de-sign-ing for the con
 -tex-tual con-straints.
  []
 
+[113]
 
-Underfull \vbox (badness 1308) has occurred while \output is active []
+Package natbib Warning: Citation `dweck' on page 114 undefined on input line 19
+.
 
- [99]
-[100]) (./discussion/future_work_3.tex [101] [102])
-(./discussion/future_work_4.tex [103] [104] [105]
-<fig/biteSize.jpg, id=1962, 3914.625pt x 1947.275pt>
+[114]) (./discussion/future_work_3.tex [115] [116]
+
+Package natbib Warning: Citation `yengin' on page 117 undefined on input line 3
+1.
+
+) (./discussion/future_work_4.tex [117]
+
+Package natbib Warning: Citation `bjork' on page 118 undefined on input line 13
+.
+
+
+Package natbib Warning: Citation `youngdrive-masterthesis-idea' on page 118 und
+efined on input line 16.
+
+
+Package natbib Warning: Citation `sierra' on page 118 undefined on input line 2
+0.
+
+
+Package natbib Warning: Citation `bjork' on page 118 undefined on input line 28
+.
+
+[118]
+
+Package natbib Warning: Citation `memorize' on page 119 undefined on input line
+ 31.
+
+
+Package natbib Warning: Citation `gates' on page 119 undefined on input line 35
+.
+
+
+LaTeX Warning: Reference `fig:bite-size' on page 119 undefined on input line 42
+.
+
+[119] <fig/biteSize.jpg, id=1357, 3914.625pt x 1947.275pt>
 File: fig/biteSize.jpg Graphic file (type jpg)
- <use fig/biteSize.jpg>
+
+<use fig/biteSize.jpg>
 Package pdftex.def Info: fig/biteSize.jpg used on input line 46.
 (pdftex.def)             Requested size: 284.52863pt x 141.52295pt.
-)
-(./discussion/future_work_5.tex
-Underfull \vbox (badness 5802) has occurred while \output is active []
+) (./discussion/future_work_5.tex [120 <./fig/biteSize.jpg>]
 
- [106 <./fig/biteSize.jpg>]))) [107] (./main.bbl (./main.brf)
-\tf@brf=\write7
-\openout7 = `main.brf'.
+LaTeX Warning: Reference `dataanalysisframework' on page 121 undefined on input
+ line 19.
 
- [108
+))) [121] (./main.bbl) (./main_outro.tex [122
 
 
-] [109]
-Underfull \hbox (badness 2717) in paragraph at lines 139--139
-[]\T1/jkp/m/n/10 C. Dweck.  The power of be-liev-ing that you can im-prove.  []
-$\T1/pcr/m/n/10 https :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 139--139
-\T1/pcr/m/n/10 / / www . ted . com / talks / carol _ dweck _ the _ power _ of _
- believing _
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 177--177
-\T1/pcr/m/n/10 wp-[]content / uploads / 2015 / 09 / RevisedBloomsHandout-[]1 . 
-pdf$[]\T1/jkp/m/n/10 ,
- []
-
-[110]
-Underfull \hbox (badness 10000) in paragraph at lines 220--220
-[]\T1/jkp/m/n/10 H. Lopez.  Par-al-lel co-or-di-nates: Read out pat-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 220--220
-\T1/jkp/m/n/10 terns.  []$\T1/pcr/m/n/10 http : / / une-[]terre . blogspot . se
- / 2012 / 09 /
- []
-
-
-Underfull \hbox (badness 7362) in paragraph at lines 279--279
-[]\T1/jkp/m/n/10 S. Nis-sar.  So-cial in-no-va-tion and en-trepreneur-ship in u
-ganda. why
- []
-
-
-Underfull \hbox (badness 4217) in paragraph at lines 279--279
-\T1/jkp/m/n/10 mo-bile ser-vices are grow-ing fast in the area.  []$\T1/pcr/m/n
-/10 http : / / bit . ly /
- []
-
-[111]
-Underfull \hbox (badness 10000) in paragraph at lines 345--345
-\T1/pcr/m/n/10 detail / magic-[]json / cajifcebjiflndefndbnoeenjpiiiagm ? hl =
- []
-
-) (./main_outro.tex [112]
+]
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 23.63593pt on input line 1.
- [113
-
-] [114]
+ [123] [124]
 \openout2 = `appendix/app_images.aux'.
 
- (./appendix/app_images.tex
+
+(./appendix/app_images.tex
 Appendix A.
-<fig/app/iteration4/a4.png, id=2050, 2622.79875pt x 4673.46pt>
+
+LaTeX Warning: Reference `developed-application' on page 125 undefined on input
+ line 3.
+
+
+LaTeX Warning: Reference `fig:a4' on page 125 undefined on input line 3.
+
+
+LaTeX Warning: Reference `fig:b4' on page 125 undefined on input line 3.
+
+
+LaTeX Warning: Reference `fig:c4' on page 125 undefined on input line 3.
+
+
+LaTeX Warning: Reference `fig:d4' on page 125 undefined on input line 3.
+
+
+LaTeX Warning: Reference `fig:e4' on page 125 undefined on input line 3.
+
+
+LaTeX Warning: Reference `fig:f4' on page 125 undefined on input line 3.
+
+
+LaTeX Warning: Reference `fig:g4' on page 125 undefined on input line 3.
+
+<fig/app/iteration4/a4.png, id=1383, 2622.79875pt x 4673.46pt>
 File: fig/app/iteration4/a4.png Graphic file (type png)
 
 <use fig/app/iteration4/a4.png>
 Package pdftex.def Info: fig/app/iteration4/a4.png used on input line 7.
 (pdftex.def)             Requested size: 117.36826pt x 209.08434pt.
 
-<fig/app/iteration4/b4.png, id=2051, 2619.7875pt x 4655.3925pt>
+<fig/app/iteration4/b4.png, id=1384, 2619.7875pt x 4655.3925pt>
 File: fig/app/iteration4/b4.png Graphic file (type png)
 
 <use fig/app/iteration4/b4.png>
@@ -3025,7 +4507,7 @@ Package pdftex.def Info: fig/app/iteration4/b4.png used on input line 14.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/app/iteration4/c4.png, id=2052, 2619.7875pt x 4655.3925pt>
+<fig/app/iteration4/c4.png, id=1385, 2619.7875pt x 4655.3925pt>
 File: fig/app/iteration4/c4.png Graphic file (type png)
 
 <use fig/app/iteration4/c4.png>
@@ -3035,7 +4517,7 @@ Package pdftex.def Info: fig/app/iteration4/c4.png used on input line 21.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/app/iteration4/d4.png, id=2053, 1768.6075pt x 1551.7975pt>
+<fig/app/iteration4/d4.png, id=1386, 1768.6075pt x 1551.7975pt>
 File: fig/app/iteration4/d4.png Graphic file (type png)
 
 <use fig/app/iteration4/d4.png>
@@ -3045,7 +4527,7 @@ Package pdftex.def Info: fig/app/iteration4/d4.png used on input line 28.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/app/iteration4/e4.png, id=2054, 2619.7875pt x 4655.3925pt>
+<fig/app/iteration4/e4.png, id=1387, 2619.7875pt x 4655.3925pt>
 File: fig/app/iteration4/e4.png Graphic file (type png)
 
 <use fig/app/iteration4/e4.png>
@@ -3055,7 +4537,7 @@ Package pdftex.def Info: fig/app/iteration4/e4.png used on input line 35.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/app/iteration4/f4.png, id=2055, 2622.79875pt x 4655.3925pt>
+<fig/app/iteration4/f4.png, id=1388, 2622.79875pt x 4655.3925pt>
 File: fig/app/iteration4/f4.png Graphic file (type png)
 
 <use fig/app/iteration4/f4.png>
@@ -3065,7 +4547,7 @@ Package pdftex.def Info: fig/app/iteration4/f4.png used on input line 42.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/app/iteration4/g4.png, id=2056, 2619.7875pt x 4655.3925pt>
+<fig/app/iteration4/g4.png, id=1389, 2619.7875pt x 4655.3925pt>
 File: fig/app/iteration4/g4.png Graphic file (type png)
 
 <use fig/app/iteration4/g4.png>
@@ -3075,7 +4557,7 @@ Package pdftex.def Info: fig/app/iteration4/g4.png used on input line 49.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/app/iteration4/h4.png, id=2057, 5317.8675pt x 4658.40375pt>
+<fig/app/iteration4/h4.png, id=1390, 5317.8675pt x 4658.40375pt>
 File: fig/app/iteration4/h4.png Graphic file (type png)
 
 <use fig/app/iteration4/h4.png>
@@ -3085,7 +4567,7 @@ Package pdftex.def Info: fig/app/iteration4/h4.png used on input line 56.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/app/iteration4/i4.png, id=2058, 2622.79875pt x 4655.3925pt>
+<fig/app/iteration4/i4.png, id=1391, 2622.79875pt x 4655.3925pt>
 File: fig/app/iteration4/i4.png Graphic file (type png)
 
 <use fig/app/iteration4/i4.png>
@@ -3095,23 +4577,33 @@ Package pdftex.def Info: fig/app/iteration4/i4.png used on input line 63.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [115
+) [125
 
 
- <./fig/app/iteration4/a4.png>] [116 <./fig/app/iteration4/b4.png> <./fig/app/i
-teration4/c4.png>] [117 <./fig/app/iteration4/d4.png> <./fig/app/iteration4/e4.
-png>] [118 <./fig/app/iteration4/f4.png> <./fig/app/iteration4/g4.png>]
-[119 <./fig/app/iteration4/h4.png> <./fig/app/iteration4/i4.png>]
+ <./fig/app/iteration4/a4.png>] [126 <./fig/app/iteration4/b4.png> <./fig/app/i
+teration4/c4.png>] [127 <./fig/app/iteration4/d4.png> <./fig/app/iteration4/e4.
+png>] [128 <./fig/app/iteration4/f4.png> <./fig/app/iteration4/g4.png>]
+[129 <./fig/app/iteration4/h4.png> <./fig/app/iteration4/i4.png>]
 \openout2 = `appendix/pre_test.aux'.
 
 
-(./appendix/pre_test.tex [120
+(./appendix/pre_test.tex [130
 
 
 
 ]
 Appendix B.
-<fig/pretest/pretestA.png, id=2106, 864.22874pt x 1072.005pt>
+
+LaTeX Warning: Reference `fig:pretest1' on page 131 undefined on input line 3.
+
+
+LaTeX Warning: Reference `fig:pretest2' on page 131 undefined on input line 3.
+
+
+Package natbib Warning: Citation `general-entrepreneurship-quiz' on page 131 un
+defined on input line 3.
+
+<fig/pretest/pretestA.png, id=1437, 864.22874pt x 1072.005pt>
 File: fig/pretest/pretestA.png Graphic file (type png)
 
 <use fig/pretest/pretestA.png>
@@ -3119,9 +4611,17 @@ Package pdftex.def Info: fig/pretest/pretestA.png used on input line 7.
 (pdftex.def)             Requested size: 355.65944pt x 441.16064pt.
 
 
+Package natbib Warning: Citation `general-entrepreneurship-quiz' on page 131 un
+defined on input line 8.
+
+
+Package natbib Warning: Citation `general-entrepreneurship-quiz' on page 131 un
+defined on input line 8.
+
+
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/pretest/pretestB.png, id=2111, 865.2325pt x 1080.035pt>
+<fig/pretest/pretestB.png, id=1438, 865.2325pt x 1080.035pt>
 File: fig/pretest/pretestB.png Graphic file (type png)
 
 <use fig/pretest/pretestB.png>
@@ -3129,92 +4629,186 @@ Package pdftex.def Info: fig/pretest/pretestB.png used on input line 14.
 (pdftex.def)             Requested size: 355.65944pt x 443.95435pt.
 
 
+Package natbib Warning: Citation `general-entrepreneurship-quiz' on page 131 un
+defined on input line 15.
+
+
+Package natbib Warning: Citation `general-entrepreneurship-quiz' on page 131 un
+defined on input line 15.
+
+
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [121] [122 <./fig/pretest/pretestA.png>] [123 <./fig/pretest/pretestB.png>]
+) [131] [132 <./fig/pretest/pretestA.png>] [133 <./fig/pretest/pretestB.png>]
 \openout2 = `appendix/time_plan.aux'.
 
 
-(./appendix/time_plan.tex [124
+(./appendix/time_plan.tex [134
 
 
 
 ]
 Appendix C.
-(./appendix/original_time_plan.tex [125]
+(./appendix/original_time_plan.tex [135]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [126]
+ [136]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [127]))
-[128]) (./main.ind)
-<fig/LinkUniv_sv_vert_col.pdf, id=2154, 259.30878pt x 172.23346pt>
-File: fig/LinkUniv_sv_vert_col.pdf Graphic file (type pdf)
+ [137])
+(./methods/data_analysis_theory/iteration_1_4.tex [138])) [139]
+\openout2 = `appendix/quiz_results.aux'.
 
-<use fig/LinkUniv_sv_vert_col.pdf>
-Package pdftex.def Info: fig/LinkUniv_sv_vert_col.pdf used on input line 42.
-(pdftex.def)             Requested size: 77.10475pt x 51.21495pt.
 
-Overfull \hbox (0.16193pt too wide) in paragraph at lines 42--42
-\T1/jkp/m/n/10 and its pro-ce-dures for pub-li-ca-tion and for as-sur-ance of d
-oc-u-ment in-tegrity, please
- []
-
-[129
+(./appendix/quiz_results.tex [140
 
 
 
- <./fig/LinkUniv_sv_vert_col.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 42.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 42.
- (./main.aux (./thanks/thanks.aux)
-(./introduction/introduction.aux) (./methods/methods.aux) (./result/result.aux)
-(./discussion/discussion.aux) (./conclusion/conclusion.aux)
-(./appendix/app_images.aux) (./appendix/pre_test.aux) (./appendix/time_plan.aux
-))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 42.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 42.
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 7FA2ABE36A0300F037CAF82B2B7F9479;12016.
-Package rerunfilecheck Info: File `main.brf' has not changed.
-(rerunfilecheck)             Checksum: 48E80B7B1DE1EB9F96C8A040BC6AAAC7;9003.
+]
+Appendix D.
+
+LaTeX Warning: Reference `fig:0' on page 141 undefined on input line 3.
 
 
-LaTeX Warning: There were undefined references.
+LaTeX Warning: Reference `fig:1' on page 141 undefined on input line 3.
 
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: Reference `fig:2' on page 141 undefined on input line 3.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 42.
- ) 
-Here is how much of TeX's memory you used:
- 25148 strings out of 493089
- 443125 string characters out of 6134842
- 527592 words of memory out of 5000000
- 27185 multiletter control sequences out of 15000+600000
- 219755 words of font info for 180 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 69i,12n,78p,1226b,703s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
-exlive/2015/texmf-dist/fonts/enc/dvips/kpfonts/kpfonts-expert.enc}</usr/local/t
-exlive/2015/texmf-dist/fonts/type1/public/kpfonts/jkpbn8a.pfb></usr/local/texli
-ve/2015/texmf-dist/fonts/type1/public/kpfonts/jkpbn8a.pfb></usr/local/texlive/2
-015/texmf-dist/fonts/type1/public/kpfonts/jkpmit8a.pfb></usr/local/texlive/2015
-/texmf-dist/fonts/type1/public/kpfonts/jkpmn8a.pfb></usr/local/texlive/2015/tex
-mf-dist/fonts/type1/public/kpfonts/jkpmn8a.pfb></usr/local/texlive/2015/texmf-d
-ist/fonts/type1/public/kpfonts/jkpmnc.pfb></usr/local/texlive/2015/texmf-dist/f
-onts/type1/public/kpfonts/jkpmne.pfb></usr/local/texlive/2015/texmf-dist/fonts/
-type1/public/kpfonts/jkpmne.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1
-/public/kpfonts/jkpmsc8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/pu
-blic/kpfonts/jkpsya.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/cou
-rier/ucrr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/courier/ucr
-ro8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pf
-b>
-Output written on main.pdf (143 pages, 40062351 bytes).
-PDF statistics:
- 2319 PDF objects out of 2487 (max. 8388607)
- 2033 compressed objects within 21 object streams
- 502 named destinations out of 1000 (max. 500000)
- 19793 words of extra memory for PDF output out of 20736 (max. 10000000)
 
+LaTeX Warning: Reference `fig:3' on page 141 undefined on input line 3.
+
+
+LaTeX Warning: Reference `fig:4' on page 141 undefined on input line 3.
+
+
+LaTeX Warning: Reference `fig:5' on page 141 undefined on input line 3.
+
+
+! LaTeX Error: Environment subfigure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 \begin{subfigure}
+                     {.5\textwidth}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.7 \begin{subfigure}{.5\textwidth}
+                                   
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.7 \begin{subfigure}{.5\textwidth}
+                                   
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: fig/analysis/sheets/0Overview.png Graphic file (type png)
+<use fig/analysis/sheets/0Overview.png>
+Package pdftex.def Info: fig/analysis/sheets/0Overview.png used on input line 9
+.
+(pdftex.def)             Requested size: 142.2616pt x 24.14777pt.
+
+
+! LaTeX Error: \begin{figure} on input line 5 ended by \end{subfigure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 \end{subfigure}
+                    %
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment subfigure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \begin{subfigure}
+                      {.5\textwidth}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.13 \begin{subfigure}{.5\textwidth}
+                                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.13 \begin{subfigure}{.5\textwidth}
+                                    
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+<fig/analysis/sheets/1Pre-data.png, id=1497, 1120.185pt x 642.4pt>
+File: fig/analysis/sheets/1Pre-data.png Graphic file (type png)
+
+<use fig/analysis/sheets/1Pre-data.png>
+Package pdftex.def Info: fig/analysis/sheets/1Pre-data.png used on input line 1
+5.
+(pdftex.def)             Requested size: 142.2616pt x 81.5839pt.
+
+
+! LaTeX Error: \begin{figure} on input line 5 ended by \end{subfigure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 \end{subfigure}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: fig/analysis/sheets/0Overview.png Graphic file (type png)
+<use fig/analysis/sheets/0Overview.png>
+Package pdftex.def Info: fig/analysis/sheets/0Overview.png used on input line 2
+6.
+(pdftex.def)             Requested size: 355.65944pt x 60.37679pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: fig/analysis/sheets/1Pre-data.png Graphic file (type png)
+<use fig/analysis/sheets/1Pre-data.png>
+Package pdftex.def Info: fig/analysis/sheets/1Pre-data.png used on input line 3
+3.
+(pdftex.def)             Requested size: 355.65944pt x 203.96463pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<fig/analysis/sheets/2Quiz3.png, id=1498, 882.29625pt x 640.3925pt>
+Fi

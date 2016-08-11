@@ -18,8 +18,8 @@ This section presents how data from the server was processed, to enable visualiz
 
 \begin{figure}[h]
     \centering
-    \includegraphics[width=0.7\textwidth]{analysis/resultsColored.png}
-    \caption{In this figure, filters and conditional formatting has been done so that only results for quiz 3 are shown, and if it is a certification quiz, yellow color is used.}
+    \includegraphics[width=0.9\textwidth]{analysis/resultsColored.png}
+    \caption{The quiz results collected in a Google Sheet after data enhancement. In this figure, cell E1 has been filtered so that only results for quiz 3 are shown. Conditional formatting has been done with row G so that if it is a certification quiz, yellow color is used.}
     \label{fig:resultsColored}
 \end{figure}
 
@@ -51,7 +51,7 @@ These could be calculated by having columns for:
   \end{itemize}
 \end{itemize}
 
-Then, to see trends, color scales were again added. With ordinal values, a sequential color scheme is used (for example fastest time, from green to red), and with nominal values (like if they are female or male) where there is no right value, a qualitative color scheme is used. Now, it was easier to spot outliers and trends.
+Then, to see trends, color scales were again added. With ordinal values, a sequential color scheme is used (for example fastest time, from green to red), and with nominal values (like if they are female or male) where there is no right value, a qualitative color scheme is used. Now it was easier to spot outliers and trends, and giving validation to findings from notes and observations made during interviews, workshops and app tests.
 
 \subsubsection{Step 4: Date Enhancement of Pre-study Results}
 To see differences in answers more clearly, the data from the pre-study was made sortable and filterable. Then, the data was resampled for each column that had numerable (sortable) data in text instead of numbers, so for example "The day before" was changed to -1 and "The same day" to 0. In a similar way, school level was divided into four different groups, from 0 to 3, where 0 meant secondary, year unknown, 1 meant lower secondary, 2 meant upper secondary, and 3 meant tertiary.
@@ -64,8 +64,8 @@ The summary sheet and the pre-quiz sheet were joined, becoming a multiple-variat
 
 \begin{figure}[h]
     \centering
-    \includegraphics[width=0.7\textwidth]{analysis/analysFarg3.png}
-    \caption{The mutli-variate data set, made filterable and sortable in Google Sheets. Color scales and calculating means makes it easier to compare characteristics of the coach together with pre-test and quiz results. However, it is cumbersome and hard to quickly filter data on multiple parameters.}
+    \includegraphics[width=1.0\textwidth]{analysis/sheets/0Overview.png}
+    \caption{The mutli-variate data set, made filterable and sortable in Google Sheets. Color scales and calculating means makes it easier to compare characteristics of the coach together with pre-test and quiz results. However, it is cumbersome and hard to quickly filter data on multiple parameters. For a zoomed in version, see \ref{cha:appendix4}.}.
     \label{fig:analysFarg3}
 \end{figure}
 
@@ -90,7 +90,7 @@ To work, the example CSV file was replaced with the data from exporting the Goog
 
 \begin{figure}[h]
     \centering
-    \includegraphics[width=1.0\textwidth]{analysis/parallellCoordinates3.png}
+    \includegraphics[width=0.7\textwidth]{analysis/parallellCoordinates3.png}
     \caption{The parallel coordinates visualization, done in d3.js. The visualization support draggable axes, filtering of data via dragging the sliders (which synchronizes with the data table), color assignment (like blue and red for men and women in the example), and hovering over a specific data point.}
     \label{fig:parallell-coordinates-1}
 \end{figure}

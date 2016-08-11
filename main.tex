@@ -12,11 +12,14 @@
   noparts% Use option 'noparts' if you do not make use of part divisions.
 ]{rtthesisClass/rtthesis}
 
+\setcounter{secnumdepth}{3}
+
 \usepackage{mythesis}
 \DeclareUnicodeCharacter{00A0}{ }
 
 \usepackage{hyperref}
 \usepackage{url}
+%\usepackage{subcaption}
 
 \begin{document}
 \selectlanguage{english}
@@ -24,7 +27,7 @@
 \input{main_intro}
 
 \include{introduction/introduction}
-%\include{theory/theory}
+\include{theory/theory}
 \include{methods/methods}
 \include{result/result}
 %\include{analysis/analysis}
