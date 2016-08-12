@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.24)  12 AUG 2016 00:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.5.24)  12 AUG 2016 02:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2210,7 +2210,7 @@ LaTeX Font Info:    Try loading font information for U+jkpsyc on input line 1.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/kpfonts/ujkpsyc.fd
 File: ujkpsyc.fd 2006/08/15 v1.0
 )
-<fig/LiTH_sv_vert_blk.pdf, id=618, 259.31882pt x 190.21063pt>
+<fig/LiTH_sv_vert_blk.pdf, id=614, 259.31882pt x 190.21063pt>
 File: fig/LiTH_sv_vert_blk.pdf Graphic file (type pdf)
 
 <use fig/LiTH_sv_vert_blk.pdf>
@@ -2237,7 +2237,7 @@ Overfull \hbox (35.56596pt too wide) in paragraph at lines 7--7
 
 ] [2
 
-] <fig/LiTH_sigill_blk.pdf, id=642, 123.70215pt x 123.5817pt>
+] <fig/LiTH_sigill_blk.pdf, id=638, 123.70215pt x 123.5817pt>
 File: fig/LiTH_sigill_blk.pdf Graphic file (type pdf)
 
 <use fig/LiTH_sigill_blk.pdf>
@@ -2302,17 +2302,14 @@ LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 19.70294pt on input line 17.
  (./main.toc [7
 
-] [8] [9] [10])
+] [8] [9])
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
- [11] [12
-
-])
+ [10])
 \openout2 = `introduction/introduction.aux'.
 
-
-(./introduction/introduction.tex
+ (./introduction/introduction.tex
 Chapter 1.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 40.54503pt on input line 1.
@@ -2325,7 +2322,7 @@ and Tech-nol-ogy, Linköping
  []
 
 (./introduction/purpose.tex
-Underfull \vbox (badness 2080) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
@@ -2333,6 +2330,7 @@ been already used, duplicate ignored
                    \relax 
 l.9 
      [1
+
 
 
 ]
@@ -2358,7 +2356,7 @@ Chapter 2.
 
 ] (./theory/digital_learning.tex)
 (./theory/methods_learning.tex [4]
-<fig/RevisedBloom.png, id=961, 1593.955pt x 1262.7175pt>
+<fig/RevisedBloom.png, id=945, 1593.955pt x 1262.7175pt>
 File: fig/RevisedBloom.png Graphic file (type png)
 
 <use fig/RevisedBloom.png>
@@ -2368,7 +2366,7 @@ Package pdftex.def Info: fig/RevisedBloom.png used on input line 31.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[5] <fig/SierraPractice.png, id=986, 684.5575pt x 244.915pt>
+[5] <fig/SierraPractice.png, id=972, 684.5575pt x 244.915pt>
 File: fig/SierraPractice.png Graphic file (type png)
 
 <use fig/SierraPractice.png>
@@ -2378,19 +2376,15 @@ Package pdftex.def Info: fig/SierraPractice.png used on input line 46.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[6 <./fig/RevisedBloom.png>]
-<fig/multipleChoice.png, id=1012, 728.7225pt x 210.7875pt>
+[6 <./fig/RevisedBloom.png>] [7 <./fig/SierraPractice.png>]
+<fig/multipleChoice.png, id=1005, 728.7225pt x 210.7875pt>
 File: fig/multipleChoice.png Graphic file (type png)
 
 <use fig/multipleChoice.png>
 Package pdftex.def Info: fig/multipleChoice.png used on input line 65.
 (pdftex.def)             Requested size: 284.52863pt x 82.30006pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[7 <./fig/SierraPractice.png>]) (./theory/methods_motivation.tex [8 <./fig/mult
-ipleChoice.png>]
+ [8 <./fig/multipleChoice.png>])
+(./theory/methods_motivation.tex
 Overfull \hbox (1.67207pt too wide) in paragraph at lines 7--8
 []\T1/jkp/m/n/10 Achievement - the stu-dent is driven by ex-trin-sic mo-ti-va-t
 ions, to be re-warded 
@@ -2402,7 +2396,7 @@ Overfull \hbox (3.64008pt too wide) in paragraph at lines 11--12
 [] ([]2007[]) pro-vide an overview
  []
 
-<fig/SierraSummary.png, id=1073, 631.35875pt x 347.2975pt>
+<fig/SierraSummary.png, id=1059, 631.35875pt x 347.2975pt>
 File: fig/SierraSummary.png Graphic file (type png)
 
 <use fig/SierraSummary.png>
@@ -2412,13 +2406,19 @@ Package pdftex.def Info: fig/SierraSummary.png used on input line 19.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[9] [10 <./fig/SierraSummary.png>]) (./theory/methods_design_process.tex
+[9]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10 <./fig/SierraSummary.png>]) (./theory/methods_design_process.tex
 Overfull \hbox (7.71858pt too wide) in paragraph at lines 5--6
 \T1/jkp/m/n/10 For ex-am-ple, ag-ile de-vel-op-ment sug-gest how do de-velop so
 ft-ware ef-fi-ciently. When-
  []
 
-[11]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
 Overfull \hbox (1.40999pt too wide) in paragraph at lines 15--16
 \T1/jkp/m/n/10 sur-pris-ing) so-lu-tion or de-sign can be achieved while work-i
 ng in a highly re-stricted
@@ -2430,7 +2430,7 @@ Overfull \hbox (11.58199pt too wide) in paragraph at lines 8--9
 e pro-cess user-centered
  []
 
-<fig/Iteration.png, id=1185, 496.85625pt x 589.20125pt>
+<fig/Iteration.png, id=1171, 496.85625pt x 589.20125pt>
 File: fig/Iteration.png Graphic file (type png)
 
 <use fig/Iteration.png>
@@ -2440,7 +2440,7 @@ Package pdftex.def Info: fig/Iteration.png used on input line 17.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/projectLoop.png, id=1193, 610.28pt x 269.005pt>
+<fig/projectLoop.png, id=1179, 610.28pt x 269.005pt>
 File: fig/projectLoop.png Graphic file (type png)
  <use fig/projectLoop.png>
 Package pdftex.def Info: fig/projectLoop.png used on input line 40.
@@ -2461,7 +2461,7 @@ Overfull \hbox (4.02203pt too wide) in paragraph at lines 3--4
 Method-olo-gies (namely
  []
 
-[16 <./fig/projectLoop.png>] [17]) (./theory/app_development.tex)) [18]
+[16 <./fig/projectLoop.png>] [17]) (./theory/app_development.tex [18]))
 [19]
 \openout2 = `methods/methods.aux'.
 
@@ -2488,7 +2488,7 @@ na-tional. \T1/jkp/b/n/10 Young-Drive
  []
 
 ) [24] (./methods/subjects_context.tex
-<fig/ydStatistics.png, id=1318, 1102.1175pt x 107.40125pt>
+<fig/ydStatistics.png, id=1304, 1102.1175pt x 107.40125pt>
 File: fig/ydStatistics.png Graphic file (type png)
 
 <use fig/ydStatistics.png>
@@ -2498,26 +2498,26 @@ Package pdftex.def Info: fig/ydStatistics.png used on input line 13.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/stayover.jpg, id=1320, 1284.8pt x 722.7pt>
+[25] <fig/stayover.jpg, id=1312, 1284.8pt x 722.7pt>
 File: fig/stayover.jpg Graphic file (type jpg)
  <use fig/stayover.jpg>
 Package pdftex.def Info: fig/stayover.jpg used on input line 22.
 (pdftex.def)             Requested size: 248.96051pt x 140.03821pt.
- [25]
+
 [26 <./fig/ydStatistics.png> <./fig/stayover.jpg>])
 (./methods/study_design_data_collection.tex
 (./methods/study-design/implementation_design_process.tex [27]
 
 LaTeX Warning: Reference `studydesign' on page 28 undefined on input line 20.
 
-<fig/iterativeprocess3.png, id=1345, 1186.4325pt x 517.935pt>
+<fig/iterativeprocess3.png, id=1330, 1186.4325pt x 517.935pt>
 File: fig/iterativeprocess3.png Graphic file (type png)
 
 <use fig/iterativeprocess3.png>
 Package pdftex.def Info: fig/iterativeprocess3.png used on input line 24.
 (pdftex.def)             Requested size: 355.65944pt x 155.26314pt.
 
-<fig/study-design.png, id=1348, 945.5325pt x 551.05875pt>
+<fig/study-design.png, id=1333, 945.5325pt x 551.05875pt>
 File: fig/study-design.png Graphic file (type png)
 
 <use fig/study-design.png>
@@ -2527,7 +2527,7 @@ Package pdftex.def Info: fig/study-design.png used on input line 31.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/emSkype.png, id=1350, 1927.2pt x 1204.5pt>
+<fig/emSkype.png, id=1335, 1927.2pt x 1204.5pt>
 File: fig/emSkype.png Graphic file (type png)
  <use fig/emSkype.png>
 Package pdftex.def Info: fig/emSkype.png used on input line 40.
@@ -2536,11 +2536,9 @@ Package pdftex.def Info: fig/emSkype.png used on input line 40.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (./methods/study-design/iteration_1.tex
-Underfull \vbox (badness 2401) has occurred while \output is active []
-
- [28 <./fig/iterativeprocess3.png>] [29 <./fig/study-design.png>]
-<fig/youthsessionSmall.jpg, id=1371, 803.0pt x 342.27875pt>
+) (./methods/study-design/iteration_1.tex [28 <./fig/iterativeprocess3.png>]
+[29 <./fig/study-design.png>]
+<fig/youthsessionSmall.jpg, id=1357, 803.0pt x 342.27875pt>
 File: fig/youthsessionSmall.jpg Graphic file (type jpg)
 
 <use fig/youthsessionSmall.jpg>
@@ -2550,7 +2548,7 @@ Package pdftex.def Info: fig/youthsessionSmall.jpg used on input line 20.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/cjmWorkshop.jpg, id=1373, 1284.8pt x 722.7pt>
+<fig/cjmWorkshop.jpg, id=1359, 1284.8pt x 722.7pt>
 File: fig/cjmWorkshop.jpg Graphic file (type jpg)
  <use fig/cjmWorkshop.jpg>
 Package pdftex.def Info: fig/cjmWorkshop.jpg used on input line 30.
@@ -2561,7 +2559,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 ) (./methods/study-design/iteration_2.tex [30 <./fig/emSkype.png>] [31 <./fig/y
 outhsessionSmall.jpg> <./fig/cjmWorkshop.jpg>]
-<fig/zambiaCreation.jpg, id=1389, 803.0pt x 602.25pt>
+<fig/zambiaCreation.jpg, id=1375, 803.0pt x 602.25pt>
 File: fig/zambiaCreation.jpg Graphic file (type jpg)
 
 <use fig/zambiaCreation.jpg>
@@ -2579,7 +2577,7 @@ he ex-ist-ing app through-
 
 [32] [33 <./fig/zambiaCreation.jpg>]) (./methods/study-design/iteration_3.tex
 [34]) (./methods/study-design/iteration_4.tex [35]
-<fig/appevaluation.jpg, id=1430, 2601.72pt x 1943.26pt>
+<fig/appevaluation.jpg, id=1415, 2601.72pt x 1943.26pt>
 File: fig/appevaluation.jpg Graphic file (type jpg)
 
 <use fig/appevaluation.jpg>
@@ -2594,31 +2592,31 @@ LaTeX Warning: Reference `studydesign' on page 36 undefined on input line 1.
 Underfull \vbox (badness 1917) has occurred while \output is active []
 
  [37]
-<fig/analysis/cjmExample.png, id=1459, 1009.7725pt x 737.75626pt>
+<fig/analysis/cjmExample.png, id=1445, 1009.7725pt x 737.75626pt>
 File: fig/analysis/cjmExample.png Graphic file (type png)
 
 <use fig/analysis/cjmExample.png>
-Package pdftex.def Info: fig/analysis/cjmExample.png used on input line 17.
+Package pdftex.def Info: fig/analysis/cjmExample.png used on input line 19.
 (pdftex.def)             Requested size: 248.96051pt x 181.89447pt.
  [38 <./fig/analysis/cjmExample.png>] [39]
-Overfull \hbox (2.47188pt too wide) in paragraph at lines 42--43
+Overfull \hbox (2.47188pt too wide) in paragraph at lines 44--45
 \T1/jkp/m/n/10 Below, meth-ods for analysing col-lected quiz re-sults and pre-t
 est data in the project
  []
 
-<fig/analysis/terre.png, id=1487, 537.50812pt x 248.42813pt>
+<fig/analysis/terre.png, id=1472, 537.50812pt x 248.42813pt>
 File: fig/analysis/terre.png Graphic file (type png)
 
 <use fig/analysis/terre.png>
-Package pdftex.def Info: fig/analysis/terre.png used on input line 48.
+Package pdftex.def Info: fig/analysis/terre.png used on input line 50.
 (pdftex.def)             Requested size: 248.96051pt x 115.06679pt.
 
-<fig/analysis/rStatisticalAnalysis.png, id=1492, 331.2375pt x 331.2375pt>
+<fig/analysis/rStatisticalAnalysis.png, id=1477, 331.2375pt x 331.2375pt>
 File: fig/analysis/rStatisticalAnalysis.png Graphic file (type png)
 
 <use fig/analysis/rStatisticalAnalysis.png>
 Package pdftex.def Info: fig/analysis/rStatisticalAnalysis.png used on input li
-ne 82.
+ne 84.
 (pdftex.def)             Requested size: 160.04565pt x 160.04347pt.
 
 
@@ -2637,7 +2635,7 @@ Overfull \hbox (15.96997pt too wide) in paragraph at lines 13--14
 ng at the paper-submitted
  []
 
-<fig/analysis/resultsColored.png, id=1511, 1927.2pt x 922.44624pt>
+<fig/analysis/resultsColored.png, id=1497, 1927.2pt x 922.44624pt>
 File: fig/analysis/resultsColored.png Graphic file (type png)
 
 <use fig/analysis/resultsColored.png>
@@ -2651,24 +2649,15 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [42
 
 ] [43 <./fig/analysis/resultsColored.png>]
-<fig/analysis/sheets/0Overview.png, id=1528, 1892.06876pt x 321.2pt>
+<fig/analysis/sheets/0Overview.png, id=1514, 1892.06876pt x 321.2pt>
 File: fig/analysis/sheets/0Overview.png Graphic file (type png)
 
 <use fig/analysis/sheets/0Overview.png>
 Package pdftex.def Info: fig/analysis/sheets/0Overview.png used on input line 6
 7.
 (pdftex.def)             Requested size: 355.65944pt x 60.37679pt.
-
-
-LaTeX Warning: Reference `cha:appendix4' on page 44 undefined on input line 68.
-
-
-
-LaTeX Warning: Reference `cha:appendix4' on page 44 undefined on input line 68.
-
-
-[44 <./fig/analysis/sheets/0Overview.png>]
-<fig/analysis/parallellCoordinates3.png, id=1543, 923.45pt x 1836.8625pt>
+ [44 <./fig/analysis/sheets/0Overview.png>] <fig/analysis/parallellCoordinates3
+.png, id=1529, 923.45pt x 1836.8625pt>
 File: fig/analysis/parallellCoordinates3.png Graphic file (type png)
 
 <use fig/analysis/parallellCoordinates3.png>
@@ -2690,7 +2679,7 @@ is/parallellCoordinates3.png>]
  (./result/result.tex
 Chapter 4.
 (./result/application.tex
-<fig/IterationMapLowRes.png, id=1582, 4622.26875pt x 8662.3625pt>
+<fig/IterationMapLowRes.png, id=1568, 4622.26875pt x 8662.3625pt>
 File: fig/IterationMapLowRes.png Graphic file (type png)
 
 <use fig/IterationMapLowRes.png>
@@ -2711,7 +2700,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 ])
 (./result/iteration1/iteration_1_opinions.tex
-<fig/iteration1/stakeholderInterview.jpg, id=1611, 1284.8pt x 722.7pt>
+<fig/iteration1/stakeholderInterview.jpg, id=1596, 1284.8pt x 722.7pt>
 File: fig/iteration1/stakeholderInterview.jpg Graphic file (type jpg)
 
 <use fig/iteration1/stakeholderInterview.jpg>
@@ -2723,7 +2712,7 @@ line 10.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [52] [53 <./fig/iteration1/stakeholderInterview.jpg>]
-<fig/iteration1/youthSession.jpg, id=1626, 1284.8pt x 722.7pt>
+<fig/iteration1/youthSession.jpg, id=1612, 1284.8pt x 722.7pt>
 File: fig/iteration1/youthSession.jpg Graphic file (type jpg)
 
 <use fig/iteration1/youthSession.jpg>
@@ -2732,7 +2721,7 @@ Package pdftex.def Info: fig/iteration1/youthSession.jpg used on input line 52.
 (pdftex.def)             Requested size: 284.52863pt x 160.0421pt.
 )
 (./result/iteration1/iteration_1_data.tex [54 <./fig/iteration1/youthSession.jp
-g>] <fig/quizoid.png, id=1636, 453.695pt x 736.7525pt>
+g>] <fig/quizoid.png, id=1622, 453.695pt x 736.7525pt>
 File: fig/quizoid.png Graphic file (type png)
  <use fig/quizoid.png>
 Package pdftex.def Info: fig/quizoid.png used on input line 29.
@@ -2741,7 +2730,7 @@ Package pdftex.def Info: fig/quizoid.png used on input line 29.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/duolingo.png, id=1641, 1445.4pt x 903.375pt>
+<fig/duolingo.png, id=1627, 1445.4pt x 903.375pt>
 File: fig/duolingo.png Graphic file (type png)
  <use fig/duolingo.png>
 Package pdftex.def Info: fig/duolingo.png used on input line 36.
@@ -2750,7 +2739,7 @@ Package pdftex.def Info: fig/duolingo.png used on input line 36.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/iteration1/smartphoneTest.jpg, id=1646, 1284.8pt x 722.7pt>
+<fig/iteration1/smartphoneTest.jpg, id=1632, 1284.8pt x 722.7pt>
 File: fig/iteration1/smartphoneTest.jpg Graphic file (type jpg)
 
 <use fig/iteration1/smartphoneTest.jpg>
@@ -2777,7 +2766,7 @@ teach an en-trepreneur-
 [58
 
 ]) (./result/iteration2/iteration_2_opinions.tex
-<fig/workshops/zambia1A2.jpg, id=1678, 2677.00125pt x 2295.57625pt>
+<fig/workshops/zambia1A2.jpg, id=1663, 2677.00125pt x 2295.57625pt>
 File: fig/workshops/zambia1A2.jpg Graphic file (type jpg)
 
 <use fig/workshops/zambia1A2.jpg>
@@ -2787,7 +2776,7 @@ Package pdftex.def Info: fig/workshops/zambia1A2.jpg used on input line 11.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/workshops/zambia1B2.jpg, id=1679, 3981.87625pt x 1184.425pt>
+<fig/workshops/zambia1B2.jpg, id=1664, 3981.87625pt x 1184.425pt>
 File: fig/workshops/zambia1B2.jpg Graphic file (type jpg)
 
 <use fig/workshops/zambia1B2.jpg>
@@ -2797,7 +2786,7 @@ Package pdftex.def Info: fig/workshops/zambia1B2.jpg used on input line 18.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/workshops/zambia1C0.jpg, id=1680, 4047.12pt x 3035.34pt>
+<fig/workshops/zambia1C0.jpg, id=1665, 4047.12pt x 3035.34pt>
 File: fig/workshops/zambia1C0.jpg Graphic file (type jpg)
 
 <use fig/workshops/zambia1C0.jpg>
@@ -2807,7 +2796,7 @@ Package pdftex.def Info: fig/workshops/zambia1C0.jpg used on input line 25.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<fig/workshops/zambia1C1.jpg, id=1681, 4047.12pt x 3035.34pt>
+<fig/workshops/zambia1C1.jpg, id=1666, 4047.12pt x 3035.34pt>
 File: fig/workshops/zambia1C1.jpg Graphic file (type jpg)
 
 <use fig/workshops/zambia1C1.jpg>
@@ -2817,7 +2806,7 @@ Package pdftex.def Info: fig/workshops/zambia1C1.jpg used on input line 32.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[59] <fig/zambiaWorkshop2small.jpg, id=1694, 803.0pt x 489.83pt>
+[59] <fig/zambiaWorkshop2small.jpg, id=1679, 803.0pt x 489.83pt>
 File: fig/zambiaWorkshop2small.jpg Graphic file (type jpg)
 
 <use fig/zambiaWorkshop2small.jpg>
@@ -2831,7 +2820,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 Underfull \vbox (badness 1448) has occurred while \output is active []
 
  [60 <./fig/workshops/zambia1A2.jpg>]
-<fig/analysis/sheets/zambiaResults.png, id=1703, 265.99374pt x 755.82375pt>
+<fig/analysis/sheets/zambiaResults.png, id=1689, 265.99374pt x 755.82375pt>
 File: fig/analysis/sheets/zambiaResults.png Graphic file (type png)
 
 <use fig/analysis/sheets/zambiaResults.png>
@@ -2845,14 +2834,16 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [61 <./fig/workshops/zambia1B2.jpg>] [62 <./fig/workshops/zambia1C0.jpg> <./fig
 /workshops/zambia1C1.jpg>] [63 <./fig/zambiaWorkshop2small.jpg>] [64 <./fig/ana
 lysis/sheets/zambiaResults.png>]
-<fig/analysis/sheets/zambiaSummary.png, id=1726, 1563.8425pt x 281.05pt>
+<fig/analysis/sheets/zambiaSummary.png, id=1711, 1563.8425pt x 281.05pt>
 File: fig/analysis/sheets/zambiaSummary.png Graphic file (type png)
 
 <use fig/analysis/sheets/zambiaSummary.png>
 Package pdftex.def Info: fig/analysis/sheets/zambiaSummary.png used on input li
 ne 32.
 (pdftex.def)             Requested size: 355.65944pt x 63.91537pt.
+ [65
 
+ <./fig/analysis/sheets/zambiaSummary.png>]
 ! Undefined control sequence.
 l.45     \subsubsubsection
                           {Motivation}
@@ -2862,9 +2853,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[65
-
- <./fig/analysis/sheets/zambiaSummary.png>] [66]
+[66]
 ! Undefined control sequence.
 l.72     \subsubsubsection
                           {Learning}
@@ -2878,16 +2867,21 @@ and I'll forget about whatever was undefined.
 LaTeX Warning: Reference `zambiaSummary' on page 67 undefined on input line 73.
 
 
-[67]) (./result/iteration2/iteration_2_bloom.tex)
-(./result/iteration2/iteration_2_together.tex
+[67]
 ! Undefined control sequence.
-l.13 \subsubsubsection
-                      {Validating the coaches' level of knowledge}
+l.85 \subsubsubsection
+                      {Educational Objectives}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
+
+) (./result/iteration2/iteration_2_together.tex
+Overfull \hbox (2.06404pt too wide) in paragraph at lines 91--1
+\T1/jkp/m/n/10 omy, done in part-ner-ship with the su-per-vi-sors from Linköpin
+g Uni-ver-sity, showed
+ []
 
 [68]
 
@@ -2895,673 +2889,21 @@ LaTeX Warning: Reference `nicol' on page 69 undefined on input line 18.
 
 [69] [70]) (./result/iteration3/iteration_3_opinions.tex [71])
 (./result/iteration3/iteration_3_data.tex [72]
-<fig/analysis/iteration3data.png, id=1780, 553.06625pt x 678.535pt>
+<fig/analysis/iteration3data.png, id=1767, 553.06625pt x 678.535pt>
 File: fig/analysis/iteration3data.png Graphic file (type png)
 
 <use fig/analysis/iteration3data.png>
 Package pdftex.def Info: fig/analysis/iteration3data.png used on input line 16.
 
 (pdftex.def)             Requested size: 284.52863pt x 349.07152pt.
- [73 <./fig/analysis/iteration3data.png>]
-<fig/iteration3/appTestTablet.jpg, id=1786, 3035.34pt x 4047.12pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<fig/iteration3/appTestTablet.jpg, id=1768, 3035.34pt x 4047.12pt>
 File: fig/iteration3/appTestTablet.jpg Graphic file (type jpg)
 
 <use fig/iteration3/appTestTablet.jpg>
 Package pdftex.def Info: fig/iteration3/appTestTablet.jpg used on input line 25
 .
-(pdftex.def)             Requested size: 142.2616pt x 189.64653pt.
-
-<fig/iteration3/appTestComputer.jpg, id=1787, 4047.12pt x 3035.34pt>
-File: fig/iteration3/appTestComputer.jpg Graphic file (type jpg)
-
-<use fig/iteration3/appTestComputer.jpg>
-Package pdftex.def Info: fig/iteration3/appTestComputer.jpg used on input line 
-32.
-(pdftex.def)             Requested size: 284.52863pt x 213.3755pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[74 <./fig/iteration3/appTestTablet.jpg>] [75 <./fig/iteration3/appTestComputer
-.jpg>]) (./result/iteration3/iteration_3_workshops.tex [76
-
-] [77]
-<fig/analysis/sheets/iteration2tororo_smalltest_compressed.png, id=1821, 294.09
-875pt x 408.52625pt>
-File: fig/analysis/sheets/iteration2tororo_smalltest_compressed.png Graphic fil
-e (type png)
-
-<use fig/analysis/sheets/iteration2tororo_smalltest_compressed.png>
-Package pdftex.def Info: fig/analysis/sheets/iteration2tororo_smalltest_compres
-sed.png used on input line 56.
-(pdftex.def)             Requested size: 177.82971pt x 247.01889pt.
- [78 <./fig/analysis/sheets/iteration2tororo_smalltest_compressed.png>])
-(./result/iteration3/iteration_3_together.tex [79
-
-] [80])
-Overfull \hbox (3.7486pt too wide) in paragraph at lines 48--49
-\T1/jkp/m/n/10 shown to-gether with con-clu-sions. In these ac-tiv-i-ties, ther
-e were 25 coaches present
- []
-
-(./result/iteration4/iteration_4_data.tex
-Overfull \hbox (1.50398pt too wide) in paragraph at lines 14--15
-\T1/jkp/m/n/10 For the first time, au-to-matic data col-lec-tion was used, whic
-h in-creased the amount
- []
-
-
-LaTeX Warning: Reference `cha:appendix4' on page 81 undefined on input line 17.
-
-
-[81]
-File: fig/analysis/sheets/0Overview.png Graphic file (type png)
- <use fig/analysis/sheets/0Overview.png>
-Package pdftex.def Info: fig/analysis/sheets/0Overview.png used on input line 2
-1.
-(pdftex.def)             Requested size: 355.65944pt x 60.37679pt.
-
-<fig/analysis/sheets/1Pre-data.png, id=1853, 1120.185pt x 642.4pt>
-File: fig/analysis/sheets/1Pre-data.png Graphic file (type png)
-
-<use fig/analysis/sheets/1Pre-data.png>
-Package pdftex.def Info: fig/analysis/sheets/1Pre-data.png used on input line 2
-8.
-(pdftex.def)             Requested size: 355.65944pt x 203.96463pt.
-
-<fig/analysis/sheets/2Quiz3.png, id=1854, 882.29625pt x 640.3925pt>
-File: fig/analysis/sheets/2Quiz3.png Graphic file (type png)
-
-<use fig/analysis/sheets/2Quiz3.png>
-Package pdftex.def Info: fig/analysis/sheets/2Quiz3.png used on input line 35.
-(pdftex.def)             Requested size: 355.65944pt x 258.14586pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<fig/analysis/sheets/3Quiz9A.png, id=1855, 719.68875pt x 640.3925pt>
-File: fig/analysis/sheets/3Quiz9A.png Graphic file (type png)
-
-<use fig/analysis/sheets/3Quiz9A.png>
-Package pdftex.def Info: fig/analysis/sheets/3Quiz9A.png used on input line 42.
-
-(pdftex.def)             Requested size: 355.65944pt x 316.48225pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<fig/analysis/sheets/3Quiz9B.png, id=1856, 1280.785pt x 639.38875pt>
-File: fig/analysis/sheets/3Quiz9B.png Graphic file (type png)
-
-<use fig/analysis/sheets/3Quiz9B.png>
-Package pdftex.def Info: fig/analysis/sheets/3Quiz9B.png used on input line 49.
-
-(pdftex.def)             Requested size: 355.65944pt x 177.54466pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<fig/analysis/sheets/4Pretest.png, id=1857, 822.07124pt x 661.47125pt>
-File: fig/analysis/sheets/4Pretest.png Graphic file (type png)
-
-<use fig/analysis/sheets/4Pretest.png>
-Package pdftex.def Info: fig/analysis/sheets/4Pretest.png used on input line 56
-.
-(pdftex.def)             Requested size: 355.65944pt x 286.17322pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[82 <./fig/analysis/sheets/1Pre-data.png>] [83 <./fig/analysis/sheets/2Quiz3.pn
-g>] [84 <./fig/analysis/sheets/3Quiz9A.png>] [85 <./fig/analysis/sheets/3Quiz9B
-.png>] [86 <./fig/analysis/sheets/4Pretest.png>]
-Overfull \hbox (0.52995pt too wide) in paragraph at lines 71--72
-[]\T1/jkp/m/n/10 First-hand in-sights be-fore the par-al-lel co-or-di-nates wer
-e that there was a strong
- []
-
-! Undefined control sequence.
-l.75 \subsubsubsection
-                      {Bonus Result: Learnings from Observing All of the Qui...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[87
-
-]
-File: fig/analysis/parallellCoordinates3.png Graphic file (type png)
- <use fig/analysis/parallellCoordinates3.png>
-Package pdftex.def Info: fig/analysis/parallellCoordinates3.png used on input l
-ine 87.
-(pdftex.def)             Requested size: 248.96051pt x 495.20274pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[88] [89]
-<fig/analysis/paralellCoordinatesWomen.png, id=1916, 1204.5pt x 404.51125pt>
-File: fig/analysis/paralellCoordinatesWomen.png Graphic file (type png)
-
-<use fig/analysis/paralellCoordinatesWomen.png>
-Package pdftex.def Info: fig/analysis/paralellCoordinatesWomen.png used on inpu
-t line 121.
-(pdftex.def)             Requested size: 355.65944pt x 119.44087pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) [90
-
-] (./result/iteration4/iteration_4_opinions.tex
-<fig/analysis/interviews/overview_notexpanded.png, id=1927, 544.0325pt x 148.55
-5pt>
-File: fig/analysis/interviews/overview_notexpanded.png Graphic file (type png)
- <use fig/analysis/interviews/overview_notexpanded.png>
-Package pdftex.def Info: fig/analysis/interviews/overview_notexpanded.png used 
-on input line 7.
-(pdftex.def)             Requested size: 106.69891pt x 29.1347pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-<fig/analysis/interviews/interactiondesign_notexpanded.png, id=1928, 373.395pt 
-x 155.58125pt>
-File: fig/analysis/interviews/interactiondesign_notexpanded.png Graphic file (t
-ype png)
- <use fig/analysis/interviews/interactiondesign_notexpanded.png>
-Package pdftex.def Info: fig/analysis/interviews/interactiondesign_notexpanded.
-png used on input line 14.
-(pdftex.def)             Requested size: 106.69891pt x 44.45743pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-<fig/analysis/interviews/learning_notexpanded.png, id=1929, 319.1925pt x 84.315
-pt>
-File: fig/analysis/interviews/learning_notexpanded.png Graphic file (type png)
- <use fig/analysis/interviews/learning_notexpanded.png>
-Package pdftex.def Info: fig/analysis/interviews/learning_notexpanded.png used 
-on input line 23.
-(pdftex.def)             Requested size: 106.69891pt x 28.18425pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-<fig/analysis/interviews/servicedesign_notexpanded.png, id=1930, 521.95pt x 79.
-29625pt>
-File: fig/analysis/interviews/servicedesign_notexpanded.png Graphic file (type 
-png)
- <use fig/analysis/interviews/servicedesign_notexpanded.png>
-Package pdftex.def Info: fig/analysis/interviews/servicedesign_notexpanded.png 
-used on input line 30.
-(pdftex.def)             Requested size: 106.69891pt x 16.20984pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[91 <./fig/analysis/paralellCoordinatesWomen.png>] [92 <./fig/analysis/intervie
-ws/overview_notexpanded.png> <./fig/analysis/interviews/interactiondesign_notex
-panded.png> <./fig/analysis/interviews/learning_notexpanded.png> <./fig/analysi
-s/interviews/servicedesign_notexpanded.png>]
-<fig/analysis/interviews/learning_correct.png, id=1951, 772.8875pt x 299.1175pt
->
-File: fig/analysis/interviews/learning_correct.png Graphic file (type png)
- <use fig/analysis/interviews/learning_correct.png>
-Package pdftex.def Info: fig/analysis/interviews/learning_correct.png used on i
-nput line 43.
-(pdftex.def)             Requested size: 355.65944pt x 137.64592pt.
-
-<fig/analysis/interviews/learning_incorrect.png, id=1952, 1168.365pt x 399.4925
-pt>
-File: fig/analysis/interviews/learning_incorrect.png Graphic file (type png)
- <use fig/analysis/interviews/learning_incorrect.png>
-Package pdftex.def Info: fig/analysis/interviews/learning_incorrect.png used on
- input line 50.
-(pdftex.def)             Requested size: 355.65944pt x 121.61034pt.
- [93
-
- <./fig/analysis/interviews/learning_correct.png> <./fig/analysis/interviews/le
-arning_incorrect.png>]
-<fig/analysis/interviews/interactiondesign_pleasurability.png, id=1966, 1211.52
-625pt x 348.30125pt>
-File: fig/analysis/interviews/interactiondesign_pleasurability.png Graphic file
- (type png)
-
-<use fig/analysis/interviews/interactiondesign_pleasurability.png>
-Package pdftex.def Info: fig/analysis/interviews/interactiondesign_pleasurabili
-ty.png used on input line 63.
-(pdftex.def)             Requested size: 355.65944pt x 102.2484pt.
-
-<fig/analysis/interviews/interactiondesign_usability.png, id=1967, 562.1pt x 19
-9.74625pt>
-File: fig/analysis/interviews/interactiondesign_usability.png Graphic file (typ
-e png)
- <use fig/analysis/interviews/interactiondesign_usability.png>
-Package pdftex.def Info: fig/analysis/interviews/interactiondesign_usability.pn
-g used on input line 72.
-(pdftex.def)             Requested size: 355.65944pt x 126.38637pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-<fig/analysis/interviews/interactiondesign_utility.png, id=1968, 749.80125pt x 
-241.90375pt>
-File: fig/analysis/interviews/interactiondesign_utility.png Graphic file (type 
-png)
- <use fig/analysis/interviews/interactiondesign_utility.png>
-Package pdftex.def Info: fig/analysis/interviews/interactiondesign_utility.png 
-used on input line 79.
-(pdftex.def)             Requested size: 355.65944pt x 114.74675pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[94
-
- <./fig/analysis/interviews/interactiondesign_pleasurability.png>] [95 <./fig/a
-nalysis/interviews/interactiondesign_usability.png> <./fig/analysis/interviews/
-interactiondesign_utility.png>]
-<fig/analysis/interviews/servicedesign_when.png, id=1986, 588.1975pt x 337.26pt
->
-File: fig/analysis/interviews/servicedesign_when.png Graphic file (type png)
- <use fig/analysis/interviews/servicedesign_when.png>
-Package pdftex.def Info: fig/analysis/interviews/servicedesign_when.png used on
- input line 92.
-(pdftex.def)             Requested size: 355.65944pt x 203.92714pt.
-
-<fig/analysis/interviews/servicedesign_cant.png, id=1987, 688.5725pt x 278.0387
-6pt>
-File: fig/analysis/interviews/servicedesign_cant.png Graphic file (type png)
- <use fig/analysis/interviews/servicedesign_cant.png>
-Package pdftex.def Info: fig/analysis/interviews/servicedesign_cant.png used on
- input line 99.
-(pdftex.def)             Requested size: 355.65944pt x 143.60944pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[96
-
- <./fig/analysis/interviews/servicedesign_when.png>] [97 <./fig/analysis/interv
-iews/servicedesign_cant.png>]))
-\openout2 = `discussion/discussion.aux'.
-
- (./discussion/discussion.tex [98
-
-
-
-
-]
-Chapter 5.
-(./discussion/1_dev_by_tech_limitations.tex [99] [100])
-(./discussion/2_situation_affects_design.tex [101]
-Overfull \hbox (4.31396pt too wide) in paragraph at lines 18--19
-\T1/jkp/m/n/10 per-i-ments, and do-ing con-stant im-prove-ments, to make in-cre
-as-ingly well-informed
- []
-
-[102]
-Overfull \hbox (6.10995pt too wide) in paragraph at lines 34--35
-[]\T1/jkp/m/n/10 continually de-sign and run work-shops and tests suit-able for
- the tar-get groups 
- []
-
-[103] [104]) (./discussion/3_test_questions.tex
-Overfull \hbox (6.58008pt too wide) in paragraph at lines 9--10
-[]\T1/jkp/m/n/10 Previous re-search by for ex-am-ple [][]Nicol[] ([]2007[]) had
- al-ready shown how multiple-
- []
-
-[105] [106]) (./discussion/4_how_design_affects_usability_learning.tex [107]
-[108] [109]) (./discussion/5_user_feedback.tex
-
-LaTeX Warning: Reference `stickdorn' on page 110 undefined on input line 11.
-
-[110])) [111]
-\openout2 = `conclusion/conclusion.aux'.
-
- (./conclusion/conclusion.tex [112
-
-
-
-]
-Chapter 6.
-[113]
-Overfull \hbox (20.2119pt too wide) in paragraph at lines 36--37
-\T1/jkp/m/n/10 To in-ves-ti-gate us-abil-ity, ob-ser-va-tions us-ing think-alou
-d in the real-world en-trepreneur-
- []
-
-[114]
-Overfull \hbox (1.97202pt too wide) in paragraph at lines 40--41
-[]\T1/jkp/m/n/10 Surprisingly of-ten, com-par-ing re-search and ex-pert opin-io
-ns with what coaches
- []
-
-
-Overfull \hbox (13.50055pt too wide) in paragraph at lines 40--41
-\T1/jkp/m/n/10 thought was best for learn-ing, was in uni-son. When this hap-pe
-ns, the self-confidence
- []
-
-(./discussion/future_work.tex
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 20.98103pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[115] [116
-
-]
-Chapter 7.
-(./discussion/future_work_1.tex
-<fig/analysis/unprocessedData.png, id=2185, 1778.645pt x 939.51pt>
-File: fig/analysis/unprocessedData.png Graphic file (type png)
-
-<use fig/analysis/unprocessedData.png>
-Package pdftex.def Info: fig/analysis/unprocessedData.png used on input line 10
-.
-(pdftex.def)             Requested size: 284.52863pt x 150.28166pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[117] [118 <./fig/analysis/unprocessedData.png>])
-(./discussion/future_work_2.tex
-Overfull \hbox (1.84996pt too wide) in paragraph at lines 3--4
-\T1/jkp/m/n/10 There were many things to con-sider when de-sign-ing for the con
--tex-tual con-straints.
- []
-
-[119] [120]) (./discussion/future_work_3.tex [121] [122])
-(./discussion/future_work_4.tex [123] [124] [125]
-<fig/biteSize.jpg, id=2248, 3914.625pt x 1947.275pt>
-File: fig/biteSize.jpg Graphic file (type jpg)
- <use fig/biteSize.jpg>
-Package pdftex.def Info: fig/biteSize.jpg used on input line 46.
-(pdftex.def)             Requested size: 284.52863pt x 141.52295pt.
-)
-(./discussion/future_work_5.tex [126 <./fig/biteSize.jpg>]))) [127] (./main.bbl
-(./main.brf)
-\tf@brf=\write7
-\openout7 = `main.brf'.
-
- [128
-
-
-] [129]
-Underfull \hbox (badness 2717) in paragraph at lines 146--146
-[]\T1/jkp/m/n/10 C. Dweck.  The power of be-liev-ing that you can im-prove.  []
-$\T1/pcr/m/n/10 https :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
-\T1/pcr/m/n/10 / / www . ted . com / talks / carol _ dweck _ the _ power _ of _
- believing _
- []
-
-[130]
-Underfull \hbox (badness 10000) in paragraph at lines 184--184
-\T1/pcr/m/n/10 wp-[]content / uploads / 2015 / 09 / RevisedBloomsHandout-[]1 . 
-pdf$[]\T1/jkp/m/n/10 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
-[]\T1/jkp/m/n/10 H. Lopez.  Par-al-lel co-or-di-nates: Read out pat-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 232--232
-\T1/jkp/m/n/10 terns.  []$\T1/pcr/m/n/10 http : / / une-[]terre . blogspot . se
- / 2012 / 09 /
- []
-
-[131]
-Underfull \hbox (badness 7362) in paragraph at lines 291--291
-[]\T1/jkp/m/n/10 S. Nis-sar.  So-cial in-no-va-tion and en-trepreneur-ship in u
-ganda. why
- []
-
-
-Underfull \hbox (badness 4217) in paragraph at lines 291--291
-\T1/jkp/m/n/10 mo-bile ser-vices are grow-ing fast in the area.  []$\T1/pcr/m/n
-/10 http : / / bit . ly /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 363--363
-\T1/pcr/m/n/10 detail / magic-[]json / cajifcebjiflndefndbnoeenjpiiiagm ? hl =
- []
-
-[132]) (./main_outro.tex [133] [134
-
-]
-LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 23.63593pt on input line 1.
- [135] [136]
-\openout2 = `appendix/app_images.aux'.
-
- (./appendix/app_images.tex
-Appendix A.
-<fig/app/iteration4/a4.png, id=2346, 2622.79875pt x 4673.46pt>
-File: fig/app/iteration4/a4.png Graphic file (type png)
-
-<use fig/app/iteration4/a4.png>
-Package pdftex.def Info: fig/app/iteration4/a4.png used on input line 7.
-(pdftex.def)             Requested size: 117.36826pt x 209.08434pt.
-
-<fig/app/iteration4/b4.png, id=2347, 2619.7875pt x 4655.3925pt>
-File: fig/app/iteration4/b4.png Graphic file (type png)
-
-<use fig/app/iteration4/b4.png>
-Package pdftex.def Info: fig/app/iteration4/b4.png used on input line 14.
-(pdftex.def)             Requested size: 117.36826pt x 208.56017pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<fig/app/iteration4/c4.png, id=2348, 2619.7875pt x 4655.3925pt>
-File: fig/app/iteration4/c4.png Graphic file (type png)
-
-<use fig/app/iteration4/c4.png>
-Package pdftex.def Info: fig/app/iteration4/c4.png used on input line 21.
-(pdftex.def)             Requested size: 117.36826pt x 208.56017pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<fig/app/iteration4/d4.png, id=2349, 1768.6075pt x 1551.7975pt>
-File: fig/app/iteration4/d4.png Graphic file (type png)
-
-<use fig/app/iteration4/d4.png>
-Package pdftex.def Info: fig/app/iteration4/d4.png used on input line 28.
-(pdftex.def)             Requested size: 177.82971pt x 156.01758pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<fig/app/iteration4/e4.png, id=2350, 2619.7875pt x 4655.3925pt>
-File: fig/app/iteration4/e4.png Graphic file (type png)
-
-<use fig/app/iteration4/e4.png>
-Package pdftex.def Info: fig/app/iteration4/e4.png used on input line 35.
-(pdftex.def)             Requested size: 117.36826pt x 208.56017pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<fig/app/iteration4/f4.png, id=2351, 2622.79875pt x 4655.3925pt>
-File: fig/app/iteration4/f4.png Graphic file (type png)
-
-<use fig/app/iteration4/f4.png>
-Package pdftex.def Info: fig/app/iteration4/f4.png used on input line 42.
-(pdftex.def)             Requested size: 117.36826pt x 208.27602pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<fig/app/iteration4/g4.png, id=2352, 2619.7875pt x 4655.3925pt>
-File: fig/app/iteration4/g4.png Graphic file (type png)
-
-<use fig/app/iteration4/g4.png>
-Package pdftex.def Info: fig/app/iteration4/g4.png used on input line 49.
-(pdftex.def)             Requested size: 117.36826pt x 208.56017pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<fig/app/iteration4/h4.png, id=2353, 5317.8675pt x 4658.40375pt>
-File: fig/app/iteration4/h4.png Graphic file (type png)
-
-<use fig/app/iteration4/h4.png>
-Package pdftex.def Info: fig/app/iteration4/h4.png used on input line 56.
-(pdftex.def)             Requested size: 177.82971pt x 155.7394pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<fig/app/iteration4/i4.png, id=2354, 2622.79875pt x 4655.3925pt>
-File: fig/app/iteration4/i4.png Graphic file (type png)
-
-<use fig/app/iteration4/i4.png>
-Package pdftex.def Info: fig/app/iteration4/i4.png used on input line 63.
-(pdftex.def)             Requested size: 117.36826pt x 208.27602pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) [137
-
-
- <./fig/app/iteration4/a4.png>] [138 <./fig/app/iteration4/b4.png> <./fig/app/i
-teration4/c4.png>] [139 <./fig/app/iteration4/d4.png> <./fig/app/iteration4/e4.
-png>] [140 <./fig/app/iteration4/f4.png> <./fig/app/iteration4/g4.png>]
-[141 <./fig/app/iteration4/h4.png> <./fig/app/iteration4/i4.png>]
-\openout2 = `appendix/pre_test.aux'.
-
-
-(./appendix/pre_test.tex [142
-
-
-
-]
-Appendix B.
-<fig/pretest/pretestA.png, id=2402, 864.22874pt x 1072.005pt>
-File: fig/pretest/pretestA.png Graphic file (type png)
-
-<use fig/pretest/pretestA.png>
-Package pdftex.def Info: fig/pretest/pretestA.png used on input line 7.
-(pdftex.def)             Requested size: 355.65944pt x 441.16064pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<fig/pretest/pretestB.png, id=2407, 865.2325pt x 1080.035pt>
-File: fig/pretest/pretestB.png Graphic file (type png)
-
-<use fig/pretest/pretestB.png>
-Package pdftex.def Info: fig/pretest/pretestB.png used on input line 14.
-(pdftex.def)             Requested size: 355.65944pt x 443.95435pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) [143] [144 <./fig/pretest/pretestA.png>] [145 <./fig/pretest/pretestB.png>]
-\openout2 = `appendix/time_plan.aux'.
-
-
-(./appendix/time_plan.tex [146
-
-
-
-]
-Appendix C.
-(./appendix/original_time_plan.tex [147]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [148]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [149])
-(./methods/data_analysis_theory/iteration_1_4.tex [150])) [151] [152
-
-
-])
-(./main.ind)
-<fig/LinkUniv_sv_vert_col.pdf, id=2458, 259.30878pt x 172.23346pt>
-File: fig/LinkUniv_sv_vert_col.pdf Graphic file (type pdf)
-
-<use fig/LinkUniv_sv_vert_col.pdf>
-Package pdftex.def Info: fig/LinkUniv_sv_vert_col.pdf used on input line 44.
-(pdftex.def)             Requested size: 77.10475pt x 51.21495pt.
-
-Overfull \hbox (0.16193pt too wide) in paragraph at lines 44--44
-\T1/jkp/m/n/10 and its pro-ce-dures for pub-li-ca-tion and for as-sur-ance of d
-oc-u-ment in-tegrity, please
- []
-
-[153
-
- <./fig/LinkUniv_sv_vert_col.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 44.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 44.
- (./main.aux (./thanks/thanks.aux)
-(./introduction/introduction.aux) (./theory/theory.aux) (./methods/methods.aux)
-(./result/result.aux) (./discussion/discussion.aux)
-(./conclusion/conclusion.aux) (./appendix/app_images.aux)
-(./appendix/pre_test.aux) (./appendix/time_plan.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 44.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 44.
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D31BBAEC345DBBE4938D0E0DC4E15141;13799.
-Package rerunfilecheck Info: File `main.brf' has not changed.
-(rerunfilecheck)             Checksum: A48B768E1E4A5636FC0F72EC96CC6BFC;9508.
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 44.
- ) 
-Here is how much of TeX's memory you used:
- 25321 strings out of 493089
- 447170 string characters out of 6134842
- 537629 words of memory out of 5000000
- 27271 multiletter control sequences out of 15000+600000
- 220109 words of font info for 181 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 69i,12n,77p,1381b,606s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
-exlive/2015/texmf-dist/fonts/enc/dvips/kpfonts/kpfonts-expert.enc}</usr/local/t
-exlive/2015/texmf-dist/fonts/type1/public/kpfonts/jkpbn8a.pfb></usr/local/texli
-ve/2015/texmf-dist/fonts/type1/public/kpfonts/jkpbn8a.pfb></usr/local/texlive/2
-015/texmf-dist/fonts/type1/public/kpfonts/jkpmit8a.pfb></usr/local/texlive/2015
-/texmf-dist/fonts/type1/public/kpfonts/jkpmitc.pfb></usr/local/texlive/2015/tex
-mf-dist/fonts/type1/public/kpfonts/jkpmn8a.pfb></usr/local/texlive/2015/texmf-d
-ist/fonts/type1/public/kpfonts/jkpmn8a.pfb></usr/local/texlive/2015/texmf-dist/
-fonts/type1/public/kpfonts/jkpmne.pfb></usr/local/texlive/2015/texmf-dist/fonts
-/type1/public/kpfonts/jkpmne.pfb></usr/local/texlive/2015/texmf-dist/fonts/type
-1/public/kpfonts/jkpmsc8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/p
-ublic/kpfonts/jkpsya.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/co
-urier/ucrr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/courier/uc
-rro8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.p
-fb>
-Output written on main.pdf (169 pages, 48011885 bytes).
-PDF statistics:
- 2636 PDF objects out of 2984 (max. 8388607)
- 2288 compressed objects within 23 object streams
- 556 named destinations out of 1000 (max. 500000)
- 20016 words of extra memory for PDF output out of 20736 (max. 10000000)
-
+(pdftex.
